@@ -1,0 +1,185 @@
+{
+  "listing": {
+    "Employer": "RTE",
+    "Job_Title": "Stage Fiabilité en Gestion des Actifs H/F",
+    "Job_Family": "Other",
+    "Location": "Paris - La Défense",
+    "Country": "France",
+    "Source": "Offre collée par Ihab (source « url », URL non fournie ; mise en page de type job board)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "Unknown",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-28",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "Unknown",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "62",
+    "Priority": "Stretch opportunity",
+    "Eligibility_Status": "Unclear",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Dernière année ingénieur (ENSEIRB-MATMECA) + M2 IREF, exactement le niveau demandé ; Python / pandas / NumPy et analyse de données prouvés en stage (Inside Therapeutics : LabData, 4 123 tests, documentation, piste d'audit = traçabilité et reproductibilité) ; régressions, Monte Carlo, VaR/ES/stress tests (cours et projet 5.1) proches de l'évaluation quantitative des risques ; présentation au CODIR et workshop IA = capacité à produire des supports pédagogiques.",
+    "Essential_Gaps": "Aucune preuve dans les faits vérifiés d'analyse de survie / fiabilité / modèles de durée de vie (censure, troncature), ni de connaissance de la gestion d'actifs industriels (maintenance, renouvellement, END) ou de systèmes industriels.",
+    "Preferred_Gaps": "Outil ReLife et simulateur Cosmo Tech Asset non connus ; évaluation économique (taux d'actualisation, valeur de l'information) non démontrée hors cours de finance.",
+    "Fit_Explanation": "Sujet quantitatif solide (Python, statistiques, décision sous incertitude, QRA) mais hors des familles cibles d'Ihab : « gestion des actifs » désigne ici la maintenance des infrastructures du réseau électrique de RTE, pas la gestion d'actifs financiers. Faible alignement de carrière avec les marchés et l'investissement ; date de début non précisée (« Début 2027 ») et sujet à faire valider par les responsables du parcours FQA. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Analyse d'une offre collée (mode paste), aucune page officielle consultée. Encadrement : Département Gestion des Actifs - R&D. Enquête administrative possible pour l'accès aux sites RTE (articles R1332-22-1 et suivants du Code de la Défense). Avantages cités : 35 h hebdomadaires, indemnités repas, aide au logement et au transport (sous conditions). Salaire non renseigné. Hors familles cibles (ni marché, ni investissement) ; non exclue pour autant (ni régulateur, ni actuariat).",
+    "Score_Breakdown": {
+      "role": {
+        "points": 13,
+        "evidence": "Missions : cas calculés en notebooks Python, optimisation de stratégies de maintenance sous contraintes, QRA, analyse de survie, valeur de l'information. Ihab a de l'analyse de données / régression / documentation reproductible (Inside Therapeutics) et des projets d'optimisation numérique (5.7) et de risque (5.1), mais rien sur la fiabilité ni les infrastructures industrielles."
+      },
+      "tech": {
+        "points": 17,
+        "evidence": "Exigé : « Solides bases en Python et analyse de données », pandas/numpy/matplotlib, Jupyter → preuve professionnelle (SG, Inside Therapeutics). Intérêt pour statistiques et décision sous incertitude → cours M2 (Monte Carlo, calcul stochastique, VaR/ES). Manquent : analyse de survie / modèles de durée de vie, ReLife."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "« Étudiant(e) en dernière année d'école d'ingénieur / M2 (data, modélisation, systèmes industriels) » : Ihab est en dernière année ENSEIRB-MATMECA (Informatique, Data & IA) et en M2 IREF. Seule la dimension « systèmes industriels » manque."
+      },
+      "career": {
+        "points": 2,
+        "evidence": "Gestion d'actifs industriels (réseau électrique), ni marchés de capitaux ni investissement : hors des niveaux Cœur, Passerelle et Secondaire de la grille du 2026-10-14. Proximité uniquement méthodologique (quantification des risques)."
+      },
+      "duration": {
+        "points": 6,
+        "evidence": "« Stage de 6 mois - Début 2027 » : durée conforme, mais mois de début non précisé (compatibilité avec le 1er mars 2027 à confirmer)."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "« Lieu de travail : Paris - La Défense » (Île-de-France) ; offre en français, Ihab français C2."
+      }
+    },
+    "Required_Skills": [
+      "Étudiant(e) en dernière année d'école d'ingénieur / M2 (data, modélisation, systèmes industriels)",
+      "Solides bases en Python et analyse de données",
+      "Goût pour le raisonnement quantitatif",
+      "Rigueur (traçabilité des hypothèses, reproductibilité)",
+      "Capacité à produire des supports pédagogiques (expliquer clairement des résultats calculés)"
+    ],
+    "Preferred_Skills": [
+      "Intérêt pour fiabilité, statistiques, évaluation économique, prise de décision sous incertitude",
+      "Python (Jupyter), pandas / numpy / matplotlib",
+      "ReLife (évaluation quantitative des risques, analyse de survie, comparaison de politiques, projections)"
+    ],
+    "Responsibilities": [
+      "Produire des cas d'école calculés reliant objectifs de performance, critères décisionnels et stratégies de maintenance/renouvellement, et détecter des désalignements",
+      "Calculer une stratégie optimale de référence puis une stratégie sous contraintes (budget, ressources, consignabilité, supply chain) et quantifier l'écart (coût, END/risque résiduel, reports, valeurs implicites)",
+      "Construire un cas sur la sécurité des travailleurs / tiers (événements rares, conséquences graves) et structurer la décision au-delà de l'optimisation en espérance",
+      "Démontrer la valeur de la connaissance : de la matrice de risques PoF/CoF à une QRA robuste, coût des biais de données (censure/troncature) et des mauvais modèles de durée de vie, mesure simple de la valeur de l'information",
+      "Livrer des notebooks Python documentés, une note pédagogique, une présentation pour comité et, en option, une mini boîte à outils de fonctions réutilisables"
+    ],
+    "Languages": [
+      "Unknown"
+    ],
+    "Next_Action": "Offre hors cible : ne candidater que si Ihab veut une option de repli quantitative hors finance. Dans ce cas, retrouver la page officielle RTE, confirmer qu'un début au 1er mars 2027 est possible et vérifier que le sujet serait validé par les responsables du parcours FQA.",
+    "Recommended_CV_Version": "CV maître FR (CV_FR.tex) adapté data / modélisation quantitative : mettre en avant LabData, tests et reproductibilité, régressions, projet Numerical Algorithms & Optimization (5.7)"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {
+      "field": "Job_Title",
+      "value": "Stage Fiabilité en Gestion des Actifs H/F",
+      "quote": "Stage Fiabilité en Gestion des Actifs H/F RTE"
+    },
+    {
+      "field": "Employer",
+      "value": "RTE",
+      "quote": "Stage Fiabilité en Gestion des Actifs H/F RTE"
+    },
+    {
+      "field": "Location",
+      "value": "Paris - La Défense",
+      "quote": "Lieu de travail : Paris - La Défense"
+    },
+    {
+      "field": "Duration_Months",
+      "value": "6",
+      "quote": "Stage de 6 mois - Début 2027"
+    },
+    {
+      "field": "Internship_Start_Date",
+      "value": "Début 2027 (mois non précisé)",
+      "quote": "Stage de 6 mois - Début 2027"
+    },
+    {
+      "field": "Academic level",
+      "value": "Dernière année d'école d'ingénieur ou M2",
+      "quote": "Étudiant(e) en dernière année d'école d'ingénieur / M2 (data, modélisation, systèmes industriels)."
+    },
+    {
+      "field": "Required_Skills",
+      "value": "Python et analyse de données",
+      "quote": "Solides bases en Python et analyse de données ; goût pour le raisonnement quantitatif."
+    },
+    {
+      "field": "Tools",
+      "value": "Python (Jupyter), pandas/numpy/matplotlib, ReLife, données synthétiques Cosmo Tech Asset",
+      "quote": "Python (Jupyter), bibliothèques de data science usuelles (pandas/numpy/matplotlib)."
+    },
+    {
+      "field": "Team",
+      "value": "Département Gestion des Actifs - R&D",
+      "quote": "Encadrement principal : expert asset management / fiabilité / simulation / données (Département Gestion des Actifs - R&D)."
+    },
+    {
+      "field": "Salary",
+      "value": "Unknown",
+      "quote": "Pas de salaire renseigné"
+    },
+    {
+      "field": "Working hours",
+      "value": "35 h hebdomadaires",
+      "quote": "35h hebdomadaires"
+    },
+    {
+      "field": "Security screening",
+      "value": "Enquête administrative possible pour l'accès aux sites RTE",
+      "quote": "une enquête administrative est susceptible d'être réalisée à notre demande par l'autorité administrative"
+    }
+  ],
+  "inferences": [
+    {
+      "field": "Job_Family",
+      "value": "Other",
+      "reasoning": "« Gestion des actifs » désigne ici la maintenance et le renouvellement des infrastructures du réseau électrique (fiabilité, END, consignabilité), pas la gestion d'actifs financiers ; aucune des familles financières de la grille ne correspond."
+    },
+    {
+      "field": "Country",
+      "value": "France",
+      "reasoning": "Lieu « Paris - La Défense » / « Paris - 75 »."
+    },
+    {
+      "field": "Source",
+      "value": "Job board (probablement de type HelloWork), non confirmé",
+      "reasoning": "Le texte contient des éléments d'interface de job board (« Pas de salaire renseigné », « Secteur Energie • Environnement », « Cliquez dessus pour les ajouter rapidement à votre profil ») ; aucune URL n'a été transmise, donc la source exacte reste inconnue."
+    },
+    {
+      "field": "Languages",
+      "value": "Français probablement requis",
+      "reasoning": "L'offre est entièrement rédigée en français et vise des livrables de diffusion interne ; aucune exigence de langue n'est écrite."
+    },
+    {
+      "field": "Eligibility (calendrier IREF)",
+      "value": "À confirmer",
+      "reasoning": "« Début 2027 » peut désigner janvier (incompatible) comme mars (compatible) ; le sujet, centré sur la fiabilité d'infrastructures, devra être validé par les responsables du parcours FQA, ce qui n'est pas acquis pour un stage hors finance."
+    }
+  ],
+  "eligibility": {
+    "status": "Unclear",
+    "reasons": [
+      "Niveau d'études conforme : dernière année d'école d'ingénieur / M2 demandée, Ihab est en dernière année ENSEIRB-MATMECA et en M2 IREF.",
+      "Durée de 6 mois conforme, mais mois de début non précisé (« Début 2027 ») : un début avant le 1er mars 2027 serait incompatible avec la règle IREF (1er mars – 31 août 2027, sans extension).",
+      "Le sujet (fiabilité et gestion d'actifs industriels) doit être validé par les responsables du parcours FQA ; sa recevabilité pour un M2 de finance quantitative est incertaine.",
+      "Enquête administrative possible pour l'accès aux sites RTE : simple information, sans critère précisé."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Offre hors des familles cibles du 2026-10-14 : « gestion des actifs » = maintenance du réseau électrique de RTE, pas gestion d'actifs financiers.",
+    "Aucune URL ni référence fournie : page officielle non consultée, statut Unverified.",
+    "Date de début imprécise (« Début 2027 ») : compatibilité avec le 1er mars 2027 à confirmer avant toute candidature.",
+    "Pas de doublon avec les offres déjà connues (aucune offre RTE dans la liste)."
+  ]
+}
