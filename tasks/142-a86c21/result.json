@@ -1,0 +1,126 @@
+{
+  "language": "FR",
+  "keyword_map": [
+    {"keyword": "Python", "importance": "E", "support": 1, "evidence": "exp_insidetx_2 : plateforme Python/SQL/Streamlit LabData en production ; exp_sg_1 : flux Python, SQL", "location": "Expérience Inside Therapeutics et SG, Compétences", "action": "Garder en tête de la ligne Programmation et dans les puces"},
+    {"keyword": "analyse de données", "importance": "E", "support": 1, "evidence": "exp_insidetx_3 : couche d'analyse (corrélations, régressions, bruit de mesure, alertes d'anomalies) ; exp_sg : Data Analyst", "location": "Profil, Expérience", "action": "Reprendre l'expression exacte dans le profil et la puce LabData"},
+    {"keyword": "raisonnement quantitatif / modélisation", "importance": "E", "support": 1, "evidence": "exp_insidetx_4 : modèle par processus gaussien sur plan d'expériences ; edu_m2 : Mathématiques appliquées, statistique", "location": "Profil, Expérience, Formation", "action": "Mettre « modélisation » dans l'accroche et le profil"},
+    {"keyword": "Rigueur : traçabilité des hypothèses, reproductibilité", "importance": "E", "support": 1, "evidence": "exp_insidetx_1 : validation indépendante des calculs, réconciliation, piste d'audit, documentation, 4 123 tests (91 %)", "location": "1re puce Inside Therapeutics, Profil", "action": "Reformuler la puce avec « traçable et reproductible »"},
+    {"keyword": "Supports pédagogiques / expliquer des résultats calculés", "importance": "E", "support": 1, "evidence": "exp_insidetx_4 : LabData présenté au CODIR, workshop IA lancé et animé ; exp_tutor : ateliers hebdomadaires de maths", "location": "Profil, puce Inside Therapeutics", "action": "Mettre la restitution au CODIR et le workshop en avant"},
+    {"keyword": "Dernière année d'école d'ingénieur / M2 (data, modélisation)", "importance": "E", "support": 1, "evidence": "edu_enseirb : ingénieur Informatique (data & IA) 2024–2027 ; edu_m2 : M2 IREF 2026–2027", "location": "Formation", "action": "Inchangé"},
+    {"keyword": "statistiques", "importance": "D", "support": 2, "evidence": "edu_m2 : Mathématiques appliquées, statistique ; exp_insidetx_3 : corrélations, régressions (support 1 pour la régression)", "location": "Profil, Compétences, puce Inside Therapeutics", "action": "Écrire « analyse statistique » dans la puce d'analyse"},
+    {"keyword": "pandas / numpy", "importance": "D", "support": 2, "evidence": "skills_programming : Python (pandas, NumPy…) ; proj_realestate : Python, pandas", "location": "Compétences", "action": "Garder en tête de ligne"},
+    {"keyword": "décision sous incertitude", "importance": "D", "support": 3, "evidence": "exp_insidetx_4 : active learning guidé par l'incertitude ; edu_m2 : Monte Carlo, stress tests", "location": "Puce processus gaussien", "action": "Garder « guidé par l'incertitude » ; ne pas revendiquer d'aide à la décision"},
+    {"keyword": "évaluation quantitative des risques (QRA)", "importance": "D", "support": 3, "evidence": "proj_options : VaR/ES, stress tests, backtesting ; edu_m2 : risque de marché — risque financier, pas fiabilité industrielle", "location": "Projet options, Compétences", "action": "Écrire « quantification des risques » côté finance uniquement ; le QRA d'actifs est couvert par le projet proposé new:2"},
+    {"keyword": "événements rares / conséquences graves", "importance": "C", "support": 3, "evidence": "Expected Shortfall et stress tests (edu_m2, proj_options) : risque de queue en finance", "location": "Projet options", "action": "Ne pas transposer au CV ; préparer l'analogie pour l'entretien"},
+    {"keyword": "optimisation (stratégie optimale sous contraintes)", "importance": "C", "support": 3, "evidence": "exp_insidetx_3 : optimisation des paramètres ; proj_numerical : optimisation par gradient", "location": "Puce Inside Therapeutics", "action": "Garder « optimisation des paramètres » ; l'optimisation sous contrainte budgétaire est dans new:2"},
+    {"keyword": "Monte Carlo", "importance": "C", "support": 2, "evidence": "edu_m2 : computational finance (Monte Carlo) ; skills_quant", "location": "Formation, Compétences", "action": "Avancer dans les lignes de cours et de méthodes"},
+    {"keyword": "systèmes industriels", "importance": "C", "support": 3, "evidence": "exp_insidetx_3 : validation des machines, variabilité du procédé (microfluidique)", "location": "Puce Inside Therapeutics", "action": "Garder « validation des machines » et « variabilité du procédé »"},
+    {"keyword": "fiabilité", "importance": "D", "support": 4, "evidence": "—", "location": "—", "action": "Lacune : projet proposé new:1 (ReLife)"},
+    {"keyword": "analyse de survie / modèles de durée de vie (censure, troncature)", "importance": "D", "support": 4, "evidence": "Aucun fait explicite (le cours d'actuariat du M2 l'aborde peut-être : à confirmer)", "location": "—", "action": "Lacune : projet new:1 ; demander à Ihab si le cours d'actuariat couvre les modèles de survie"},
+    {"keyword": "ReLife", "importance": "D", "support": 4, "evidence": "—", "location": "—", "action": "Lacune : projet new:1"},
+    {"keyword": "Jupyter", "importance": "D", "support": 4, "evidence": "Absent des compétences listées", "location": "—", "action": "Lacune : livrer new:1 et new:2 en notebooks"},
+    {"keyword": "matplotlib", "importance": "D", "support": 4, "evidence": "Absent des compétences listées", "location": "—", "action": "Lacune : utilisé dans les projets proposés"},
+    {"keyword": "évaluation économique (actualisation, END, valeur de l'information)", "importance": "D", "support": 4, "evidence": "—", "location": "—", "action": "Lacune : projet new:2"},
+    {"keyword": "matrice de risques PoF/CoF", "importance": "C", "support": 4, "evidence": "—", "location": "—", "action": "Lacune : projet new:2"},
+    {"keyword": "asset management (maintenance / renouvellement d'actifs)", "importance": "C", "support": 4, "evidence": "Le cours « gestion de portefeuille » relève de la finance, pas de la gestion d'actifs industriels", "location": "—", "action": "Ne pas confondre ; couvert par new:1 et new:2"}
+  ],
+  "section_order": ["profile", "experience", "education", "projects", "skills"],
+  "bullet_order": [
+    {"block_id": "exp_insidetx", "bullet_ids": ["exp_insidetx_1", "exp_insidetx_3", "exp_insidetx_4", "exp_insidetx_2"]},
+    {"block_id": "exp_sg", "bullet_ids": ["exp_sg_2"]}
+  ],
+  "removed_bullets": ["exp_sg_1"],
+  "rewrites": [
+    {"bullet_id": "exp_insidetx_1", "text": "Automatisé, de façon traçable et reproductible, le traitement de ~500 échantillons/mois : validation indépendante des calculs, réconciliation, piste d'audit, documentation ; 4 123 tests (91 %).", "reason": "Met en tête la rigueur demandée (traçabilité, reproductibilité) ; mêmes faits et chiffres.", "keywords": ["traçable", "reproductible", "validation"]},
+    {"bullet_id": "exp_insidetx_3", "text": "Pris l'initiative d'une couche d'analyse statistique (corrélations, régressions, bruit de mesure vs variabilité du procédé, alertes d'anomalies) pour valider les machines et optimiser les paramètres.", "reason": "Vocabulaire statistique et industriel de l'offre ; mêmes faits.", "keywords": ["analyse statistique", "régressions", "variabilité du procédé"]},
+    {"bullet_id": "exp_insidetx_4", "text": "Prototypé un modèle par processus gaussien sur plan d'expériences (active learning guidé par l'incertitude) ; présenté LabData au CODIR ; lancé et animé un workshop IA interne.", "reason": "Modélisation sous incertitude et restitution pédagogique en avant ; le prototype reste un prototype.", "keywords": ["modélisation", "incertitude", "présentation au comité"]},
+    {"bullet_id": "exp_insidetx_2", "text": "Conçu et développé seul LabData, sans cahier des charges : plateforme d'analyse de données Python/SQL/Streamlit en production en 7 semaines ; ~2 h gagnées par expérience pour 6 scientifiques.", "reason": "Reprend « analyse de données » et « Python » de l'offre ; mêmes chiffres, plus court.", "keywords": ["Python", "analyse de données"]},
+    {"bullet_id": "exp_sg_2", "text": "Intégré 6 sources de données (Python, SQL) en flux contrôlés ; remplacé des contrôles manuels par 25+ contrôles automatisés de qualité des données, suivis sous Power BI (Finance, Risques, Trading).", "reason": "Fusion des deux puces SG (exp_sg_1 retirée) pour gagner une ligne ; chiffres conservés.", "keywords": ["Python", "qualité des données"]}
+  ],
+  "field_rewrites": [
+    {"block_id": "proj_options", "field": "desc", "text": "Mesure des risques : VaR/ES, stress tests, backtesting ; Black–Scholes, Greeks, delta-hedging, P&L explain.", "reason": "Met en tête la quantification des risques, la partie la plus proche d'une QRA.", "keywords": ["quantification des risques", "stress tests"]},
+    {"block_id": "edu_m2", "field": "extra", "text": "computational finance (Monte Carlo), risque de marché (VaR, Expected Shortfall, stress tests, backtesting), actuariat, risque de crédit (scoring), finance mathématique (calcul stochastique), fixed income & dérivés.", "reason": "Cours les plus proches de l'offre (simulation, risque, actuariat) en premier ; cours purement finance raccourcis.", "keywords": ["Monte Carlo", "actuariat", "risque"]},
+    {"block_id": "edu_enseirb", "field": "extra", "text": "algorithmique numérique, IA (ML, deep learning), C/C++/Python (POO), finance de marché.", "reason": "Modélisation et data avant la finance.", "keywords": ["algorithmique numérique", "ML"]},
+    {"block_id": "skills_programming", "field": "content", "text": "Python (pandas, NumPy, scikit-learn, PyTorch, Streamlit), SQL (PostgreSQL), C/C++, R, VBA. Outils : Git, Linux, Power BI, Excel, développement assisté par IA (Claude Code).", "reason": "Python et data science en premier ; Java/TypeScript retirés pour la place.", "keywords": ["Python", "pandas", "NumPy"]},
+    {"block_id": "skills_quant", "field": "content", "text": "régression, Monte Carlo, séries temporelles, machine learning, calcul stochastique.", "reason": "Méthodes statistiques en premier.", "keywords": ["régression", "Monte Carlo"]},
+    {"block_id": "skills_finance", "field": "content", "text": "VaR/Expected Shortfall, stress tests, backtesting, pricing d'options (Black–Scholes, Greeks), delta-hedging, P&L, produits dérivés, Bâle III/FRTB, Solvabilité II.", "reason": "Quantification des risques en premier ; fixed income retiré pour la place.", "keywords": ["stress tests", "VaR"]}
+  ],
+  "headline": "Stage de fin d'études – Data, modélisation statistique et quantification des risques (Python)",
+  "profile": "Élève ingénieur à l'ENSEIRB-MATMECA, filière Informatique (data & IA), top 3 % de la promotion, en double diplôme avec le Master 2 IREF (mathématiques appliquées, statistique). Modélisation et analyse de données en Python, avec traçabilité, tests et restitution claire jusqu'au CODIR.",
+  "projects": ["new:1", "new:2", "proj_options"],
+  "new_projects": [
+    {
+      "title": "Fiabilité et politique de renouvellement d'actifs – Python, ReLife, Jupyter",
+      "desc": "Modèles de durée de vie (Weibull) sur données censurées/tronquées ; comparaison de politiques de remplacement.",
+      "tools": ["Python", "Jupyter", "ReLife", "pandas", "NumPy", "matplotlib"],
+      "why": "Reprend l'outil cité par RTE (ReLife : analyse de survie, comparaison de politiques, projections) et la mission D sur le coût des biais de censure/troncature et des mauvais modèles de durée de vie.",
+      "steps": [
+        "Lire la documentation et les tutoriels de ReLife ; installer l'environnement Jupyter",
+        "Générer un parc d'actifs synthétique (durées Weibull) et appliquer censure à droite et troncature à gauche",
+        "Estimer les lois (Kaplan-Meier, Weibull, Gompertz) avec et sans correction des biais ; comparer les estimations",
+        "Comparer une politique corrective et une politique de remplacement préventif par âge (coût actualisé, projections)",
+        "Chiffrer le coût de décision d'un modèle biaisé ou mal choisi",
+        "Rédiger un notebook documenté et une note de synthèse de 2 pages avec figures"
+      ],
+      "effort_hours": 30
+    },
+    {
+      "title": "De la matrice de risques à la QRA – Python, NumPy, Monte Carlo",
+      "desc": "Matrice PoF/CoF vs QRA Monte Carlo : optimum sous budget, écart à l'optimum, valeur de l'information.",
+      "tools": ["Python", "Jupyter", "NumPy", "pandas", "matplotlib", "SciPy"],
+      "why": "Couvre les missions B et D de l'offre : stratégie optimale puis sous contrainte budgétaire, matrice de risques PoF/CoF en classes 1-4 vs évaluation quantitative, valeur de l'information ; mobilise le Monte Carlo du M2.",
+      "steps": [
+        "Créer un portefeuille synthétique d'actifs (probabilité de défaillance, conséquence en coût et énergie non distribuée)",
+        "Classer les actifs en matrice PoF/CoF 1-4 et en déduire une priorisation",
+        "Construire une QRA par Monte Carlo (coût de risque actualisé) et calculer la stratégie optimale de référence",
+        "Ajouter un plafond budgétaire, résoudre la stratégie sous contrainte et mesurer l'écart à l'optimum et la valeur implicite",
+        "Calculer une valeur de l'information simple (EVPI) pour trois niveaux de connaissance",
+        "Livrer un notebook pédagogique et 5 slides de type comité"
+      ],
+      "effort_hours": 25
+    }
+  ],
+  "gaps": [
+    "Fiabilité et analyse de survie (modèles de durée de vie, censure, troncature) : aucun fait ; projet new:1",
+    "ReLife : jamais utilisé ; projet new:1",
+    "Jupyter et matplotlib : absents des compétences listées ; à utiliser dans les projets proposés",
+    "Évaluation économique d'actifs (actualisation, énergie non distribuée, valeur de l'information) : aucun fait ; projet new:2",
+    "Matrice de risques PoF/CoF et QRA d'actifs industriels : seule la quantification de risques financiers (VaR/ES) existe ; projet new:2",
+    "Asset management au sens infrastructures (maintenance, renouvellement) : aucune expérience du domaine énergie"
+  ],
+  "claims_to_defend": [
+    "4 123 tests et 91 % de couverture : type de tests, outil de mesure de couverture, ce qui rend le traitement reproductible",
+    "Analyse statistique chez Inside Therapeutics : comment séparer bruit de mesure et variabilité du procédé, quels modèles de régression",
+    "Processus gaussien et active learning guidé par l'incertitude : prototype seulement ; expliquer le choix du point suivant",
+    "LabData en production en 7 semaines et ~2 h gagnées par expérience : méthode de mesure du gain",
+    "Présentation au CODIR et workshop IA : comment vous avez rendu des résultats techniques compréhensibles",
+    "VaR/ES, stress tests : différence entre optimisation en espérance et prise en compte des queues de distribution (lien avec les événements rares de la mission C)",
+    "Top 3 % de la promotion : sur quelle période et quelle taille de promotion"
+  ],
+  "assessment": {
+    "verdict": "Adéquation moyenne : le socle (ingénieur data en dernière année + M2 de mathématiques appliquées et statistique, Python, rigueur, restitution au CODIR) correspond au profil, mais le cœur métier (fiabilité, analyse de survie, asset management d'infrastructures, ReLife) est absent du parcours. Les chances sont réelles si Ihab arrive avec un projet de fiabilité sous ReLife et sait expliquer pourquoi un profil finance quantitative veut ce stage R&D. Ordre retenu : Expérience avant Formation, car le poste est un stage de modélisation appliquée et de data, et Inside Therapeutics en est la meilleure preuve.",
+    "strengths": [
+      "Rigueur et reproductibilité démontrées : validation indépendante, réconciliation, piste d'audit, 4 123 tests (Inside Therapeutics)",
+      "Analyse statistique de procédés industriels : régressions, bruit de mesure vs variabilité du procédé, alertes d'anomalies, validation des machines",
+      "Modélisation sous incertitude : prototype de processus gaussien avec active learning guidé par l'incertitude",
+      "Pédagogie : présentation au CODIR, workshop IA animé, tutorat hebdomadaire en maths",
+      "Bases solides en Python/pandas/NumPy, Monte Carlo et quantification des risques (VaR/ES, stress tests)"
+    ],
+    "improvements": [
+      "Aucune connaissance démontrée en fiabilité ni en analyse de survie (Weibull, Kaplan-Meier, censure, troncature)",
+      "ReLife, Jupyter et matplotlib absents du CV",
+      "Pas de culture du secteur énergie ni de l'asset management d'infrastructures (END, consignation, politique de maintenance)",
+      "Évaluation économique (actualisation, valeur de l'information) à acquérir",
+      "Cohérence du projet professionnel : le reste des candidatures vise la finance de marché, à expliquer"
+    ],
+    "recommendations": [
+      "Réaliser en priorité new:1 (ReLife, données censurées) : c'est l'outil cité par l'offre",
+      "Réviser les bases de fiabilité : fonction de survie, taux de défaillance, Weibull, Kaplan-Meier, remplacement préventif par âge",
+      "Préparer l'analogie VaR/ES et stress tests ↔ événements rares à conséquences graves (mission C)",
+      "Lire les publications de RTE sur la gestion des actifs et le coût de l'énergie non distribuée",
+      "En entretien, mettre en avant la restitution au CODIR et la documentation de LabData comme preuves de pédagogie"
+    ]
+  },
+  "reply": "J'ai adapté le CV FR à l'offre RTE (fiabilité en gestion des actifs) : Expérience avant Formation, puces Inside Therapeutics réécrites autour de la rigueur (traçabilité, reproductibilité), de l'analyse statistique et de la restitution au CODIR, puces SG fusionnées en une seule, cours et compétences réordonnés (Monte Carlo, risque, actuariat en tête). Je propose deux projets : fiabilité et renouvellement d'actifs sous ReLife (l'outil cité par RTE), et matrice de risques vs QRA avec valeur de l'information. Le domaine fiabilité/survie reste une lacune nette, non ajoutée au CV. Question : ton cours d'actuariat du M2 aborde-t-il les modèles de survie (Kaplan-Meier, Weibull, censure) ?",
+  "new_facts": []
+}
