@@ -1,0 +1,104 @@
+{
+  "listing": {
+    "Employer": "Unknown",
+    "Job_Title": "Stage de fin d'études — Analyste quantitatif (H/F)",
+    "Job_Family": "Quant Research / Quant Analyst",
+    "Location": "Paris",
+    "Country": "France",
+    "Source": "Texte transmis par Ihab (paste)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "TEST-SMOKE-001",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-28",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "2027-03",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "92",
+    "Priority": "High priority",
+    "Eligibility_Status": "Likely eligible",
+    "Core_Requirements_Met": "Yes",
+    "Main_Strengths": "Projet terminé de pricing, couverture et risques d'options (Black–Scholes, Greeks, delta-hedging) en Python ; Python/SQL professionnel (Société Générale, Inside Therapeutics) ; double cursus ENSEIRB-MATMECA + Master 2 IREF Finance quantitative ; anglais C1 (TOEIC 970).",
+    "Essential_Gaps": "Aucun écart essentiel identifié au regard du texte transmis.",
+    "Preferred_Gaps": "Unknown (aucune compétence souhaitée listée dans le texte).",
+    "Fit_Explanation": "Missions (pricing d'options, Greeks, outils Python) alignées sur le projet d'options d'Ihab ; profil demandé (Bac+5 finance quantitative ou école d'ingénieur, Python, anglais courant) couvert par son double cursus et ses compétences vérifiées ; début mars 2027 pour 6 mois compatible avec la règle IREF sous réserve du jour exact de début. Employeur inconnu et aucune page officielle : offre non vérifiée. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Employeur et URL absents du texte ; référence « TEST-SMOKE-001 » qui ressemble à une offre de test. Aucune recherche web possible sans nom d'employeur. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 22,
+        "evidence": "« pricing d'options, calcul de Greeks, développement d'outils en Python » ↔ projet terminé Pricing, couverture et risques d'options (Black–Scholes, Greeks, delta-hedging, Python/Streamlit). Pas d'expérience professionnelle en équipe quant."
+      },
+      "tech": {
+        "points": 22,
+        "evidence": "Python exigé ↔ Python professionnel (SG, Inside Therapeutics) et projets ; pricing/Greeks ↔ projet d'options. Détail technique (modèles, langages additionnels) non précisé dans le texte."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "« Bac+5 en finance quantitative ou école d'ingénieur » + « Stage de fin d'études » ↔ dernière année ENSEIRB-MATMECA + Master 2 IREF Finance quantitative 2026–2027. Convention de stage non mentionnée."
+      },
+      "career": {
+        "points": 15,
+        "evidence": "Analyste quantitatif (pricing dérivés) = famille Core A (quant, rôle technique)."
+      },
+      "duration": {
+        "points": 9,
+        "evidence": "« Début : mars 2027, durée 6 mois » : compatible 1er mars – 31 août 2027 ; jour exact de début non précisé."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "Paris (Île-de-France) ; « anglais courant » ↔ anglais C1 (TOEIC 970), français C2."
+      }
+    },
+    "Required_Skills": [
+      "Python",
+      "Pricing d'options",
+      "Calcul de Greeks",
+      "Bac+5 en finance quantitative ou école d'ingénieur",
+      "Anglais courant"
+    ],
+    "Preferred_Skills": [],
+    "Responsibilities": [
+      "Pricing d'options",
+      "Calcul de Greeks",
+      "Développement d'outils en Python"
+    ],
+    "Languages": [
+      "Anglais (courant)"
+    ],
+    "Next_Action": "Identifier l'employeur et la page officielle de l'offre (référence TEST-SMOKE-001) avant toute préparation de dossier ; confirmer un début au 1er mars 2027.",
+    "Recommended_CV_Version": "Version famille Quant Research / Quant Analyst, FR (offre rédigée en français)"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {"field": "Job_Title", "value": "Stage de fin d'études — Analyste quantitatif (H/F)", "quote": "Stage de fin d'études — Analyste quantitatif (H/F)"},
+    {"field": "Location", "value": "Paris", "quote": "Analyste quantitatif (H/F) — Paris"},
+    {"field": "Internship_Start_Date", "value": "2027-03", "quote": "Début : mars 2027"},
+    {"field": "Duration_Months", "value": "6", "quote": "durée 6 mois"},
+    {"field": "Responsibilities", "value": "Pricing d'options ; calcul de Greeks ; développement d'outils en Python", "quote": "Missions : pricing d'options, calcul de Greeks, développement d'outils en Python."},
+    {"field": "Required_Skills", "value": "Bac+5 en finance quantitative ou école d'ingénieur ; Python ; anglais courant", "quote": "Profil : Bac+5 en finance quantitative ou école d'ingénieur, Python, anglais courant."},
+    {"field": "Requisition_ID", "value": "TEST-SMOKE-001", "quote": "Référence : TEST-SMOKE-001."}
+  ],
+  "inferences": [
+    {"field": "Job_Family", "value": "Quant Research / Quant Analyst", "reasoning": "Intitulé « Analyste quantitatif » et missions de pricing d'options / Greeks."},
+    {"field": "Country", "value": "France", "reasoning": "Lieu indiqué : Paris."},
+    {"field": "Eligibility_Status", "value": "Likely eligible", "reasoning": "Stage de fin d'études Bac+5, début mars 2027 pour 6 mois : compatible avec la fenêtre IREF 1er mars – 31 août 2027, mais le jour exact de début et la date de fin ne sont pas écrits."},
+    {"field": "Internship_End_Date", "value": "Unknown", "reasoning": "Une fin vers fin août 2027 découle du début en mars et de la durée de 6 mois, mais aucune date n'est écrite ; laissée Unknown."}
+  ],
+  "eligibility": {
+    "status": "Likely eligible",
+    "reasons": [
+      "Stage de fin d'études, Bac+5 en finance quantitative ou école d'ingénieur : correspond au double cursus ENSEIRB-MATMECA + M2 IREF 2026–2027.",
+      "Début mars 2027, 6 mois : compatible avec la règle IREF (1er mars – 31 août 2027, sans extension), sous réserve d'un début au 1er mars.",
+      "Aucune exigence de nationalité ni de césure mentionnée."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Employeur absent du texte transmis : impossible de retrouver la page officielle ; offre non vérifiée (Unverified).",
+    "La référence « TEST-SMOKE-001 » suggère une offre de test (smoke test) plutôt qu'une offre réelle : à confirmer par Ihab avant tout usage.",
+    "Aucun doublon détecté parmi les offres déjà connues (référence et texte sans correspondance).",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
