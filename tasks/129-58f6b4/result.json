@@ -1,0 +1,187 @@
+{
+  "listing": {
+    "Employer": "Crédit Agricole CIB",
+    "Job_Title": "Data Scientist - AI engineer H/F",
+    "Job_Family": "Capital Markets Data / Python",
+    "Location": "Montrouge (92 - Hauts-de-Seine, Île-de-France)",
+    "Country": "France",
+    "Source": "Offre transmise par Ihab (texte de la page carrière, « Offre 3 / 21 ») ; URL non fournie",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "Unknown",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-28",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "2027-03-01",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "78",
+    "Priority": "Worth applying",
+    "Eligibility_Status": "Likely eligible",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Python et SQL en contexte professionnel (Société Générale : 6 sources de données intégrées en flux automatisés vers les outils de P&L ; Inside Therapeutics : plateforme LabData Python/SQL/Streamlit en production en 7 semaines) ; prototype RAG Chatbot (LangChain, embeddings, recherche sémantique, LLM open source) ; cours ML/deep learning (ENSEIRB) et projets ML (scikit-learn, Deep RL) ; culture des tests et de la documentation (4 123 tests, couverture 91 %, piste d'audit) ; double diplôme ingénieur Informatique, Data & IA + M2 finance quantitative ; début 1er mars 2027 et 6 mois conformes au calendrier IREF ; Montrouge (IDF) ; FR C2 / EN C1.",
+    "Essential_Gaps": "MLOps et déploiement de modèles : aucune preuve dans les CV maîtres (LabData est une application en production, pas un modèle ML déployé ; le prototype GP n'est pas déployé) ; NLP limité à un prototype RAG (pas de classification de texte ni d'extraction d'information démontrées) ; pas d'expérience ML professionnelle sur des données de marché.",
+    "Preferred_Gaps": "Dataiku (« serait un plus ») ; services AWS (« serait un plus ») ; agentique et IA responsable non démontrés.",
+    "Fit_Explanation": "Poste data science / IA générative de l'IA Factory (département ISR, risques des systèmes d'information) au service des métiers de marché de la BFI : famille secondaire « data et IA en finance » (5–7 pts d'alignement), mais l'offre est solide pour Ihab : missions ML/NLP/RAG et développement Python testé qui recoupent son profil d'ingénieur data & IA, dates IREF respectées, Île-de-France. Score porté par le rôle et les compétences ; limité par l'alignement de carrière (ni front office, ni gestion) et par l'absence de MLOps. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Page officielle non retrouvée aujourd'hui (une recherche web sans résultat sur jobs.ca-cib.com) : URL et référence à récupérer depuis la page d'origine. Pas de doublon avec les offres CA-CIB déjà suivies (J-92181686 Analyste Quantitatif Python, J-BC72E545 Private Equity, J-F0557CF7 IT Fixed Income, J-D60F7921 Support IT Pré-Trade). Rattachement à l'IT (ISR / IA Factory), pas à un desk : rôle de support technique aux métiers de marché. Date de fin non indiquée ; à confirmer qu'elle ne dépasse pas le 31 août 2027. Sujet à faire valider par les responsables FQA.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 19,
+        "evidence": "Missions : ML/DL pour les marchés financiers, NLP sur documents financiers, IA générative (RAG, agentique), R&D, développement d'applications métiers, tests, revues de code, documentation. Ihab : prototype RAG Chatbot (LangChain), plateforme LabData développée seul et mise en production, 4 123 tests et documentation, flux de données vers les outils de P&L chez SG, cours ML/deep learning. Écart : pas de ML professionnel sur données de marché, pas de NLP de classification/extraction."
+      },
+      "tech": {
+        "points": 19,
+        "evidence": "Exigés : Python, SQL (preuves professionnelles SG et Inside Therapeutics), ML/DL/IA générative (cours ENSEIRB, PyTorch et scikit-learn listés, projets RAG et Deep RL), data engineering (6 sources intégrées chez SG, PostgreSQL), Pack Office (Excel, Power BI), FR/EN (C2/C1). Manquants : MLOps et déploiement (aucune preuve), NLP au-delà du prototype RAG ; « un plus » : Dataiku, AWS absents."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "Exigé : « Bac + 5 / M2 et plus », école d'ingénieur/informatique ou université, spécialisation Data Science, IA, Informatique, Mathématiques appliquées, Statistiques. Ihab : ingénieur ENSEIRB-MATMECA Informatique, Data & IA + M2 IREF (mention Mathématiques appliquées, statistique), en cours. -1 : date de diplomation et convention du double diplôme à confirmer."
+      },
+      "career": {
+        "points": 6,
+        "evidence": "Data et IA en finance = famille secondaire (5–7) : poste rattaché à l'IT (ISR, IA Factory) au service des métiers de marché, sans rôle de trading, structuration, quant desk ou gestion."
+      },
+      "duration": {
+        "points": 10,
+        "evidence": "« Durée (en mois) 6 mois » et « Date prévue de prise de fonction 01/03/2027 » : correspond au stage IREF du 1er mars au 31 août 2027."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "« Ville Montrouge », « Ile-de-France, 92 - Hauts-De-Seine » = Île-de-France ; « Français et Anglais courants » vs FR C2 / EN C1 (TOEIC 970)."
+      }
+    },
+    "Required_Skills": [
+      "Python",
+      "SQL",
+      "Machine Learning / Deep Learning / IA générative",
+      "NLP",
+      "Data engineering",
+      "Développement",
+      "MLOps et déploiement",
+      "Maîtrise du Pack Microsoft Office",
+      "Français et Anglais courants",
+      "Bac + 5 / M2 et plus (Data Science, IA, Informatique, MIAGE, Développement, Mathématiques appliquées, Statistiques)"
+    ],
+    "Preferred_Skills": [
+      "Une première expérience en Data Science, Machine Learning ou Intelligence Artificielle (souhaitable)",
+      "Dataiku (un plus)",
+      "Services AWS pour le développement Cloud (un plus)"
+    ],
+    "Responsibilities": [
+      "Concevoir et implémenter des algorithmes de Machine Learning et Deep Learning pour les activités de marchés financiers, avec feature engineering accompagné par les experts métiers",
+      "Concevoir et implémenter des solutions NLP pour l'analyse de documents financiers (classification de texte, extraction d'information) et des outils d'aide à la décision en IA générative (RAG, agentique)",
+      "Mener des projets de R&D sur les hot topics IA (agentique, skills, IA responsable) avec veille bibliographique",
+      "Développer de nouvelles fonctionnalités sur les applications métiers, corriger et améliorer le code existant, optimiser les outils",
+      "Contribuer aux tests, revues de code et validation des développements",
+      "Rédiger la documentation technique des projets"
+    ],
+    "Languages": [
+      "Français (courant)",
+      "Anglais (courant)"
+    ],
+    "Next_Action": "Retrouver l'URL et la référence de l'offre sur le site carrière CA-CIB, puis préparer un CV FR orienté data/IA (ats-cv-optimizer) en mettant en avant le RAG Chatbot, LabData et les tests ; candidater rapidement (recrutements de mars entre octobre et janvier).",
+    "Recommended_CV_Version": "CV FR — version famille Data / Python (marchés de capitaux), adaptée à l'offre via ats-cv-optimizer"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {
+      "field": "Job_Title",
+      "value": "Data Scientist - AI engineer H/F",
+      "quote": "Intitulé du poste\n\nData Scientist - AI engineer H/F"
+    },
+    {
+      "field": "Contract",
+      "value": "Stage",
+      "quote": "Type de contrat\n\nStage"
+    },
+    {
+      "field": "Duration_Months",
+      "value": "6",
+      "quote": "Durée (en mois)\n\n6 mois"
+    },
+    {
+      "field": "Internship_Start_Date",
+      "value": "2027-03-01",
+      "quote": "Date prévue de prise de fonction\n\n01/03/2027"
+    },
+    {
+      "field": "Employer",
+      "value": "Crédit Agricole CIB",
+      "quote": "Rejoindre Crédit Agricole CIB, c’est profiter d’une communauté importante de jeunes"
+    },
+    {
+      "field": "Team",
+      "value": "IA Factory, département ISR (Information System Risks IT)",
+      "quote": "Au sein du département ISR (Information System Risks IT), vous rejoindrez l'équipe de l'IA Factory"
+    },
+    {
+      "field": "Location",
+      "value": "Montrouge, Hauts-de-Seine, Île-de-France",
+      "quote": "Europe, France, Ile-de-France, 92 - Hauts-De-Seine\nVille\n\nMontrouge"
+    },
+    {
+      "field": "Degree",
+      "value": "Bac + 5 / M2 et plus",
+      "quote": "Niveau d'études minimum\n\nBac + 5 / M2 et plus"
+    },
+    {
+      "field": "Specialisation",
+      "value": "Data Science, IA, Informatique, MIAGE, Développement, Mathématiques appliquées, Statistiques",
+      "quote": "Spécialisation : Data Science, IA, Informatique, MIAGE, Développement, Mathématiques appliquées, Statistiques."
+    },
+    {
+      "field": "Experience",
+      "value": "0 - 2 ans ; première expérience en Data Science / ML / IA souhaitable",
+      "quote": "Une première expérience en Data Science, Machine Learning ou Intelligence Artificielle est souhaitable."
+    },
+    {
+      "field": "Preferred_Skills",
+      "value": "Dataiku, AWS",
+      "quote": "Développement (une première expérience avec Dataiku serait un plus) ... Pour le développement Cloud, une première expérience avec les services AWS serait un plus."
+    },
+    {
+      "field": "Languages",
+      "value": "Français et anglais courants",
+      "quote": "Français et Anglais courants"
+    }
+  ],
+  "inferences": [
+    {
+      "field": "Job_Family",
+      "value": "Capital Markets Data / Python",
+      "reasoning": "Poste data science / IA au sein de l'IT (IA Factory) dont les solutions servent les « activités de marchés financiers » et la BFI ; classé dans le niveau secondaire « data et IA en finance » des cibles d'Ihab, et non dans une famille quant/trading cœur."
+    },
+    {
+      "field": "Internship_End_Date",
+      "value": "Probablement fin août 2027",
+      "reasoning": "Début le 01/03/2027 + 6 mois ; la date de fin n'est pas écrite dans l'offre, d'où Unknown dans le tracker."
+    },
+    {
+      "field": "Eligibility_Status",
+      "value": "Likely eligible",
+      "reasoning": "Stage de 6 mois à partir du 01/03/2027 et niveau Bac+5/M2 en cours compatibles ; restent à confirmer la date de fin (≤ 31/08/2027), la convention du double diplôme et la validation du sujet par les responsables FQA."
+    },
+    {
+      "field": "Role_nature",
+      "value": "Rôle de support technique (IT) aux métiers de marché, pas un poste front office",
+      "reasoning": "Rattachement au département ISR (Information System Risks IT) et missions de développement, DevOps et R&D IA pour des équipes métiers."
+    }
+  ],
+  "eligibility": {
+    "status": "Likely eligible",
+    "reasons": [
+      "Début prévu le 01/03/2027, durée 6 mois : conforme au stage IREF du 1er mars au 31 août 2027 (pas d'extension).",
+      "Niveau exigé Bac + 5 / M2 : Ihab est en M2 IREF et en dernière année d'ingénieur ENSEIRB-MATMECA (Informatique, Data & IA).",
+      "Date de fin non indiquée dans l'offre : à confirmer qu'elle ne dépasse pas le 31 août 2027.",
+      "À confirmer : convention du double diplôme ENSEIRB-MATMECA aux mêmes dates ; sujet à faire valider par les responsables du parcours FQA."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Page officielle non consultée aujourd'hui (non retrouvée par une recherche web) : Verification_Status = Unverified ; URL, référence, date de publication et date limite inconnues.",
+    "Aucun doublon détecté parmi les offres déjà connues (les offres CA-CIB suivies ont d'autres intitulés).",
+    "Famille secondaire (data et IA en finance, rattachement IT) : à proposer car l'offre est bonne, mais elle n'ouvre pas directement sur le front office ou la gestion.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
