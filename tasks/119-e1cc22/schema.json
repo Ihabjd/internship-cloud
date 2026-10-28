@@ -1,0 +1,298 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "language": {
+      "type": "string",
+      "enum": [
+        "FR",
+        "EN"
+      ]
+    },
+    "keyword_map": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "keyword": {
+            "type": "string"
+          },
+          "importance": {
+            "type": "string",
+            "enum": [
+              "E",
+              "D",
+              "C"
+            ]
+          },
+          "support": {
+            "type": "integer",
+            "enum": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "location": {
+            "type": "string"
+          },
+          "action": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "keyword",
+          "importance",
+          "support",
+          "evidence",
+          "location",
+          "action"
+        ]
+      }
+    },
+    "section_order": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "bullet_order": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "block_id": {
+            "type": "string"
+          },
+          "bullet_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "block_id",
+          "bullet_ids"
+        ]
+      }
+    },
+    "removed_bullets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "rewrites": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "bullet_id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "bullet_id",
+          "text",
+          "reason",
+          "keywords"
+        ]
+      }
+    },
+    "headline": {
+      "type": "string"
+    },
+    "profile": {
+      "type": "string"
+    },
+    "gaps": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "claims_to_defend": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "field_rewrites": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "block_id": {
+            "type": "string"
+          },
+          "field": {
+            "type": "string",
+            "enum": [
+              "title",
+              "desc",
+              "content",
+              "extra"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "block_id",
+          "field",
+          "text",
+          "reason",
+          "keywords"
+        ]
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "new_projects": {
+      "type": "array",
+      "maxItems": 2,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "desc": {
+            "type": "string"
+          },
+          "tools": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "why": {
+            "type": "string"
+          },
+          "steps": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "effort_hours": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "title",
+          "desc",
+          "tools",
+          "why",
+          "steps",
+          "effort_hours"
+        ]
+      }
+    },
+    "assessment": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "verdict": {
+          "type": "string"
+        },
+        "strengths": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "improvements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "recommendations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "verdict",
+        "strengths",
+        "improvements",
+        "recommendations"
+      ]
+    },
+    "reply": {
+      "type": "string"
+    },
+    "new_facts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "fact": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "fact",
+          "quote"
+        ]
+      }
+    }
+  },
+  "required": [
+    "language",
+    "keyword_map",
+    "section_order",
+    "bullet_order",
+    "removed_bullets",
+    "rewrites",
+    "headline",
+    "profile",
+    "gaps",
+    "claims_to_defend"
+  ],
+  "title": "cv_tailoring"
+}
