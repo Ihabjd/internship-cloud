@@ -1,0 +1,471 @@
+{
+ "language": "FR",
+ "keyword_map": [
+  {
+   "keyword": "Python",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_2 (LabData Python/SQL/Streamlit en production) ; exp_sg_1 (Python, SQL)",
+   "location": "profil, expériences, compétences",
+   "action": "conservé en tête de la ligne Programmation et dans le profil"
+  },
+  {
+   "keyword": "Contrôles de qualité des données",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_sg_2 : plus de 25 contrôles automatisés de qualité des données et de conformité",
+   "location": "expérience SG, profil",
+   "action": "formulation de l'offre reprise en tête de puce"
+  },
+  {
+   "keyword": "Réconciliation",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_1 : validation indépendante, réconciliation (concordance totale), piste d'audit",
+   "location": "expérience Inside Therapeutics, profil",
+   "action": "mis en avant ; jamais présenté comme réconciliation de prix"
+  },
+  {
+   "keyword": "Réconciliation des prix",
+   "importance": "E",
+   "support": 3,
+   "evidence": "partiel : réconciliation de calculs (exp_insidetx_1), pas de prix",
+   "location": "—",
+   "action": "non écrit tel quel ; comblé par le projet proposé new:2"
+  },
+  {
+   "keyword": "Fiabilité des outils",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_1 : validation indépendante, réconciliation, 4 123 tests (couverture 91 %) ; exp_sg_1 : flux automatisés et contrôlés alimentant les outils de P&L",
+   "location": "expériences",
+   "action": "« fiabilisé » sur la puce Inside Therapeutics ; puce SG_1 laissée au texte du maître (pas de résultat non attesté)"
+  },
+  {
+   "keyword": "Documentation",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_1 : piste d'audit, documentation",
+   "location": "expérience Inside Therapeutics",
+   "action": "conservé"
+  },
+  {
+   "keyword": "Prototypes et outils d'analyse en Python",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_3 et exp_insidetx_4 : couche d'analyse, prototype par processus gaussien ; LabData",
+   "location": "expérience Inside Therapeutics",
+   "action": "puce fusionnée « prototypé », jamais « déployé »"
+  },
+  {
+   "keyword": "PnL Explain",
+   "importance": "E",
+   "support": 2,
+   "evidence": "proj_options : P&L explain (projet personnel) ; jamais chez SG",
+   "location": "projet options, compétences finance, profil",
+   "action": "libellé exact de l'offre ; présenté comme bases/projet uniquement"
+  },
+  {
+   "keyword": "Sensibilités",
+   "importance": "E",
+   "support": 2,
+   "evidence": "proj_options : Greeks",
+   "location": "projet options, compétences finance, profil",
+   "action": "« sensibilités (Greeks) »"
+  },
+  {
+   "keyword": "DV01",
+   "importance": "E",
+   "support": 4,
+   "evidence": "aucun fait",
+   "location": "—",
+   "action": "gap : projet proposé new:1 (pricer obligataire, DV01)"
+  },
+  {
+   "keyword": "Réconciliation PnL / risques",
+   "importance": "E",
+   "support": 3,
+   "evidence": "partiel : flux alimentant les outils de P&L (SG) + P&L explain (projet options)",
+   "location": "—",
+   "action": "non écrit tel quel ; comblé par new:1"
+  },
+  {
+   "keyword": "Fixed Income / obligations",
+   "importance": "E",
+   "support": 2,
+   "evidence": "edu_m2 : cours fixed income & produits dérivés (en cours)",
+   "location": "formation M2, compétences finance",
+   "action": "placé en premier dans les cours et la ligne Finance"
+  },
+  {
+   "keyword": "Chaînes de pricing",
+   "importance": "E",
+   "support": 2,
+   "evidence": "proj_options : pricing Black–Scholes",
+   "location": "projet options",
+   "action": "« Pricing Black–Scholes » en tête de la description"
+  },
+  {
+   "keyword": "Optimisation des temps de calcul",
+   "importance": "E",
+   "support": 3,
+   "evidence": "proj_rl : carnet d'ordres C++ 400 k ordres/s (projet d'équipe de 6)",
+   "location": "—",
+   "action": "non affiché (place) ; new:1 inclut un pricer vectorisé"
+  },
+  {
+   "keyword": "Bases en finance de marché et en mathématiques",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_sg (Data Analyst – Finance de marché) ; CPGE MP, major en mathématiques ; M2 IREF",
+   "location": "formation, expérience",
+   "action": "inchangé"
+  },
+  {
+   "keyword": "IT",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Diplôme d'ingénieur Informatique (data & IA) ; LabData en production",
+   "location": "formation, profil",
+   "action": "inchangé"
+  },
+  {
+   "keyword": "Linux Scripting",
+   "importance": "E",
+   "support": 3,
+   "evidence": "compétences listées : Linux, Bash (aucune expérience décrite)",
+   "location": "ligne Programmation",
+   "action": "« Linux (Bash) » dans la ligne Programmation ; à démontrer par new:2"
+  },
+  {
+   "keyword": "C#",
+   "importance": "E",
+   "support": 4,
+   "evidence": "aucun fait (C/C++, Java connus)",
+   "location": "—",
+   "action": "gap, non ajouté : new:2 en C#"
+  },
+  {
+   "keyword": "VBA",
+   "importance": "E",
+   "support": 3,
+   "evidence": "compétence listée, aucune expérience décrite",
+   "location": "ligne Programmation",
+   "action": "avancé dans la ligne"
+  },
+  {
+   "keyword": "Pack Microsoft Office",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Excel et Power BI listés ; Word/PowerPoint non documentés",
+   "location": "ligne Programmation",
+   "action": "Excel avancé dans la ligne ; « Pack Office » non écrit"
+  },
+  {
+   "keyword": "Français et anglais courants",
+   "importance": "E",
+   "support": 1,
+   "evidence": "skills_languages : français C2, anglais C1 (TOEIC 970/990)",
+   "location": "langues",
+   "action": "inchangé"
+  },
+  {
+   "keyword": "Bac + 5 école d'ingénieur, spécialisation finance/maths/informatique",
+   "importance": "E",
+   "support": 1,
+   "evidence": "edu_enseirb + edu_m2 (double diplôme, en cours)",
+   "location": "formation, accroche",
+   "action": "inchangé"
+  },
+  {
+   "keyword": "SQL",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_sg_1 (Python, SQL) ; exp_insidetx_2 (Python/SQL/Streamlit)",
+   "location": "expériences, compétences",
+   "action": "avancé dans la ligne Programmation"
+  },
+  {
+   "keyword": "Analyse de données financières",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_sg : analyse de données pour plusieurs desks de marché",
+   "location": "expérience SG",
+   "action": "inchangé"
+  },
+  {
+   "keyword": "Environnement de marchés de capitaux",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_sg : Data Analyst – Finance de marché, équipes Finance, Risques et Trading",
+   "location": "expérience SG",
+   "action": "inchangé ; jamais « front office »"
+  },
+  {
+   "keyword": "Autonomie",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_insidetx_2 : LabData conçu seul, sans cahier des charges",
+   "location": "puce LabData",
+   "action": "« seul, en autonomie »"
+  },
+  {
+   "keyword": "Curiosité",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_insidetx_3 : couche d'analyse ajoutée de sa propre initiative ; workshop IA",
+   "location": "puce Inside Therapeutics",
+   "action": "« de ma propre initiative »"
+  },
+  {
+   "keyword": "Post-trade",
+   "importance": "C",
+   "support": 4,
+   "evidence": "aucun fait",
+   "location": "—",
+   "action": "gap : à préparer pour l'entretien"
+  },
+  {
+   "keyword": "Desks EGB, Inflation, SSA",
+   "importance": "C",
+   "support": 4,
+   "evidence": "aucun fait (cours fixed income seulement)",
+   "location": "—",
+   "action": "gap : connaissances produit à réviser"
+  }
+ ],
+ "section_order": [
+  "profile",
+  "experience",
+  "education",
+  "projects",
+  "skills"
+ ],
+ "bullet_order": [
+  {
+   "block_id": "exp_insidetx",
+   "bullet_ids": [
+    "exp_insidetx_1",
+    "exp_insidetx_2",
+    "exp_insidetx_3"
+   ]
+  },
+  {
+   "block_id": "exp_sg",
+   "bullet_ids": [
+    "exp_sg_2",
+    "exp_sg_1"
+   ]
+  }
+ ],
+ "removed_bullets": [
+  "exp_insidetx_4"
+ ],
+ "rewrites": [
+  {
+   "bullet_id": "exp_insidetx_1",
+   "text": "Automatisé et fiabilisé le traitement de ~500 échantillons/mois : réconciliation indépendante des calculs (concordance totale), piste d'audit, documentation ; 4 123 tests (couverture 91 %).",
+   "reason": "Mission « réconciliation » et « fiabilité des outils » ; « couverture » rétablie (91 % seul était illisible) ; mêmes chiffres, plus court que le maître.",
+   "keywords": [
+    "réconciliation",
+    "fiabilité",
+    "documentation",
+    "contrôles"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_2",
+   "text": "Développé seul, en autonomie et sans cahier des charges, LabData : outil d'analyse Python/SQL/Streamlit en production en 7 semaines, ~2 h de travail manuel gagnées par expérience pour 6 scientifiques.",
+   "reason": "Soft skill « autonomie » et « outil d'analyse en Python » de l'offre ; mêmes faits et chiffres.",
+   "keywords": [
+    "autonomie",
+    "outils d'analyse",
+    "Python",
+    "SQL"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_3",
+   "text": "Ajouté de ma propre initiative une couche d'analyse (corrélations, régressions, alertes d'anomalies) ; prototypé un modèle par processus gaussien (active learning) ; présenté LabData au CODIR.",
+   "reason": "Fusion avec exp_insidetx_4 pour gagner une ligne ; « prototypé » répond à la mission « prototypes » (jamais « déployé »).",
+   "keywords": [
+    "prototypes",
+    "analyse de données",
+    "curiosité"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_2",
+   "text": "Mis en place plus de 25 contrôles automatisés de qualité des données et de conformité, remplaçant des contrôles manuels ; reportings et dashboards Power BI pour les équipes Finance, Risques et Trading.",
+   "reason": "Reprend mot pour mot « mise en place de contrôles de qualité des données » ; mêmes faits.",
+   "keywords": [
+    "contrôles de qualité des données",
+    "Power BI",
+    "marchés de capitaux"
+   ]
+  }
+ ],
+ "field_rewrites": [
+  {
+   "block_id": "proj_options",
+   "field": "title",
+   "text": "Pricing, sensibilités, risques d'options – Python, Streamlit",
+   "reason": "« sensibilités » est un terme de l'offre ; technologies inchangées.",
+   "keywords": [
+    "pricing",
+    "sensibilités"
+   ]
+  },
+  {
+   "block_id": "proj_options",
+   "field": "desc",
+   "text": "Pricing Black–Scholes, sensibilités (Greeks), delta-hedging, PnL Explain ; VaR/ES, stress tests, backtesting.",
+   "reason": "Libellés exacts « PnL Explain » et « sensibilités » ; FRTB/Solvabilité II retirés (hors sujet pour un poste IT Fixed Income).",
+   "keywords": [
+    "PnL Explain",
+    "sensibilités",
+    "pricing"
+   ]
+  },
+  {
+   "block_id": "skills_finance",
+   "field": "content",
+   "text": "fixed income, produits dérivés, pricing d'options (Black–Scholes), sensibilités (Greeks), PnL Explain, delta-hedging, VaR/ES, stress tests, backtesting, Bâle III.",
+   "reason": "Fixed income en premier, vocabulaire de l'offre ; aucune compétence ajoutée.",
+   "keywords": [
+    "fixed income",
+    "sensibilités",
+    "PnL Explain"
+   ]
+  },
+  {
+   "block_id": "skills_programming",
+   "field": "content",
+   "text": "Python (pandas, NumPy, scikit-learn, Streamlit), SQL (PostgreSQL), VBA, C/C++, R, Java. Outils : Linux (Bash), Git, Excel, Power BI, développement assisté par IA (Claude Code).",
+   "reason": "Ordre de l'offre (Python, SQL, VBA, Linux scripting, Office) ; PyTorch et TypeScript retirés pour la place ; Bash figure dans les compétences.",
+   "keywords": [
+    "Python",
+    "SQL",
+    "VBA",
+    "Linux",
+    "Excel"
+   ]
+  },
+  {
+   "block_id": "edu_m2",
+   "field": "extra",
+   "text": "fixed income & produits dérivés, risque de marché (VaR, Expected Shortfall, backtesting, stress tests), finance mathématique (calcul stochastique), computational finance (Monte Carlo), produits structurés.",
+   "reason": "Cours Fixed Income en tête ; crédit, Bâle III, gestion de portefeuille et actuariat retirés pour la place.",
+   "keywords": [
+    "fixed income",
+    "risque de marché"
+   ]
+  },
+  {
+   "block_id": "edu_enseirb",
+   "field": "extra",
+   "text": "C/C++/Python (POO), algorithmique numérique, finance de marché, IA (ML, deep learning).",
+   "reason": "Cours IT et finance de marché en tête pour un poste Capital Markets IT.",
+   "keywords": [
+    "IT",
+    "finance de marché"
+   ]
+  }
+ ],
+ "headline": "Élève ingénieur Informatique & M2 Finance quantitative – Stage IT Fixed Income (Python, SQL)",
+ "profile": "Élève ingénieur ENSEIRB-MATMECA (Informatique, data & IA, top 3 %), en double diplôme avec le M2 IREF – Finance quantitative et actuariat. Expérience data Python/SQL : contrôles qualité des données en finance de marché, réconciliation, outil en production ; projet pricing, sensibilités, PnL Explain.",
+ "projects": [
+  "new:1",
+  "proj_options",
+  "new:2"
+ ],
+ "new_projects": [
+  {
+   "title": "Pricer obligataire et réconciliation PnL/risques – Python, NumPy, pandas",
+   "desc": "Courbe de taux, prix, duration, DV01, sensibilités par pilier ; PnL Explain (carry, courbe, résidu) vectorisé.",
+   "tools": [
+    "Python",
+    "NumPy",
+    "pandas",
+    "pytest"
+   ],
+   "why": "Couvre le cœur des missions des desks EGB/Inflation/SSA : chaînes de pricing Fixed Income, optimisation des temps de calcul, DV01, sensibilités, PnL Explain et réconciliation PnL/risques (DV01 est aujourd'hui une lacune).",
+   "steps": [
+    "Télécharger des courbes de taux souveraines publiques de la zone euro (ECB Data Portal) et les caractéristiques de quelques OAT/Bund publiées (AFT, Finanzagentur).",
+    "Construire la courbe (interpolation, facteurs d'actualisation) et pricer les obligations à coupon fixe (prix, rendement, duration, convexité).",
+    "Calculer le DV01 et les sensibilités par pilier par bump & reprice, et comparer à la formule analytique.",
+    "Décomposer le PnL jour sur jour (carry, mouvement de courbe via sensibilités, résidu) et le réconcilier avec le PnL de revalorisation complète, avec seuils d'écart.",
+    "Vectoriser le pricing (NumPy) et chronométrer la version boucle contre la version vectorisée.",
+    "Écrire tests pytest et documentation (README : méthode, limites, utilisation)."
+   ],
+   "effort_hours": 30
+  },
+  {
+   "title": "Contrôles qualité et réconciliation de prix obligataires – C#, Bash, SQL",
+   "desc": "Moteur C# de contrôles de prix (manquants, figés, sauts, écarts de sources), rapport d'écarts, lancé en Bash.",
+   "tools": [
+    "C#",
+    ".NET",
+    "Bash",
+    "Linux",
+    "SQL (PostgreSQL)",
+    "xUnit"
+   ],
+   "why": "Répond aux compétences requises C# et Linux Scripting (absentes ou partielles) et à la mission « contrôles de qualité des données, réconciliation des prix, fiabilité des outils ».",
+   "steps": [
+    "Installer .NET sous Linux et suivre un tutoriel C# de base (types, LINQ, lecture CSV).",
+    "Charger deux sources de prix publiques (ex. prix théoriques du pricer new:1 et cours publiés téléchargés manuellement) dans PostgreSQL.",
+    "Coder en C# les règles de contrôle : valeurs manquantes, prix figés, sauts anormaux, écarts entre sources au-delà d'une tolérance.",
+    "Générer un rapport d'écarts (CSV/HTML) et des tests xUnit.",
+    "Écrire un script Bash qui enchaîne chargement, contrôles et rapport (planifiable par cron), puis documenter."
+   ],
+   "effort_hours": 28
+  }
+ ],
+ "gaps": [
+  "Date de début : l'offre indique le 01/02/2027, la recherche d'Ihab porte sur un stage à partir du 1er mars 2027 — à clarifier avant de postuler.",
+  "C# (requis) : aucun fait ; projet new:2 proposé.",
+  "DV01 et sensibilités de taux (requis par les missions) : aucun fait ; projet new:1 proposé.",
+  "Réconciliation de prix et réconciliation PnL/risques : seulement partiel (réconciliation de calculs, P&L explain en projet).",
+  "Linux Scripting : compétence listée sans expérience décrite.",
+  "Post-trade : aucun fait.",
+  "Produits EGB, Inflation (obligations indexées), SSA : connaissance limitée au cours de fixed income en cours.",
+  "Pack Microsoft Office : seuls Excel et Power BI sont documentés."
+ ],
+ "claims_to_defend": [
+  "Top 3 % de la promotion ENSEIRB-MATMECA (sur quelle période, quelle taille de promotion).",
+  "4 123 tests et 91 % de couverture : type de tests, outil de mesure ; ce que signifiait la « concordance totale » de la réconciliation.",
+  "LabData développé seul en 7 semaines, gain de ~2 h par expérience : méthode de mesure.",
+  "SG : nature des « outils de P&L » alimentés par les 6 flux, exemples des contrôles de qualité et de conformité, entité exacte ; ne pas parler de front office.",
+  "PnL Explain et sensibilités du projet options : méthode de décomposition, résidu, lien avec la réconciliation PnL/risques.",
+  "Prototype par processus gaussien : prototype, pas en production.",
+  "Linux (Bash) et VBA : niveau réel, exemples de scripts.",
+  "Fixed income : cours du M2 en cours ; savoir pricer une obligation, expliquer DV01, duration, convexité, OAT€i.",
+  "Projets new:1 et new:2 une fois réalisés : choix de méthode, limites, temps de calcul."
+ ],
+ "assessment": {
+  "verdict": "Bonne adéquation sur le fond : contrôles de qualité des données, réconciliation, outils Python/SQL fiabilisés et documentés, plus une base finance de marché (SG, M2 IREF) ; c'est exactement la partie data/IT du poste. Les points qui feront la différence : combler C# et DV01 avant l'entretien, et surtout lever le problème de date (début annoncé le 01/02/2027 contre une disponibilité au 1er mars).",
+  "strengths": [
+   "Plus de 25 contrôles automatisés de qualité des données et de conformité sur des flux alimentant les outils de P&L (SG), pour Finance, Risques et Trading.",
+   "Réconciliation indépendante des calculs, piste d'audit, documentation et 4 123 tests (91 %) chez Inside Therapeutics.",
+   "Outil Python/SQL/Streamlit mis en production seul en 7 semaines : preuve d'autonomie.",
+   "Projet options avec pricing, Greeks et P&L explain, proche des mesures de risques demandées.",
+   "Double diplôme ingénieur informatique + M2 finance quantitative, anglais C1 (TOEIC 970)."
+  ],
+  "improvements": [
+   "C# requis et absent : au minimum une première pratique démontrable.",
+   "Produits de taux : DV01, duration, convexité, courbes, obligations indexées inflation, SSA ; le cours fixed income est en cours.",
+   "Réconciliation PnL/risques et post-trade : savoir expliquer le cycle front-to-back et ce qu'est un break.",
+   "Linux scripting et VBA : compétences listées sans réalisation à montrer.",
+   "Disponibilité : l'offre démarre un mois avant la fenêtre de stage visée."
+  ],
+  "recommendations": [
+   "Vérifier avec l'école/le M2 si un début le 1er février 2027 est possible ; sinon, demander à CACIB si un début au 1er mars est acceptable.",
+   "Réaliser d'abord new:1 (pricer obligataire, DV01, PnL Explain, réconciliation), puis new:2 (C#, Bash).",
+   "En entretien, mettre en avant SG (contrôles de qualité, outils de P&L) et la réconciliation chez Inside Therapeutics comme preuves directes des missions 2 et 3.",
+   "Réviser la décomposition du PnL d'une obligation (carry, roll-down, mouvement de courbe) et l'optimisation de code Python (vectorisation, profilage)."
+  ]
+ },
+ "new_facts": [],
+ "reply": "Relecture « recruteur CACIB en 30 secondes » (phase 5) faite. Adéquation : les missions 2 et 4 (contrôles qualité, réconciliation, outils Python documentés) sont bien couvertes en tête ; C#, DV01 et post-trade restent des lacunes, couvertes seulement par les projets new:1 et new:2 à réaliser avant de postuler. Corrections : (1) fiabilité des faits — la puce SG « fiabilisant les outils P&L » affirmait un résultat absent des faits : je reviens au texte du maître (« alimentant les outils de P&L ») ; le profil disait « contrôles qualité sur des flux de P&L » (amalgame des deux puces SG) et « outils en production » (il n'y en a qu'un) : reformulé en « contrôles qualité des données en finance de marché, réconciliation, outil en production ; projet pricing… », pour que PnL Explain soit clairement un projet. (2) Longueur — la puce Inside Therapeutics 1 et le profil étaient plus longs que le maître : raccourcis (189/195 et 300/305 caractères), « couverture 91 % » rétabli car « 91 % » seul ne voulait rien dire. (3) Qualité — les descriptions de new:1 et new:2 répétaient mot pour mot leur titre : réécrites avec le contenu concret (courbe, duration, DV01, carry/résidu ; contrôles de prix manquants/figés/sauts/écarts), 110 caractères au plus, sans chiffre de résultat. Le reste est inchangé, une page. Question toujours ouverte : l'offre démarre le 01/02/2027 alors que ta fenêtre commence le 1er mars 2027 — peux-tu commencer en février (calendrier du M2, convention), ou faut-il demander un décalage à CACIB ?"
+}
