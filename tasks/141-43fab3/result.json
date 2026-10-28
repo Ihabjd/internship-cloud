@@ -1,0 +1,49 @@
+{
+  "language": "EN",
+  "cover_letter": {
+    "subject": "Application for the Quantitative Research Intern position – Gas & Electricity Market-Making Team (GBU Supply & Energy Management) – 6-month internship, 1 March to 31 August 2027",
+    "salutation": "Dear Hiring Manager,",
+    "paragraphs": [
+      "I am writing to apply for the Quantitative Research Intern position within the Gas & Electricity Market-Making Team of ENGIE's GBU Supply & Energy Management. I am currently completing a double degree: an MSc in Applied Mathematics & Statistics – Quantitative Finance & Actuarial Science at the University of Bordeaux, together with an engineering degree in Computer Science, Data & AI at ENSEIRB-MATMECA (Bordeaux INP). I am looking for a 6-month end-of-studies internship from 1 March to 31 August 2027, and research on how weather shapes short-term power markets is exactly where I want to apply statistics and machine learning.",
+      "My coursework covers probability, stochastic calculus, Monte Carlo methods, regression and machine learning, including deep learning. To work directly on the problems described in your posting, I carried out a Weather Forecast Verification & Aggregation project in Python (xarray, pandas): I aligned ECMWF and GFS forecast runs from open data, assessed them with bias, RMSE and CRPS by lead time, and built a skill-weighted blend. This is close to your missions of assessing the accuracy of forecast runs and combining sources into aggregated datasets that better isolate the weather signal.",
+      "My internships taught me to be rigorous with data. At Inside Therapeutics, as a Quantitative Data Analysis & Automation Intern, I designed and built LabData on my own, a Python / PostgreSQL / Streamlit platform that went into production in 7 weeks, processing around 500 samples per month with independent validation of calculations, reconciliation and an audit trail (4,123 tests, 91% coverage). On my own initiative I added an analysis layer (correlations, trend regressions, measurement noise versus process variability, anomaly alerts) and prototyped a Gaussian-process model on a design of experiments with uncertainty-guided active learning. At Société Générale, as a Data Analyst Intern – Capital Markets, I integrated 6 data sources in Python and SQL into automated, controlled flows feeding P&L tools, and replaced manual checks with more than 25 automated data-quality and compliance controls reported in Power BI to Finance, Risk and Trading teams.",
+      "Presenting technical results clearly matters to me: I presented LabData to the management committee and launched and ran an internal AI workshop. I would welcome the opportunity to work alongside your traders, turn weather research into useful market insights and discuss my application with you in an interview."
+    ],
+    "closing": "Yours sincerely,\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88\nhttps://www.linkedin.com/in/ihab-jaouad-848664171/"
+  },
+  "linkedin_connection": "Hello, I am an MSc Quant Finance & engineering student (ENSEIRB-MATMECA) applying to ENGIE S&EM's Quantitative Research internship (weather & power markets). I'd be glad to connect. Ihab",
+  "recruiter_message": "Hello,\nI have just applied for the Quantitative Research Intern position in ENGIE S&EM's Gas & Electricity Market-Making Team.\nI am completing an MSc in Applied Mathematics & Statistics – Quantitative Finance (University of Bordeaux) and an engineering degree in Computer Science, Data & AI (ENSEIRB-MATMECA).\nI recently aligned ECMWF and GFS forecast runs and scored them with bias, RMSE and CRPS by lead time in Python, which matches your team's weather research.\nI am available for 6 months, from 1 March to 31 August 2027.\nI would be happy to discuss my application. Thank you for your time.\nIhab Jaouad",
+  "application_email": {
+    "subject": "Application – Quantitative Research Intern (Gas & Electricity Market-Making, GBU S&EM) – Ihab Jaouad – March to August 2027",
+    "body": "Dear Hiring Manager,\n\nPlease find attached my CV and cover letter for the Quantitative Research Intern position in the Gas & Electricity Market-Making Team of ENGIE's GBU Supply & Energy Management.\n\nI am completing a double degree: an MSc in Applied Mathematics & Statistics – Quantitative Finance & Actuarial Science at the University of Bordeaux and an engineering degree in Computer Science, Data & AI at ENSEIRB-MATMECA (Bordeaux INP). I am available for a 6-month end-of-studies internship from 1 March to 31 August 2027.\n\nIn brief:\n- Weather Forecast Verification & Aggregation project (Python, xarray, pandas): alignment of ECMWF and GFS forecast runs from open data, bias, RMSE and CRPS by lead time, skill-weighted blend.\n- Inside Therapeutics: LabData, a Python / PostgreSQL / Streamlit platform I built on my own and put into production in 7 weeks, with independent validation of calculations, regressions and anomaly alerts; prototype Gaussian-process model with uncertainty-guided active learning.\n- Société Générale: 6 data sources integrated in Python and SQL into controlled flows feeding P&L tools, and more than 25 automated data-quality and compliance controls.\n\nI would be glad to discuss my application with you.\n\nYours sincerely,\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88\nhttps://www.linkedin.com/in/ihab-jaouad-848664171/"
+  },
+  "facts_used": [
+    "Name and contact: Ihab Jaouad, ihab.jaouad5@gmail.com, +33 6 25 58 61 88, LinkedIn https://www.linkedin.com/in/ihab-jaouad-848664171/",
+    "MSc Applied Mathematics & Statistics – Quantitative Finance & Actuarial Science, University of Bordeaux, double degree with ENSEIRB-MATMECA, 2026–2027, in progress",
+    "Engineering degree (Bac+5) Computer Science, Data & AI, ENSEIRB-MATMECA (Bordeaux INP), 2024–2027, in progress",
+    "Coursework (in progress for the MSc): stochastic calculus, Monte Carlo, regression, ML and deep learning",
+    "Availability: 6-month end-of-studies internship, 1 March to 31 August 2027",
+    "Inside Therapeutics, Quantitative Data Analysis & Automation Intern (EN master title), June–Sept. 2026",
+    "LabData designed and built alone, Python / PostgreSQL / Streamlit, in production in 7 weeks",
+    "Around 500 samples/month processed, independent validation of calculations, reconciliation, audit trail, 4,123 tests, 91% coverage",
+    "Analysis layer on own initiative: correlations, trend regressions, measurement noise vs process variability, anomaly alerts",
+    "Gaussian-process model on DoE with uncertainty-guided active learning: prototype (never 'deployed')",
+    "LabData presented to the management committee (CODIR); internal AI workshop launched and run",
+    "Société Générale, Data Analyst Intern – Capital Markets (EN master title), Aug.–Sept. 2025",
+    "6 data sources integrated (Python, SQL) into automated, controlled flows feeding P&L tools",
+    "More than 25 automated data-quality and compliance controls; Power BI reporting for Finance, Risk and Trading teams",
+    "CV project (to be completed before sending): Weather Forecast Verification & Aggregation – Python, xarray, pandas: ECMWF and GFS runs aligned from open data; bias, RMSE and CRPS by lead time; skill-weighted blend"
+  ],
+  "warnings": [
+    "The Weather Forecast Verification & Aggregation project is cited in the letter, the recruiter message and the e-mail: it must actually be completed (and marked as done in the app) before anything is sent. No result figure is given for it; be ready to explain the alignment method, CRPS and the blend weighting in interview.",
+    "The second CV project (Synthetic Weather Scenario Generator, PyTorch) is not cited in the letter: if you complete it, you may add one sentence on it (mission 2 of the posting), without any result figure.",
+    "Start date and duration of the internship are Unknown in the posting: check that a 6-month internship from 1 March to 31 August 2027 fits ENGIE's dates.",
+    "Location: the role is at Campus ENGIE, La Garenne-Colombes, while your 2026–2027 studies are in Bordeaux; be ready to confirm your availability in the Paris area from March 2027.",
+    "No recruiter or hiring manager name is known: the salutation is 'Dear Hiring Manager'. Replace it if you find a name through a legitimate channel.",
+    "To defend in interview: 4,123 tests / 91% coverage (type of tests, coverage tool), the 7-week production timeline, the exact Société Générale entity, what the 'P&L tools' were, and examples of compliance controls.",
+    "The Gaussian-process model is described as a prototype only; never present it as deployed.",
+    "The LinkedIn request is under 200 characters; recount after any edit. Use only legitimate manual channels (no automation on LinkedIn).",
+    "Official internship titles (convention) are to be confirmed; the texts use the EN master titles unchanged.",
+    "Nothing has been sent: review, adapt and send everything yourself."
+  ]
+}
