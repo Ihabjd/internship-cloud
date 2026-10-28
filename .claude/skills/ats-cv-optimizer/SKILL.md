@@ -9,6 +9,8 @@ effort: medium
 
 Turn one job posting plus the right master CV into a tailored, compilable, one-page LaTeX CV that a parser reads cleanly and a recruiter can verify claim by claim. Truthfulness beats keyword density: every word on the tailored CV must trace back to a verified fact.
 
+**Update from Ihab, 2026-10-28**: every tailored CV, FR and EN, keeps the order Profile → Education / Experience → Projects → Skills; only Education and Experience swap (Education first for a very technical posting), and the app enforces it.
+
 **Updates from Ihab, 2026-10-16** (they override older wording below): no LinkedIn link anywhere in a CV; the app adds 1–2 projects proposed for the posting (`new_projects`), which Ihab completes before applying (the app blocks the application until they are marked done); tailoring always follows the five phases below (merged on 2026-10-16 from the open-source skills listed in `references/LICENSES.md`).
 
 ## Method: five phases, never one shot
@@ -16,13 +18,13 @@ Turn one job posting plus the right master CV into a tailored, compilable, one-p
 Adapted from two MIT-licensed open-source skills (see `references/LICENSES.md`): **varunr89/resume-tailoring-skill** (phased workflow, confidence-scored matching, reframing strategies) and **olegvg/resume-tailor-plugin** (three separate assessments, ATS rules, contribution ownership). Core principle: truth-preserving optimisation, i.e. select, reframe and emphasise, never fabricate. Reason through each phase explicitly, in order, before writing any output.
 
 1. **Posting analysis** (`references/ats-rules.md`, Assessment 1). Separate explicit requirements (required / preferred) from your own inferred expectations, labelled as such. Record the exact terminology (products, methods, tools, desk or team name), the role archetype (quant, trading, structuring, sales, risk, asset management, PE / private debt, data), and eligibility (1 March → 31 August 2027, location, language, degree level). Optional: at most two web searches on the desk's business or an unknown term. Never search or read LinkedIn profiles.
-2. **Success profile and one-page plan.** List 3–5 themes that make someone succeed in this role, plus a vocabulary map from Ihab's wording to the posting's. Plan the page: section order (Profile first), bullets per experience by relevance, projects to show (usually 2, existing or proposed), skill lines to foreground.
+2. **Success profile and one-page plan.** List 3–5 themes that make someone succeed in this role, plus a vocabulary map from Ihab's wording to the posting's. Plan the page: section order (fixed, see Ihab's 2026-10-28 rule below: only Education and Experience swap), bullets per experience by relevance, projects to show (usually 2, existing or proposed), skill lines to foreground.
 3. **Requirement-by-requirement matching** (`references/matching-strategies.md`). For each requirement, give the best evidence from the facts and its level: DIRECT (professional experience, support 1), TRANSFERABLE (coursework or project, support 2), ADJACENT (neighbouring tool or domain, to reframe, support 3), GAP (nothing, support 4: never on the CV; a proposed project may fill it). Count them for the assessment, e.g. "Required: 5/7 direct, 1 transferable, 1 gap". These are evidence counts, not a hiring probability.
 4. **Writing by reframing** (`references/matching-strategies.md`, Content Reframing Strategies; `references/voice-and-positioning.md`). Use keyword alignment, emphasis shift, abstraction level and scale emphasis. Verbs match the real contribution (team of 6 stays a team; a prototype is not "deployed"); numbers keep their unit, period and attribution. **Condense rather than delete**: merge two close bullets into one (rewrite one, list the other as removed); a rewrite is never longer than its original.
 5. **Self-review, then fix** (`references/ats-rules.md`, three separate assessments). Read the draft as the recruiter for this role, then correct it:
    - job fit: every required criterion is covered in the right place (profile, experience, project, skills) with the posting's terms;
    - factual reliability: titles, employers, dates, figures and contributions match the facts;
-   - document quality: one page, Profile first, standard headings, crisp sentences, no useless repetition.
+   - document quality: one page, fixed section order, standard headings, crisp sentences, no useless repetition.
 
    No aggregate score and no "ATS pass probability".
 
@@ -71,7 +73,7 @@ List, without softening: missing essential requirements, missing desirable ones,
 ### 5. Rewrite and reorder
 - Copy the master into the application folder; edit only the copy.
 - Keep the preamble, macros (`\entry`, `\entryline`, `\project`, `bullets`, `\icon`) and the visual design.
-- Order: the most relevant evidence first. For quant/pricing roles, Projects can move above Experience; within a block, the most relevant bullet goes first.
+- Section order (Ihab's rule, 2026-10-28, every FR and EN CV): Profile → Education and Experience → Projects → Skills. Only Education and Experience swap: Education first for a very technical posting (quant, pricing, structuring, quant research: maths, stochastic calculus, C++ or models at the core), Experience first otherwise. State the choice in one line in the report. Within a block, the most relevant bullet goes first.
 - Rewrite bullets as action + method + scope + verified result. Use the employer's wording only when it is accurate for Ihab ("risk management" yes; "front-office" no).
 - Update `pdfsubject` and `pdfkeywords` in `\hypersetup` with supported keywords only.
 - Escape LaTeX specials: `\&`, `\%`, `\$`, `\#`, `\_`; use `--` for ranges and `\textasciitilde` for "~".
