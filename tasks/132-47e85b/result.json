@@ -1,0 +1,174 @@
+{
+  "listing": {
+    "Employer": "ENGIE (GBU Supply & Energy Management)",
+    "Job_Title": "Quantitative Research Intern",
+    "Job_Family": "Quant Research / Quant Analyst",
+    "Location": "Campus ENGIE - La Garenne-Colombes",
+    "Country": "France",
+    "Source": "Offre transmise par Ihab (texte collé, mode paste)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "Unknown",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-28",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "Unknown",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "Unknown",
+    "Match_Score": "80",
+    "Priority": "High priority",
+    "Eligibility_Status": "Unclear",
+    "Core_Requirements_Met": "Yes",
+    "Main_Strengths": "Python à usage professionnel (Société Générale, Inside Therapeutics) ; bases ML / probabilités / statistiques (cours ENSEIRB IA-ML, M2 IREF, régressions et analyse bruit/variabilité chez Inside Therapeutics, prototype de processus gaussien) ; double cursus quantitatif (M2 IREF + ingénieur Data & IA) ; anglais C1 (TOEIC 970) ; présentation de résultats techniques (LabData présenté au CODIR) ; projet de market making par RL (équipe de 6).",
+    "Essential_Gaps": "Aucun écart essentiel identifié dans les exigences listées ; dates et durée du stage non précisées dans le texte (compatibilité 1er mars – 31 août 2027 à confirmer).",
+    "Preferred_Gaps": "Aucune expérience déclarée sur les données météo, les prévisions d'ensemble ou les marchés court terme de l'électricité ; pas d'expérience déclarée en génération de scénarios synthétiques (modèles génératifs).",
+    "Fit_Explanation": "Rôle de recherche quantitative au sein de l'équipe Gas & Electricity Market-Making, au contact des traders : analyses statistiques de prévisions météo, modèles ML de scénarios synthétiques, agrégation de données. Les exigences (ML, probabilités, statistiques, Python, Master quantitatif, anglais courant) correspondent au profil vérifié. Réserve principale : dates et durée inconnues ; domaine énergie/météo nouveau pour Ihab. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Page officielle non retrouvée le 2026-10-28 (une recherche web : seules des annonces « Intern - Quantitative Research », Engie, La Garenne-Colombes, sur espace-emploi.agefiph.fr, hôte inaccessible depuis la session cloud ; aucune page jobs.engie.com correspondante trouvée). Le texte ne donne ni URL, ni référence, ni date de publication, ni dates de stage, ni durée. Offre ENGIE voisine déjà connue : J-0CBCCB0A (Intern - Quantitative Energy Portfolio Analyst, même GBU, même campus, réf. 72788) — intitulé différent, pas un doublon. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 18,
+        "evidence": "Missions : analyses statistiques de prévisions météo, modèles ML de scénarios synthétiques, alignement/agrégation de sources, échanges avec les traders. Proche des réalisations d'Ihab (régressions, analyse bruit/variabilité, alertes d'anomalies, prototype de processus gaussien chez Inside Therapeutics ; market making RL en projet), mais aucune expérience météo ou marchés de l'électricité."
+      },
+      "tech": {
+        "points": 21,
+        "evidence": "Exigés : « Solid foundations in machine learning, probability, and statistics », « Proficiency in Python ». Python professionnel (SG, Inside Therapeutics), pandas/NumPy/scikit-learn/PyTorch listés, cours ML/deep learning (ENSEIRB), calcul stochastique et Monte Carlo (M2, en cours). Pas de preuve en modèles génératifs de scénarios."
+      },
+      "academic": {
+        "points": 13,
+        "evidence": "« Master's degree (or equivalent) in a quantitative field » : M2 IREF Finance quantitative (en cours) + diplôme d'ingénieur Informatique, Data & IA (en cours). Stage de fin d'études / convention non mentionnés dans le texte."
+      },
+      "career": {
+        "points": 12,
+        "evidence": "Recherche quantitative au sein d'une équipe de market making gaz/électricité, au contact des traders : proche de la famille cœur « quant (desk quant) » mais chez un énergéticien et non en banque ou fonds ; légèrement en dessous de la note cœur maximale."
+      },
+      "duration": {
+        "points": 6,
+        "evidence": "Date de début et durée absentes du texte (Unknown) → note « inconnue »."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "Campus ENGIE, La Garenne-Colombes (Hauts-de-Seine, Île-de-France) = pleine note ; « Fluent English » exigé vs anglais C1 (TOEIC 970)."
+      }
+    },
+    "Required_Skills": [
+      "Strong analytical and logical skills",
+      "Solid foundations in machine learning, probability, and statistics",
+      "Proficiency in Python",
+      "Ability to present technical findings clearly",
+      "Attention to detail",
+      "Rigorous and methodical approach to research",
+      "Master's degree (or equivalent) in a quantitative field (Mathematics, Statistics, Data Science, Machine Learning, Engineering, Physics or related)"
+    ],
+    "Preferred_Skills": [
+      "Previous academic or project experience in quantitative research, statistics, or machine learning"
+    ],
+    "Responsibilities": [
+      "Conduct statistical analyses of weather forecast runs to assess their representativeness and accuracy",
+      "Develop machine learning models to generate synthetic weather scenarios and improve forecast representativeness",
+      "Align weather forecast runs from different sources and combine them into aggregated datasets that better isolate the weather signal",
+      "Collaborate with traders to understand market dynamics and translate research findings into valuable market insights"
+    ],
+    "Languages": [
+      "English (fluent)"
+    ],
+    "Next_Action": "Retrouver la page officielle (jobs.engie.com) pour obtenir référence, dates et durée ; si le début au 1er mars 2027 pour 6 mois est compatible, préparer un CV EN adapté (ats-cv-optimizer) mettant en avant ML/statistiques et Python.",
+    "Recommended_CV_Version": "EN — Quant Research / Quant Analyst"
+  },
+  "language_of_posting": "EN",
+  "verified_facts": [
+    {
+      "field": "Job_Title",
+      "value": "Quantitative Research Intern",
+      "quote": "Quantitative Research Intern"
+    },
+    {
+      "field": "Location",
+      "value": "Campus ENGIE - La Garenne-Colombes",
+      "quote": "Location: Campus ENGIE - La Garenne -Colombes"
+    },
+    {
+      "field": "Employer",
+      "value": "ENGIE, GBU Supply & Energy Management",
+      "quote": "ENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM)"
+    },
+    {
+      "field": "Team",
+      "value": "Gas & Electricity Market-Making Team",
+      "quote": "As part of the Gas & Electricity Market-Making Team, you will contribute to quantitative research focused on weather and its impact on short-term power markets."
+    },
+    {
+      "field": "Required_Skills",
+      "value": "ML, probabilités, statistiques",
+      "quote": "Solid foundations in machine learning, probability, and statistics."
+    },
+    {
+      "field": "Required_Skills",
+      "value": "Python",
+      "quote": "Proficiency in Python."
+    },
+    {
+      "field": "Academic requirement",
+      "value": "Master (ou équivalent) dans une discipline quantitative",
+      "quote": "Master's degree (or equivalent) in a quantitative field such as Mathematics, Statistics, Data Science, Machine Learning, Engineering, Physics, or a related discipline."
+    },
+    {
+      "field": "Preferred_Skills",
+      "value": "Expérience académique ou projet en recherche quantitative, statistiques ou ML",
+      "quote": "Previous academic or project experience in quantitative research, statistics, or machine learning is a plus."
+    },
+    {
+      "field": "Languages",
+      "value": "Anglais courant",
+      "quote": "Fluent English."
+    },
+    {
+      "field": "Responsibilities",
+      "value": "Travail avec les traders",
+      "quote": "Collaborate with traders to understand market dynamics and translate research findings into valuable market insights."
+    }
+  ],
+  "inferences": [
+    {
+      "field": "Country",
+      "value": "France",
+      "reasoning": "La Garenne-Colombes est une commune des Hauts-de-Seine (Île-de-France) ; le pays n'est pas écrit dans le texte."
+    },
+    {
+      "field": "Job_Family",
+      "value": "Quant Research / Quant Analyst",
+      "reasoning": "Intitulé « Quantitative Research Intern » et missions de recherche statistique/ML au service d'une équipe de market making."
+    },
+    {
+      "field": "Career alignment",
+      "value": "Proche du cœur (quant de desk) mais secteur énergie",
+      "reasoning": "Les familles cibles visent banques, fonds quant et gestion d'actifs ; le market making gaz/électricité d'un énergéticien est une activité de marché comparable, d'où 12/15 plutôt que 15/15."
+    },
+    {
+      "field": "Contract type",
+      "value": "Stage (intern)",
+      "reasoning": "Le mot « Intern » figure dans l'intitulé ; aucune mention de convention, de stage de fin d'études ni de durée."
+    },
+    {
+      "field": "Duplicate check",
+      "value": "Pas un doublon de J-0CBCCB0A",
+      "reasoning": "Même employeur/GBU et même campus, mais intitulé différent (« Quantitative Energy Portfolio Analyst » vs « Quantitative Research ») et missions différentes."
+    }
+  ],
+  "eligibility": {
+    "status": "Unclear",
+    "reasons": [
+      "Dates de début et de fin et durée absentes du texte : compatibilité avec le stage IREF du 1er mars au 31 août 2027 (sans extension) impossible à confirmer.",
+      "Exigence de diplôme satisfaite sur le fond : M2 IREF Finance quantitative et diplôme d'ingénieur Data & IA en cours (Master dans une discipline quantitative).",
+      "Anglais courant exigé : anglais C1 (TOEIC 970/990).",
+      "Aucune exigence de nationalité, d'année de césure ou de diplôme déjà obtenu dans le texte."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Page officielle non retrouvée : Verification_Status = Unverified. Les annonces trouvées par recherche (espace-emploi.agefiph.fr, plusieurs « Intern - Quantitative Research », Engie, La Garenne-Colombes) n'ont pas pu être ouvertes : l'hôte n'est pas autorisé dans le réseau de la session cloud.",
+    "Le texte transmis ne contient ni URL, ni référence, ni date de publication, ni date limite, ni dates/durée de stage : tous ces champs sont Unknown.",
+    "Offre voisine déjà suivie : J-0CBCCB0A (ENGIE, Intern - Quantitative Energy Portfolio Analyst, même campus). Intitulé et missions différents : traitée comme une offre distincte, pas comme un doublon.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
