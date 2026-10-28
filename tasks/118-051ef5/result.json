@@ -1,0 +1,378 @@
+{
+ "language": "FR",
+ "keyword_map": [
+  {
+   "keyword": "Python",
+   "importance": "E",
+   "support": 1,
+   "evidence": "LabData Python/SQL/Streamlit en production (Inside Therapeutics) ; 6 sources intégrées en Python, SQL (SG)",
+   "location": "exp_insidetx_2, exp_sg_1, skills_programming",
+   "action": "Conservé en tête de la ligne Programmation et dans les puces"
+  },
+  {
+   "keyword": "statistiques / modélisation statistique",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Couche d'analyse : corrélations, régressions, bruit de mesure / variabilité du procédé (Inside Therapeutics) ; M2 mention Mathématiques appliquées, statistique",
+   "location": "profile, exp_insidetx_3, edu_m2",
+   "action": "« analyse statistique » et « modélisation statistique » repris dans le profil et la puce"
+  },
+  {
+   "keyword": "mathématiques appliquées",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Master 2 IREF, mention Mathématiques appliquées, statistique ; major en mathématiques en CPGE",
+   "location": "profile, edu_m2, edu_cpge",
+   "action": "Ajouté au profil"
+  },
+  {
+   "keyword": "finance quantitative",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Master 2 IREF – Finance quantitative et actuariat (en cours)",
+   "location": "profile, edu_m2",
+   "action": "Conservé dans le profil"
+  },
+  {
+   "keyword": "dernière année de grande école d'ingénieurs",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Diplôme d'ingénieur ENSEIRB-MATMECA 2024 – 2027, stage de fin d'études",
+   "location": "profile, edu_enseirb",
+   "action": "« Élève ingénieur en dernière année » en ouverture du profil"
+  },
+  {
+   "keyword": "données financières",
+   "importance": "E",
+   "support": 1,
+   "evidence": "6 sources de données intégrées en flux contrôlés pour les outils de P&L, analyse de données pour plusieurs desks de marché (SG)",
+   "location": "exp_sg_1, exp_sg_2",
+   "action": "Puces SG conservées"
+  },
+  {
+   "keyword": "modélisation / calibration de modèles",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Prototype de modèle par processus gaussien sur plan d'expériences (Inside Therapeutics) ; Monte Carlo et calcul stochastique en cours",
+   "location": "exp_insidetx_4, skills_quant, new:2",
+   "action": "Mot « calibré » retiré de la puce GP (sur-interprétation) ; calibration dynamique portée par le projet new:2 uniquement"
+  },
+  {
+   "keyword": "séries temporelles",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Ligne Méthodes quantitatives : séries temporelles",
+   "location": "skills_quant",
+   "action": "Remonté en 2e position"
+  },
+  {
+   "keyword": "régression",
+   "importance": "D",
+   "support": 1,
+   "evidence": "Régressions dans la couche d'analyse LabData",
+   "location": "exp_insidetx_3, skills_quant",
+   "action": "Placé en tête des méthodes quantitatives"
+  },
+  {
+   "keyword": "validation out-of-sample / méthodes robustes",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Backtesting (VaR/ES) dans le projet options et le cours de risque de marché ; validation indépendante des calculs, 4 123 tests (Inside Therapeutics)",
+   "location": "skills_finance, edu_m2, exp_insidetx_1",
+   "action": "Backtesting remonté ; « out-of-sample » porté par le nouveau projet new:1 uniquement"
+  },
+  {
+   "keyword": "rigueur, esprit critique, capacité à questionner les résultats",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Validation indépendante des calculs, réconciliation (concordance totale), piste d'audit ; plus de 25 contrôles automatisés (SG)",
+   "location": "exp_insidetx_1, exp_sg_2",
+   "action": "Puces de contrôle mises en avant"
+  },
+  {
+   "keyword": "anglais (oral et écrit)",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Anglais courant C1 – TOEIC 970/990",
+   "location": "skills_languages",
+   "action": "Conservé"
+  },
+  {
+   "keyword": "futures de matières premières",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "gaps",
+   "action": "Non ajouté au CV ; couvert par les nouveaux projets à réaliser"
+  },
+  {
+   "keyword": "changements de régime",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "gaps",
+   "action": "Non ajouté ; projet new:2"
+  },
+  {
+   "keyword": "saisonnalité / désaisonnalisation des courbes",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "gaps",
+   "action": "Non ajouté ; projet new:1"
+  },
+  {
+   "keyword": "structure par terme / signaux sur différentes maturités",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait (fixed income suivi en cours, sans courbe de futures)",
+   "location": "gaps",
+   "action": "Non ajouté ; projet new:1"
+  },
+  {
+   "keyword": "trading quantitatif et systématique",
+   "importance": "C",
+   "support": 2,
+   "evidence": "Projet market making par RL en équipe de 6, carnet d'ordres C++ sur flux Binance",
+   "location": "proj_rl (non affiché)",
+   "action": "Non affiché pour laisser la place aux projets futures ; à évoquer en entretien"
+  },
+  {
+   "keyword": "travail en équipe",
+   "importance": "C",
+   "support": 1,
+   "evidence": "Projet RL en équipe de 6 ; Event Manager CLUBEE, équipe de 5",
+   "location": "exp_clubee",
+   "action": "Conservé si la page le permet"
+  }
+ ],
+ "section_order": [
+  "profile",
+  "education",
+  "experience",
+  "projects",
+  "skills"
+ ],
+ "bullet_order": [
+  {
+   "block_id": "exp_insidetx",
+   "bullet_ids": [
+    "exp_insidetx_3",
+    "exp_insidetx_4",
+    "exp_insidetx_1",
+    "exp_insidetx_2"
+   ]
+  },
+  {
+   "block_id": "exp_sg",
+   "bullet_ids": [
+    "exp_sg_1",
+    "exp_sg_2"
+   ]
+  }
+ ],
+ "removed_bullets": [],
+ "rewrites": [
+  {
+   "bullet_id": "exp_insidetx_3",
+   "text": "Pris l'initiative d'une couche d'analyse statistique (corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies) pour valider les machines et optimiser les paramètres.",
+   "reason": "Puce la plus proche du poste (analyse statistique, régressions, séparer bruit et variabilité = questionner les résultats), en tête ; raccourcie",
+   "keywords": [
+    "analyse statistique",
+    "régressions",
+    "modélisation"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_4",
+   "text": "Prototypé un modèle par processus gaussien sur plan d'expériences (active learning guidé par l'incertitude) ; présenté LabData au CODIR ; animé un workshop IA interne.",
+   "reason": "« calibré » retiré : un GP ajusté sur plan d'expériences n'est pas une calibration de modèle au sens de l'offre, risque de sur-interprétation ; raccourcie, prototype jamais déployé",
+   "keywords": [
+    "modélisation",
+    "processus gaussien",
+    "incertitude"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_1",
+   "text": "Automatisé le traitement de ~500 échantillons/mois, calculs validés indépendamment (réconciliation : concordance totale, piste d'audit, documentation) ; 4 123 tests, couverture 91 %.",
+   "reason": "Rigueur et validation des résultats ; mêmes chiffres, formulation condensée",
+   "keywords": [
+    "rigueur",
+    "validation"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_2",
+   "text": "Conçu et développé seul LabData, sans cahier des charges : plateforme Python/SQL/Streamlit en production en 7 semaines ; ~2 h de travail manuel gagnées par expérience pour 6 scientifiques.",
+   "reason": "Condensée (« de bout en bout » redondant avec « seul, sans cahier des charges »), mêmes faits et chiffres",
+   "keywords": [
+    "Python",
+    "SQL"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_1",
+   "text": "Intégré 6 sources de données (Python, SQL) en flux automatisés et contrôlés pour les outils de P&L.",
+   "reason": "Raccourci ; données alimentant les outils de P&L = données financières",
+   "keywords": [
+    "données financières",
+    "Python",
+    "SQL"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_2",
+   "text": "Remplacé des contrôles manuels par plus de 25 contrôles automatisés de qualité des données et de conformité, suivis sous Power BI par les équipes Finance, Risques et Trading.",
+   "reason": "Raccourci (« reportings » retiré) pour faire de la place, mêmes chiffres",
+   "keywords": [
+    "contrôles",
+    "qualité des données"
+   ]
+  }
+ ],
+ "field_rewrites": [
+  {
+   "block_id": "edu_m2",
+   "field": "extra",
+   "text": "calcul stochastique, Monte Carlo, risque de marché (VaR, Expected Shortfall, backtesting, stress tests), fixed income & produits dérivés, gestion de portefeuille, risque de crédit, Bâle III.",
+   "reason": "Cours utiles en recherche quant en premier ; libellés condensés (« finance mathématique », « computational finance », « scoring » retirés, contenus gardés) pour tenir sur une page",
+   "keywords": [
+    "calcul stochastique",
+    "Monte Carlo",
+    "backtesting",
+    "produits dérivés"
+   ]
+  },
+  {
+   "block_id": "edu_enseirb",
+   "field": "extra",
+   "text": "algorithmique numérique, IA (ML, deep learning), C/C++/Python (POO), finance de marché.",
+   "reason": "ML avant la programmation, pour la recherche de signaux",
+   "keywords": [
+    "machine learning"
+   ]
+  },
+  {
+   "block_id": "skills_quant",
+   "field": "content",
+   "text": "régression, séries temporelles, Monte Carlo, calcul stochastique, machine learning.",
+   "reason": "Régression et séries temporelles en tête (désaisonnalisation, signaux)",
+   "keywords": [
+    "régression",
+    "séries temporelles"
+   ]
+  },
+  {
+   "block_id": "skills_programming",
+   "field": "content",
+   "text": "Python (pandas, NumPy, scikit-learn, PyTorch, Streamlit), C/C++, SQL (PostgreSQL), R, VBA. Outils : Git, Linux, Excel, Power BI, Claude Code (développement assisté par IA).",
+   "reason": "Java et TypeScript retirés (peu utiles ici, autorisé par Ihab), Python en tête",
+   "keywords": [
+    "Python"
+   ]
+  },
+  {
+   "block_id": "skills_finance",
+   "field": "content",
+   "text": "produits dérivés, fixed income, backtesting, stress tests, VaR/ES, pricing d'options (Black–Scholes, Greeks), delta-hedging, P&L, Bâle III/FRTB, Solvabilité II.",
+   "reason": "Dérivés et backtesting en tête, réglementaire en fin",
+   "keywords": [
+    "produits dérivés",
+    "backtesting"
+   ]
+  }
+ ],
+ "projects": [
+  "new:1",
+  "new:2"
+ ],
+ "new_projects": [
+  {
+   "title": "Futures énergie : saisonnalité et signaux par maturité – Python, statsmodels",
+   "desc": "Futures WTI et gaz (données EIA) : désaisonnalisation, structure par terme, signaux validés out-of-sample.",
+   "tools": [
+    "Python",
+    "pandas",
+    "NumPy",
+    "statsmodels",
+    "matplotlib"
+   ],
+   "why": "Reprend trois missions de l'offre : désaisonnalisation des courbes, recherche de signaux sur différentes maturités et validation out-of-sample, sur des futures de matières premières réelles.",
+   "steps": [
+    "Télécharger les prix quotidiens publics des contrats NYMEX 1 à 4 (WTI, gaz naturel Henry Hub) publiés par l'EIA, construire la structure par terme et les spreads entre maturités",
+    "Estimer et retirer la saisonnalité (STL, dummies mensuelles, régression de Fourier) et comparer les résidus",
+    "Construire des signaux simples par maturité (pente de la courbe / carry, momentum désaisonnalisé)",
+    "Séparer in-sample / out-of-sample, mesurer la stabilité des signaux (corrélation de rang, t-stats, coûts simplifiés) et documenter les échecs",
+    "Rédiger un notebook reproductible et une note de 2 pages sur les limites (roll, contrats continus, biais de survie)"
+   ],
+   "effort_hours": 30
+  },
+  {
+   "title": "Changements de régime sur futures énergie – Python, statsmodels",
+   "desc": "Modèle de Markov à régimes recalibré en fenêtre glissante sur futures énergie ; validation walk-forward.",
+   "tools": [
+    "Python",
+    "pandas",
+    "statsmodels",
+    "scikit-learn"
+   ],
+   "why": "Répond à l'étude de l'adaptation dans le temps des modèles, aux changements de régime et à la calibration dynamique sur données réelles.",
+   "steps": [
+    "Reprendre les séries de futures du projet 1 (rendements du contrat front, pente de courbe)",
+    "Ajuster un modèle de Markov à 2-3 régimes (MarkovRegression de statsmodels) et un filtre de Kalman pour un paramètre variable dans le temps",
+    "Recalibrer en fenêtre glissante et suivre la stabilité des paramètres et des probabilités de régime",
+    "Valider en walk-forward : comparer avec un modèle statique sur la période out-of-sample",
+    "Documenter hypothèses, limites et sensibilité à la fenêtre de calibration"
+   ],
+   "effort_hours": 25
+  }
+ ],
+ "headline": "Stage de fin d'études (6 mois) – Recherche quantitative, modélisation statistique – dès mars 2027",
+ "profile": "Élève ingénieur en dernière année (ENSEIRB-MATMECA, data & IA, top 3 %), en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat (mathématiques appliquées, statistique). Modélisation statistique et data en Python, SQL, C++, des flux de P&L à une plateforme en production.",
+ "gaps": [
+  "Futures de matières premières (aucune expérience ni cours)",
+  "Changements de régime (modèles de Markov, ruptures)",
+  "Saisonnalité et désaisonnalisation de courbes",
+  "Structure par terme des futures, roll, signaux par maturité",
+  "Validation out-of-sample de signaux de trading (seulement du backtesting de VaR en cours et en projet)",
+  "Recherche quantitative de signaux (alpha) sur données de marché"
+ ],
+ "claims_to_defend": [
+  "Top 3 % de la promotion ENSEIRB-MATMECA (semestre, taille de la promotion)",
+  "Couche d'analyse statistique LabData : quelles régressions, comment séparer bruit de mesure et variabilité du procédé",
+  "Prototype par processus gaussien sur plan d'expériences : noyau, hyperparamètres, critère d'active learning ; prototype, non déployé",
+  "4 123 tests et couverture de 91 % : type de tests, outil de mesure",
+  "Gain de ~2 h par expérience : méthode de mesure",
+  "SG : nature des 6 sources de données et des outils de P&L, exemples de contrôles (stage de 2 mois)",
+  "Séries temporelles et backtesting : niveau réel (cours en cours, projet options)",
+  "Projets futures (à réaliser) : choix de la désaisonnalisation, protocole out-of-sample, roll des contrats",
+  "Disponibilité à Paris dès mars 2027 alors que la scolarité 2026-2027 est à Bordeaux"
+ ],
+ "assessment": {
+  "verdict": "Profil crédible pour ce stage : grande école d'ingénieurs en dernière année, M2 de finance quantitative mention mathématiques appliquées et statistique, Python solide et vraie expérience d'analyse statistique. Le manque est métier : aucune pratique des futures de matières premières, de la saisonnalité ni des changements de régime, et pas de recherche de signaux validée out-of-sample. Les deux projets proposés, réalisés sérieusement, feront la différence en entretien chez ABC arbitrage.",
+  "strengths": [
+   "Statistique appliquée sur données réelles : corrélations, régressions, bruit de mesure contre variabilité du procédé (Inside Therapeutics)",
+   "Rigueur démontrée : validation indépendante des calculs, réconciliation, 4 123 tests, plus de 25 contrôles automatisés (SG)",
+   "Python en production (LabData, 7 semaines, seul)",
+   "Formation exactement ciblée : M2 IREF mathématiques appliquées, statistique, finance quantitative ; top 3 % ENSEIRB, major en maths en CPGE",
+   "Anglais C1 (TOEIC 970/990), exigé par l'offre"
+  ],
+  "improvements": [
+   "Aucune connaissance démontrée des futures de matières premières (contango/backwardation, roll, saisonnalité gaz/énergie)",
+   "Modèles de séries temporelles avancés non pratiqués : changements de régime, filtre de Kalman, tests de stationnarité",
+   "Méthodologie de recherche de signaux : biais de look-ahead, sur-apprentissage, validation walk-forward",
+   "Le modèle GP est un prototype ajusté sur plan d'expériences, pas une calibration sur données de marché : à présenter honnêtement (le mot « calibré » a été retiré du CV)"
+  ],
+  "recommendations": [
+   "Réaliser d'abord new:1 (courbes de futures et désaisonnalisation), puis new:2 (régimes, walk-forward)",
+   "Tant que new:1 et new:2 ne sont pas réalisés, ne pas envoyer ce CV : sans eux, la section Projets est vide de futures ; à défaut, revenir à proj_options et proj_rl",
+   "Réviser séries temporelles (ARMA, stationnarité, STL), modèles de Markov à changement de régime et filtre de Kalman",
+   "Lire sur la structure par terme des commodities (modèle de Schwartz, convenience yield, roll yield)",
+   "En entretien, raconter la couche d'analyse LabData comme une démarche de recherche : hypothèse, test, remise en question des résultats",
+   "Préparer une réponse claire sur la disponibilité à Paris dès mars 2027 (offre : mars/mai 2027)"
+  ]
+ },
+ "new_facts": [],
+ "reply": "Relecture « recruteur ABC arbitrage, 30 secondes » faite (phase 5). Adéquation : formation (dernière année d'ingénieur + M2 mathématiques appliquées, statistique), Python et analyse statistique sont visibles dès le profil et la 1re puce ; le manque métier (futures, saisonnalité, régimes) n'est couvert que par les deux projets à réaliser. Fiabilité : j'ai retiré « calibré » de la puce processus gaussien (un ajustement sur plan d'expériences n'est pas une calibration de modèle au sens de l'offre, un recruteur quant le relèverait) et rétabli « pris l'initiative ». Une page : toutes les puces sont raccourcies (4 à 17 caractères de moins chacune), cours du M2 condensés (247 → 190 caractères), ligne Finance & risques (VaR/ES), titre et descriptions des projets resserrés ; aucun fait ni chiffre perdu. Je n'ai retiré aucune puce : si ça déborde encore, l'app retirera les centres d'intérêt puis CLUBEE, ce qui me semble acceptable pour ce poste. Question toujours ouverte : as-tu déjà pratiqué les séries temporelles (ARMA, stationnarité, saisonnalité) dans un cours ou un projet, et lequel ? Et peux-tu confirmer ta disponibilité à Paris dès mars 2027 ?"
+}
