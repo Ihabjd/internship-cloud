@@ -1,0 +1,122 @@
+{
+  "listing": {
+    "Employer": "Crédit Agricole CIB",
+    "Job_Title": "Analyste IT Fixed Income H/F",
+    "Job_Family": "Capital Markets Data / Python",
+    "Location": "Montrouge (92)",
+    "Country": "France",
+    "Source": "Offre transmise par Ihab (mode paste, source « url ») – site carrières Crédit Agricole S.A. / CA-CIB",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "2026-116578",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-28",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "2027-02-01",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "78",
+    "Priority": "Worth applying",
+    "Eligibility_Status": "Unclear",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Contrôles automatisés de qualité des données alimentant des outils de P&L (Société Générale, 2025) et réconciliation / piste d'audit / tests (Inside Therapeutics) = cœur des missions ; P&L explain, Greeks et VaR/ES dans le projet de pricing d'options ; Python et SQL professionnels ; double diplôme ingénieur informatique + M2 finance quantitative (cours fixed income et dérivés en cours) ; FR C2 / EN C1.",
+    "Essential_Gaps": "Début prévu le 01/02/2027, incompatible avec le calendrier IREF (1er mars – 31 août 2027, sans extension) sauf accord de l'employeur pour un début au 1er mars.",
+    "Preferred_Gaps": "C# absent des faits vérifiés ; VBA et Linux scripting seulement listés, sans preuve visible ; aucune expérience directe de DV01 / sensibilités taux (cours M2 fixed income en cours uniquement).",
+    "Fit_Explanation": "Stage IT en banque de marchés (filière Bonds, desks EGB, Inflation, SSA) centré sur les chaînes de pricing, les contrôles de données, la réconciliation PnL/risques et des prototypes Python : très proche de l'expérience SG et d'Inside Therapeutics. Famille passerelle (pricing / IT de marché), pas front office. Le point bloquant est la date de début (février). Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "« Date de mise à jour 16/10/2026 » (date de mise à jour, pas de publication). Page officielle non consultée : jobs.ca-cib.com inaccessible depuis la session cloud (domaine non autorisé). Autre offre CA-CIB déjà suivie (J-92181686, réf. 2026-116365) : poste différent, pas un doublon. Employeur présent dans la liste des stages des anciens IREF. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 21,
+        "evidence": "Missions : analyse des chaînes de pricing Fixed Income, contrôles de qualité des données, réconciliation des prix, DV01 / sensibilités / PnL Explain, prototypes Python. Ihab : 6 sources intégrées et plus de 25 contrôles automatisés alimentant les outils de P&L (SG) ; réconciliation, piste d'audit, 4 123 tests (Inside Therapeutics) ; P&L explain et Greeks (projet pricing d'options). Pas d'expérience directe du pricing obligataire."
+      },
+      "tech": {
+        "points": 19,
+        "evidence": "Python et SQL : preuve professionnelle. Linux et VBA : listés sans preuve. C# : absent des faits. Bases en finance de marché et mathématiques : cours M2 IREF (fixed income, dérivés) et ENSEIRB, projet pricing/VaR-ES."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "Exigé : Bac+5 / M2, école d'ingénieur/informatique, spécialisation finance, mathématiques ou informatique. Ihab : ingénieur ENSEIRB-MATMECA (Informatique, Data & IA) + M2 IREF finance quantitative, en dernière année. Le caractère « stage de fin d'études » n'est pas précisé dans l'offre."
+      },
+      "career": {
+        "points": 10,
+        "evidence": "IT / pricing des activités de marché (Capital Markets IT, Global Markets Division) : famille passerelle (pricing / valorisation), porte d'entrée vers les desks, mais rôle IT et non front office."
+      },
+      "duration": {
+        "points": 4,
+        "evidence": "« 6 mois », « Date prévue de prise de fonction 01/02/2027 » : un mois avant le début autorisé par l'IREF (1er mars 2027, sans extension). Flexibilité non indiquée."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "Montrouge (92), Île-de-France = pleine note. « Français et Anglais courants » exigés : FR C2, EN C1 (TOEIC 970)."
+      }
+    },
+    "Required_Skills": [
+      "Bases en finance de marché et en mathématiques",
+      "IT",
+      "Linux Scripting",
+      "C#",
+      "Python",
+      "VBA",
+      "Maîtrise du Pack Microsoft Office",
+      "Français et Anglais courants",
+      "Bac + 5 / M2 et plus (école d'ingénieur / informatique ; spécialisation finance, mathématiques ou informatique)"
+    ],
+    "Preferred_Skills": [
+      "Première expérience en Python",
+      "Première expérience en SQL",
+      "Analyse de données financières",
+      "Environnement de marchés de capitaux",
+      "Curiosité",
+      "Autonomie"
+    ],
+    "Responsibilities": [
+      "Analyser les chaînes de pricing existantes sur les produits Fixed Income et contribuer à l'optimisation des temps de calcul",
+      "Participer à la mise en place de contrôles de qualité des données, de réconciliation des prix et d'amélioration de la fiabilité des outils",
+      "Étudier les mesures de risques (DV01, sensibilités, PnL Explain) et contribuer aux analyses de réconciliation entre PnL et risques",
+      "Développer des prototypes et outils d'analyse en Python, rédiger la documentation associée et participer à l'amélioration des processus de support de la plateforme post-trade"
+    ],
+    "Languages": [
+      "Français (courant)",
+      "Anglais (courant)"
+    ],
+    "Next_Action": "Vérifier que l'offre est toujours en ligne sur le site carrières CA-CIB (réf. 2026-116578) ; si Ihab est intéressé, demander (lui-même) si un début au 1er mars 2027 est possible avant de préparer le dossier (ats-cv-optimizer, CV FR).",
+    "Recommended_CV_Version": "FR – Capital Markets Data / Python"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {"field": "Job_Title", "value": "Analyste IT Fixed Income H/F", "quote": "Intitulé du poste\n\nAnalyste IT Fixed Income H/F"},
+    {"field": "Contract", "value": "Stage", "quote": "Type de contrat\n\nStage"},
+    {"field": "Duration_Months", "value": "6", "quote": "Durée (en mois)\n\n6 mois"},
+    {"field": "Internship_Start_Date", "value": "2027-02-01", "quote": "Date prévue de prise de fonction\n\n01/02/2027"},
+    {"field": "Location", "value": "Montrouge (92 - Hauts-de-Seine)", "quote": "Europe, France, Ile-de-France, 92 - Hauts-De-Seine\nVille\n\nMontrouge"},
+    {"field": "Employer", "value": "Crédit Agricole CIB", "quote": "Entité\nCrédit Agricole CIB"},
+    {"field": "Team", "value": "Capital Markets IT, filière Bonds de Global Markets Division, domaine Fixed Income (desks EGB, Inflation, SSA)", "quote": "dans la branche Capital Markets IT, et plus précisément dans la filière Bonds de Global Markets Division"},
+    {"field": "Requisition_ID", "value": "2026-116578", "quote": "Référence\n2026-116578"},
+    {"field": "Last_Update_Date", "value": "2026-10-16", "quote": "Date de mise à jour\n16/10/2026"},
+    {"field": "Education", "value": "Bac + 5 / M2 et plus ; école d'ingénieur / informatique", "quote": "Niveau d'études minimum\n\nBac + 5 / M2 et plus"},
+    {"field": "Experience", "value": "0 - 2 ans ; première expérience Python, SQL, données financières ou marchés souhaitable", "quote": "Une première expérience en Python, SQL, analyse de données financières ou environnement de marchés de capitaux est souhaitable."},
+    {"field": "Languages", "value": "Français et anglais courants", "quote": "Français et Anglais courants"}
+  ],
+  "inferences": [
+    {"field": "Job_Family", "value": "Capital Markets Data / Python", "reasoning": "Poste IT de marché centré sur les chaînes de pricing, la qualité des données, la réconciliation PnL/risques et des outils Python ; tier passerelle (pricing / valorisation des activités de marché) plutôt que cœur."},
+    {"field": "Internship_End_Date", "value": "2027-07-31 (non retenu dans listing)", "reasoning": "Début 01/02/2027 + 6 mois ; non écrit dans l'offre, donc Unknown dans le listing."},
+    {"field": "Eligibility", "value": "Unclear", "reasoning": "Début en février incompatible avec le 1er mars IREF ; l'offre n'indique ni flexibilité ni rigidité. Un début au 1er mars donnerait 6 mois jusqu'au 31 août 2027, conforme."},
+    {"field": "Publication_Date", "value": "Unknown", "reasoning": "Seule une date de mise à jour (16/10/2026) figure ; elle n'est pas forcément la date de publication."}
+  ],
+  "eligibility": {
+    "status": "Unclear",
+    "reasons": [
+      "Date de prise de fonction prévue le 01/02/2027, alors que le stage IREF doit se dérouler du 1er mars au 31 août 2027, sans extension : à confirmer si un début au 1er mars est accepté.",
+      "Niveau Bac+5 / M2, école d'ingénieur/informatique, spécialisation finance/maths/info : conforme au profil.",
+      "Durée de 6 mois : compatible si le début est décalé au 1er mars 2027."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Début prévu le 01/02/2027 : incompatible avec le calendrier IREF sauf accord pour un début au 1er mars 2027.",
+    "Page officielle non consultée (jobs.ca-cib.com inaccessible depuis la session cloud) : statut Unverified, URL officielle Unknown.",
+    "Pas de doublon détecté ; l'autre offre CA-CIB suivie (J-92181686, réf. 2026-116365) est un poste différent.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
