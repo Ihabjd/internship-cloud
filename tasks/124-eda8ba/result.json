@@ -1,0 +1,367 @@
+{
+  "language": "FR",
+  "keyword_map": [
+    {
+      "keyword": "IT / école d'ingénieur informatique",
+      "importance": "E",
+      "support": 2,
+      "evidence": "Diplôme d'ingénieur ENSEIRB-MATMECA – Informatique (data & IA), top 3 %",
+      "location": "Formation, profil",
+      "action": "Mis en avant dans le profil"
+    },
+    {
+      "keyword": "Linux Scripting",
+      "importance": "E",
+      "support": 3,
+      "evidence": "Linux et Bash dans les compétences listées ; aucune expérience ni projet de script Linux dans les faits",
+      "location": "Compétences (Outils)",
+      "action": "Linux, Bash en tête des outils ; à prouver par le projet proposé new:1"
+    },
+    {
+      "keyword": "Maîtrise du Pack Microsoft Office",
+      "importance": "E",
+      "support": 3,
+      "evidence": "Excel, VBA (compétences) ; Power BI (SG, certification) ; Word/PowerPoint absents des faits",
+      "location": "Compétences",
+      "action": "Excel gardé visible ; ne pas écrire « Pack Office »"
+    },
+    {
+      "keyword": "Français courant",
+      "importance": "E",
+      "support": 1,
+      "evidence": "Français C2",
+      "location": "Langues",
+      "action": "Inchangé"
+    },
+    {
+      "keyword": "Anglais courant",
+      "importance": "E",
+      "support": 1,
+      "evidence": "Anglais C1 – TOEIC 970/990",
+      "location": "Langues",
+      "action": "Inchangé"
+    },
+    {
+      "keyword": "Curiosité",
+      "importance": "E",
+      "support": 2,
+      "evidence": "« Pris l'initiative d'ajouter une couche d'analyse » ; workshop IA lancé (Inside Therapeutics)",
+      "location": "Expérience",
+      "action": "Verbe d'initiative conservé, pas d'adjectif creux"
+    },
+    {
+      "keyword": "Autonomie",
+      "importance": "E",
+      "support": 1,
+      "evidence": "LabData conçu et développé seul, sans cahier des charges, en production en 7 semaines",
+      "location": "Expérience",
+      "action": "En tête du bloc Inside Therapeutics"
+    },
+    {
+      "keyword": "Développement informatique",
+      "importance": "D",
+      "support": 1,
+      "evidence": "LabData Python/SQL/Streamlit en production ; 4 123 tests",
+      "location": "Expérience",
+      "action": "Reformulé « application en production »"
+    },
+    {
+      "keyword": "Environnement de marchés financiers",
+      "importance": "D",
+      "support": 1,
+      "evidence": "SG – Data Analyst – Finance de marché : flux alimentant les outils de P&L, plusieurs desks",
+      "location": "Expérience",
+      "action": "Jamais « front office »"
+    },
+    {
+      "keyword": "Support applicatif / support aux utilisateurs",
+      "importance": "D",
+      "support": 3,
+      "evidence": "LabData utilisé par 6 scientifiques ; reportings Power BI pour Finance, Risques, Trading ; aucun rôle de support déclaré",
+      "location": "Expérience",
+      "action": "Mot « utilisateurs » seulement ; pas de « support niveau 1/2 »"
+    },
+    {
+      "keyword": "Scripts d'automatisation",
+      "importance": "E",
+      "support": 1,
+      "evidence": "Traitement automatisé de ~500 échantillons/mois ; flux automatisés de 6 sources ; plus de 25 contrôles automatisés",
+      "location": "Expérience",
+      "action": "Mot « automatisé » en tête de puces"
+    },
+    {
+      "keyword": "Monitoring",
+      "importance": "E",
+      "support": 3,
+      "evidence": "Alertes d'anomalies (Inside Therapeutics) ; suivi via dashboards Power BI (SG)",
+      "location": "Expérience",
+      "action": "Reformulé « couche d'analyse et de monitoring »"
+    },
+    {
+      "keyword": "Incidents de production",
+      "importance": "E",
+      "support": 4,
+      "evidence": "Aucun fait sur la gestion d'incidents ou d'astreinte",
+      "location": "—",
+      "action": "Gap ; couvert par le projet new:1 une fois réalisé"
+    },
+    {
+      "keyword": "Documentation des procédures opérationnelles",
+      "importance": "E",
+      "support": 3,
+      "evidence": "Documentation et piste d'audit (Inside Therapeutics)",
+      "location": "Expérience",
+      "action": "« documentation » conservé, sans « procédures opérationnelles »"
+    },
+    {
+      "keyword": "Post-trade",
+      "importance": "C",
+      "support": 4,
+      "evidence": "Aucun fait sur le cycle post-trade (confirmation, règlement-livraison)",
+      "location": "—",
+      "action": "Gap ; à réviser, projet new:1"
+    },
+    {
+      "keyword": "Bonds / fixed income",
+      "importance": "C",
+      "support": 2,
+      "evidence": "Cours M2 : fixed income & produits dérivés",
+      "location": "Formation, compétences finance",
+      "action": "Mis en premier"
+    },
+    {
+      "keyword": "Python",
+      "importance": "C",
+      "support": 1,
+      "evidence": "Inside Therapeutics, SG",
+      "location": "Expérience, compétences",
+      "action": "Inchangé"
+    },
+    {
+      "keyword": "SQL",
+      "importance": "C",
+      "support": 1,
+      "evidence": "Inside Therapeutics, SG ; PostgreSQL",
+      "location": "Expérience, compétences",
+      "action": "Inchangé"
+    }
+  ],
+  "section_order": [
+    "profile",
+    "experience",
+    "projects",
+    "skills",
+    "education"
+  ],
+  "bullet_order": [
+    {
+      "block_id": "exp_insidetx",
+      "bullet_ids": [
+        "exp_insidetx_2",
+        "exp_insidetx_1",
+        "exp_insidetx_3",
+        "exp_insidetx_4"
+      ]
+    },
+    {
+      "block_id": "exp_sg",
+      "bullet_ids": [
+        "exp_sg_1",
+        "exp_sg_2"
+      ]
+    }
+  ],
+  "removed_bullets": [],
+  "rewrites": [
+    {
+      "bullet_id": "exp_insidetx_1",
+      "text": "Automatisé le traitement de ~500 échantillons/mois avec validation indépendante des calculs : réconciliation (concordance totale), piste d'audit, documentation ; 4 123 tests (couverture 91 %).",
+      "reason": "Met en avant automatisation, documentation et qualité (tests), au cœur des missions de support et d'automatisation ; mêmes chiffres.",
+      "keywords": [
+        "automatisation",
+        "documentation",
+        "qualité"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_2",
+      "text": "Conçu et développé seul, sans cahier des charges, LabData : application Python/ SQL/ Streamlit en production en 7 semaines pour 6 scientifiques utilisateurs, ~2 h de travail manuel gagnées par expérience.",
+      "reason": "Vocabulaire « application en production » et « utilisateurs » (support applicatif) ; autonomie (seul, sans cahier des charges) ; mêmes faits et chiffres.",
+      "keywords": [
+        "développement informatique",
+        "production",
+        "utilisateurs",
+        "autonomie"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_3",
+      "text": "Pris l'initiative d'ajouter une couche d'analyse et de monitoring (corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies) pour la validation des machines.",
+      "reason": "Les alertes d'anomalies sont reformulées en « monitoring », mot-clé de la première mission ; « pris l'initiative » répond à la curiosité demandée. Optimisation des paramètres retirée pour la place.",
+      "keywords": [
+        "monitoring",
+        "curiosité"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_4",
+      "text": "Prototypé un modèle par processus gaussien (active learning) ; présenté LabData au CODIR ; lancé et animé un workshop IA en interne.",
+      "reason": "Puce moins pertinente pour le poste : condensée pour faire de la place, prototype jamais « déployé ».",
+      "keywords": [
+        "communication"
+      ]
+    },
+    {
+      "bullet_id": "exp_sg_1",
+      "text": "Automatisé (Python, SQL) l'intégration de 6 sources de données en flux contrôlés pour les outils de P&L.",
+      "reason": "Fait de l'expérience SG la preuve d'« automatisation » en « environnement de marchés financiers » (compétence souhaitée) ; mêmes faits.",
+      "keywords": [
+        "automatisation",
+        "environnement de marchés financiers",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "bullet_id": "exp_sg_2",
+      "text": "Remplacé des contrôles manuels par plus de 25 contrôles automatisés de qualité des données et de conformité, suivis via reportings et dashboards Power BI (équipes Finance, Risques, Trading).",
+      "reason": "Qualité et suivi pour des utilisateurs métiers (Trading) : proche du support et du monitoring ; raccourcie, mêmes chiffres.",
+      "keywords": [
+        "qualité",
+        "suivi",
+        "Power BI"
+      ]
+    }
+  ],
+  "headline": "Stage de fin d'études (6 mois) – IT de marchés : support applicatif et automatisation – dès mars 2027",
+  "profile": "Élève ingénieur à l'ENSEIRB-MATMECA, filière Informatique (data & IA), top 3 % de la promotion, en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat. Développement et automatisation (Python, SQL), des flux de P&L en banque de marché à une plateforme en production.",
+  "gaps": [
+    "Linux Scripting : Linux et Bash sont listés mais aucun script Linux n'est prouvé par une expérience ou un projet (support 3) ; à combler par le projet new:1.",
+    "Suivi d'incidents de production / support applicatif de niveau 1-2 : aucune expérience (support 4).",
+    "Connaissance du post-trade (confirmation, règlement-livraison, cycle de vie d'une obligation) : absente des faits (support 4).",
+    "Pack Office hors Excel (Word, PowerPoint) : non documenté ; ne pas l'écrire."
+  ],
+  "claims_to_defend": [
+    "LabData « en production en 7 semaines », conçu seul : architecture, mise en production, maintenance, retours des 6 utilisateurs.",
+    "~2 h de travail manuel gagnées par expérience : méthode de mesure.",
+    "4 123 tests, couverture 91 % : type de tests, outil de mesure.",
+    "SG : 6 sources de données, plus de 25 contrôles automatisés ; ce qu'étaient les outils de P&L, entité exacte (stage de 2 mois).",
+    "« Monitoring » = alertes d'anomalies : expliquer concrètement ce qui était surveillé et comment les alertes étaient traitées.",
+    "Linux / Bash : être prêt à un test de scripting (grep, awk, cron, analyse de logs)."
+  ],
+  "field_rewrites": [
+    {
+      "block_id": "skills_programming",
+      "field": "content",
+      "text": "Python (pandas, NumPy, Streamlit, scikit-learn, PyTorch), SQL (PostgreSQL), C/C++, VBA, Java, TypeScript, R. Outils : Linux, Bash, Git, Excel, Power BI, Claude Code (dév. assisté par IA).",
+      "reason": "Linux et Bash (déjà dans les compétences) remontés en tête des outils pour « Linux Scripting » ; Excel visible pour le Pack Office ; aucune compétence ajoutée.",
+      "keywords": [
+        "Linux",
+        "Bash",
+        "Excel",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "block_id": "skills_finance",
+      "field": "content",
+      "text": "fixed income, produits dérivés, P&L, pricing d'options (Black–Scholes, Greeks), delta-hedging, VaR/Expected Shortfall, backtesting, stress tests, Bâle III/FRTB, Solvabilité II.",
+      "reason": "Le stage est dans la filière bonds de Global Markets : fixed income en premier.",
+      "keywords": [
+        "fixed income",
+        "produits dérivés"
+      ]
+    },
+    {
+      "block_id": "edu_m2",
+      "field": "extra",
+      "text": "fixed income & produits dérivés, produits structurés, risque de marché (VaR, Expected Shortfall, backtesting, stress tests), réglementation prudentielle (Bâle III), computational finance (Monte Carlo), gestion de portefeuille.",
+      "reason": "Cours liés aux produits obligataires en tête ; cours les moins utiles (actuariat, scoring, calcul stochastique) retirés pour la place.",
+      "keywords": [
+        "fixed income",
+        "finance de marché"
+      ]
+    },
+    {
+      "block_id": "edu_enseirb",
+      "field": "extra",
+      "text": "C/C++/Python (POO), algorithmique numérique, finance de marché, IA (ML, deep learning).",
+      "reason": "Développement logiciel et finance de marché en premier (spécialisations demandées).",
+      "keywords": [
+        "développement logiciel",
+        "finance de marché"
+      ]
+    }
+  ],
+  "projects": [
+    "new:1",
+    "proj_rl"
+  ],
+  "new_projects": [
+    {
+      "title": "Monitoring d'une chaîne post-trade simulée – Linux, Bash, Python, SQL",
+      "desc": "Scripts Bash/Python surveillant un flux post-trade obligataire simulé : logs, alertes, runbook d'incidents.",
+      "tools": [
+        "Linux",
+        "Bash",
+        "cron",
+        "Python",
+        "PostgreSQL",
+        "Git"
+      ],
+      "why": "Couvre en une fois les gaps « Linux Scripting », « monitoring de la plateforme post-trade », « suivi des incidents de production » et « documentation des procédures opérationnelles » de l'offre (filière bonds).",
+      "steps": [
+        "Générer en Python un flux de transactions obligataires fictives (ISIN publics, statuts de confirmation et de règlement) écrit dans des fichiers de log et une base PostgreSQL.",
+        "Écrire des scripts Bash (grep, awk, sed) planifiés par cron qui détectent les anomalies : transactions bloquées, retards de règlement, écarts de quantité, fichiers manquants.",
+        "Ajouter des alertes (e-mail local ou fichier d'alertes) et un rapport quotidien SQL de l'état des transactions.",
+        "Rédiger un runbook en Markdown : procédure de diagnostic et de résolution pour chaque type d'incident.",
+        "Publier le code sur GitHub avec README, tests (bats ou pytest) et exemples d'incidents rejoués."
+      ],
+      "effort_hours": 25
+    },
+    {
+      "title": "Réconciliation front-to-back d'un portefeuille obligataire – Python, SQL",
+      "desc": "Rapprochement automatisé de transactions obligataires entre deux systèmes simulés, avec rapport des écarts.",
+      "tools": [
+        "Python",
+        "pandas",
+        "SQL",
+        "Excel"
+      ],
+      "why": "Montre la compréhension du cycle de vie post-trade d'une obligation (booking, confirmation, règlement) et prolonge les contrôles de qualité faits chez SG, pour les entretiens avec l'équipe bonds.",
+      "steps": [
+        "Réviser le cycle de vie post-trade d'une obligation (booking, confirmation, règlement-livraison, coupons).",
+        "Simuler deux extractions (front et back-office) avec des écarts injectés (prix, quantité, date de valeur).",
+        "Écrire en Python/SQL les règles de rapprochement et la classification des écarts.",
+        "Produire un rapport Excel des cassures et une courte procédure de traitement."
+      ],
+      "effort_hours": 15
+    }
+  ],
+  "assessment": {
+    "verdict": "Bonne adéquation : le poste demande un profil d'école d'ingénieur informatique, de l'automatisation et une première expérience en développement ou en marchés, que tu coches (LabData en production, SG). Le point faible est le Linux scripting et le monde du support et des incidents, jamais pratiqués : c'est le projet new:1 et la préparation sur le post-trade qui feront la différence. Attention, ce poste IT est éloigné de ta cible principale (finance de marché quantitative).",
+    "strengths": [
+      "Développement d'une application en production seul et sans cahier des charges (LabData, 7 semaines) : preuve d'autonomie et de développement.",
+      "Automatisation et contrôles : ~500 échantillons/mois, 4 123 tests, plus de 25 contrôles automatisés chez SG.",
+      "Environnement de marchés financiers : flux de données alimentant des outils de P&L de plusieurs desks à la Société Générale.",
+      "Français C2, anglais C1 (TOEIC 970/990) : critères de langue couverts.",
+      "Cours de fixed income en M2, utiles pour la filière bonds."
+    ],
+    "improvements": [
+      "Linux scripting non prouvé (Bash, cron, grep/awk, analyse de logs).",
+      "Aucune expérience de support utilisateurs, de gestion d'incidents ou d'ITIL.",
+      "Connaissance du post-trade obligataire (confirmation, règlement-livraison, référentiels) à acquérir.",
+      "Intitulé incohérent dans l'offre (« Pré-Trade » dans le titre, « post-trade » dans les missions) : à clarifier en entretien."
+    ],
+    "recommendations": [
+      "Réaliser en priorité le projet new:1 (monitoring post-trade en Bash/Python), puis new:2 si le temps le permet.",
+      "Préparer un récit STAR sur LabData orienté support : retours des utilisateurs, correction de bugs, maintenance en production.",
+      "Réviser les bases Linux (processus, permissions, logs, cron, ssh) et SQL de diagnostic.",
+      "Lire une fiche sur le cycle de vie d'une obligation et les acteurs du post-trade (Euroclear, Clearstream).",
+      "Décider si ce poste IT entre dans ta stratégie avant de postuler."
+    ]
+  },
+  "reply": "J'ai réorienté le CV vers le support IT et l'automatisation en salle des marchés : accroche et profil réécrits, Expériences placées avant Formation, LabData présenté comme une application en production pour 6 utilisateurs, les alertes d'anomalies reformulées en « monitoring », Linux/Bash et Excel remontés dans les outils, fixed income en premier (filière bonds). Toutes les réécritures sont plus courtes que le maître. J'ai proposé un projet de monitoring post-trade en Bash/Python (new:1, affiché à la place du projet options) et un projet de réconciliation obligataire (new:2, non affiché). Question : as-tu déjà écrit des scripts Bash ou travaillé sous Linux dans un cadre précis (cours ENSEIRB, stage, projet) ? Si oui, lequel ?",
+  "new_facts": []
+}
