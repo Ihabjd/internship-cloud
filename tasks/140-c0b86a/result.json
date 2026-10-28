@@ -1,0 +1,351 @@
+{
+ "language": "EN",
+ "keyword_map": [
+  {
+   "keyword": "Python",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_2 (plateforme Python/PostgreSQL/Streamlit), exp_sg_1 (Python, SQL)",
+   "location": "Profil, Expérience, Compétences",
+   "action": "En tête de la ligne Programming et dans le profil"
+  },
+  {
+   "keyword": "statistical analyses / statistics",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_3 : corrélations, régressions de tendance, bruit de mesure vs variabilité du procédé, alertes d'anomalies",
+   "location": "Profil, exp_insidetx_3 (1re puce, fusionnée avec le prototype GP)",
+   "action": "Puce reformulée « statistical analyses », placée en premier"
+  },
+  {
+   "keyword": "machine learning",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_4 : prototype DoE + processus gaussien avec active learning ; cours ENSEIRB AI (ML, deep learning) ; proj_rl (Double DQN, équipe de 6)",
+   "location": "Profil, exp_insidetx_3 (puce fusionnée), Compétences, Formation",
+   "action": "« machine-learning model » dans la puce fusionnée analyses statistiques + GP (prototype, jamais déployé) ; ML en tête de Quantitative Methods"
+  },
+  {
+   "keyword": "probability",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Cours M2 : mathematical finance (stochastic calculus), computational finance (Monte Carlo)",
+   "location": "Profil, Formation, Compétences",
+   "action": "Mot cité dans le profil ; Monte Carlo et calcul stochastique en tête des cours"
+  },
+  {
+   "keyword": "Master's degree in a quantitative field",
+   "importance": "E",
+   "support": 1,
+   "evidence": "edu_m2 (MSc Applied Mathematics & Statistics) + edu_enseirb (Engineering Degree, Master's level, Data & AI), en cours",
+   "location": "Profil, Formation",
+   "action": "« MSc Applied Mathematics & Statistics » cité dans le profil (intitulé exact du diplôme, plus parlant pour l'offre) ; diplôme en cours"
+  },
+  {
+   "keyword": "present technical findings clearly",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_4 : présentation de LabData au comité de direction ; workshop IA interne",
+   "location": "exp_insidetx_2",
+   "action": "« presented to the executive committee » dans la puce LabData (c'est LabData qui a été présenté au comité de direction) ; retiré du profil faute de place"
+  },
+  {
+   "keyword": "attention to detail / rigorous, methodical approach",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_1 (fusionnée dans exp_insidetx_2) : validation indépendante, réconciliation (concordance totale), piste d'audit, 4 123 tests (91 %) ; exp_sg_2 (fusionnée dans exp_sg_1) : 25+ contrôles de qualité",
+   "location": "exp_insidetx_2 (puce fusionnée), exp_sg_1",
+   "action": "« rigorous validation » dans la puce LabData fusionnée"
+  },
+  {
+   "keyword": "analytical and logical skills",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Top 3 % ENSEIRB, 1er en mathématiques en CPGE, couche d'analyse chez Inside Therapeutics",
+   "location": "Profil, Formation",
+   "action": "« top 3% » gardé en gras dans le profil ; 1er en mathématiques en CPGE dans la formation"
+  },
+  {
+   "keyword": "align forecast runs from different sources / aggregated datasets",
+   "importance": "E",
+   "support": 3,
+   "evidence": "exp_sg_1 (fusionnée avec exp_sg_2) : intégration de 6 sources de données en jeux de données contrôlés (données de marché, pas météo)",
+   "location": "exp_sg_1",
+   "action": "« quality-checked datasets » ; ne jamais écrire « forecast » ni « weather » pour SG ; projet proposé new:1 pour couvrir la météo"
+  },
+  {
+   "keyword": "weather forecast runs / ensemble forecasts",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "—",
+   "action": "Lacune : projet proposé new:1 (vérification et agrégation de runs ECMWF/GFS)"
+  },
+  {
+   "keyword": "synthetic weather scenarios (generative ML)",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Monte Carlo (cours M2, simulation de scénarios) ; GP avec quantification d'incertitude (prototype) ; PyTorch dans les compétences — pas de modèle génératif",
+   "location": "Compétences, exp_insidetx_4",
+   "action": "Pas de « generative » sur le CV avant réalisation de new:2"
+  },
+  {
+   "keyword": "time series",
+   "importance": "D",
+   "support": 2,
+   "evidence": "skills_quant : time series ; régressions de tendance (exp_insidetx_3)",
+   "location": "Compétences",
+   "action": "Conservé dans Quantitative Methods"
+  },
+  {
+   "keyword": "uncertainty / representativeness",
+   "importance": "D",
+   "support": 3,
+   "evidence": "exp_insidetx_4 : active learning guidé par l'incertitude",
+   "location": "exp_insidetx_3 (puce fusionnée)",
+   "action": "« uncertainty-driven active learning » conservé"
+  },
+  {
+   "keyword": "quantitative research experience (academic or project)",
+   "importance": "D",
+   "support": 2,
+   "evidence": "Prototype GP et analyses statistiques (exp_insidetx_3 fusionnée avec exp_insidetx_4), proj_rl (équipe de 6), proj_options",
+   "location": "Expérience, Projets (new:1, new:2)",
+   "action": "Démarche de recherche portée par les puces Inside Therapeutics ; proj_rl retiré de la page pour tenir sur une page, à citer en entretien"
+  },
+  {
+   "keyword": "market-making / traders",
+   "importance": "C",
+   "support": 2,
+   "evidence": "proj_rl (RL market making, équipe de 6) ; exp_sg_2 : dashboards pour les équipes Trading (jamais front office)",
+   "location": "exp_sg_1 (Trading)",
+   "action": "« Trading » cité en premier dans la puce SG fusionnée ; proj_rl (market making, équipe de 6) retiré de la page faute de place, à évoquer en entretien"
+  },
+  {
+   "keyword": "short-term power markets / energy trading",
+   "importance": "C",
+   "support": 4,
+   "evidence": "Aucun fait (expérience marchés de capitaux seulement)",
+   "location": "—",
+   "action": "Lacune : à préparer pour l'entretien (day-ahead/intraday EPEX, effet température/éolien/solaire sur les prix)"
+  },
+  {
+   "keyword": "English (fluent)",
+   "importance": "E",
+   "support": 1,
+   "evidence": "skills_languages : English (fluent, C1 – TOEIC 970/990)",
+   "location": "Compétences",
+   "action": "Inchangé"
+  }
+ ],
+ "section_order": [
+  "profile",
+  "education",
+  "experience",
+  "projects",
+  "skills"
+ ],
+ "bullet_order": [
+  {
+   "block_id": "exp_insidetx",
+   "bullet_ids": [
+    "exp_insidetx_3",
+    "exp_insidetx_2"
+   ]
+  },
+  {
+   "block_id": "exp_sg",
+   "bullet_ids": [
+    "exp_sg_1"
+   ]
+  }
+ ],
+ "removed_bullets": [
+  "exp_sg_2",
+  "exp_insidetx_1",
+  "exp_insidetx_4"
+ ],
+ "rewrites": [
+  {
+   "bullet_id": "exp_insidetx_3",
+   "text": "Initiated **statistical analyses** (correlations, trend regressions, noise vs process variability, anomaly flags) for machine validation and tuning; prototyped a **machine-learning model** (DoE + Gaussian process, uncertainty-driven active learning).",
+   "reason": "Fusion des puces exp_insidetx_3 (analyses statistiques) et exp_insidetx_4 (prototype GP, retirée) : les deux cœurs de l'offre (statistiques, ML) dans une seule puce de recherche ; 242 caractères contre 311 pour les deux puces réunies. Le GP reste un prototype. La présentation au comité et le workshop passent dans la puce LabData.",
+   "keywords": [
+    "statistical analyses",
+    "regression",
+    "anomaly",
+    "machine learning",
+    "uncertainty"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_2",
+   "text": "Built **LabData** solo (Python/PostgreSQL/Streamlit), live in **7 weeks**, saving 6 scientists **~2 h** per experiment, presented to the **executive committee**; automated **~500 samples/month** with **rigorous validation**: reconciliation (full agreement), audit trail, **4,123 tests** (91% coverage); ran an AI workshop.",
+   "reason": "Puce fusionnée (exp_insidetx_1 + exp_insidetx_2) qui reçoit aussi la présentation de LabData au comité de direction et le workshop IA de exp_insidetx_4 : tous les chiffres gardés (7 semaines, 6 scientifiques, ~2 h, ~500/mois, 4 123 tests, 91 %). Inside Therapeutics passe de 3 à 2 puces (536 caractères contre 547, une ligne de moins en tout).",
+   "keywords": [
+    "Python",
+    "rigorous",
+    "validation",
+    "attention to detail",
+    "present findings"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_1",
+   "text": "Integrated **6 data sources** (Python, SQL) into quality-checked datasets for P&L tools; replaced manual checks with **25+ automated data-quality and compliance controls**, monitored in Power BI for **Trading**, Risk and Finance.",
+   "reason": "Fusion des deux puces SG (exp_sg_2 retirée) : −19 % par rapport aux deux puces réunies, tous les faits et chiffres gardés ; Trading en premier.",
+   "keywords": [
+    "data sources",
+    "datasets",
+    "data quality",
+    "Trading"
+   ]
+  }
+ ],
+ "field_rewrites": [
+  {
+   "block_id": "skills_quant",
+   "field": "content",
+   "text": "machine learning, regression, time series, Monte Carlo, stochastic calculus, deep RL.",
+   "reason": "Machine learning et régression en premier, comme dans l'offre ; aucune compétence ajoutée.",
+   "keywords": [
+    "machine learning",
+    "regression",
+    "time series",
+    "Monte Carlo"
+   ]
+  },
+  {
+   "block_id": "skills_programming",
+   "field": "content",
+   "text": "Python (pandas, NumPy, scikit-learn, PyTorch, Streamlit), SQL (PostgreSQL), C++, R, C, VBA. Tools: Git, Bash/Linux, Power BI, Excel, Claude Code.",
+   "reason": "Python et SQL en tête ; Java et TypeScript retirés (peu étayés), « AI-assisted development » abrégé en « Claude Code » : −23 % pour gagner une ligne.",
+   "keywords": [
+    "Python",
+    "SQL"
+   ]
+  },
+  {
+   "block_id": "skills_finance",
+   "field": "content",
+   "text": "derivatives, P&L, VaR/ES, stress testing, backtesting, options pricing (Black–Scholes, Greeks), fixed income.",
+   "reason": "Dérivés et P&L en tête (contexte trading) ; « Expected Shortfall » abrégé en ES ; delta hedging, Basel III/FRTB et Solvency II retirés (hors sujet, place).",
+   "keywords": [
+    "derivatives",
+    "P&L"
+   ]
+  },
+  {
+   "block_id": "edu_m2",
+   "field": "extra",
+   "text": "computational finance (Monte Carlo), mathematical finance (stochastic calculus), market risk (VaR, ES, backtesting, stress testing), credit risk (scoring), derivatives, actuarial science.",
+   "reason": "Monte Carlo et calcul stochastique (probabilités) en premier ; « Expected Shortfall » abrégé en ES, « fixed income & » retiré (reste dans les compétences), Basel III, produits structurés et gestion de portefeuille retirés : −24 % pour gagner une ligne.",
+   "keywords": [
+    "Monte Carlo",
+    "probability",
+    "stochastic calculus"
+   ]
+  },
+  {
+   "block_id": "edu_enseirb",
+   "field": "extra",
+   "text": "AI (ML, deep learning), data science, numerical algorithms, C/C++/Python (OOP), market finance.",
+   "reason": "IA (ML, deep learning) et data science en premier.",
+   "keywords": [
+    "machine learning",
+    "data science"
+   ]
+  }
+ ],
+ "headline": "6-Month Quantitative Research Internship – Statistics, Machine Learning, Python – March 2027",
+ "profile": "Final-year Computer Science (Data & AI) engineering student at ENSEIRB-MATMECA (**top 3%**), double degree with the **MSc Applied Mathematics & Statistics**: statistics, probability and machine learning in Python.",
+ "projects": [
+  "new:1",
+  "new:2"
+ ],
+ "new_projects": [
+  {
+   "title": "Weather Forecast Verification & Aggregation – Python, xarray, pandas",
+   "desc": "Aligned ECMWF and GFS forecast runs from open data; bias, RMSE and CRPS by lead time; skill-weighted blend.",
+   "tools": [
+    "Python",
+    "xarray",
+    "pandas",
+    "Open-Meteo / ECMWF open data",
+    "matplotlib"
+   ],
+   "why": "Reprend directement les missions 1 et 3 : analyser la représentativité et la précision des runs de prévision météo, aligner des runs de sources différentes et les combiner en un jeu de données agrégé.",
+   "steps": [
+    "Télécharger 1 à 2 ans de prévisions historiques (température 2 m, vent 100 m) de plusieurs modèles (ECMWF IFS, GFS, ICON) pour quelques points en France via l'API historique d'Open-Meteo, et les observations ou la réanalyse ERA5 correspondantes.",
+    "Aligner les runs par date d'émission, échéance et point de grille avec xarray (gestion des fuseaux, interpolation, données manquantes).",
+    "Calculer biais, RMSE, MAE et CRPS (pour l'ensemble) par modèle et par échéance ; tracer les courbes de compétence.",
+    "Construire un agrégat pondéré par la compétence (et une correction de biais simple) et comparer son erreur à chaque modèle sur une période de test hors échantillon.",
+    "Optionnel : relier l'écart de température prévue à la charge électrique France (ENTSO-E Transparency, gratuit) pour montrer l'impact marché.",
+    "Documenter la méthode dans un notebook propre et un README d'une page."
+   ],
+   "effort_hours": 25
+  },
+  {
+   "title": "Synthetic Weather Scenario Generator – Python, PyTorch",
+   "desc": "Forecast-conditioned generative model of synthetic temperature/wind scenarios; CRPS, rank-histogram checks.",
+   "tools": [
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "properscoring"
+   ],
+   "why": "Reprend la mission 2 : développer des modèles de machine learning qui génèrent des scénarios météo synthétiques et améliorent la représentativité des prévisions.",
+   "steps": [
+    "Partir du jeu aligné du projet 1 (prévision + observation de température et vent).",
+    "Établir des références simples : bootstrap des erreurs historiques par échéance et modèle gaussien (moyenne et variance conditionnelles).",
+    "Entraîner un modèle génératif conditionnel en PyTorch (réseau de densité de mélange ou petit VAE conditionnel) produisant N scénarios par prévision.",
+    "Évaluer la calibration : CRPS, histogrammes de rang, couverture des intervalles, corrélation temporelle des trajectoires générées.",
+    "Comparer aux références et rédiger les limites (non-stationnarité, saisonnalité, valeurs extrêmes)."
+   ],
+   "effort_hours": 30
+  }
+ ],
+ "gaps": [
+  "Prévisions météo (runs déterministes et ensemblistes, ECMWF/GFS) : aucune expérience — projet new:1.",
+  "Modèles génératifs de scénarios (VAE, GAN, diffusion, copules) : aucune expérience — projet new:2.",
+  "Marchés court terme de l'électricité et du gaz (day-ahead, intraday, effet météo sur la charge et la production renouvelable) : aucune expérience.",
+  "Métriques de vérification probabiliste (CRPS, histogrammes de rang, calibration) : non présentes dans les faits.",
+  "Date de début et durée exactes de l'offre : Unknown, à vérifier avant de postuler (stage visé du 1er mars au 31 août 2027)."
+ ],
+ "claims_to_defend": [
+  "« Statistical analyses » chez Inside Therapeutics : quelles régressions, comment séparer bruit de mesure et variabilité du procédé, quelles règles d'alerte d'anomalie.",
+  "Prototype DoE + processus gaussien (puce fusionnée avec les analyses statistiques) : noyau, hyperparamètres, critère d'acquisition de l'active learning ; c'est un prototype, jamais déployé.",
+  "Puce LabData fusionnée : 4 123 tests et 91 % de couverture (type de tests, outil de mesure) ; le traitement des ~500 échantillons/mois, LabData, sa présentation au comité de direction et le workshop IA sont des réalisations distinctes, à détailler si on te le demande.",
+  "Gain d'environ 2 h par expérience pour 6 scientifiques : méthode de mesure.",
+  "Top 3 % de la promotion ENSEIRB-MATMECA : période, taille de la promotion.",
+  "Société Générale (puce fusionnée) : stage de 2 mois, entité exacte, nature des 6 sources et des « P&L tools », exemples de contrôles ; jamais front office.",
+  "Projets new:1 et new:2 : à réaliser avant de postuler, puis à défendre en détail (choix des métriques, résultats réels).",
+  "proj_rl (absent de la page mais à citer) : projet d'équipe de 6, contribution personnelle, conditions du benchmark 400k ordres/s et 2–4 µs ; lien avec le market making de l'équipe ENGIE."
+ ],
+ "assessment": {
+  "verdict": "Adéquation moyenne à bonne : Ihab coche toutes les exigences générales (Python, statistiques, ML, master quantitatif, présentation de résultats, rigueur) avec des preuves professionnelles, mais n'a aucune expérience de la météo ni des marchés de l'énergie, qui sont le sujet même du stage. Ce qui fera la différence : arriver avec les deux projets météo réalisés et une compréhension claire du lien météo → charge/production → prix de l'électricité à court terme. Ordre retenu : Formation avant Expérience, car le poste est de la recherche quantitative (statistiques, probabilités, ML au cœur).",
+  "strengths": [
+   "Analyses statistiques réelles en entreprise (corrélations, régressions, bruit vs variabilité, anomalies) chez Inside Therapeutics.",
+   "Prototype de machine learning avec quantification d'incertitude (processus gaussien, active learning), proche de l'esprit « représentativité des prévisions ».",
+   "Intégration de 6 sources de données en flux contrôlés (SG) : bonne base pour l'alignement et l'agrégation de runs.",
+   "Rigueur démontrée : validation indépendante, réconciliation, 4 123 tests ; double diplôme ingénieur + MSc maths appliquées et statistiques, top 3 %.",
+   "Présentation au comité de direction et contact avec des équipes Trading ; projet de market making (équipe de 6) en lien avec l'équipe ENGIE."
+  ],
+  "improvements": [
+   "Aucune connaissance démontrée des prévisions météo (runs, échéances, ensembles) ni des métriques de vérification probabiliste.",
+   "Aucune expérience des modèles génératifs pour séries temporelles ou champs spatiaux.",
+   "Méconnaissance probable des marchés électricité/gaz court terme (EPEX day-ahead et intraday, merit order, sensibilité de la demande à la température, production éolienne et solaire).",
+   "Profil affiché très « finance de marché » : risque de paraître hors sujet si l'entretien porte sur la recherche appliquée à la météo."
+  ],
+  "recommendations": [
+   "Réaliser new:1 en priorité (environ 25 h), puis new:2 ; garder des résultats réels et honnêtes à montrer en entretien.",
+   "Réviser : probabilités et statistiques (estimation, tests, régression, bootstrap), séries temporelles, scoring rules (CRPS), bases des VAE et des réseaux de densité de mélange.",
+   "Lire une introduction aux marchés de l'électricité (EPEX SPOT, CRE, RTE éCO2mix) et préparer 2 ou 3 exemples d'impact météo sur les prix.",
+   "Citer en entretien le projet de market making par RL (équipe de 6), retiré de la page faute de place : il montre l'intérêt pour le market making de l'équipe ENGIE.",
+   "En entretien, raconter la couche d'analyse statistique et le prototype GP comme des démarches de recherche : question, données, méthode, validation, présentation.",
+   "Vérifier les dates et la durée du stage, inconnues dans l'offre."
+  ]
+ },
+ "new_facts": [],
+ "reply": "Fait : comme tu le proposais, Inside Therapeutics passe de 3 à 2 puces, ce qui devrait libérer au moins la ligne de trop. Changements, sans perte de chiffre : 1) les analyses statistiques et le prototype GP sont fusionnés en une puce de recherche (exp_insidetx_4 retirée) : statistiques puis machine learning, les deux cœurs de l'offre ; « for machine validation and tuning » gardé, GP toujours prototype ; 2) la présentation de LabData au comité de direction et le workshop IA passent dans la puce LabData, qui garde tous ses chiffres (7 semaines, 6 scientifiques, ~2 h, ~500/mois, 4 123 tests, 91 %) ; les deux puces font 536 caractères contre 547 pour les trois ; 3) profil raccourci de 265 à 205 caractères (« from multi-source data to findings presented to management » retiré : la présentation au comité reste dans l'expérience, et la formule était un peu plus large que le fait). Le reste est inchangé : formation avant expérience, SG en 1 puce, projets new:1 et new:2, CLUBEE et centres d'intérêt gardés. Question toujours ouverte : connais-tu la date de début et la durée de ce stage (non indiquées dans l'offre) ?"
+}
