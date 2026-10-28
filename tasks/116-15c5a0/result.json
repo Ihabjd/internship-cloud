@@ -1,0 +1,118 @@
+{
+  "listing": {
+    "Employer": "Crédit Agricole CIB",
+    "Job_Title": "Analyste Support IT Pré-Trade H/F",
+    "Job_Family": "Other",
+    "Location": "Montrouge (92 - Hauts-de-Seine, Île-de-France)",
+    "Country": "France",
+    "Source": "Offre transmise par Ihab (texte copié depuis une URL non fournie, site carrières Crédit Agricole S.A. / CA-CIB d'après le texte)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "Unknown",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-28",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "2027-03-01",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "64",
+    "Priority": "Stretch opportunity",
+    "Eligibility_Status": "Eligible",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Ingénieur ENSEIRB-MATMECA en informatique (formation exactement demandée) ; scripts et flux automatisés en Python/SQL et plus de 25 contrôles automatisés en stage (Société Générale, Inside Therapeutics) ; début 1er mars 2027, 6 mois, Montrouge ; français C2 et anglais C1.",
+    "Essential_Gaps": "Linux scripting : Linux / Bash seulement listés dans les CV, sans expérience démontrée ; aucune expérience de support applicatif ni de suivi d'incidents de production.",
+    "Preferred_Gaps": "Pas d'expérience en environnement post-trade obligataire ; maîtrise du Pack Office : Excel et Power BI démontrés, Word/PowerPoint non documentés.",
+    "Fit_Explanation": "Stage d'IT de production (support applicatif, monitoring, automatisation) dans le Capital Market IT de la filière bonds de CA-CIB. Compatible avec le calendrier IREF et techniquement accessible (scripting, automatisation, informatique), mais hors des familles cibles d'Ihab (pas de rôle quant, trading, structuration ou gestion) : intérêt surtout comme porte d'entrée dans une banque de marché très présente chez les alumni IREF. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Intitulé « Pré-Trade » mais missions décrites « post-trade » (incohérence du texte de l'offre). Rattachement : Corporate and Investment Banking, Capital Market IT, filière bonds de Global Markets Division. Référence « Offre 58 / 75 » = position dans une liste de résultats, pas un numéro d'offre. Page officielle non consultée aujourd'hui.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 8,
+        "evidence": "Missions : monitoring de la plateforme post-trade, suivi des incidents de production, support utilisateurs, documentation, scripts d'automatisation. Seule l'automatisation recoupe l'expérience d'Ihab (flux automatisés et contrôles chez SG, traitement automatisé chez Inside Therapeutics) ; le support/incident n'a pas d'équivalent dans ses CV."
+      },
+      "tech": {
+        "points": 18,
+        "evidence": "Exigés : IT, Linux Scripting, Pack Office, FR/EN. Python et SQL professionnels, Excel/Power BI professionnels ; Linux / Bash listés comme outils sans preuve : écart partiel sur le Linux scripting."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "« Bac + 5 / M2 et plus », « Ecole d'ingénieur/Informatique » : diplôme d'ingénieur ENSEIRB-MATMECA Informatique, Data & IA + M2 IREF, en dernière année ; spécialisation « Data ou Finance de marché » également citée."
+      },
+      "career": {
+        "points": 4,
+        "evidence": "Support IT / production en salle des marchés : hors des familles Core et Bridge, en dessous des familles Secondary (pas un rôle data & IA ni quant) ; seul intérêt : environnement Global Markets d'une banque cible."
+      },
+      "duration": {
+        "points": 10,
+        "evidence": "« Durée (en mois) 6 mois », « Date prévue de prise de fonction 01/03/2027 » : compatible avec la fenêtre IREF 1er mars – 31 août 2027."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "Montrouge (92), Île-de-France ; « Français et Anglais courants » vs FR C2 / EN C1 (TOEIC 970)."
+      }
+    },
+    "Required_Skills": [
+      "IT",
+      "Linux Scripting",
+      "Maîtrise du Pack Microsoft Office",
+      "Français courant",
+      "Anglais courant",
+      "Curiosité",
+      "Autonomie"
+    ],
+    "Preferred_Skills": [
+      "Première expérience en développement informatique, support applicatif ou environnement de marchés financiers"
+    ],
+    "Responsibilities": [
+      "Participer à l'amélioration du monitoring de la plateforme post-trade et au suivi des incidents de production",
+      "Contribuer à l'optimisation des processus de support et à la documentation des procédures opérationnelles",
+      "Assister l'équipe dans le support quotidien aux utilisateurs et le traitement des demandes fonctionnelles et techniques",
+      "Développer et maintenir des scripts d'automatisation pour l'efficacité opérationnelle et la qualité du support"
+    ],
+    "Languages": [
+      "Français (courant)",
+      "Anglais (courant)"
+    ],
+    "Next_Action": "Décider si ce rôle de support IT (hors cibles) vaut une candidature de repli ; si oui, retrouver la page officielle sur jobs.ca-cib.com pour l'URL, la référence et la date de publication, et clarifier pré-trade vs post-trade.",
+    "Recommended_CV_Version": "CV FR, version famille « Capital Markets Data / Python » (automatisation, contrôles, scripting) — Unknown si cette version n'existe pas dans 04_Applications/00_Versions_par_famille/"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {"field": "Job_Title", "value": "Analyste Support IT Pré-Trade H/F", "quote": "Intitulé du poste\n\nAnalyste Support IT Pré-Trade H/F"},
+    {"field": "Contract", "value": "Stage", "quote": "Type de contrat\n\nStage"},
+    {"field": "Duration_Months", "value": "6", "quote": "Durée (en mois)\n\n6 mois"},
+    {"field": "Internship_Start_Date", "value": "2027-03-01", "quote": "Date prévue de prise de fonction\n\n01/03/2027"},
+    {"field": "Employer", "value": "Crédit Agricole CIB", "quote": "Rejoindre Crédit Agricole CIB"},
+    {"field": "Team", "value": "Capital Market IT, filière bonds, Global Markets Division", "quote": "Dans la branche Capital Market IT, et plus précisément dans la filière bonds de Global Markets Division."},
+    {"field": "Location", "value": "Montrouge, 92 - Hauts-de-Seine, Île-de-France", "quote": "Europe, France, Ile-de-France, 92 - Hauts-De-Seine\nVille\n\nMontrouge"},
+    {"field": "Education", "value": "Bac+5 / M2, école d'ingénieur / informatique", "quote": "Bac + 5 / M2 et plus"},
+    {"field": "Education", "value": "École d'ingénieur / Informatique", "quote": "Formation : Ecole d'ingénieur/Informatique."},
+    {"field": "Experience", "value": "0 – 2 ans ; première expérience souhaitable", "quote": "Une première expérience en développement informatique, support applicatif ou environnement de marchés financiers est souhaitable."},
+    {"field": "Required_Skills", "value": "IT, Linux Scripting, Pack Office, FR et EN courants", "quote": "IT;\n Linux Scripting;\n Maîtrise du Pack Microsoft Office;\n Français et Anglais courants."},
+    {"field": "Responsibilities", "value": "Monitoring post-trade et incidents de production", "quote": "Participer à l’amélioration du monitoring de la plateforme post-trade et au suivi des incidents de production."},
+    {"field": "Responsibilities", "value": "Scripts d'automatisation", "quote": "Développer et maintenir des scripts d’automatisation afin d’améliorer l’efficacité opérationnelle et la qualité du support."}
+  ],
+  "inferences": [
+    {"field": "Job_Family", "value": "Other", "reasoning": "Support applicatif / IT de production en salle des marchés : ne correspond à aucune famille de la grille (ni quant, ni trading, ni data/Python au sens analytique)."},
+    {"field": "Internship_End_Date", "value": "2027-08-31 (probable)", "reasoning": "6 mois à partir du 01/03/2027 mènent à fin août 2027 ; date de fin non écrite dans l'offre, laissée à Unknown dans le listing."},
+    {"field": "Eligibility_Status", "value": "Eligible", "reasoning": "Stage de 6 mois débutant le 01/03/2027, niveau Bac+5 en école d'ingénieur informatique : conforme au calendrier IREF et au double diplôme d'Ihab."},
+    {"field": "Scope", "value": "Pré-trade ou post-trade incertain", "reasoning": "L'intitulé dit « Pré-Trade » alors que l'accroche et les missions parlent de « systèmes post-trade » et de « plateforme post-trade »."},
+    {"field": "Source", "value": "Site carrières Crédit Agricole S.A. / CA-CIB", "reasoning": "La structure du texte (« Types de métiers Crédit Agricole S.A. », « Offre 58 / 75 ») ressemble au portail carrières du groupe ; l'URL n'a pas été transmise."}
+  ],
+  "eligibility": {
+    "status": "Eligible",
+    "reasons": [
+      "Stage de 6 mois avec prise de fonction prévue le 01/03/2027 : compatible avec la fenêtre IREF 1er mars – 31 août 2027.",
+      "Niveau exigé « Bac + 5 / M2 et plus », formation « Ecole d'ingénieur/Informatique » : Ihab est en dernière année d'ingénieur ENSEIRB-MATMECA (Informatique, Data & IA) et en M2 IREF.",
+      "Langues : français et anglais courants exigés ; Ihab FR C2, EN C1."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Pas de doublon trouvé parmi les offres connues (les deux offres CA-CIB connues, 2026-116365 et 2026-116469, sont des postes différents).",
+    "URL, référence, date de publication et date limite absentes du texte transmis : Verification_Status = Unverified.",
+    "Incohérence dans l'offre : intitulé « Pré-Trade » mais missions « post-trade ».",
+    "Rôle hors des familles cibles d'Ihab (support IT de production) : score plafonné par l'alignement de carrière.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
