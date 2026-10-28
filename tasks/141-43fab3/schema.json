@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "language": {
+      "type": "string",
+      "enum": [
+        "FR",
+        "EN"
+      ]
+    },
+    "cover_letter": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "subject": {
+          "type": "string"
+        },
+        "salutation": {
+          "type": "string"
+        },
+        "paragraphs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "closing": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "subject",
+        "salutation",
+        "paragraphs",
+        "closing"
+      ]
+    },
+    "linkedin_connection": {
+      "type": "string"
+    },
+    "recruiter_message": {
+      "type": "string"
+    },
+    "application_email": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "subject": {
+          "type": "string"
+        },
+        "body": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "subject",
+        "body"
+      ]
+    },
+    "facts_used": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "language",
+    "cover_letter",
+    "linkedin_connection",
+    "recruiter_message",
+    "application_email",
+    "facts_used",
+    "warnings"
+  ],
+  "title": "letter"
+}
