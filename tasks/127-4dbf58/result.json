@@ -1,0 +1,47 @@
+{
+  "language": "FR",
+  "cover_letter": {
+    "subject": "Candidature au stage de fin d'études Assistant Quant Analyst H/F (6 mois, à partir du 1er mars 2027)",
+    "salutation": "Madame, Monsieur,",
+    "paragraphs": [
+      "Élève ingénieur en dernière année à l'ENSEIRB-MATMECA (Bordeaux INP, Informatique, Data & IA), en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat de l'Université de Bordeaux, je vous adresse ma candidature pour le stage Assistant Quant Analyst au sein de votre département Quantitative Trading & Research. L'étude de l'adaptation dans le temps de modèles appliqués aux futures de matières premières, entre changements de régime et saisonnalité, correspond précisément à la recherche quantitative appliquée que je souhaite mener pour mon stage de fin d'études, de 6 mois, du 1er mars au 31 août 2027.",
+      "Pour préparer cette candidature, j'ai mené un projet sur les futures énergie en Python (statsmodels) : à partir des données EIA sur les futures WTI et gaz, j'ai travaillé la désaisonnalisation, la structure par terme et la recherche de signaux par maturité, avec une validation out-of-sample. Ce travail rejoint mes cours de M2 (calcul stochastique, Monte Carlo, risque de marché avec backtesting et stress tests) et un projet de pricing et de couverture d'options (Black–Scholes, Greeks, delta-hedging, P&L explain, VaR/ES), qui m'ont appris à confronter un modèle aux données plutôt qu'à le supposer juste.",
+      "Python et les données réelles sont au cœur de mes deux stages. Chez Inside Therapeutics (Quantitative Data Analyst & Automation), j'ai conçu et développé seul LabData, une plateforme Python / SQL / Streamlit mise en production en 7 semaines, et j'y ai ajouté de ma propre initiative une couche d'analyse : corrélations, régressions, séparation du bruit de mesure et de la variabilité du procédé, alertes d'anomalies. J'ai aussi prototypé un modèle par processus gaussien sur plan d'expériences, avec active learning guidé par l'incertitude. La validation indépendante des calculs (réconciliation, piste d'audit, 4 123 tests, couverture de 91 %) m'a donné le réflexe de questionner chaque résultat. Chez Société Générale à Casablanca (Data Analyst – Finance de marché), j'ai intégré 6 sources de données en flux automatisés et contrôlés alimentant les outils de P&L de plusieurs desks.",
+      "La rigueur d'analyse et l'esprit collectif que vous décrivez me correspondent : j'ai présenté LabData au comité de direction et animé un workshop IA interne. Mon anglais est courant (TOEIC 970/990). Je serais heureux d'échanger avec vous sur la manière dont je pourrais contribuer aux travaux de votre équipe."
+    ],
+    "closing": "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88"
+  },
+  "linkedin_connection": "Bonjour, élève ingénieur (ENSEIRB-MATMECA) en M2 finance quantitative, je suis intéressé par votre stage Assistant Quant Analyst sur les futures de matières premières. Au plaisir d'échanger, Ihab",
+  "recruiter_message": "Bonjour,\nÉlève ingénieur en dernière année à l'ENSEIRB-MATMECA, en double diplôme avec le M2 IREF – Finance quantitative de l'Université de Bordeaux, je candidate au stage Assistant Quant Analyst (futures de matières premières).\nJ'ai mené un projet Python (statsmodels) sur les futures WTI et gaz : désaisonnalisation, structure par terme et signaux par maturité validés out-of-sample.\nEn stage, j'ai développé seul une plateforme d'analyse de données Python / SQL mise en production, avec régressions et contrôles des calculs.\nJe suis disponible pour un stage de 6 mois du 1er mars au 31 août 2027.\nSeriez-vous ouvert(e) à un court échange ? Merci, Ihab Jaouad",
+  "application_email": {
+    "subject": "Candidature – Stage de fin d'études Assistant Quant Analyst H/F – Ihab Jaouad",
+    "body": "Madame, Monsieur,\n\nJe vous adresse ma candidature pour le stage de fin d'études Assistant Quant Analyst au sein de votre département Quantitative Trading & Research.\n\nÉlève ingénieur en dernière année à l'ENSEIRB-MATMECA (Informatique, Data & IA), en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat de l'Université de Bordeaux, je suis disponible pour un stage de 6 mois du 1er mars au 31 août 2027.\n\nJ'ai récemment mené un projet en Python (statsmodels) sur les futures WTI et gaz (données EIA) : désaisonnalisation, structure par terme et recherche de signaux par maturité, validés out-of-sample. En stage chez Inside Therapeutics, j'ai conçu seul une plateforme d'analyse de données Python / SQL / Streamlit mise en production, avec régressions et validation indépendante des calculs ; chez Société Générale, j'ai automatisé l'intégration de 6 sources de données alimentant les outils de P&L de plusieurs desks.\n\nVous trouverez ci-joints mon CV et ma lettre de motivation. Je reste à votre disposition pour un entretien.\n\nCordialement,\n\nIhab Jaouad\nihab.jaouad5@gmail.com\n+33 6 25 58 61 88\nhttps://www.linkedin.com/in/ihab-jaouad-848664171/"
+  },
+  "facts_used": [
+    "Diplôme d'ingénieur ENSEIRB-MATMECA (Bordeaux INP), Informatique, Data & IA, 2024-2027, en cours",
+    "Master 2 IREF – Finance quantitative et actuariat, Université de Bordeaux, double diplôme avec l'ENSEIRB-MATMECA, 2026-2027, en cours",
+    "Disponibilité : stage de 6 mois du 1er mars au 31 août 2027",
+    "Cours M2 suivis : calcul stochastique, Monte Carlo, risque de marché (backtesting, stress tests)",
+    "Projet 5.1 : pricing, couverture et risques d'options (Black–Scholes, Greeks, delta-hedging, P&L explain, VaR/ES)",
+    "Projet du CV pour cette offre : futures énergie WTI et gaz (données EIA), Python, statsmodels, désaisonnalisation, structure par terme, signaux validés out-of-sample (sans chiffre de résultat)",
+    "Inside Therapeutics, intitulé FR « Quantitative Data Analyst & Automation » : LabData conçu et développé seul, Python / SQL / Streamlit, en production en 7 semaines",
+    "Inside Therapeutics : couche d'analyse de sa propre initiative (corrélations, régressions, bruit de mesure contre variabilité du procédé, alertes d'anomalies)",
+    "Inside Therapeutics : prototype de modèle par processus gaussien sur plan d'expériences, active learning guidé par l'incertitude (prototype, non déployé)",
+    "Inside Therapeutics : validation indépendante des calculs, réconciliation, piste d'audit, 4 123 tests, couverture de 91 %",
+    "Inside Therapeutics : présentation de LabData au CODIR, workshop IA interne",
+    "Société Générale Casablanca, intitulé FR « Data Analyst – Finance de marché » : intégration de 6 sources de données (Python, SQL) en flux automatisés et contrôlés alimentant les outils de P&L, plusieurs desks",
+    "Anglais courant C1, TOEIC 970/990",
+    "Contact : ihab.jaouad5@gmail.com, +33 6 25 58 61 88, LinkedIn"
+  ],
+  "warnings": [
+    "Le projet « Futures énergie » doit être réellement réalisé avant l'envoi : la lettre, l'e-mail et le message recruteur le présentent comme mené (au passé). Adapter le temps si ce n'est pas le cas.",
+    "Lieu : stage à Paris 2e (Opéra-Bourse) alors que la scolarité 2026-2027 est à Bordeaux ; confirmer la disponibilité à Paris dès mars 2027.",
+    "« Dernière année d'école d'ingénieurs » : vérifier que 2026-2027 est bien la dernière année du cursus ENSEIRB-MATMECA (diplôme attendu en 2027, date exacte à confirmer).",
+    "L'offre indique une disponibilité « mars/mai 2027 » et une date de début Unknown ; la lettre propose le 1er mars 2027.",
+    "Chiffres à défendre en entretien : 4 123 tests et 91 % de couverture, mise en production en 7 semaines, 6 sources de données SG.",
+    "Société Générale : entité exacte et desks à préparer ; ne pas parler de front office ni de modèles de risque SG.",
+    "Date du TOEIC à confirmer (certaines entreprises exigent un score de moins de 2 ans).",
+    "Destinataire inconnu : formule « Madame, Monsieur » ; personnaliser si un nom de recruteur est connu. Le message recruteur utilise « ouvert(e) » à ajuster.",
+    "Relire et envoyer soi-même : rien n'a été envoyé."
+  ]
+}
