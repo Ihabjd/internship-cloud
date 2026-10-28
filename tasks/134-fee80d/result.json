@@ -1,0 +1,49 @@
+{
+  "language": "FR",
+  "cover_letter": {
+    "subject": "Candidature au stage Data Scientist - AI engineer H/F (IA Factory, ISR) – 6 mois à partir du 1er mars 2027",
+    "salutation": "Madame, Monsieur,",
+    "paragraphs": [
+      "Élève ingénieur en Informatique, Data & IA à l'ENSEIRB-MATMECA (Bordeaux INP) et étudiant en Master 2 IREF – Finance quantitative et actuariat à l'Université de Bordeaux (double diplôme), je vous adresse ma candidature au stage Data Scientist - AI engineer au sein de l'IA Factory de Crédit Agricole CIB. Ce poste réunit les deux axes de mon parcours, le développement de solutions d'IA en Python et la finance de marché. Je suis disponible pour un stage de fin d'études de 6 mois, du 1er mars au 31 août 2027.",
+      "Lors de mon stage chez Inside Therapeutics, start-up deeptech, j'ai conçu et développé seul, de bout en bout et sans cahier des charges, LabData, une plateforme Python / SQL / Streamlit mise en production en 7 semaines, qui fait gagner environ 2 h de travail manuel par expérience à 6 scientifiques. J'y ai automatisé le traitement d'environ 500 échantillons par mois avec validation indépendante des calculs, réconciliation, piste d'audit et documentation, appuyés par 4 123 tests et une couverture de 91 %. J'ai ajouté de ma propre initiative une couche d'analyse (corrélations, régressions, alertes d'anomalies) et réalisé un prototype de modèle par processus gaussien avec active learning guidé par l'incertitude. J'ai enfin présenté LabData au comité de direction et lancé un workshop IA interne. Ces missions rejoignent directement le développement de fonctionnalités, les tests, la validation et la documentation technique que vous décrivez.",
+      "Côté NLP et IA générative, j'ai réalisé un prototype de chatbot RAG avec LangChain (embeddings, recherche sémantique, génération de réponses avec un LLM open source) et je mène un projet d'analyse NLP de documents financiers publics en Python et PyTorch (classification de texte et extraction d'information, API FastAPI, Docker), soit précisément les cas d'usage cités dans votre offre. Ma connaissance des marchés s'appuie sur mon stage de Data Analyst – Finance de marché à la Société Générale (Casablanca), où j'ai intégré 6 sources de données en flux automatisés et contrôlés alimentant les outils de P&L et mis en place plus de 25 contrôles automatisés suivis dans Power BI, ainsi que sur mon Master (risque de marché, produits dérivés, computational finance) et un projet de market making par apprentissage par renforcement (C++20 / Python, équipe de 6, agent Double DQN).",
+      "Rigoureux et autonome, je souhaite mettre ces compétences au service des équipes de marché, de financement et de risque de Crédit Agricole CIB, et contribuer à la veille et aux projets de R&D de l'IA Factory sur l'IA générative et agentique. Je serais heureux de vous présenter plus en détail mes projets lors d'un entretien."
+    ],
+    "closing": "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88"
+  },
+  "linkedin_connection": "Bonjour, élève ingénieur Data & IA (ENSEIRB-MATMECA) et M2 finance quantitative, je candidate au stage Data Scientist - AI engineer de l'IA Factory (mars 2027). Ravi d'échanger ! Ihab",
+  "recruiter_message": "Bonjour,\nJe suis élève ingénieur en Informatique, Data & IA (ENSEIRB-MATMECA) et en M2 Finance quantitative (Université de Bordeaux), et je candidate au stage Data Scientist - AI engineer de l'IA Factory (6 mois dès le 1er mars 2027).\nChez Inside Therapeutics, j'ai conçu seul LabData, une plateforme Python / SQL / Streamlit mise en production en 7 semaines, avec 4 123 tests automatisés.\nJ'ai aussi réalisé un prototype de chatbot RAG (LangChain) et travaillé sur des données de marché à la Société Générale (6 sources intégrées, plus de 25 contrôles automatisés).\nSeriez-vous disponible pour un bref échange sur le poste ?\nBien cordialement,\nIhab Jaouad",
+  "application_email": {
+    "subject": "Candidature – Stage Data Scientist - AI engineer H/F (IA Factory) – mars à août 2027 – Ihab Jaouad",
+    "body": "Madame, Monsieur,\n\nJe vous adresse ma candidature au stage Data Scientist - AI engineer H/F au sein de l'IA Factory (département ISR) de Crédit Agricole CIB, à Montrouge, pour une durée de 6 mois du 1er mars au 31 août 2027.\n\nÉlève ingénieur en Informatique, Data & IA à l'ENSEIRB-MATMECA et étudiant en Master 2 IREF – Finance quantitative et actuariat à l'Université de Bordeaux, j'ai conçu et mis en production en 7 semaines une plateforme de données Python / SQL / Streamlit (4 123 tests, couverture de 91 %) lors de mon stage chez Inside Therapeutics, et travaillé sur des flux de données de marché à la Société Générale. J'ai également réalisé un prototype de chatbot RAG avec LangChain et je mène un projet d'analyse NLP de documents financiers (classification de texte, extraction d'information).\n\nVous trouverez ci-joints mon CV et ma lettre de motivation. Je reste à votre disposition pour un entretien.\n\nBien cordialement,\n\nIhab Jaouad\nihab.jaouad5@gmail.com\n+33 6 25 58 61 88"
+  },
+  "facts_used": [
+    "Diplôme d'ingénieur Informatique, Data & IA – ENSEIRB-MATMECA (Bordeaux INP), 2024-2027, en cours",
+    "Master 2 IREF – Finance quantitative et actuariat, Université de Bordeaux, double diplôme avec l'ENSEIRB-MATMECA, 2026-2027, en cours",
+    "Cours M2 : risque de marché, produits dérivés, computational finance (formulés comme cours suivis)",
+    "Disponibilité : stage de 6 mois du 1er mars au 31 août 2027",
+    "Inside Therapeutics, start-up deeptech, stage juin-sept. 2026 : LabData conçu et développé seul, de bout en bout, sans cahier des charges, Python / SQL / Streamlit, en production en 7 semaines",
+    "LabData : environ 2 h de travail manuel gagnées par expérience pour 6 scientifiques",
+    "Traitement automatisé d'environ 500 échantillons/mois, validation indépendante des calculs, réconciliation, piste d'audit, documentation ; 4 123 tests, couverture de 91 %",
+    "Couche d'analyse ajoutée de sa propre initiative : corrélations, régressions, alertes d'anomalies",
+    "Prototype de modèle par processus gaussien avec active learning guidé par l'incertitude (prototype, non déployé)",
+    "Présentation de LabData au CODIR ; lancement d'un workshop IA interne",
+    "Société Générale, Casablanca, août-sept. 2025, Data Analyst – Finance de marché : 6 sources de données intégrées (Python, SQL) en flux automatisés et contrôlés alimentant les outils de P&L ; plus de 25 contrôles automatisés ; reportings et dashboards Power BI",
+    "Projet 5.3 : prototype de chatbot RAG avec LangChain (embeddings, recherche sémantique, LLM open source)",
+    "Projet 5.2 : market making par apprentissage par renforcement, C++20 / Python, équipe de 6, agent Double DQN",
+    "Projet proposé par l'app : Analyse NLP de documents financiers – Python, PyTorch, FastAPI, Docker (classification de texte, extraction d'information), cité sans chiffre de résultat",
+    "Coordonnées : ihab.jaouad5@gmail.com, +33 6 25 58 61 88"
+  ],
+  "warnings": [
+    "Le projet « Analyse NLP de documents financiers » doit être réellement réalisé avant l'envoi (l'app bloque l'envoi tant qu'il n'est pas marqué réalisé) ; la lettre et l'e-mail disent « je mène », à passer au passé une fois terminé, sans ajouter de chiffre de résultat.",
+    "Le chatbot RAG est un prototype : ne jamais le présenter comme déployé ; préparer à l'oral le LLM open source, la base vectorielle et les documents utilisés (À DÉFENDRE).",
+    "Market making RL : préparer la contribution individuelle dans l'équipe de 6 (À CONFIRMER / À DÉFENDRE).",
+    "4 123 tests et 91 % de couverture, gain de 2 h par expérience : préparer la méthode de mesure (À DÉFENDRE).",
+    "Société Générale : rester sur « Data Analyst – Finance de marché », jamais « front office » ; préparer l'entité exacte, les desks et ce qu'était un « outil de P&L » (À CONFIRMER).",
+    "Localisation : le poste est à Montrouge alors que la scolarité 2026-2027 est à Bordeaux ; confirmer la disponibilité en Île-de-France dès le 1er mars 2027.",
+    "Compétences de l'offre non couvertes par les faits et non revendiquées : MLOps et déploiement de modèles, Dataiku, AWS ; deep learning seulement via PyTorch (listé) et les projets ; être prêt à en parler honnêtement.",
+    "Intitulé à recopier exactement depuis l'offre : « Data Scientist - AI engineer H/F » ; URL et référence de l'offre inconnues (Unknown) : à vérifier avant l'envoi.",
+    "Le message LinkedIn est à adresser à un interlocuteur identifié manuellement par Ihab ; aucune automatisation sur LinkedIn.",
+    "Rien n'a été envoyé : Ihab relit et envoie lui-même."
+  ]
+}
