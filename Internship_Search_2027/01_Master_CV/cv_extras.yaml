@@ -1,0 +1,103 @@
+# Éléments de CV déclarés par Ihab le 2026-10-16, absents des CV maîtres (Candidate_Facts.md §4.4, §4.5, §5.3 à 5.8).
+# Projets : éléments facultatifs de la section Projets (Studio CV) et choisis par l'adaptation IA selon l'offre.
+# Expériences : éléments facultatifs de la section Expérience (Studio CV seulement).
+# Texte brut : l'app l'échappe pour LaTeX. EN = texte d'Ihab, condensé pour tenir sur une ligne (le CV maître est plein ;
+# texte complet dans Candidate_Facts.md) ; FR = traduction de Claude, à relire. Cadre, équipe : À CONFIRMER.
+projects:
+  - id: proj_rag
+    fact_ref: "5.3"
+    tools: [Python, LangChain, RAG, embeddings, LLM]
+    tags: [recherche-quant-am, quant]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "prototype", "cadre, dates, équipe À CONFIRMER"]
+    en:
+      title: "RAG Chatbot – Python, LangChain"
+      desc: "LangChain RAG prototype on documents: embeddings, semantic search, answers from an open-source LLM."
+    fr:
+      title: "Chatbot RAG – Python, LangChain"
+      desc: "Prototype RAG LangChain sur documents : embeddings, recherche sémantique, réponses d'un LLM open source."
+  - id: proj_realestate
+    fact_ref: "5.4"
+    tools: [Python, pandas, scikit-learn]
+    tags: [private-equity, gestion-actifs, recherche-quant-am]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "cadre, dates, données utilisées À CONFIRMER"]
+    en:
+      title: "Real Estate Price Prediction – Python, pandas, scikit-learn"
+      desc: "Data cleaning and transformation, EDA, regression models; methodology documented for reproducibility."
+    fr:
+      title: "Prédiction de prix immobiliers – Python, pandas, scikit-learn"
+      desc: "Nettoyage et transformation des données, EDA, modèles de régression ; méthodologie documentée, reproductible."
+  - id: proj_drl_trading
+    fact_ref: "5.5"
+    tools: [C++, Python, PPO, DQN, MDP]
+    tags: [quant, trading-structuration, recherche-quant-am]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "MÊME PROJET que proj_rl (CONFIRMÉ-IHAB 2026-10-16) : autre présentation, équipe de 6", "contribution individuelle À DÉFENDRE"]
+    excludes: [proj_rl]
+    en:
+      title: "AI & Deep RL for Trading Systems – C++, Python (team of 6)"
+      desc: "Deep RL (PPO, DQN) quoting in a simulated order book; risk-adjusted P&L, inventory constraints."
+    fr:
+      title: "IA et deep RL pour systèmes de trading – C++, Python (équipe de 6)"
+      desc: "Deep RL (PPO, DQN) : cotation bid/ask sur carnet simulé ; P&L ajusté du risque, limite d'inventaire."
+  - id: proj_games
+    fact_ref: "5.6"
+    tools: [TypeScript, C++, Jest, Dijkstra]
+    tags: [quant]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "cadre (projet ENSEIRB ?), dates, équipe À CONFIRMER"]
+    en:
+      title: "Quoridor & Acting Shooting Star Games – TypeScript, C++"
+      desc: "Autonomous agent engines: modular architecture, unit tests (Jest), graph algorithms (Dijkstra)."
+    fr:
+      title: "Jeux Quoridor et Acting Shooting Star – TypeScript, C++"
+      desc: "Moteurs d'agents autonomes : architecture modulaire, tests unitaires (Jest), algorithmes de graphes (Dijkstra)."
+  - id: proj_numerical
+    fact_ref: "5.7"
+    tools: [Python, SVD]
+    tags: [quant, risque-marche, recherche-quant-am]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "cadre (cours ?), dates À CONFIRMER"]
+    en:
+      title: "Numerical Algorithms & Optimization – Python"
+      desc: "SVD, interpolation, integration, gradient-based optimization; automated tests; applied to quantitative problems."
+    fr:
+      title: "Algorithmes numériques et optimisation – Python"
+      desc: "SVD, interpolation, intégration, optimisation par gradient ; tests automatisés ; problèmes quantitatifs."
+  - id: proj_parking
+    fact_ref: "5.8"
+    tools: [SQL, HTML, CSS]
+    tags: [recherche-quant-am]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "sept. 2025 – déc. 2025", "cadre (cours ENSEIRB ?), équipe À CONFIRMER"]
+    en:
+      title: "Parking Management Database – SQL, HTML/CSS"
+      desc: "Relational DB design, complex SQL (availability, occupancy, revenue ranking), HTML/CSS CRUD interface."
+    fr:
+      title: "Base de données de gestion de parking – SQL, HTML/CSS"
+      desc: "Base relationnelle modélisée, SQL complexe (disponibilité, occupation, revenus), interface CRUD HTML/CSS."
+
+experience:
+  - id: exp_tutor
+    fact_ref: "4.5"
+    tags: [sales-solutions]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "bénévolat", "Casablanca (CONFIRMÉ-IHAB 2026-10-16)"]
+    en:
+      title: "Mathematics & Algorithmics Tutor (volunteer) – La compétence scientifique"
+      dates: "Oct 2022 – Jan 2024"
+      subtitle: "Organized weekly workshops for students of my former high school during CPGE."
+      location: "Casablanca, Morocco"
+    fr:
+      title: "Tuteur bénévole – La compétence scientifique"
+      dates: "oct. 2022 – janv. 2024"
+      subtitle: "Pendant la CPGE, ateliers hebdomadaires (maths, algorithmique) pour mon ancien lycée."
+      location: "Casablanca, Maroc"
+  - id: exp_aldi
+    fact_ref: "4.4"
+    tags: [sales-solutions]
+    status: ["DÉCLARÉ-IHAB 2026-10-16", "hors CV finance par défaut", "missions À CONFIRMER"]
+    en:
+      title: "Sales Associate – ALDI (student job)"
+      dates: "Mar 2025 – Aug 2026"
+      subtitle: "Retail job held alongside my studies."
+      location: "Bordeaux, France"
+    fr:
+      title: "Employé commercial – ALDI (emploi étudiant)"
+      dates: "mars 2025 – août 2026"
+      subtitle: "Emploi en magasin tenu en parallèle des études."
+      location: "Bordeaux"

@@ -1,0 +1,140 @@
+\documentclass[a4paper,11pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+\usepackage{lmodern}      % vector (Type 1) version of Computer Modern: sharp at any zoom level
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{microtype}     % finer spacing and justification
+\usepackage{url}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[a4paper,top=1cm,bottom=0.8cm,left=1.1cm,right=1.1cm]{geometry}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fontawesome5}
+\usepackage[unicode, draft=false]{hyperref}
+
+% links
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+\hypersetup{pdftitle={Ihab Jaouad – CV},pdfauthor={Ihab Jaouad},pdfsubject={Stage de fin d'études – Finance de marché, gestion d'actifs, risques, actuariat},pdfkeywords={finance de marché, gestion d'actifs, risques de marché, VaR, Expected Shortfall, P\&L explain, FRTB, Solvabilité II, pricing d'options, Greeks, market making, Python, C++, SQL, VBA}}
+% icons are hidden from text extraction (ATS / copy-paste)
+\usepackage{accsupp}
+\newcommand{\icon}[1]{\BeginAccSupp{ActualText={}}#1\EndAccSupp{}}
+
+% centered version of 'X' column type (header)
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+% paragraph spacing: controlled explicitly
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% section style: small caps + rule
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{5pt}{3pt}
+
+%----------------------------------------------------------------------------------------
+%	CV COMMANDS
+%----------------------------------------------------------------------------------------
+% \entry{Bold title}{Dates}{Italic subtitle}{Location}
+\newcommand{\entry}[4]{%
+  \textbf{#1}\hfill #2\par
+  \textit{#3}\hfill\textit{#4}\par}
+% \entryline{Bold title}{Dates}{Plain description}{Location}
+\newcommand{\entryline}[4]{%
+  \textbf{#1}\hfill #2\par
+  #3\hfill\textit{#4}\par}
+% \project{Bold title}{Description}
+\newcommand{\project}[2]{%
+  \textbf{#1}\par
+  #2\par}
+% space between two entries
+\newcommand{\entrygap}{\par\vspace{3pt}}
+% bullet list
+\newenvironment{bullets}
+  {\begin{itemize}[nosep, leftmargin=1em, itemsep=1pt, label=--]}
+  {\end{itemize}}
+
+\begin{document}
+\pagestyle{empty}
+
+%----------------------------------------------------------------------------------------
+%	EN-TÊTE
+%----------------------------------------------------------------------------------------
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\Huge{Ihab Jaouad} \\[3pt]
+{\large Stage de fin d'études (6 mois) – Finance de marché, gestion d'actifs, risques ou actuariat – dès mars 2027}\\
+\href{https://www.google.com/maps/place/Paris,+France}{\raisebox{-0.05\height}{\icon{\faMapMarker}}\ Paris – Mobilité : France entière} \ $|$ \
+\href{mailto:ihab.jaouad5@gmail.com}{\raisebox{-0.05\height}{\icon{\faEnvelope}} \ ihab.jaouad5@gmail.com} \ $|$ \
+\href{tel:+33625586188}{\raisebox{-0.05\height}{\icon{\faMobile}} \ +33 6 25 58 61 88} \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	PROFIL
+%----------------------------------------------------------------------------------------
+\section{Profil}
+Élève ingénieur à l'ENSEIRB-MATMECA, filière Informatique (data \& IA), classé dans le \textbf{top 3\,\% de la promotion} et en \textbf{double diplôme} avec le \textbf{Master 2 IREF – Finance quantitative et actuariat}. Expérience en modélisation quantitative et data (Python, SQL, C++), des flux de P\&L à une plateforme en production.
+
+%----------------------------------------------------------------------------------------
+%	FORMATION
+%----------------------------------------------------------------------------------------
+\section{Formation}
+\entry{Master 2 IREF – Finance quantitative et actuariat}{2026 – 2027}
+      {Mathématiques appliquées, statistique – Université de Bordeaux, double diplôme avec l'ENSEIRB}{Bordeaux}
+\textit{Cours principaux :} finance mathématique (calcul stochastique), computational finance (Monte Carlo), risque de marché (VaR, Expected Shortfall, backtesting, stress tests), risque de crédit (scoring), réglementation prudentielle (Bâle III), fixed income \& produits dérivés, produits structurés, gestion de portefeuille, actuariat.
+\entrygap
+\entry{Diplôme d'ingénieur (Bac+5) – Informatique (data \& IA)}{2024 – 2027}
+      {ENSEIRB-MATMECA (Bordeaux INP) – \textbf{top 3\,\% de la promotion}}{Bordeaux}
+\textit{Cours principaux :} algorithmique numérique, C/C++/Python (POO), IA (ML, deep learning), finance de marché.
+\entrygap
+\entry{Classes préparatoires aux grandes écoles (CPGE) – MP}{2022 – 2024}
+      {Mathématiques et physique intensives – \textbf{major en mathématiques de la promotion}}{Casablanca, Maroc}
+
+%----------------------------------------------------------------------------------------
+%	EXPÉRIENCES
+%----------------------------------------------------------------------------------------
+\section{Expériences professionnelles}
+\entry{Quantitative Data Analyst \& Automation – Inside Therapeutics}{juin – sept. 2026}
+      {Start-up deeptech – microfluidique}{Bordeaux}
+\begin{bullets}
+\item Automatisé le traitement de \textbf{$\sim$500 échantillons/mois} avec \textbf{validation indépendante des calculs} : \mbox{réconciliation} (concordance totale), piste d'audit, documentation ; 4\,123 tests (couverture de 91\,\%).
+\item Conçu et développé seul LabData de bout en bout, sans cahier des charges : plateforme Python/\allowbreak SQL/\allowbreak Streamlit \textbf{en production en 7 semaines}, faisant gagner \textbf{$\sim$2\,h de travail manuel par expérience} à 6 scientifiques.
+\item Pris l'initiative d'ajouter une couche d'analyse (corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies) appuyant la \textbf{validation des machines} et l'optimisation des paramètres.
+\item Prototypé un modèle par \textbf{processus gaussien} sur plan d'expériences, avec active learning guidé par l'incertitude ; présenté LabData au \textbf{CODIR} ; lancé et animé un workshop IA en interne.
+\end{bullets}
+\entrygap
+\entry{Data Analyst – Finance de marché – Société Générale}{août – sept. 2025}
+      {Analyse de données pour plusieurs desks de marché}{Casablanca, Maroc}
+\begin{bullets}
+\item Intégré \textbf{6 sources de données} (Python, SQL) en flux automatisés et contrôlés alimentant les outils de \textbf{P\&L}.
+\item Remplacé des contrôles manuels par \textbf{plus de 25 contrôles automatisés} de qualité des données et de conformité, suivis via des reportings et dashboards Power BI pour les équipes Finance, Risques et Trading.
+\end{bullets}
+\entrygap
+\entryline{Event Manager – Association étudiante CLUBEE}{2024 – 2026}
+          {Dirigé une équipe de 5 personnes : plus de 10 événements multiculturels, plus de 100 participants.}{Bordeaux}
+
+%----------------------------------------------------------------------------------------
+%	PROJETS
+%----------------------------------------------------------------------------------------
+\section{Projets}
+\project{Pricing, couverture et risques d'options – Python, Streamlit}
+{Black–Scholes, Greeks, delta-hedging et \textbf{P\&L explain} ; \textbf{VaR/ES} (FRTB, Solvabilité II), stress tests et backtesting.}
+\entrygap
+\project{Market making par apprentissage par renforcement – C++20, Python (équipe de 6)}
+{Carnet d'ordres C++ (\textbf{400\,k ordres/s}, 2–4\,µs) sur flux Binance ; intégration C++/Python, agent \textbf{Double DQN}.}
+
+%----------------------------------------------------------------------------------------
+%	COMPÉTENCES
+%----------------------------------------------------------------------------------------
+\section{Compétences}
+\textbf{Finance \& risques :} pricing d'options (Black–Scholes, Greeks), delta-hedging, P\&L, VaR/Expected Shortfall, backtesting, stress tests, produits dérivés, fixed income, Bâle III/FRTB, Solvabilité II.\par
+\textbf{Programmation :} Python (\texttt{pandas}, \texttt{NumPy}, \texttt{scikit-learn}, \texttt{PyTorch}, \texttt{Streamlit}), C/C++, SQL (PostgreSQL), R, VBA ; Java, TypeScript. \textbf{Outils :} Git, Linux, Power BI, Excel, développement assisté par IA (Claude Code).\par
+\textbf{Méthodes quantitatives :} calcul stochastique, Monte Carlo, séries temporelles, régression, machine learning.\par
+\textbf{Certifications \& distinctions :} certification AMF (en cours), Citi MQA – Quantitative Market Analysis, certification Microsoft Power BI ; lauréat des Olympiades nationales de mathématiques (Maroc).\par
+\textbf{Langues :} français (C2), anglais courant (C1 – TOEIC 970/990), arabe (langue maternelle), espagnol (A2).\par
+\textbf{Centres d'intérêt :} échecs, football, Formule 1.
+
+\end{document}

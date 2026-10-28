@@ -1,0 +1,470 @@
+# cv_facts.yaml — base de faits du CV, générée par `python -m internship_app.cli build-cv-facts`.
+# Source : CV_FR.tex, CV_EN.tex (verbatim) et Candidate_Facts.md. L'IA ne modifie jamais ce fichier.
+version: 1
+generated_at: '2026-10-16T03:49:01'
+generated_from:
+  CV_FR.tex: ae4e360712deede1bbc797f7a39b4dc6af3c9dbff84f55152fd6b2165420ab78
+  CV_EN.tex: a20b7e75c4a6c750ab461c41367671cd95650d7bda3dcd3699528fe72c15c85e
+  Candidate_Facts.md: 5c91e7a1b4086f78b44fcb986951968987691c996f87da94fa585a30b6dee517
+rules:
+- text_fr et text_en sont verbatim (source LaTeX) du maître de leur langue ; ne pas les mélanger.
+- L'IA ne modifie jamais ce fichier. Toute modification par Ihab est auditée avec une note de source.
+- Les écarts FR≠EN de Candidate_Facts.md §10 sont conservés tels quels.
+header:
+  name: Ihab Jaouad
+  email: ihab.jaouad5@gmail.com
+  phone: +33 6 25 58 61 88
+  linkedin_url: https://www.linkedin.com/in/ihab-jaouad-848664171/
+  linkedin_visible: linkedin.com/in/ihab-jaouad-848664171
+  fr:
+    headline: Stage de fin d'études (6 mois) – Finance de marché, gestion d'actifs, risques ou actuariat – dès mars 2027
+    location: 'Paris – Mobilité : France entière'
+    linkedin_text: ''
+  en:
+    headline: 6-Month Internship – Capital Markets, Asset Management, Risk or Actuarial Science – from March 2027
+    location: Paris – mobile across France
+    linkedin_text: ''
+pdf:
+  fr:
+    subject: Stage de fin d'études – Finance de marché, gestion d'actifs, risques, actuariat
+    keywords: finance de marché, gestion d'actifs, risques de marché, VaR, Expected Shortfall, P\&L explain, FRTB, Solvabilité II, pricing d'options, Greeks, market making, Python, C++, SQL, VBA
+  en:
+    subject: 6-month internship – Capital markets, asset management, risk, actuarial science
+    keywords: capital markets, asset management, market risk, VaR, Expected Shortfall, P\&L explain, FRTB, Solvency II, options pricing, Greeks, market making, quantitative finance, Python, C++, SQL, VBA
+sections:
+- id: profile
+  title_fr: Profil
+  title_en: Profile
+  items:
+  - profile
+  trailing_par: false
+- id: education
+  title_fr: Formation
+  title_en: Education
+  items:
+  - edu_m2
+  - edu_enseirb
+  - edu_cpge
+  trailing_par: false
+- id: experience
+  title_fr: Expériences professionnelles
+  title_en: Experience
+  items:
+  - exp_insidetx
+  - exp_sg
+  - exp_clubee
+  trailing_par: false
+- id: projects
+  title_fr: Projets
+  title_en: Projects
+  items:
+  - proj_options
+  - proj_rl
+  trailing_par: false
+- id: skills
+  title_fr: Compétences
+  title_en: Skills
+  items:
+  - skills_finance
+  - skills_programming
+  - skills_quant
+  - skills_certifications
+  - skills_languages
+  - skills_interests
+  trailing_par: false
+blocks:
+- id: profile
+  section: profile
+  kind: paragraph
+  status:
+  - VÉRIFIÉ-CV
+  tags: &id001
+  - quant
+  - trading-structuration
+  - sales-solutions
+  - gestion-actifs
+  - recherche-quant-am
+  - private-equity
+  - risque-marche
+  fr:
+    text: Élève ingénieur à l'ENSEIRB-MATMECA, filière Informatique (data \& IA), classé dans le \textbf{top 3\,\% de la promotion} et en \textbf{double diplôme} avec le \textbf{Master 2 IREF – Finance quantitative et actuariat}. Expérience en modélisation quantitative et data (Python, SQL, C++), des flux de P\&L à une plateforme en production.
+  en:
+    text: Final-year Computer Science (Data \& AI) engineering student at ENSEIRB-MATMECA, \textbf{ranked in the top 3\% of the cohort}, in a \textbf{double degree} with the \textbf{MSc Quantitative Finance \& Actuarial Science}. Combines quantitative modelling and data skills (Python, SQL, C++), from capital markets P\&L data to production.
+  numbers:
+  - '2'
+  - '3'
+  bullets: []
+- id: edu_m2
+  section: education
+  kind: entry
+  status:
+  - VÉRIFIÉ-CV
+  - en cours
+  tags: *id001
+  fr:
+    title: Master 2 IREF – Finance quantitative et actuariat
+    dates: 2026 – 2027
+    subtitle: Mathématiques appliquées, statistique – Université de Bordeaux, double diplôme avec l'ENSEIRB
+    location: Bordeaux
+    extra: \textit{Cours principaux :} finance mathématique (calcul stochastique), computational finance (Monte Carlo), risque de marché (VaR, Expected Shortfall, backtesting, stress tests), risque de crédit (scoring), réglementation prudentielle (Bâle III), fixed income \& produits dérivés, produits structurés, gestion de portefeuille, actuariat.
+  en:
+    title: MSc Applied Mathematics \& Statistics – Quantitative Finance \& Actuarial Science
+    dates: 2026 – 2027
+    subtitle: University of Bordeaux (IREF) – double degree with ENSEIRB-MATMECA
+    location: Bordeaux, France
+    extra: \textit{Coursework:} mathematical finance (stochastic calculus), computational finance (Monte Carlo), market risk (VaR, Expected Shortfall, backtesting, stress testing), credit risk (scoring), prudential regulation (Basel III), fixed income \& derivatives, structured products, portfolio management, actuarial science.
+  numbers:
+  - '2'
+  - '2026'
+  - '2027'
+  bullets: []
+- id: edu_enseirb
+  section: education
+  kind: entry
+  status:
+  - VÉRIFIÉ-CV
+  - À DÉFENDRE (top 3 %)
+  tags: *id001
+  fr:
+    title: Diplôme d'ingénieur (Bac+5) – Informatique (data \& IA)
+    dates: 2024 – 2027
+    subtitle: ENSEIRB-MATMECA (Bordeaux INP) – \textbf{top 3\,\% de la promotion}
+    location: Bordeaux
+    extra: \textit{Cours principaux :} algorithmique numérique, C/C++/Python (POO), IA (ML, deep learning), finance de marché.
+  en:
+    title: Engineering Degree (Master's level) – Computer Science (Data \& AI)
+    dates: 2024 – 2027
+    subtitle: ENSEIRB-MATMECA (Bordeaux INP) – \textbf{ranked in the top 3\% of the cohort}
+    location: Bordeaux, France
+    extra: \textit{Coursework:} numerical algorithms, C/C++/Python (OOP), data science, AI (ML, deep learning), market finance.
+  numbers:
+  - '2024'
+  - '2027'
+  - '3'
+  - '5'
+  bullets: []
+- id: edu_cpge
+  section: education
+  kind: entry
+  status:
+  - VÉRIFIÉ-CV
+  tags: *id001
+  fr:
+    title: Classes préparatoires aux grandes écoles (CPGE) – MP
+    dates: 2022 – 2024
+    subtitle: Mathématiques et physique intensives – \textbf{major en mathématiques de la promotion}
+    location: Casablanca, Maroc
+    extra: ''
+  en:
+    title: Preparatory Classes for the Grandes Écoles (MP)
+    dates: 2022 – 2024
+    subtitle: Intensive mathematics and physics – \textbf{ranked 1st in mathematics in the class}
+    location: Casablanca, Morocco
+    extra: ''
+  numbers:
+  - '1'
+  - '2022'
+  - '2024'
+  bullets: []
+- id: exp_insidetx
+  section: experience
+  kind: entry
+  status:
+  - VÉRIFIÉ-CV (FR≠EN)
+  - intitulé officiel À CONFIRMER
+  tags: *id001
+  fr:
+    title: Quantitative Data Analyst \& Automation – Inside Therapeutics
+    dates: juin – sept. 2026
+    subtitle: Start-up deeptech – microfluidique
+    location: Bordeaux
+    extra: ''
+  en:
+    title: Quantitative Data Analysis \& Automation Intern – Inside Therapeutics
+    dates: Jun 2026 – Sep 2026
+    subtitle: Deeptech start-up – microfluidics for mRNA lipid nanoparticles
+    location: Bordeaux, France
+    extra: ''
+  numbers:
+  - '2026'
+  bullets:
+  - id: exp_insidetx_1
+    text_fr: 'Automatisé le traitement de \textbf{$\sim$500 échantillons/mois} avec \textbf{validation indépendante des calculs} : \mbox{réconciliation} (concordance totale), piste d''audit, documentation ; 4\,123 tests (couverture de 91\,\%).'
+    text_en: 'Automated the processing of \textbf{$\sim$500 samples/month} with \textbf{independent validation of calculations}: \textbf{reconciliation} (full agreement), audit trail, documentation; \textbf{4,123 tests} (91\% coverage).'
+    status:
+    - VÉRIFIÉ-CV
+    - À DÉFENDRE (4 123 tests, 91 %)
+    tags:
+    - quant
+    - risque-marche
+    - recherche-quant-am
+    numbers:
+    - '4123'
+    - '500'
+    - '91'
+  - id: exp_insidetx_2
+    text_fr: 'Conçu et développé seul LabData de bout en bout, sans cahier des charges : plateforme Python/\allowbreak SQL/\allowbreak Streamlit \textbf{en production en 7 semaines}, faisant gagner \textbf{$\sim$2\,h de travail manuel par expérience} à 6 scientifiques.'
+    text_en: 'Built \textbf{LabData} end-to-end as \textbf{sole developer} from an open-ended problem: a Python/PostgreSQL/Streamlit data platform \textbf{live within 7 weeks}, saving 6 scientists \textbf{$\sim$2\,h of manual work per experiment}.'
+    status:
+    - 'VÉRIFIÉ-CV (FR≠EN : SQL / PostgreSQL)'
+    - À DÉFENDRE (gain de ~2 h)
+    tags: *id001
+    numbers:
+    - '2'
+    - '6'
+    - '7'
+  - id: exp_insidetx_3
+    text_fr: Pris l'initiative d'ajouter une couche d'analyse (corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies) appuyant la \textbf{validation des machines} et l'optimisation des paramètres.
+    text_en: Took the initiative to add an analytics layer (correlations, trend regressions, noise vs process variability, anomaly flags) that supported \textbf{machine validation and parameter optimisation} decisions.
+    status:
+    - VÉRIFIÉ-CV
+    tags:
+    - quant
+    - recherche-quant-am
+    - risque-marche
+    numbers: []
+  - id: exp_insidetx_4
+    text_fr: Prototypé un modèle par \textbf{processus gaussien} sur plan d'expériences, avec active learning guidé par l'incertitude ; présenté LabData au \textbf{CODIR} ; lancé et animé un workshop IA en interne.
+    text_en: Prototyped a \textbf{DoE + Gaussian-process model} with uncertainty-driven active learning; presented LabData to the \textbf{executive committee}; initiated and led an internal \textbf{AI workshop}.
+    status:
+    - VÉRIFIÉ-CV
+    - 'prototype : jamais « déployé »'
+    tags:
+    - quant
+    - recherche-quant-am
+    numbers: []
+- id: exp_sg
+  section: experience
+  kind: entry
+  status:
+  - VÉRIFIÉ-CV (FR≠EN)
+  - À DÉFENDRE (stage de 2 mois, entité À CONFIRMER)
+  tags: *id001
+  fr:
+    title: Data Analyst – Finance de marché – Société Générale
+    dates: août – sept. 2025
+    subtitle: Analyse de données pour plusieurs desks de marché
+    location: Casablanca, Maroc
+    extra: ''
+  en:
+    title: Data Analyst Intern – Capital Markets – Société Générale
+    dates: Aug 2025 – Sep 2025
+    subtitle: Data analysis across multiple Capital Markets desks
+    location: Casablanca, Morocco
+    extra: ''
+  numbers:
+  - '2025'
+  bullets:
+  - id: exp_sg_1
+    text_fr: Intégré \textbf{6 sources de données} (Python, SQL) en flux automatisés et contrôlés alimentant les outils de \textbf{P\&L}.
+    text_en: Integrated \textbf{6 data sources} (Python, SQL) into automated, quality-checked data flows feeding \textbf{P\&L tools}.
+    status:
+    - VÉRIFIÉ-CV
+    - jamais « front office »
+    tags: *id001
+    numbers:
+    - '6'
+  - id: exp_sg_2
+    text_fr: Remplacé des contrôles manuels par \textbf{plus de 25 contrôles automatisés} de qualité des données et de conformité, suivis via des reportings et dashboards Power BI pour les équipes Finance, Risques et Trading.
+    text_en: Replaced manual checks with \textbf{25+ automated data-quality and compliance controls}, monitored through Power BI reporting and dashboards for Finance, Risk and Trading teams.
+    status:
+    - VÉRIFIÉ-CV
+    - jamais « front office »
+    tags: *id001
+    numbers:
+    - '25'
+- id: exp_clubee
+  section: experience
+  kind: entryline
+  status:
+  - VÉRIFIÉ-CV
+  - 'À CONFIRMER (participants : total ou par événement)'
+  tags:
+  - sales-solutions
+  - private-equity
+  fr:
+    title: Event Manager – Association étudiante CLUBEE
+    dates: 2024 – 2026
+    subtitle: 'Dirigé une équipe de 5 personnes : plus de 10 événements multiculturels, plus de 100 participants.'
+    location: Bordeaux
+  en:
+    title: Event Manager – CLUBEE Student Association
+    dates: 2024 – 2026
+    subtitle: Led a team of 5 to deliver 10+ multicultural events for 100+ participants.
+    location: Bordeaux, France
+  numbers:
+  - '10'
+  - '100'
+  - '2024'
+  - '2026'
+  - '5'
+  bullets: []
+- id: proj_options
+  section: projects
+  kind: project
+  status:
+  - TERMINÉ, code privé (CONFIRMÉ-IHAB 2026-10-13)
+  - À DÉFENDRE (FRTB, Solvabilité II)
+  tags:
+  - quant
+  - trading-structuration
+  - risque-marche
+  - sales-solutions
+  - gestion-actifs
+  fr:
+    title: Pricing, couverture et risques d'options – Python, Streamlit
+    desc: Black–Scholes, Greeks, delta-hedging et \textbf{P\&L explain} ; \textbf{VaR/ES} (FRTB, Solvabilité II), stress tests et backtesting.
+  en:
+    title: Options Pricing, Hedging \& Risk – Python, Streamlit
+    desc: Black–Scholes, Greeks, delta hedging, \textbf{P\&L explain}; \textbf{VaR/ES} (FRTB, Solvency II), stress tests, backtesting.
+  numbers: []
+  bullets: []
+- id: proj_rl
+  section: projects
+  kind: project
+  status:
+  - TERMINÉ, code privé (CONFIRMÉ-IHAB 2026-10-13)
+  - À DÉFENDRE (contribution dans l'équipe de 6, benchmark)
+  tags:
+  - quant
+  - trading-structuration
+  - recherche-quant-am
+  fr:
+    title: Market making par apprentissage par renforcement – C++20, Python (équipe de 6)
+    desc: Carnet d'ordres C++ (\textbf{400\,k ordres/s}, 2–4\,µs) sur flux Binance ; intégration C++/Python, agent \textbf{Double DQN}.
+  en:
+    title: Reinforcement-Learning Market Making – C++20, Python (team of 6)
+    desc: C++ order book (\textbf{400k orders/s}, 2–4\,µs) on live Binance data; C++/Python integration, \textbf{Double DQN} agent.
+  numbers:
+  - '2'
+  - '20'
+  - '4'
+  - '400'
+  - '6'
+  bullets: []
+- id: skills_finance
+  section: skills
+  kind: skill_line
+  status:
+  - VÉRIFIÉ-CV
+  tags: *id001
+  fr:
+    content: \textbf{Finance \& risques :} pricing d'options (Black–Scholes, Greeks), delta-hedging, P\&L, VaR/Expected Shortfall, backtesting, stress tests, produits dérivés, fixed income, Bâle III/FRTB, Solvabilité II.
+  en:
+    content: \textbf{Finance \& Risk:} options pricing (Black–Scholes, Greeks), delta hedging, P\&L, VaR/Expected Shortfall, backtesting, stress testing, derivatives, fixed income, Basel III/FRTB, Solvency II.
+  numbers: []
+  bullets: []
+- id: skills_programming
+  section: skills
+  kind: skill_line
+  status:
+  - VÉRIFIÉ-CV
+  tags: *id001
+  fr:
+    content: \textbf{Programmation :} Python (\texttt{pandas}, \texttt{NumPy}, \texttt{scikit-learn}, \texttt{PyTorch}, \texttt{Streamlit}), C/C++, SQL (PostgreSQL), R, VBA ; Java, TypeScript. \textbf{Outils :} Git, Linux, Power BI, Excel, développement assisté par IA (Claude Code).
+  en:
+    content: \textbf{Programming:} Python (\texttt{pandas}, \texttt{NumPy}, \texttt{scikit-learn}, \texttt{PyTorch}, \texttt{Streamlit}), C++, SQL (PostgreSQL), R, VBA, C; Java, TypeScript. \textbf{Tools:} Git, Bash/Linux, Power BI, Excel, AI-assisted development (Claude Code).
+  numbers: []
+  bullets: []
+- id: skills_quant
+  section: skills
+  kind: skill_line
+  status:
+  - VÉRIFIÉ-CV
+  tags: *id001
+  fr:
+    content: \textbf{Méthodes quantitatives :} calcul stochastique, Monte Carlo, séries temporelles, régression, machine learning.
+  en:
+    content: \textbf{Quantitative Methods:} stochastic calculus, Monte Carlo, time series, regression, machine learning, deep RL.
+  numbers: []
+  bullets: []
+- id: skills_certifications
+  section: skills
+  kind: skill_line
+  status:
+  - certification AMF EN COURS
+  - 'Citi MQA et Power BI : libellés conservés, À DÉFENDRE'
+  tags: *id001
+  fr:
+    content: \textbf{Certifications \& distinctions :} certification AMF (en cours), Citi MQA – Quantitative Market Analysis, certification Microsoft Power BI ; lauréat des Olympiades nationales de mathématiques (Maroc).
+  en:
+    content: \textbf{Certifications \& Awards:} AMF certification (in progress), Citi MQA – Quantitative Market Analysis, Microsoft Power BI certification; prize winner, Moroccan National Mathematics Olympiad.
+  numbers: []
+  bullets: []
+- id: skills_languages
+  section: skills
+  kind: skill_line
+  status:
+  - VÉRIFIÉ-CV
+  - date du TOEIC À CONFIRMER
+  tags: *id001
+  fr:
+    content: \textbf{Langues :} français (C2), anglais courant (C1 – TOEIC 970/990), arabe (langue maternelle), espagnol (A2).
+  en:
+    content: \textbf{Languages:} French (C2), English (fluent, C1 – TOEIC 970/990), Arabic (native), Spanish (A2).
+  numbers:
+  - '970'
+  - '990'
+  bullets: []
+- id: skills_interests
+  section: skills
+  kind: skill_line
+  status:
+  - VÉRIFIÉ-CV
+  tags: *id001
+  fr:
+    content: \textbf{Centres d'intérêt :} échecs, football, Formule 1.
+  en:
+    content: \textbf{Interests:} chess, football, Formula 1.
+  numbers:
+  - '1'
+  bullets: []
+skills_list:
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- PyTorch
+- Streamlit
+- SQL
+- PostgreSQL
+- Power BI
+- Excel
+- C
+- C++
+- C++20
+- R
+- VBA
+- Java
+- TypeScript
+- Git
+- Linux
+- Bash
+- Claude Code
+- Black–Scholes
+- Greeks
+- delta-hedging
+- P&L explain
+- VaR
+- Expected Shortfall
+- stress tests
+- backtesting
+- FRTB
+- Bâle III
+- Basel III
+- Solvabilité II
+- Solvency II
+- Monte Carlo
+- Double DQN
+- Binance
+- processus gaussien
+- Gaussian process
+- active learning
+- Streamlit
+fr_en_differences:
+- Intitulé du poste Inside Therapeutics (voir 4.1).
+- « SQL » (FR) contre « PostgreSQL » (EN) pour LabData.
+- « mRNA lipid nanoparticles » présent seulement en EN.
+- « deep RL » (compétences) et « data science » (cours ENSEIRB) présents seulement en EN.
+- « C/C++ » (FR) contre « C++ … C » (EN) ; « Linux » (FR) contre « Bash/Linux » (EN).
+- 'Dates FR sans année de début (« juin – sept. 2026 ») contre EN complètes (« Jun 2026 – Sep 2026 ») : dans les CV adaptés, on écrit l''année des deux côtés pour le parsing ATS (pas de changement de fond).'
