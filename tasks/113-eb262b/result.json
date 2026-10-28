@@ -1,0 +1,182 @@
+{
+  "listing": {
+    "Employer": "ABC arbitrage",
+    "Job_Title": "Assistant Quant Analyst - Stage de Fin d'Études H/F",
+    "Job_Family": "Quant Research / Quant Analyst",
+    "Location": "Paris 2e (quartier Opéra-Bourse)",
+    "Country": "France",
+    "Source": "Offre transmise par Ihab (texte collé ; format de job board, site d'origine non indiqué)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "Unknown",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-28",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "Unknown",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "90",
+    "Priority": "High priority",
+    "Eligibility_Status": "Likely eligible",
+    "Core_Requirements_Met": "Yes",
+    "Main_Strengths": "Dernière année d'école d'ingénieurs (ENSEIRB-MATMECA) + M2 IREF Finance quantitative ; Python professionnel (Société Générale, Inside Therapeutics) ; régressions et analyse de données en stage, processus gaussiens (prototype) ; cours de séries temporelles, Monte Carlo, calcul stochastique ; anglais C1 (TOEIC 970).",
+    "Essential_Gaps": "Aucune expérience de recherche de signaux ni de backtesting de stratégies sur données de marché réelles (le backtesting du projet 5.1 porte sur la VaR) ; aucune expérience des futures de matières premières, de la désaisonnalisation de courbes ni de la calibration dynamique / changements de régime.",
+    "Preferred_Gaps": "Spécialisation de l'école d'ingénieurs en informatique/data & IA plutôt qu'en mathématiques appliquées (compensée par le M2 Finance quantitative) ; validation out-of-sample à expliciter à l'entretien.",
+    "Fit_Explanation": "Stage de recherche quantitative dans un fonds de trading systématique (famille cœur) : Python, statistiques et modélisation correspondent au profil vérifié d'Ihab ; la disponibilité « mars/mai 2027 » pour 6 mois permet un stage du 1er mars au 31 août 2027. Écarts : pas d'expérience en commodities ni en recherche de signaux. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Disponibilité indiquée « mars/mai 2027 » : confirmer un début au 1er mars (un début en mai donnerait moins de 6 mois avec la fin IREF au 31 août). Télétravail partiel ; indemnités + tickets restaurant + remboursement partiel du transport (montant non renseigné). Embauche en CDI habituelle à l'issue du stage si objectifs atteints. Page officielle non retrouvée le 2026-10-28 (recherche web : aucun résultat ; abc-arbitrage.breezy.hr inaccessible depuis la session). Sujet à faire valider par les responsables du parcours FQA.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 20,
+        "evidence": "Recherche quantitative sur futures de matières premières (calibration dynamique, désaisonnalisation, signaux, validation out-sample). Ihab : régressions/analyses statistiques et prototype de processus gaussiens chez Inside Therapeutics, projets market making RL et pricing/VaR ; mais pas de recherche de signaux ni de commodities."
+      },
+      "tech": {
+        "points": 21,
+        "evidence": "Exigé : Python, statistiques et modélisation, anglais. Ihab : Python professionnel (pandas, NumPy, scikit-learn), régression, ML, séries temporelles et Monte Carlo en cours (académique, en cours). Pas de preuve de travail sur séries temporelles de marché réelles."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "« Étudiant(e) en dernière année d'une grande école d'ingénieurs, avec une spécialisation en mathématiques appliquées, statistiques ou finance quantitative » : ENSEIRB-MATMECA dernière année (Informatique, Data & IA) + M2 IREF Finance quantitative ; stage de fin d'études conforme."
+      },
+      "career": {
+        "points": 15,
+        "evidence": "Quant research dans un fonds de trading quantitatif = famille cœur A (rôle technique)."
+      },
+      "duration": {
+        "points": 10,
+        "evidence": "« Disponibilité : mars/mai 2027 », « Durée : 6 mois » : un début en mars donne exactement 1er mars – 31 août 2027."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "Paris 2e (Île-de-France = pleine note) ; « Bon niveau d'anglais, à l'oral comme à l'écrit » couvert par l'anglais C1 (TOEIC 970) ; offre en français (FR C2)."
+      }
+    },
+    "Required_Skills": [
+      "Dernière année de grande école d'ingénieurs, spécialisation mathématiques appliquées, statistiques ou finance quantitative",
+      "Bonne maîtrise de Python",
+      "Intérêt pour la manipulation et l'analyse de données financières",
+      "Solides connaissances en statistiques et en modélisation",
+      "Intérêt pour la recherche quantitative appliquée aux marchés financiers",
+      "Rigueur, curiosité et esprit critique",
+      "Bon niveau d'anglais à l'oral et à l'écrit"
+    ],
+    "Preferred_Skills": [
+      "Mathématiques",
+      "Statistiques",
+      "Anglais"
+    ],
+    "Responsibilities": [
+      "Étudier l'adaptation dans le temps de modèles quantitatifs appliqués aux futures de matières premières (changements de régime, saisonnalité)",
+      "Calibration dynamique de modèles à partir de données réelles",
+      "Désaisonnalisation des courbes",
+      "Recherche de signaux sur différentes maturités",
+      "Développer des méthodes statistiquement robustes, validées en out-sample"
+    ],
+    "Languages": [
+      "Anglais (bon niveau, oral et écrit)"
+    ],
+    "Next_Action": "Retrouver la page officielle (site carrières ABC arbitrage / Breezy) pour vérifier l'offre et l'URL, puis préparer le dossier (ats-cv-optimizer, version CV Quant Research) en confirmant un début au 1er mars 2027.",
+    "Recommended_CV_Version": "Quant Research / Quant Analyst (FR)"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {
+      "field": "Employer",
+      "value": "ABC arbitrage",
+      "quote": "09. Assistant Quant Analyst - Stage de Fin d'Études H/F ABC arbitrage"
+    },
+    {
+      "field": "Job_Title",
+      "value": "Assistant Quant Analyst - Stage de Fin d'Études H/F",
+      "quote": "09. Assistant Quant Analyst - Stage de Fin d'Études H/F"
+    },
+    {
+      "field": "Location",
+      "value": "Paris 2e, quartier Opéra-Bourse",
+      "quote": "Stage basé à Paris, quartier Opéra-Bourse"
+    },
+    {
+      "field": "Duration_Months",
+      "value": "6",
+      "quote": "Durée : 6 mois"
+    },
+    {
+      "field": "Internship_Start_Date",
+      "value": "mars ou mai 2027 (non précisé davantage)",
+      "quote": "Disponibilité : mars/mai 2027"
+    },
+    {
+      "field": "Salary",
+      "value": "Non renseigné (indemnités)",
+      "quote": "Pas de salaire renseigné"
+    },
+    {
+      "field": "Team",
+      "value": "Département Quantitative Trading & Research, équipe de cinq personnes",
+      "quote": "Au sein du département Quantitative Trading & Research, vous rejoindrez une équipe internationale à taille humaine de cinq personnes"
+    },
+    {
+      "field": "Subject",
+      "value": "Modélisation adaptative et recherche quantitative sur les futures de matières premières",
+      "quote": "Modélisation adaptative et recherche quantitative sur les futures de matières premières."
+    },
+    {
+      "field": "Academic_Requirement",
+      "value": "Dernière année de grande école d'ingénieurs",
+      "quote": "Étudiant(e) en dernière année d'une grande école d'ingénieurs, avec une spécialisation en mathématiques appliquées, statistiques ou finance quantitative"
+    },
+    {
+      "field": "Languages",
+      "value": "Anglais",
+      "quote": "Bon niveau d'anglais, à l'oral comme à l'écrit"
+    },
+    {
+      "field": "Remote",
+      "value": "Télétravail partiel",
+      "quote": "Télétravail partiel"
+    },
+    {
+      "field": "Hiring",
+      "value": "Proposition de CDI possible",
+      "quote": "Ces derniers déboucheront sur une proposition de CDI si les objectifs fixés sont atteints."
+    }
+  ],
+  "inferences": [
+    {
+      "field": "Job_Family",
+      "value": "Quant Research / Quant Analyst",
+      "reasoning": "Recherche quantitative (calibration, signaux) dans un département Quantitative Trading & Research d'un fonds de stratégies systématiques."
+    },
+    {
+      "field": "Eligibility_Status",
+      "value": "Likely eligible",
+      "reasoning": "Stage de fin d'études de 6 mois avec disponibilité possible en mars 2027 : compatible avec 1er mars – 31 août 2027, à condition que l'employeur accepte le début en mars (option affichée)."
+    },
+    {
+      "field": "Country",
+      "value": "France",
+      "reasoning": "Paris 2e - 75."
+    },
+    {
+      "field": "Source",
+      "value": "Job board",
+      "reasoning": "Mise en page (« Vous avez ces compétences ? Cliquez dessus… ») typique d'un job board ; site exact non identifiable dans le texte."
+    }
+  ],
+  "eligibility": {
+    "status": "Likely eligible",
+    "reasons": [
+      "Stage de fin d'études destiné aux étudiants en dernière année d'école d'ingénieurs : Ihab est en dernière année à l'ENSEIRB-MATMECA (double diplôme M2 IREF).",
+      "Durée 6 mois et disponibilité « mars/mai 2027 » : un début au 1er mars 2027 tient dans la fenêtre IREF (1er mars – 31 août 2027, sans extension).",
+      "Un début en mai serait incompatible avec 6 mois : confirmer le début en mars.",
+      "Le sujet devra être validé par les responsables du parcours FQA."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Aucun doublon dans les offres déjà connues (ABC arbitrage absent de la liste).",
+    "Page officielle non retrouvée : recherche web sans résultat pour ce poste, et abc-arbitrage.breezy.hr inaccessible depuis la session cloud (domaine non autorisé). Verification_Status = Unverified, Job_URL = Unknown.",
+    "Date de publication, date limite et référence absentes du texte : Unknown.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
