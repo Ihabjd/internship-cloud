@@ -1,0 +1,380 @@
+{
+  "language": "FR",
+  "keyword_map": [
+    {
+      "keyword": "Scripts d'automatisation",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_sg_1 : 6 sources intégrées en flux automatisés (Python, SQL) ; exp_insidetx_1 : traitement automatisé de ~500 échantillons/mois",
+      "location": "Expériences SG et Inside Therapeutics, profil",
+      "action": "Reprendre « scripts d'automatisation » / « automatisation » dans les puces et le profil"
+    },
+    {
+      "keyword": "Développement informatique",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_insidetx_2 : LabData conçu et développé seul (Python/SQL/Streamlit), en production en 7 semaines",
+      "location": "Profil, Inside Therapeutics",
+      "action": "Mettre en tête la puce LabData"
+    },
+    {
+      "keyword": "Environnement de marchés financiers",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg : Data Analyst – Finance de marché, plusieurs desks de marché, outils de P&L, équipes Finance, Risques et Trading",
+      "location": "Profil, Expérience SG placée en premier",
+      "action": "Placer SG en tête des expériences et citer « environnement de marchés » dans le profil"
+    },
+    {
+      "keyword": "Monitoring",
+      "importance": "E",
+      "support": 3,
+      "evidence": "exp_sg_2 : 25+ contrôles automatisés suivis via reportings et dashboards Power BI ; exp_insidetx_3 : alertes d'anomalies",
+      "location": "Puces SG 2 et Inside 3",
+      "action": "Formuler « suivis », « alertes d'anomalies » ; pas de mot « monitoring de production » non prouvé"
+    },
+    {
+      "keyword": "Plateforme / application en production",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_insidetx_2 : plateforme en production en 7 semaines",
+      "location": "Profil, puce LabData",
+      "action": "Conserver « en production »"
+    },
+    {
+      "keyword": "Suivi des incidents de production",
+      "importance": "E",
+      "support": 4,
+      "evidence": "Aucun fait sur la gestion d'incidents ou un outil de ticketing",
+      "location": "Aucune (gaps)",
+      "action": "Ne pas ajouter ; projet proposé new:1 (runbook, alertes)"
+    },
+    {
+      "keyword": "Support aux utilisateurs",
+      "importance": "E",
+      "support": 3,
+      "evidence": "exp_insidetx_2 : LabData utilisé par 6 scientifiques ; exp_insidetx_4 : présentation au CODIR, workshop IA interne",
+      "location": "Puces Inside 2 et 4",
+      "action": "Mettre en avant les 6 utilisateurs et le workshop, sans écrire « support N1/N2 »"
+    },
+    {
+      "keyword": "Documentation des procédures",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_insidetx_1 : piste d'audit, documentation",
+      "location": "Puce Inside 1",
+      "action": "Garder « piste d'audit, documentation »"
+    },
+    {
+      "keyword": "Linux Scripting",
+      "importance": "E",
+      "support": 3,
+      "evidence": "Linux dans les compétences du CV FR, Bash/Linux dans le CV EN ; aucune expérience décrite en script shell",
+      "location": "Compétences (Programmation, en premier)",
+      "action": "Placer « Linux/Bash » en tête de la ligne ; renforcer par le projet new:1"
+    },
+    {
+      "keyword": "IT",
+      "importance": "E",
+      "support": 1,
+      "evidence": "Diplôme d'ingénieur Informatique (data & IA) ; exp_insidetx_2, exp_sg_1",
+      "location": "Profil, Formation",
+      "action": "Rien à ajouter"
+    },
+    {
+      "keyword": "Pack Microsoft Office",
+      "importance": "E",
+      "support": 3,
+      "evidence": "Excel et VBA dans les compétences ; Power BI (certification Microsoft Power BI, dashboards chez SG) ; Word/PowerPoint non cités",
+      "location": "Compétences, Outils",
+      "action": "Citer Excel, VBA, Power BI ; ne pas écrire « Pack Office » sans preuve pour Word/PowerPoint"
+    },
+    {
+      "keyword": "SQL",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_1, exp_insidetx_2 (SQL/PostgreSQL)",
+      "location": "Expériences, Compétences",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "Python",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_1, exp_insidetx_2",
+      "location": "Expériences, Compétences",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "Français courant",
+      "importance": "E",
+      "support": 1,
+      "evidence": "skills_languages : français (C2)",
+      "location": "Compétences, Langues",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "Anglais courant",
+      "importance": "E",
+      "support": 1,
+      "evidence": "skills_languages : anglais courant (C1 – TOEIC 970/990)",
+      "location": "Compétences, Langues",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "Autonomie",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_insidetx_2 : conçu et développé seul, sans cahier des charges",
+      "location": "Puce LabData",
+      "action": "Écrire « seul, en autonomie et sans cahier des charges »"
+    },
+    {
+      "keyword": "Curiosité",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_insidetx_3 : couche d'analyse ajoutée de sa propre initiative ; exp_insidetx_4 : workshop IA lancé",
+      "location": "Puces Inside 3 et 4",
+      "action": "Garder « de ma propre initiative »"
+    },
+    {
+      "keyword": "Contrôles / qualité de service",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_2 : 25+ contrôles automatisés de qualité des données et de conformité",
+      "location": "Puce SG 2",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "Bonds / fixed income",
+      "importance": "C",
+      "support": 2,
+      "evidence": "edu_m2 : fixed income & produits dérivés ; skills_finance : fixed income",
+      "location": "Formation M2 (en premier), Compétences finance",
+      "action": "Mettre fixed income en tête des cours et de la ligne finance"
+    },
+    {
+      "keyword": "Post-trade / pré-trade",
+      "importance": "D",
+      "support": 4,
+      "evidence": "Aucun fait sur les chaînes post-trade (confirmation, règlement-livraison)",
+      "location": "Aucune (gaps)",
+      "action": "Ne pas ajouter ; projet new:1 et révision du cycle de vie d'un trade"
+    }
+  ],
+  "section_order": [
+    "profile",
+    "experience",
+    "education",
+    "skills",
+    "projects"
+  ],
+  "bullet_order": [
+    {
+      "block_id": "exp_sg",
+      "bullet_ids": [
+        "exp_sg_1",
+        "exp_sg_2"
+      ]
+    },
+    {
+      "block_id": "exp_insidetx",
+      "bullet_ids": [
+        "exp_insidetx_2",
+        "exp_insidetx_1",
+        "exp_insidetx_3",
+        "exp_insidetx_4"
+      ]
+    }
+  ],
+  "removed_bullets": [],
+  "rewrites": [
+    {
+      "bullet_id": "exp_sg_1",
+      "text": "Automatisé (Python, SQL) l'intégration de 6 sources de données en flux contrôlés vers les outils de P&L.",
+      "reason": "Verbe d'automatisation en tête, vocabulaire de l'offre (scripts, flux contrôlés) ; mêmes faits, plus court",
+      "keywords": [
+        "automatisation",
+        "Python",
+        "SQL",
+        "marchés"
+      ]
+    },
+    {
+      "bullet_id": "exp_sg_2",
+      "text": "Remplacé des contrôles manuels par plus de 25 contrôles automatisés (qualité des données, conformité), suivis en reporting et dashboards Power BI pour les équipes Finance, Risques et Trading.",
+      "reason": "Accent sur le suivi (reporting, dashboards) proche du monitoring ; mêmes chiffres",
+      "keywords": [
+        "contrôles automatisés",
+        "reporting",
+        "Power BI",
+        "Trading"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_2",
+      "text": "Conçu et développé seul, en autonomie et sans cahier des charges, LabData : application Python/SQL/Streamlit en production en 7 semaines, faisant gagner ~2 h par expérience à ses 6 utilisateurs scientifiques.",
+      "reason": "Autonomie (compétence requise) et utilisateurs mis en avant ; mêmes faits (seul, 7 semaines, ~2 h, 6 scientifiques)",
+      "keywords": [
+        "développement",
+        "autonomie",
+        "application en production",
+        "utilisateurs"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_1",
+      "text": "Automatisé par scripts le traitement de ~500 échantillons/mois, calculs validés indépendamment : réconciliation (concordance totale), piste d'audit, documentation ; 4 123 tests (couverture 91 %).",
+      "reason": "« scripts » d'automatisation et documentation, vocabulaire de l'offre ; mêmes chiffres",
+      "keywords": [
+        "scripts d'automatisation",
+        "documentation",
+        "piste d'audit",
+        "tests"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_3",
+      "text": "Ajouté de ma propre initiative une couche d'analyse et d'alertes d'anomalies (corrélations, régressions, bruit de mesure / variabilité du procédé) pour la validation des machines et l'optimisation.",
+      "reason": "Curiosité/initiative et alertes d'anomalies en avant ; mêmes faits",
+      "keywords": [
+        "initiative",
+        "alertes d'anomalies",
+        "curiosité"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_4",
+      "text": "Présenté LabData au CODIR ; lancé et animé un workshop IA interne ; prototypé un modèle par processus gaussien (active learning).",
+      "reason": "Communication et accompagnement des utilisateurs en premier, prototype GP raccourci (reste un prototype)",
+      "keywords": [
+        "CODIR",
+        "workshop",
+        "prototype"
+      ]
+    }
+  ],
+  "field_rewrites": [
+    {
+      "block_id": "skills_programming",
+      "field": "content",
+      "text": "**Linux/Bash**, Git, Python (pandas, NumPy, Streamlit, scikit-learn), SQL (PostgreSQL), VBA, C/C++, R ; Java. **Outils :** Excel, Power BI, développement assisté par IA (Claude Code).",
+      "reason": "Linux/Bash en tête (Linux Scripting requis) ; Bash vient du CV maître EN ; PyTorch et TypeScript retirés pour la place",
+      "keywords": [
+        "Linux",
+        "Bash",
+        "Git",
+        "Python",
+        "SQL",
+        "VBA",
+        "Excel"
+      ]
+    },
+    {
+      "block_id": "skills_finance",
+      "field": "content",
+      "text": "produits dérivés, fixed income, P&L, VaR/Expected Shortfall, pricing d'options (Black–Scholes, Greeks), delta-hedging, backtesting, stress tests, Bâle III/FRTB, Solvabilité II.",
+      "reason": "Produits dérivés et fixed income (filière bonds) en premier",
+      "keywords": [
+        "fixed income",
+        "produits dérivés",
+        "P&L"
+      ]
+    },
+    {
+      "block_id": "edu_m2",
+      "field": "extra",
+      "text": "fixed income & produits dérivés, produits structurés, risque de marché (VaR, Expected Shortfall, backtesting, stress tests), réglementation prudentielle (Bâle III), computational finance (Monte Carlo), gestion de portefeuille.",
+      "reason": "Cours liés aux obligations et aux dérivés en premier ; cours peu utiles retirés (crédit, actuariat, calcul stochastique)",
+      "keywords": [
+        "fixed income",
+        "produits dérivés",
+        "risque de marché"
+      ]
+    },
+    {
+      "block_id": "edu_enseirb",
+      "field": "extra",
+      "text": "C/C++/Python (POO), algorithmique numérique, finance de marché, IA (ML, deep learning).",
+      "reason": "Développement logiciel (C/C++/Python, POO) en premier, spécialisation demandée",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "POO"
+      ]
+    }
+  ],
+  "headline": "Stage de fin d'études (6 mois) – IT marchés, support applicatif et automatisation – dès mars 2027",
+  "profile": "Élève ingénieur à l'ENSEIRB-MATMECA, filière Informatique (data & IA), top 3 % de la promotion, en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat. Développement et automatisation (Python, SQL) en environnement de marchés, des flux de P&L à une application en production.",
+  "projects": [
+    "new:1",
+    "proj_rl"
+  ],
+  "new_projects": [
+    {
+      "title": "Supervision d'une chaîne post-trade obligataire simulée – Linux, Bash, Python, SQL",
+      "desc": "Scripts Bash/Python (cron) : contrôle des flux de trades, rapprochements, alertes, runbook d'incidents.",
+      "tools": [
+        "Linux",
+        "Bash",
+        "cron",
+        "Python",
+        "SQL (PostgreSQL)",
+        "Git",
+        "Excel"
+      ],
+      "why": "Reprend les 4 missions de l'offre : monitoring d'une plateforme post-trade, suivi d'incidents, scripts d'automatisation et documentation des procédures, sur le périmètre obligataire (filière bonds) ; comble l'écart « Linux Scripting » et « post-trade ».",
+      "steps": [
+        "Générer en Python des fichiers de trades obligataires fictifs (ISIN publics, prix, nominal, contrepartie) avec des anomalies injectées (doublons, champs manquants, retards de fichier)",
+        "Charger les flux dans PostgreSQL et écrire en SQL les contrôles : complétude, doublons, rapprochement trades/confirmations simulées",
+        "Écrire des scripts Bash planifiés par cron qui vérifient l'arrivée des fichiers, lancent les contrôles, analysent les logs (grep, awk) et produisent une alerte et un rapport quotidien",
+        "Rédiger un runbook : procédure par type d'incident, diagnostic, escalade, et un tableau de suivi des incidents sous Excel",
+        "Publier le code sur Git avec un README, des tests et un exemple de journal d'incidents"
+      ],
+      "effort_hours": 20
+    }
+  ],
+  "gaps": [
+    "Suivi des incidents de production et outils de ticketing/ITSM (ex. ServiceNow, ITIL) : aucune expérience",
+    "Connaissance des chaînes pré-trade/post-trade (cycle de vie d'un trade, confirmation, règlement-livraison) : absente des faits",
+    "Linux Scripting démontré : Linux/Bash cités en compétences seulement, aucune réalisation décrite",
+    "Pack Microsoft Office : Word et PowerPoint non cités dans les faits (Excel, VBA, Power BI seulement)",
+    "Support utilisateurs au sens N1/N2 (traitement de demandes) : non prouvé"
+  ],
+  "claims_to_defend": [
+    "Scripts d'automatisation chez SG : quelles 6 sources, quels outils de P&L, comment les flux étaient contrôlés et exécutés",
+    "Plus de 25 contrôles automatisés : exemples de contrôles de conformité et façon dont les écarts étaient suivis",
+    "LabData « en production » : hébergement, déploiement, gestion des bugs et des demandes des 6 utilisateurs (proche du support applicatif)",
+    "~2 h gagnées par expérience : méthode de mesure",
+    "4 123 tests, couverture de 91 % : type de tests et outil de mesure",
+    "Linux/Bash : niveau réel, commandes et scripts déjà écrits",
+    "Top 3 % de la promotion : période et taille de la promotion",
+    "Market making par RL : contribution personnelle dans l'équipe de 6"
+  ],
+  "assessment": {
+    "verdict": "Bonne adéquation : le poste demande un profil ingénieur informatique avec une première expérience en développement et en environnement de marchés, ce qu'Ihab a (SG, LabData en production, automatisation). Le profil est même plus quantitatif que nécessaire ; ce qui fera la différence, c'est de prouver une vraie pratique de Linux/Bash et une compréhension du support de production et de la chaîne post-trade. Attention aussi à la cohérence du projet : un stage d'IT support doit être présenté comme un choix, pas comme un repli face à des postes quant.",
+    "strengths": [
+      "Automatisation et contrôles en environnement de marchés : 6 sources intégrées en flux contrôlés vers les outils de P&L et plus de 25 contrôles automatisés chez Société Générale",
+      "Développement en autonomie d'une application en production (LabData, seul, 7 semaines, 6 utilisateurs)",
+      "Culture de la qualité : réconciliation, piste d'audit, documentation, 4 123 tests (couverture 91 %)",
+      "Formation qui coche exactement la demande : école d'ingénieur en informatique + M2 finance (fixed income & dérivés)",
+      "Français C2 et anglais C1 (TOEIC 970/990), curiosité et initiative démontrées (couche d'analyse, workshop IA)"
+    ],
+    "improvements": [
+      "Linux Scripting : seulement cité en compétence ; il faut une réalisation concrète (scripts Bash, cron, grep/awk, logs)",
+      "Aucune expérience de gestion d'incidents de production ni d'outil de ticketing ; vocabulaire ITIL (incident, problème, changement) à connaître",
+      "Méconnaissance probable des systèmes post-trade obligataires : cycle de vie d'un trade, confirmation, règlement-livraison, référentiels",
+      "Word/PowerPoint non mentionnés : être prêt à confirmer la maîtrise du pack Office",
+      "Motivation pour un poste d'IT support alors que le CV maître vise la finance quantitative"
+    ],
+    "recommendations": [
+      "Réaliser en priorité le projet de supervision post-trade (Linux, Bash, cron, SQL, runbook) et préparer une démo de 2 minutes",
+      "Réviser le cycle de vie d'un trade obligataire (front, middle, back office, post-trade, settlement) et les bases ITIL",
+      "Préparer un récit STAR sur LabData en production : demandes des utilisateurs, corrections, documentation",
+      "Revoir les commandes Linux utiles en support (ps, top, tail -f, grep, awk, sed, cron, ssh) et savoir écrire un petit script Bash au tableau",
+      "Préparer une réponse claire sur la motivation : IT de marché, filière bonds, envie de comprendre la plateforme de bout en bout"
+    ]
+  },
+  "reply": "J'ai orienté le CV vers l'IT de marché : accroche « IT marchés, support applicatif et automatisation », profil centré sur le développement et l'automatisation en environnement de marchés, SG avant Inside Therapeutics, puces réécrites autour des scripts d'automatisation, des contrôles, de l'autonomie et de la documentation (mêmes chiffres, textes plus courts). Linux/Bash passe en tête des compétences, fixed income et dérivés en tête de la ligne finance et des cours du M2. Je propose un projet de supervision post-trade obligataire (Linux, Bash, cron, SQL, runbook) à faire avant de postuler, affiché avec le market making. Question : as-tu déjà écrit des scripts Bash ou travaillé sous Linux dans un projet ou un stage (par exemple pour LabData ou le carnet d'ordres C++) ? Si oui, lequel et pour faire quoi ?",
+  "new_facts": []
+}
