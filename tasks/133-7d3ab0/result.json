@@ -1,0 +1,450 @@
+{
+ "language": "FR",
+ "keyword_map": [
+  {
+   "keyword": "Python",
+   "importance": "E",
+   "support": 1,
+   "evidence": "LabData (Python/SQL/Streamlit) en production chez Inside Therapeutics ; 6 sources intégrées en Python/SQL chez Société Générale",
+   "location": "profile, exp_insidetx_2, exp_sg_1, skills_programming",
+   "action": "Conservé en tête de la ligne Programmation et dans les puces"
+  },
+  {
+   "keyword": "SQL",
+   "importance": "E",
+   "support": 1,
+   "evidence": "LabData (Python/SQL) ; flux de données Python/SQL chez SG ; PostgreSQL",
+   "location": "profile, exp_insidetx_2, exp_sg_1, skills_programming",
+   "action": "Remonté juste après Python dans les compétences"
+  },
+  {
+   "keyword": "Machine Learning",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Prototype de modèle par processus gaussien avec active learning (Inside Therapeutics) ; cours IA (ML) ENSEIRB ; scikit-learn",
+   "location": "profile, exp_insidetx_4, skills_quant, edu_enseirb",
+   "action": "Terme « machine learning » posé sur la puce du processus gaussien (prototype, jamais déployé) et en tête de Méthodes quantitatives"
+  },
+  {
+   "keyword": "Deep Learning",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Cours IA (ML, deep learning) ENSEIRB ; PyTorch ; agent Double DQN du projet d'équipe de 6",
+   "location": "edu_enseirb, skills_programming",
+   "action": "Cours deep learning placé en premier dans la formation ENSEIRB ; PyTorch remonté"
+  },
+  {
+   "keyword": "IA générative",
+   "importance": "E",
+   "support": 2,
+   "evidence": "proj_rag : prototype RAG LangChain, embeddings, LLM open source",
+   "location": "profile, proj_rag, skills_quant",
+   "action": "Repris dans le profil, la description du projet RAG et Méthodes quantitatives"
+  },
+  {
+   "keyword": "RAG",
+   "importance": "E",
+   "support": 2,
+   "evidence": "proj_rag : prototype RAG LangChain sur documents",
+   "location": "profile, proj_rag, skills_quant",
+   "action": "Projet RAG affiché"
+  },
+  {
+   "keyword": "LLM",
+   "importance": "D",
+   "support": 2,
+   "evidence": "proj_rag : réponses d'un LLM open source",
+   "location": "proj_rag, skills_quant",
+   "action": "Conservé"
+  },
+  {
+   "keyword": "NLP",
+   "importance": "E",
+   "support": 3,
+   "evidence": "proj_rag : embeddings et recherche sémantique sur documents (partiel : pas de classification ni d'extraction)",
+   "location": "proj_rag",
+   "action": "Pas de mot « NLP » revendiqué en compétence ; couvert par le projet proposé new:1"
+  },
+  {
+   "keyword": "Classification de texte / extraction d'information",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucune preuve dans les faits",
+   "location": "gaps",
+   "action": "Non ajouté ; projet new:1 proposé pour combler le manque"
+  },
+  {
+   "keyword": "Data engineering",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Intégration de 6 sources de données en flux automatisés et contrôlés (SG) ; traitement automatisé de ~500 échantillons/mois",
+   "location": "profile, exp_sg_1, exp_insidetx_1",
+   "action": "Terme exact repris en tête de la puce SG et dans le profil"
+  },
+  {
+   "keyword": "Développement / applications métiers",
+   "importance": "E",
+   "support": 1,
+   "evidence": "LabData conçu et développé seul, en production en 7 semaines, utilisé par 6 scientifiques",
+   "location": "profile, exp_insidetx_2",
+   "action": "« application métier » repris dans la puce LabData, mise en premier"
+  },
+  {
+   "keyword": "MLOps et déploiement",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Mise en production de LabData (application, pas un modèle de ML) ; 4 123 tests ; aucun pipeline MLOps dans les faits",
+   "location": "exp_insidetx_2",
+   "action": "Seul « en production » est écrit ; MLOps reste dans gaps, partiellement couvert par new:1 (API, Docker)"
+  },
+  {
+   "keyword": "Tests et validation des développements",
+   "importance": "E",
+   "support": 1,
+   "evidence": "4 123 tests (couverture de 91 %), validation indépendante des calculs, réconciliation",
+   "location": "profile, exp_insidetx_1",
+   "action": "Tests chiffrés et validation indépendante en tête de la puce ; « testé » ajouté au profil"
+  },
+  {
+   "keyword": "Documentation technique",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Documentation et piste d'audit du traitement automatisé (Inside Therapeutics)",
+   "location": "exp_insidetx_1",
+   "action": "« documentation » conservé tel quel (pas de qualificatif ajouté)"
+  },
+  {
+   "keyword": "Revue de code",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucune preuve dans les faits",
+   "location": "gaps",
+   "action": "Non ajouté"
+  },
+  {
+   "keyword": "Feature engineering",
+   "importance": "E",
+   "support": 3,
+   "evidence": "proj_realestate : nettoyage et transformation des données, EDA, régression (projet non affiché) ; couche d'analyse (corrélations, régressions)",
+   "location": "Non écrit",
+   "action": "Non revendiqué tel quel ; à illustrer à l'oral et dans new:1"
+  },
+  {
+   "keyword": "Agentique",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucune preuve (Claude Code utilisé comme outil de développement, pas d'agent conçu)",
+   "location": "gaps",
+   "action": "Non ajouté"
+  },
+  {
+   "keyword": "Aide à la décision",
+   "importance": "D",
+   "support": 1,
+   "evidence": "Couche d'analyse appuyant la validation des machines et l'optimisation des paramètres",
+   "location": "exp_insidetx_3",
+   "action": "Formulation de l'offre reprise ; initiative du maître conservée (« Initié et ajouté »)"
+  },
+  {
+   "keyword": "Finance de marché",
+   "importance": "C",
+   "support": 1,
+   "evidence": "Data Analyst – Finance de marché, Société Générale (flux vers les outils de P&L, équipes Finance, Risques, Trading)",
+   "location": "profile, exp_sg",
+   "action": "Conservé, sans « front office »"
+  },
+  {
+   "keyword": "Pack Microsoft Office",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Excel, Power BI (certification Microsoft Power BI) ; Word/PowerPoint non cités",
+   "location": "skills_programming, skills_certifications",
+   "action": "Excel et Power BI conservés ; pas d'ajout de Word/PowerPoint"
+  },
+  {
+   "keyword": "Français et anglais courants",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Français C2, anglais C1 (TOEIC 970/990)",
+   "location": "skills_languages",
+   "action": "Conservé"
+  },
+  {
+   "keyword": "Bac+5 / M2 (IA, informatique, mathématiques appliquées, statistiques)",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Diplôme d'ingénieur Informatique (data & IA) et Master 2 IREF, mention Mathématiques appliquées, statistique (en cours)",
+   "location": "profile, education",
+   "action": "Conservé"
+  },
+  {
+   "keyword": "Dataiku",
+   "importance": "D",
+   "support": 4,
+   "evidence": "Aucune preuve",
+   "location": "gaps",
+   "action": "Non ajouté"
+  },
+  {
+   "keyword": "AWS",
+   "importance": "D",
+   "support": 4,
+   "evidence": "Aucune preuve",
+   "location": "gaps",
+   "action": "Non ajouté"
+  },
+  {
+   "keyword": "IA responsable / veille bibliographique",
+   "importance": "D",
+   "support": 4,
+   "evidence": "Aucune preuve (workshop IA interne animé : proche mais différent)",
+   "location": "gaps",
+   "action": "Non ajouté"
+  },
+  {
+   "keyword": "Autonomie / force de proposition",
+   "importance": "D",
+   "support": 1,
+   "evidence": "LabData développé seul sans cahier des charges ; couche d'analyse ajoutée de sa propre initiative",
+   "location": "exp_insidetx_2, exp_insidetx_3",
+   "action": "Mis en valeur par « seul » (LabData) et « Initié et ajouté » (couche d'analyse prise à son initiative)"
+  }
+ ],
+ "section_order": [
+  "profile",
+  "experience",
+  "education",
+  "projects",
+  "skills"
+ ],
+ "bullet_order": [
+  {
+   "block_id": "exp_insidetx",
+   "bullet_ids": [
+    "exp_insidetx_2",
+    "exp_insidetx_4",
+    "exp_insidetx_1",
+    "exp_insidetx_3"
+   ]
+  },
+  {
+   "block_id": "exp_sg",
+   "bullet_ids": [
+    "exp_sg_1",
+    "exp_sg_2"
+   ]
+  }
+ ],
+ "removed_bullets": [],
+ "rewrites": [
+  {
+   "bullet_id": "exp_insidetx_2",
+   "text": "Conçu et développé seul, sans cahier des charges, l'application métier LabData (Python, SQL, Streamlit), en production en 7 semaines : ~2 h de travail manuel gagnées par expérience pour 6 scientifiques.",
+   "reason": "Vocabulaire « développement d'applications métiers » de l'offre ; mêmes faits et chiffres",
+   "keywords": [
+    "application métier",
+    "Python",
+    "SQL",
+    "développement",
+    "autonomie"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_4",
+   "text": "Prototypé un modèle ML par processus gaussien sur plan d'expériences (active learning guidé par l'incertitude) ; présenté LabData au CODIR ; lancé et animé un workshop IA interne.",
+   "reason": "Rend visible le machine learning ; le modèle reste un prototype",
+   "keywords": [
+    "Machine Learning",
+    "IA"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_1",
+   "text": "Automatisé le traitement de ~500 échantillons/mois : 4 123 tests (couverture de 91 %), validation indépendante des calculs, réconciliation (concordance totale), documentation.",
+   "reason": "Tests et validation, missions explicites de l'offre, directement après le volume traité ; « qualité du code » retiré (formulation floue), piste d'audit retirée pour la longueur",
+   "keywords": [
+    "tests",
+    "validation",
+    "documentation"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_3",
+   "text": "Initié et ajouté une couche d'analyse d'aide à la décision (corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies) pour valider les machines et optimiser les paramètres.",
+   "reason": "Reprend « aide à la décision » de l'offre ; « Initié et ajouté » rend l'initiative du maître (plus fidèle que « Proposé ») et illustre la force de proposition",
+   "keywords": [
+    "aide à la décision",
+    "force de proposition",
+    "capacité d'analyse"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_1",
+   "text": "Data engineering : intégré 6 sources (Python, SQL) en flux automatisés et contrôlés vers les outils P&L.",
+   "reason": "Terme exact « Data engineering » des compétences requises ; verbe d'action rétabli (la puce n'avait plus de verbe)",
+   "keywords": [
+    "Data engineering",
+    "Python",
+    "SQL"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_2",
+   "text": "Remplacé des contrôles manuels par plus de 25 contrôles automatisés de qualité des données et de conformité, suivis via reportings et dashboards Power BI (équipes Finance, Risques, Trading).",
+   "reason": "Raccourcie, mêmes faits",
+   "keywords": [
+    "qualité des données",
+    "Power BI"
+   ]
+  }
+ ],
+ "field_rewrites": [
+  {
+   "block_id": "proj_rag",
+   "field": "desc",
+   "text": "Prototype RAG d'IA générative sur documents : embeddings, recherche sémantique, LLM open source.",
+   "reason": "Termes « IA générative » et « RAG » de l'offre en tête ; reste un prototype",
+   "keywords": [
+    "IA générative",
+    "RAG",
+    "LLM"
+   ]
+  },
+  {
+   "block_id": "skills_programming",
+   "field": "content",
+   "text": "Python (scikit-learn, PyTorch, pandas, NumPy, Streamlit, LangChain), SQL (PostgreSQL), C/C++, R, VBA. Outils : Git, Linux, Power BI, Excel, développement assisté par IA (Claude Code).",
+   "reason": "Bibliothèques ML/DL et LangChain en premier, SQL remonté ; Java et TypeScript retirés (faiblement étayés)",
+   "keywords": [
+    "Python",
+    "SQL",
+    "scikit-learn",
+    "PyTorch",
+    "LangChain"
+   ]
+  },
+  {
+   "block_id": "skills_quant",
+   "field": "content",
+   "text": "machine learning, IA générative (RAG, LLM, embeddings), régression, Monte Carlo.",
+   "reason": "Vocabulaire de l'offre en premier ; calcul stochastique et séries temporelles retirés (hors cœur du poste, déjà dans la formation)",
+   "keywords": [
+    "Machine Learning",
+    "IA générative",
+    "RAG",
+    "LLM"
+   ]
+  },
+  {
+   "block_id": "skills_finance",
+   "field": "content",
+   "text": "pricing d'options (Black–Scholes, Greeks), P&L, VaR/Expected Shortfall, backtesting, stress tests, produits dérivés, fixed income, Bâle III.",
+   "reason": "Ligne raccourcie pour laisser la place aux compétences data/IA",
+   "keywords": [
+    "finance de marché"
+   ]
+  },
+  {
+   "block_id": "edu_m2",
+   "field": "extra",
+   "text": "computational finance (Monte Carlo), risque de marché (VaR, Expected Shortfall, backtesting), risque de crédit (scoring), fixed income & produits dérivés, finance mathématique (calcul stochastique).",
+   "reason": "Cours quantitatifs les plus proches des activités de marché en premier, liste raccourcie",
+   "keywords": [
+    "marchés financiers"
+   ]
+  },
+  {
+   "block_id": "edu_enseirb",
+   "field": "extra",
+   "text": "IA (ML, deep learning), C/C++/Python (POO), algorithmique numérique, finance de marché.",
+   "reason": "Machine learning et deep learning en premier",
+   "keywords": [
+    "Machine Learning",
+    "Deep Learning"
+   ]
+  }
+ ],
+ "projects": [
+  "new:1",
+  "proj_rag"
+ ],
+ "new_projects": [
+  {
+   "title": "Analyse NLP de documents financiers – Python, PyTorch, FastAPI",
+   "desc": "Classification de texte et extraction d'information sur documents financiers publics ; API FastAPI, Docker.",
+   "tools": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "scikit-learn",
+    "FastAPI",
+    "Docker",
+    "MLflow",
+    "pytest",
+    "Git"
+   ],
+   "why": "Reprend la mission centrale de l'IA Factory : solutions NLP pour l'analyse de documents financiers (classification de texte, extraction d'information), avec un volet MLOps et déploiement (API, conteneur, suivi d'expériences), tests et documentation technique ; comble les manques NLP et MLOps.",
+   "steps": [
+    "Constituer un corpus public et libre de droits (par ex. Financial PhraseBank, communiqués ou rapports annuels publics téléchargés via une API officielle) et documenter la source",
+    "Établir une baseline TF-IDF + régression logistique (scikit-learn), puis fine-tuner un petit transformer (FinBERT ou DistilBERT) en PyTorch, avec suivi des essais dans MLflow",
+    "Ajouter l'extraction d'information (entités nommées : sociétés, montants, dates) et évaluer précision/rappel sur un échantillon annoté à la main",
+    "Exposer le modèle via une API FastAPI conteneurisée avec Docker ; écrire des tests pytest et une intégration continue GitHub Actions",
+    "Rédiger un README de documentation technique (données, choix de modèles, limites, biais) et préparer une démo de 3 minutes pour l'entretien"
+   ],
+   "effort_hours": 40
+  }
+ ],
+ "headline": "Stage Data Science & IA (ML, IA générative, Python) – 6 mois dès mars 2027",
+ "profile": "Élève ingénieur ENSEIRB-MATMECA en Informatique (data & IA), top 3 % de la promotion, double diplôme avec le Master 2 IREF – Finance quantitative et actuariat. Data engineering et développement Python/SQL testé, de la finance de marché à une application en production ; projets ML et IA générative (RAG).",
+ "gaps": [
+  "NLP appliqué : classification de texte et extraction d'information (aucune preuve ; projet new:1 proposé)",
+  "IA agentique et « skills » (aucun agent conçu ; Claude Code seulement utilisé comme outil)",
+  "MLOps : pipelines d'entraînement, suivi de modèles, CI/CD, monitoring (LabData est en production mais ce n'est pas un modèle ML)",
+  "Revue de code (non mentionnée dans les faits)",
+  "Feature engineering explicite sur données de marché avec experts métiers",
+  "Dataiku (un plus)",
+  "Services AWS (un plus)",
+  "IA responsable et veille bibliographique",
+  "Pack Office : Word et PowerPoint non cités (Excel et Power BI seulement)"
+ ],
+ "claims_to_defend": [
+  "Top 3 % de la promotion ENSEIRB-MATMECA : sur quelle période, quelle taille de promotion",
+  "LabData « en production en 7 semaines », développé seul : architecture, base SQL/PostgreSQL, déploiement, utilisateurs",
+  "Gain de ~2 h de travail manuel par expérience pour 6 scientifiques : méthode de mesure",
+  "4 123 tests, couverture de 91 % : types de tests, outil de mesure de couverture",
+  "Modèle ML par processus gaussien et active learning : noyau, critère d'acquisition, pourquoi c'est resté un prototype",
+  "Prototype RAG LangChain : cadre, LLM utilisé, découpage des documents, évaluation des réponses, limites (hallucinations)",
+  "« Data engineering » chez Société Générale : ce que recouvraient concrètement l'intégration des 6 sources et les contrôles des flux",
+  "Société Générale : entité exacte, desks, nature des « outils de P&L », exemples des 25 contrôles automatisés, stage de 2 mois",
+  "Projet new:1 (NLP sur documents financiers) : à réaliser avant de postuler, choix du modèle, métriques et déploiement à expliquer"
+ ],
+ "assessment": {
+  "verdict": "Profil crédible pour ce stage : double cursus IA/finance quantitative, vraie expérience de développement Python/SQL mis en production et de data engineering en banque de marché. Le point faible est le cœur NLP/IA générative du poste : un seul prototype RAG à cadre non confirmé, rien en classification de texte, extraction d'information, agentique ni MLOps. Réaliser un projet NLP solide et pouvoir le démontrer fera la différence.",
+  "strengths": [
+   "Bac+5 exactement dans la cible (ingénieur Informatique data & IA + M2 mathématiques appliquées, statistique), top 3 %",
+   "Développement de bout en bout et en autonomie : LabData en production en 7 semaines, utilisé par 6 scientifiques",
+   "Culture qualité rare chez un stagiaire : 4 123 tests, couverture de 91 %, validation indépendante, documentation",
+   "Data engineering en contexte de marché : 6 sources intégrées vers les outils de P&L, plus de 25 contrôles automatisés (Société Générale)",
+   "Premières briques ML et IA générative : processus gaussien avec active learning, prototype RAG LangChain, Double DQN en équipe",
+   "Anglais C1 (TOEIC 970/990), français C2"
+  ],
+  "improvements": [
+   "Aucune réalisation en NLP « classique » (classification, extraction d'information, NER) alors que c'est une mission centrale",
+   "IA agentique, IA responsable et veille bibliographique absentes : prévoir un discours étayé",
+   "MLOps (suivi d'expériences, CI/CD, conteneurs, monitoring de modèles) non démontré ; AWS et Dataiku inconnus",
+   "Le projet RAG est un prototype dont le cadre est à confirmer : il doit pouvoir être défendu en détail",
+   "Feature engineering sur données de marché : pas d'exemple concret à part le projet immobilier",
+   "Expérience Société Générale courte (2 mois) : préparer des exemples précis pour qu'elle pèse en entretien"
+  ],
+  "recommendations": [
+   "Réaliser en priorité le projet new:1 (NLP sur documents financiers avec API FastAPI/Docker) et le rendre démontrable",
+   "Revoir les transformers (attention, fine-tuning, BERT/FinBERT), les métriques de classification et l'évaluation d'un RAG (retrieval, faithfulness)",
+   "Se renseigner sur les architectures agentiques (outils, planification, garde-fous) et sur l'IA responsable (biais, explicabilité, AI Act)",
+   "Suivre un parcours gratuit d'initiation AWS (Cloud Practitioner Essentials) et Dataiku Academy (Core Designer) pour pouvoir en parler",
+   "Préparer un récit STAR sur LabData (spécification, tests, mise en production, présentation au CODIR) : c'est le meilleur argument pour le volet développement/DevOps",
+   "Mettre en avant l'intérêt pour la finance de marché via l'expérience Société Générale, sans jamais parler de front office"
+  ]
+ },
+ "new_facts": [],
+ "reply": "C'est fait : les sections suivent maintenant l'ordre demandé, profil, expérience professionnelle, formation, projets, compétences (la formation passe donc avant les projets). Rien d'autre n'a changé : mêmes réécritures, mêmes projets (le projet NLP à réaliser avant de postuler, puis le prototype RAG), aucune réécriture plus longue, donc la page devrait tenir comme avant ; ce simple déplacement ne change pas la longueur. Il me reste une question, la plus importante pour ce poste : dans quel cadre as-tu fait le chatbot RAG (cours, projet perso, stage) et avec quel LLM open source ?"
+}
