@@ -1,6 +1,8 @@
 ---
 name: "ats-cv-optimizer"
 description: "Tailor Ihab's French or English CV to an internship posting in five phases, never in one shot: posting analysis, success profile, requirement-by-requirement matching with confidence levels, truthful reframing, then a self-review in three separate assessments (job fit, factual reliability, document quality); one page; evidence-backed keyword map, compiled PDF, ATS text checks, before/after report; app mode (JSON, proposed projects, conversation and automatic second-pass review). Use whenever he shares a posting or asks to adapt, optimise or ATS-check his CV."
+model: sonnet
+effort: medium
 ---
 
 # ATS CV Optimizer
