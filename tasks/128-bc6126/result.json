@@ -1,0 +1,46 @@
+{
+  "language": "FR",
+  "cover_letter": {
+    "subject": "Candidature au stage « Analyste Support IT Pré-Trade H/F » – Capital Market IT, filière bonds – 6 mois à partir du 1er mars 2027",
+    "salutation": "Madame, Monsieur,",
+    "paragraphs": [
+      "Élève ingénieur en dernière année à l'ENSEIRB-MATMECA (Bordeaux INP, Informatique, Data & IA), en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat de l'Université de Bordeaux, je vous propose ma candidature pour le stage d'Analyste Support IT Pré-Trade au sein de Capital Market IT, dans la filière bonds de la Global Markets Division. Je suis disponible pour un stage de fin d'études de 6 mois, du 1er mars au 31 août 2027. Associer support applicatif, automatisation et environnement de marchés correspond précisément au métier que je souhaite exercer.",
+      "Lors de mon stage de Data Analyst – Finance de marché à la Société Générale (Casablanca, août à septembre 2025), j'ai travaillé pour plusieurs desks de marché : j'ai intégré 6 sources de données (Python, SQL) en flux automatisés et contrôlés alimentant les outils de P&L, et mis en place plus de 25 contrôles automatisés de qualité des données et de conformité, en remplacement de contrôles manuels, suivis par des reportings et dashboards Power BI pour les équipes Finance, Risques et Trading. Cette expérience m'a appris la rigueur qu'exige une chaîne de données utilisée au quotidien par des équipes de marché.",
+      "Chez Inside Therapeutics (juin à septembre 2026), j'ai conçu et développé seul LabData, une plateforme Python / SQL / Streamlit mise en production en 7 semaines, qui fait gagner environ 2 heures de travail manuel par expérience à 6 scientifiques. J'y ai automatisé le traitement d'environ 500 échantillons par mois avec une validation indépendante des calculs (réconciliation, piste d'audit, documentation, 4 123 tests et 91 % de couverture), et ajouté de ma propre initiative des alertes d'anomalies. J'ai aussi présenté l'outil au comité de direction et animé un workshop IA interne : expliquer un outil à ses utilisateurs fait partie, pour moi, de la qualité du support.",
+      "Pour me rapprocher de vos missions, j'ai mené un projet de supervision d'une chaîne post-trade obligataire simulée sous Linux : des scripts Bash et Python planifiés par cron contrôlent les flux de trades, réalisent des rapprochements et déclenchent des alertes, et un runbook d'incidents documente les procédures. Curieux et autonome, je serais heureux de contribuer à l'amélioration du monitoring de votre plateforme, au suivi des incidents de production et à l'automatisation du support. Je me tiens à votre disposition pour un entretien."
+    ],
+    "closing": "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88"
+  },
+  "linkedin_connection": "Bonjour, élève ingénieur ENSEIRB-MATMECA (Informatique, Data & IA), je candidate au stage Analyste Support IT Pré-Trade de CACIB (mars 2027). Ravi d'échanger avec vous. Ihab",
+  "recruiter_message": "Bonjour,\nJe candidate au stage « Analyste Support IT Pré-Trade » (Capital Market IT, filière bonds), 6 mois du 1er mars au 31 août 2027.\nÉlève ingénieur ENSEIRB-MATMECA (Informatique, Data & IA), en double diplôme avec le M2 IREF de l'Université de Bordeaux.\nÀ la Société Générale, j'ai mis en place plus de 25 contrôles automatisés de données (Python, SQL) pour des desks de marché.\nJ'ai aussi mené un projet de supervision d'une chaîne post-trade simulée (scripts Bash/Python, alertes, runbook d'incidents).\nAuriez-vous quelques minutes pour échanger sur le poste ? Merci, Ihab Jaouad",
+  "application_email": {
+    "subject": "Candidature – Stage Analyste Support IT Pré-Trade H/F – Ihab Jaouad – Mars 2027",
+    "body": "Madame, Monsieur,\n\nJe vous adresse ma candidature pour le stage d'Analyste Support IT Pré-Trade au sein de Capital Market IT (filière bonds, Global Markets Division), d'une durée de 6 mois du 1er mars au 31 août 2027.\n\nÉlève ingénieur en dernière année à l'ENSEIRB-MATMECA (Informatique, Data & IA), en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat de l'Université de Bordeaux, j'ai effectué un stage de Data Analyst – Finance de marché à la Société Générale, où j'ai automatisé l'intégration de 6 sources de données et mis en place plus de 25 contrôles automatisés de qualité et de conformité. Chez Inside Therapeutics, j'ai conçu seul et mis en production une plateforme Python / SQL, avec contrôles, réconciliation, piste d'audit et documentation. J'ai également mené un projet de supervision d'une chaîne post-trade obligataire simulée sous Linux (scripts Bash/Python, rapprochements, alertes, runbook d'incidents).\n\nVous trouverez ci-joint mon CV et ma lettre de motivation. Je reste à votre disposition pour un entretien.\n\nCordialement,\n\nIhab Jaouad\nihab.jaouad5@gmail.com\n+33 6 25 58 61 88"
+  },
+  "facts_used": [
+    "ENSEIRB-MATMECA (Bordeaux INP), diplôme d'ingénieur Informatique, Data & IA, 2024-2027, en cours",
+    "Master 2 IREF – Finance quantitative et actuariat, Université de Bordeaux, double diplôme avec l'ENSEIRB-MATMECA, 2026-2027, en cours",
+    "Disponibilité : stage de 6 mois du 1er mars au 31 août 2027",
+    "Société Générale, Casablanca, août-sept. 2025, Data Analyst – Finance de marché, analyse de données pour plusieurs desks de marché",
+    "SG : intégration de 6 sources de données (Python, SQL) en flux automatisés et contrôlés alimentant les outils de P&L",
+    "SG : plus de 25 contrôles automatisés de qualité des données et de conformité remplaçant des contrôles manuels ; reportings et dashboards Power BI pour Finance, Risques et Trading",
+    "Inside Therapeutics, juin-sept. 2026 : LabData conçu et développé seul, Python / SQL / Streamlit, en production en 7 semaines, environ 2 h gagnées par expérience pour 6 scientifiques",
+    "Inside Therapeutics : environ 500 échantillons/mois, validation indépendante des calculs (réconciliation, piste d'audit, documentation), 4 123 tests, couverture de 91 %",
+    "Inside Therapeutics : alertes d'anomalies ajoutées de sa propre initiative",
+    "Inside Therapeutics : présentation de LabData au CODIR ; workshop IA interne",
+    "Projet du CV pour cette offre (à réaliser avant envoi) : supervision d'une chaîne post-trade obligataire simulée – Linux, Bash, Python, SQL ; scripts Bash/Python (cron), contrôle des flux de trades, rapprochements, alertes, runbook d'incidents",
+    "Contact : ihab.jaouad5@gmail.com, +33 6 25 58 61 88"
+  ],
+  "warnings": [
+    "Le projet « Supervision d'une chaîne post-trade obligataire simulée » est cité dans la lettre, l'e-mail et le message recruteur : il doit être réellement réalisé avant l'envoi (aucun chiffre de résultat n'a été écrit).",
+    "Destinataire inconnu (Unknown) : formule « Madame, Monsieur » ; personnaliser si un nom de recruteur est connu.",
+    "URL et référence de l'offre inconnues (Unknown) : ajouter la référence dans l'objet si le portail la fournit.",
+    "Localisation : scolarité 2026-2027 à Bordeaux, poste à Montrouge ; être prêt à confirmer la disponibilité en Île-de-France dès mars 2027.",
+    "Compétence requise « Maîtrise du Pack Microsoft Office » : seuls Excel et Power BI sont attestés ; la lettre ne revendique pas de maîtrise du pack Office.",
+    "« Linux Scripting » : Linux et Git sont listés comme outils, Bash figure dans le CV EN ; le seul usage concret cité est le projet post-trade à réaliser. Préparer des exemples de scripts.",
+    "À défendre en entretien : 4 123 tests et 91 % de couverture (type de tests, outil de mesure), méthode de mesure du gain de 2 h, exemples de contrôles de conformité et nature des « outils de P&L » à la SG, entité SG exacte.",
+    "Ne jamais présenter le stage SG comme « front office » (formulation respectée : travail pour plusieurs desks de marché).",
+    "Message LinkedIn : vérifier qu'il reste sous 200 caractères après toute retouche ; « CACIB » utilisé pour tenir la limite.",
+    "Rien n'a été envoyé : relire et envoyer soi-même."
+  ]
+}
