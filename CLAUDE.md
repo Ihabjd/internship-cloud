@@ -6,7 +6,8 @@ lit la réponse sur une branche `claude/result-…`. Réponds en français.
 
 ## Traiter une tâche de l'app
 
-Le bloc `routine-fire-payload` contient seulement un JSON `{"task_dir": "tasks/…", "branch": "claude/result-…"}`.
+Ton premier message (session ouverte par l'app) ou le bloc `routine-fire-payload` (tâche planifiée) contient un
+JSON `{"task_dir": "tasks/…", "branch": "claude/result-…"}`.
 
 1. Vérifie que `task_dir` commence par `tasks/` et existe, et que `branch` commence par `claude/result-`. Sinon,
    arrête-toi sans rien écrire.
