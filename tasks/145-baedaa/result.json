@@ -1,0 +1,778 @@
+{
+  "run": {
+    "run_type": "daily",
+    "started_at": "2026-10-29T09:55:00+01:00",
+    "finished_at": "2026-10-29T10:10:00+01:00",
+    "queries_run": [
+      "CPR Asset Management stage 2027",
+      "Crédit Mutuel Arkéa CIC Market Solutions stage mars 2027 finance de marché",
+      "Direct Assurance stage 2027 data finance",
+      "Amundi stage Assistant Securities Lending Trading 116870",
+      "stage assistant trader mars 2027 Paris",
+      "stage structuration mars 2027 Paris",
+      "stage gestion de portefeuille assistant gérant mars 2027",
+      "Safran stage assistant trader salle des marchés 2027"
+    ],
+    "sources_reached": [
+      "Moteur de recherche web (WebSearch)",
+      "Données de l'app : API Workday Ardian",
+      "Données de l'app : alertes e-mail Indeed et Hellowork"
+    ],
+    "sources_inaccessible": [
+      "casa-amundi-recrute.talent-soft.com (ENOTFOUND)",
+      "group.bnpparibas (ENOTFOUND)",
+      "www.safran-group.com (ENOTFOUND)"
+    ]
+  },
+  "listings": [
+    {
+      "Country": "France",
+      "Requisition_ID": "JR1002130",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "2027-03",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Skills": [],
+      "Languages": [
+        "Français (texte de l'offre)"
+      ],
+      "Preferred_Gaps": "Profil « première expérience en stage en … » tronqué dans le texte fourni : exigence exacte Unknown.",
+      "Required_Skills": [
+        "Qualités commerciales",
+        "Rigueur",
+        "Aisance relationnelle",
+        "Travail d'équipe"
+      ],
+      "Responsibilities": [
+        "Organisation et suivi des étapes de lancement des syndications",
+        "Collecte et revue des documents de souscription avec juridique, compliance, finance",
+        "Préparation des documents de suivi et supervision des closings",
+        "Rapport mensuel de syndication au Comex",
+        "Mise à jour de la base de données consolidée des syndications"
+      ],
+      "Employer": "Ardian",
+      "Job_Title": "Investor Relations Syndication Stage - Mars 2027 | Paris (M/F)",
+      "Job_Family": "Private Equity / Private Debt",
+      "Location": "Paris",
+      "Source": "Site carrières officiel (API Workday Ardian, collecte de l'app)",
+      "Job_URL": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Investor-Relations-Syndication-Stage---Mars-2027---Paris--M-F-_JR1002130",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Partly",
+      "Main_Strengths": "Dernière année d'école d'ingénieur (ENSEIRB-MATMECA) explicitement acceptée ; début mars 2027, 6 mois, Paris ; expérience de bases de données, reportings et dashboards (SG : Power BI ; LabData : Python/SQL) utile pour la base consolidée des syndications et le rapport mensuel au Comex.",
+      "Essential_Gaps": "« Excellentes qualités commerciales » sans preuve directe dans les CV ; aucune expérience en relations investisseurs, co-investissement ou documentation juridique de fonds.",
+      "Fit_Explanation": "Rôle de coordination et de reporting (syndication, closings, base de données, rapport Comex) au sein d'un grand acteur du private equity : bon calendrier et bonne éligibilité, mais peu de contenu quantitatif ou d'investissement ; porte d'entrée vers le PE plutôt que poste d'analyse.",
+      "Verification_Status": "Verified active",
+      "Notes": "Offre déjà connue (J-50E99B5C, Discovered) : réévaluée à partir du texte fourni par l'app, aucun changement de statut. Texte de l'offre tronqué après « Une première expérience en stage en ». Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Décider s'il vaut la peine de candidater (rôle peu quantitatif) ; si oui, adapter un CV orienté reporting / bases de données avec ats-cv-optimizer.",
+      "Recommended_CV_Version": "Version FR famille Private Equity / Private Debt (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 11,
+          "evidence": "Missions : suivi et coordination des syndications, collecte et revue des documents de souscription, suivi des closings, rapport mensuel au Comex, mise à jour de la base consolidée. Recoupe le reporting et la gestion de données (SG, LabData), pas l'analyse d'investissement."
+        },
+        "tech": {
+          "points": 12,
+          "evidence": "Compétences demandées : qualités commerciales, rigueur, aisance relationnelle, travail d'équipe. Aucun outil quantitatif demandé ; Python/SQL/Power BI d'Ihab utiles pour la base de données mais non requis."
+        },
+        "academic": {
+          "points": 13,
+          "evidence": "« Étudiant en dernière année d'École de Commerce ou d'Ingénieur ou année de césure » : Ihab est en dernière année ENSEIRB-MATMECA + M2 IREF. Exigence d'expérience tronquée (Unknown)."
+        },
+        "career": {
+          "points": 9,
+          "evidence": "Private equity (cible cœur B) mais fonction relations investisseurs / syndication, non investissement : alignement intermédiaire."
+        },
+        "duration": {
+          "points": 10,
+          "evidence": "« Durée du stage : 6 mois », « Début : Mars 2027 » : compatible avec 1er mars – 31 août 2027."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris = Île-de-France ; langue non précisée dans le texte fourni (texte en français)."
+        }
+      },
+      "Match_Score": "65",
+      "Priority": "Worth applying"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Ostrum Asset Management",
+      "Job_Title": "Stage - 6 mois - Stratégiste ESG F/H",
+      "Job_Family": "Asset Management / Portfolio Analytics",
+      "Location": "Paris (75)",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=0ec872e8d3c416d1",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Société de gestion (cible cœur B, affiliée Natixis IM) ; Paris ; 6 mois ; formation M2 finance quantitative.",
+      "Essential_Gaps": "Exigences inconnues (seul l'extrait de l'alerte est disponible) ; aucune expérience ESG dans les CV.",
+      "Fit_Explanation": "Stage de recherche / stratégie ESG en gestion d'actifs : famille cible, mais contenu exact, début et profil inconnus tant que la page officielle n'est pas lue.",
+      "Verification_Status": "Unverified",
+      "Notes": "Vu dans l'alerte Indeed du 2026-10-28 (« il y a 1 jour »). Page officielle non recherchée (budget). Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Trouver la page officielle (recrutement.bpce.fr / Natixis IM) pour vérifier début, profil et missions.",
+      "Recommended_CV_Version": "Version FR famille Asset Management (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 12,
+          "evidence": "Intitulé « Stratégiste ESG » en société de gestion ; extrait de l'alerte sans description des missions."
+        },
+        "tech": {
+          "points": 12,
+          "evidence": "Aucune compétence listée dans l'extrait : évaluation neutre faute de données."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Niveau d'études non précisé dans l'extrait (Unknown)."
+        },
+        "career": {
+          "points": 12,
+          "evidence": "Gestion d'actifs (cœur B), mais stratégie ESG plutôt que gestion de portefeuille ou recherche quantitative."
+        },
+        "duration": {
+          "points": 7,
+          "evidence": "« 6 mois » dans l'intitulé ; date de début Unknown."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris (75) ; langues Unknown."
+        }
+      },
+      "Match_Score": "63",
+      "Priority": "Stretch opportunity"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "BNP Paribas",
+      "Job_Title": "Stage - Data Scientist ALMT Digital Innovations & AI - H/F",
+      "Job_Family": "Capital Markets Data / Python",
+      "Location": "Paris (75)",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=4dac6207970d970a",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Partly",
+      "Main_Strengths": "Projet RAG Chatbot (LangChain, embeddings, LLM open source, prototype) et Python professionnel (SG, Inside Therapeutics) ; animation d'un workshop IA interne.",
+      "Essential_Gaps": "Aucune expérience professionnelle en IA générative ni en ALM / trésorerie ; exigences exactes inconnues.",
+      "Fit_Explanation": "Cas d'usage IA générative / LLM / IA agentique pour l'ALM Treasury de BNP Paribas : très bon recoupement technique, mais famille secondaire (data & IA en finance).",
+      "Verification_Status": "Unverified",
+      "Notes": "Rémunération affichée par Indeed (1 050 € – 2 100 €/mois) non vérifiée (Indeed estime parfois les salaires). Page officielle group.bnpparibas non recherchée ; le domaine n'est pas lisible depuis cette session. Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Lire l'offre officielle sur group.bnpparibas pour vérifier début (mars 2027 ?) et profil ; candidater si compatible.",
+      "Recommended_CV_Version": "Version FR famille Data & IA en finance (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 17,
+          "evidence": "Extrait : « développement de cas d'usage concrets autour de la Generative AI, des LLMs et de l'IA agentique » ; Ihab : prototype RAG (LangChain), workshop IA, plateforme LabData."
+        },
+        "tech": {
+          "points": 17,
+          "evidence": "LLM, embeddings, Python (projet 5.3, SG, Inside Therapeutics) ; agentique non démontré ; autres exigences Unknown."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Niveau d'études non précisé dans l'extrait (Unknown)."
+        },
+        "career": {
+          "points": 7,
+          "evidence": "Data & IA en finance = famille secondaire ; environnement ALM Treasury (BNP)."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée Unknown."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris (75) ; langues Unknown."
+        }
+      },
+      "Match_Score": "67",
+      "Priority": "Worth applying"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Sienna Investment Managers",
+      "Job_Title": "Stage – Assistant Risk Manager (H/F)",
+      "Job_Family": "Market Risk / Risk Analytics",
+      "Location": "Paris (75)",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=ff0bceee74eb5b3b",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Partly",
+      "Main_Strengths": "Profil demandé « Bac +4/5, école d'ingénieurs ou de commerce, avec une spécialisation en finance de marchés » : ENSEIRB-MATMECA + M2 IREF ; projet VaR/ES, stress tests, backtesting ; contrôles automatisés (SG).",
+      "Essential_Gaps": "Missions et outils inconnus ; aucune expérience professionnelle en risque.",
+      "Fit_Explanation": "Risque en société de gestion (famille passerelle) avec un profil d'école d'ingénieur spécialisé finance de marchés : bonne correspondance probable, à confirmer sur la page officielle.",
+      "Verification_Status": "Unverified",
+      "Notes": "Vu dans l'alerte Indeed du 2026-10-28 (« Publié à l'instant »). Avantage cité : Pass Navigo pris en charge à 60 %. Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Trouver l'offre sur le site de Sienna IM pour vérifier début et durée ; si mars 2027, préparer le dossier.",
+      "Recommended_CV_Version": "Version FR famille Risque de marché (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 17,
+          "evidence": "Intitulé « Assistant Risk Manager » en société de gestion ; Ihab : projet VaR/ES, stress tests, backtesting ; contrôles automatisés chez SG."
+        },
+        "tech": {
+          "points": 16,
+          "evidence": "Spécialisation finance de marchés demandée ; outils Unknown ; Python/SQL et cours risque de marché du M2."
+        },
+        "academic": {
+          "points": 13,
+          "evidence": "« Bac +4/5, école d'ingénieurs ou de commerce » : correspond ; statut dernière année compatible."
+        },
+        "career": {
+          "points": 11,
+          "evidence": "Risque de marché en société de gestion = famille passerelle (10–11)."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée Unknown."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris (75) ; langues Unknown."
+        }
+      },
+      "Match_Score": "73",
+      "Priority": "Worth applying"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Sienna Investment Managers",
+      "Job_Title": "Stagiaire Analyste Crédit Secteur Public (H/F)",
+      "Job_Family": "Private Equity / Private Debt",
+      "Location": "Paris (75)",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=24044b6d14a53a89",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Société de gestion actifs cotés et privés (cible cœur B) ; cours de risque de crédit (scoring) et fixed income au M2.",
+      "Essential_Gaps": "Aucune expérience en analyse crédit ou financement du secteur public ; exigences inconnues.",
+      "Fit_Explanation": "Analyse crédit secteur public dans une société de gestion (dette privée / financement direct) : famille cible, mais rôle d'analyse financière fondamentale, peu quantitatif ; détails inconnus.",
+      "Verification_Status": "Unverified",
+      "Notes": "Vu dans l'alerte Indeed du 2026-10-28. Rattachement exact (dette privée ou crédit coté) non précisé : la famille Private Equity / Private Debt est une hypothèse fondée sur l'extrait (« financement direct d'entreprises »). Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Vérifier l'offre sur le site de Sienna IM (début, durée, profil) avant toute décision.",
+      "Recommended_CV_Version": "Version FR famille Private Equity / Private Debt (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 12,
+          "evidence": "Analyste crédit secteur public ; extrait sans missions détaillées."
+        },
+        "tech": {
+          "points": 12,
+          "evidence": "Compétences Unknown ; cours de risque de crédit et fixed income au M2 (académiques, en cours)."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Niveau d'études non précisé dans l'extrait (Unknown)."
+        },
+        "career": {
+          "points": 12,
+          "evidence": "Gestion d'actifs / dette privée (cœur B), mais analyse crédit fondamentale, rôle moins technique."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée Unknown."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris (75) ; langues Unknown."
+        }
+      },
+      "Match_Score": "62",
+      "Priority": "Stretch opportunity"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Caisse d'Epargne Rhône Alpes",
+      "Job_Title": "Stage TRESORIER (F/H)",
+      "Job_Family": "Trading / Trading Analytics",
+      "Location": "Lyon (69)",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=7ede6b361508c9c9",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Partly",
+      "Main_Strengths": "Profil « Master (Bac +4/5) en Mathématiques, Banque, Finance » : M2 IREF finance quantitative ; cours fixed income et produits dérivés ; données de marché (SG).",
+      "Essential_Gaps": "Aucune expérience de trésorerie bancaire ou d'exécution d'opérations de marché ; début et durée inconnus.",
+      "Fit_Explanation": "Trésorerie d'une banque régionale avec exécution d'opérations de marché : rôle proche des marchés, mais hors Île-de-France et hors banque d'investissement.",
+      "Verification_Status": "Unverified",
+      "Notes": "Vu dans l'alerte Indeed du 2026-10-28 (« il y a 1 jour »). Page officielle (recrutement.bpce.fr) non recherchée (budget). Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Vérifier l'offre officielle BPCE (début, durée) ; candidater si mars 2027 et si Lyon convient.",
+      "Recommended_CV_Version": "Version FR famille Trading (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 14,
+          "evidence": "Extrait : « Assister dans l'évaluation et l'exécution des opérations sur les marchés financiers »."
+        },
+        "tech": {
+          "points": 15,
+          "evidence": "Master en mathématiques/banque/finance demandé ; outils Unknown ; Python/SQL et cours de produits de taux/dérivés."
+        },
+        "academic": {
+          "points": 13,
+          "evidence": "« Étudiant(e) en Master (Bac +4/5) en Mathématiques, Banque, Finance » : correspond."
+        },
+        "career": {
+          "points": 11,
+          "evidence": "Trésorerie / opérations de marché en banque de détail : entre trading (cœur) et ALM ; noté comme passerelle."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée Unknown."
+        },
+        "location": {
+          "points": 8,
+          "evidence": "Lyon : hors Île-de-France (−2) ; langues Unknown."
+        }
+      },
+      "Match_Score": "67",
+      "Priority": "Worth applying"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "2026-12",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Natixis",
+      "Job_Title": "Stage - 6 mois - Assistant Sales Forex F/H",
+      "Job_Family": "Sales / Investment Solutions",
+      "Location": "Paris (75)",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=898a863de57a1b56",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Sales Forex en banque (cible cœur A) ; Citi – Markets Sales & Trading Job Simulation ; Paris.",
+      "Essential_Gaps": "Début en décembre 2026 incompatible avec le calendrier IREF (1er mars – 31 août 2027, sans extension).",
+      "Fit_Explanation": "Bonne famille, mais le début annoncé (décembre 2026) est incompatible : priorité plafonnée à Low priority, sauf si Natixis accepte un début au 1er mars 2027.",
+      "Verification_Status": "Unverified",
+      "Notes": "Extrait de l'alerte : « pour un stage de 6 mois à partir de décembre 2026 » ; publié « il y a 8 jours » (ancienne offre, découverte aujourd'hui). Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Ne pas candidater en l'état ; seulement si Natixis accepte un début en mars 2027.",
+      "Recommended_CV_Version": "Version FR famille Sales / Investment Solutions (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 15,
+          "evidence": "Assistant Sales, équipe Vente Réseaux Actionnaires Forex ; missions détaillées Unknown."
+        },
+        "tech": {
+          "points": 13,
+          "evidence": "Compétences Unknown ; simulation Citi Markets Sales & Trading, cours de marchés."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Niveau d'études non précisé dans l'extrait (Unknown)."
+        },
+        "career": {
+          "points": 13,
+          "evidence": "Sales en banque d'investissement : cœur A, rôle commercial (13)."
+        },
+        "duration": {
+          "points": 2,
+          "evidence": "Début décembre 2026 : incompatible avec un début au 1er mars 2027."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris (75) ; langues Unknown."
+        }
+      },
+      "Match_Score": "63",
+      "Priority": "Low priority"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Amundi",
+      "Job_Title": "Stage - Assistant Securities Lending Trading H/F",
+      "Job_Family": "Trading / Trading Analytics",
+      "Location": "Unknown",
+      "Source": "Alerte e-mail Hellowork",
+      "Job_URL": "https://casa-amundi-recrute.talent-soft.com/offre-de-emploi/emploi-stage-assistant-securities-lending-trading-h-f_116870.aspx",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Desk de trading d'une société de gestion (cible cœur A/B) ; données de marché et contrôles automatisés (SG) ; Python/SQL.",
+      "Essential_Gaps": "Aucun détail lu : missions, début, durée et lieu inconnus ; pas d'expérience en prêt-emprunt de titres.",
+      "Fit_Explanation": "Assistant trading sur le desk de prêt de titres d'Amundi : famille cible, mais aucun détail vérifié.",
+      "Verification_Status": "Unverified",
+      "Notes": "E-mail Hellowork du 2026-10-28 : Ihab a été redirigé vers le site d'Amundi pour postuler (« Finalisez votre candidature »). Vérifier s'il a finalisé ; le statut de candidature est à mettre à jour par Ihab seul. Page officielle inaccessible depuis cette session (ENOTFOUND). La recherche web n'a trouvé que des postes SLCR en CDI (ex. réf. 113193), pas ce stage. Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Si la candidature n'est pas finalisée : relire l'offre sur le site d'Amundi (début, durée, lieu) et finaliser.",
+      "Recommended_CV_Version": "Version FR famille Trading (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 15,
+          "evidence": "Intitulé « Assistant Securities Lending Trading » ; missions Unknown."
+        },
+        "tech": {
+          "points": 13,
+          "evidence": "Compétences Unknown ; Python/SQL, contrôles de données (SG)."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Niveau d'études Unknown."
+        },
+        "career": {
+          "points": 14,
+          "evidence": "Trading en gestion d'actifs : famille cœur."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée Unknown."
+        },
+        "location": {
+          "points": 7,
+          "evidence": "Lieu non indiqué dans l'e-mail (Unknown)."
+        }
+      },
+      "Match_Score": "65",
+      "Priority": "Worth applying"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "189017",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Skills": [],
+      "Languages": [
+        "Anglais courant"
+      ],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Safran",
+      "Job_Title": "Stage - Assistant Trader Salle des Marchés H/F",
+      "Job_Family": "Trading / Trading Analytics",
+      "Location": "Vanves (92)",
+      "Source": "Site carrières officiel (via alerte Hellowork)",
+      "Job_URL": "https://www.safran-group.com/fr/offres/france/vanves/stage-assistant-trader-salle-marches-fh-189017",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Partly",
+      "Main_Strengths": "Outils d'analyse et de reporting des positions : Python/SQL, dashboards Power BI (SG), LabData ; BAC+5 et anglais courant demandés : M2 + ingénieur, TOEIC 970.",
+      "Essential_Gaps": "Aucune expérience de couverture de change en trésorerie d'entreprise ; « première expérience » demandée (stages SG et Inside Therapeutics, à présenter) ; début et durée inconnus.",
+      "Fit_Explanation": "Front office trésorerie de Safran (couvertures de change du groupe, outils d'analyse et de reporting des positions) : bon recoupement technique, trading d'entreprise plutôt que banque.",
+      "Verification_Status": "Unverified",
+      "Notes": "Offre citée dans l'e-mail Hellowork du 2026-10-28 (sans lien). Page officielle trouvée par recherche web (référence 189017 dans l'URL) mais illisible depuis cette session (ENOTFOUND) : détails tirés des extraits du moteur de recherche seulement. Aussi vu : versions /jobs/france/vanves/… (EN) du même identifiant. Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Lire l'offre sur safran-group.com (début, durée) ; si mars 2027, préparer le dossier avec ats-cv-optimizer.",
+      "Recommended_CV_Version": "Version FR famille Trading (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 18,
+          "evidence": "Extraits : salle des marchés (Front-Office) de la Direction Trésorerie & Financements ; conception et suivi des couvertures de change ; outils d'analyse et de reporting des positions."
+        },
+        "tech": {
+          "points": 16,
+          "evidence": "Outils de reporting : Python/SQL/Power BI (SG) ; couverture et dérivés : cours M2 et projet delta-hedging ; outils exacts Unknown."
+        },
+        "academic": {
+          "points": 14,
+          "evidence": "« Diplôme requis : BAC+5 », statut étudiant : correspond (dernière année)."
+        },
+        "career": {
+          "points": 12,
+          "evidence": "Trading de change en trésorerie d'entreprise : proche du cœur A, hors banque d'investissement."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée Unknown."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Vanves (92) = Île-de-France ; anglais courant demandé (C1, TOEIC 970)."
+        }
+      },
+      "Match_Score": "76",
+      "Priority": "Worth applying"
+    },
+    {
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-10-29",
+      "Last_Verified_Date": "2026-10-29",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Skills": [],
+      "Languages": [],
+      "Preferred_Gaps": "Unknown",
+      "Required_Skills": [],
+      "Responsibilities": [],
+      "Employer": "Portzamparc (BNP Paribas)",
+      "Job_Title": "Stage Assistant Gérant Conseil H/F",
+      "Job_Family": "Asset Management / Portfolio Analytics",
+      "Location": "Marseille",
+      "Source": "Recherche web (page officielle group.bnpparibas)",
+      "Job_URL": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-stage-assistant-gerant-conseil-h-f-marseille",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Bac+4/5 demandé ; cours de gestion de portefeuille au M2 ; Python, SQL et Excel (CV), utiles pour le suivi de portefeuilles.",
+      "Essential_Gaps": "Rôle de conseil (gestion conseillée) : relation client non démontrée en finance ; début et missions inconnus.",
+      "Fit_Explanation": "Assistant gérant en gestion conseillée chez Portzamparc (BNP Paribas), à Marseille : famille gestion d'actifs, plus proche du conseil patrimonial que de la gestion quantitative.",
+      "Verification_Status": "Unverified",
+      "Notes": "Extrait de recherche : stage à temps plein, niveau Bac+4/5, référence contenant « 2027 » (non lue en entier). Page officielle illisible depuis cette session (ENOTFOUND). Score = priorisation interne, pas une probabilité d'embauche.",
+      "Next_Action": "Vérifier l'offre officielle (début, durée, missions) ; priorité basse face aux offres franciliennes.",
+      "Recommended_CV_Version": "Version FR famille Asset Management (04_Applications/00_Versions_par_famille/)",
+      "Score_Breakdown": {
+        "role": {
+          "points": 12,
+          "evidence": "Assistant gérant conseil : suivi de portefeuilles et conseil ; missions exactes Unknown."
+        },
+        "tech": {
+          "points": 11,
+          "evidence": "Compétences Unknown ; cours de gestion de portefeuille (académique)."
+        },
+        "academic": {
+          "points": 13,
+          "evidence": "Niveau Bac+4/5 selon l'extrait : correspond."
+        },
+        "career": {
+          "points": 12,
+          "evidence": "Gestion de portefeuille (cœur B), orientation conseil."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée Unknown."
+        },
+        "location": {
+          "points": 8,
+          "evidence": "Marseille : hors Île-de-France (−2) ; langues Unknown."
+        }
+      },
+      "Match_Score": "62",
+      "Priority": "Stretch opportunity"
+    }
+  ],
+  "status_changes": [],
+  "search_log": [
+    {
+      "Source": "API Workday Ardian (collecte de l'app)",
+      "Access_Method": "Données fournies par l'app",
+      "Query_or_URL": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Investor-Relations-Syndication-Stage---Mars-2027---Paris--M-F-_JR1002130",
+      "Terms_or_Restrictions": "Aucune recherche web (consigne)",
+      "Results_Seen": "1",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Texte de l'offre tronqué",
+      "Notes": "Offre connue J-50E99B5C réévaluée"
+    },
+    {
+      "Source": "Alertes e-mail Indeed (2)",
+      "Access_Method": "Données fournies par l'app (Gmail, lecture seule)",
+      "Query_or_URL": "Alertes 12 et 13 du 2026-10-28",
+      "Terms_or_Restrictions": "Indeed non ouvert (consigne)",
+      "Results_Seen": "26",
+      "New_Listings": "6",
+      "Errors_or_Limitations": "Extraits seulement ; salaires affichés possiblement estimés par Indeed",
+      "Notes": "Retenues : Ostrum, BNP Paribas ALMT, Sienna x2, CE Rhône Alpes, Natixis Sales Forex. 2 doublons (AXA Banque MO collatéral ≈ J-6AEE01E7 ; Ipsos présent dans les deux alertes), 18 hors cible (dont actuariat/assurance)"
+    },
+    {
+      "Source": "E-mails Hellowork (2)",
+      "Access_Method": "Données fournies par l'app (Gmail, lecture seule)",
+      "Query_or_URL": "Alertes 9 et 11 du 2026-10-28",
+      "Terms_or_Restrictions": "Aucun lien ouvert hors sites employeurs",
+      "Results_Seen": "11",
+      "New_Listings": "2",
+      "Errors_or_Limitations": "Offres recommandées sans lien",
+      "Notes": "Retenues : Amundi Securities Lending Trading, Safran Assistant Trader. ABC arbitrage = J-CFFFED8A (connue). Soufflet Assistant Trader Céréales noté sans lien. 7 hors cible (M&A, audit, export finance, back office)"
+    },
+    {
+      "Source": "Web (rotation : CPR AM)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "CPR Asset Management stage 2027",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "9",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Aucun résultat d'offre",
+      "Notes": "Seulement des fiches de fonds"
+    },
+    {
+      "Source": "Web (rotation : Crédit Mutuel)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "Crédit Mutuel Arkéa CIC Market Solutions stage mars 2027 finance de marché",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "9",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Pas d'offre 2027 identifiée",
+      "Notes": "Agrégateur : stages Arkéa (structuration placement privé, valorisation, Brest/Le Relecq-Kerhuon) sans date de début, non retenus faute de source officielle"
+    },
+    {
+      "Source": "Web (rotation : Direct Assurance)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "Direct Assurance stage 2027 data finance",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "9",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Aucune offre 2027",
+      "Notes": "Seulement un stage data analyst sept. 2026 (expiré pour la cible) et un CDI actuariat"
+    },
+    {
+      "Source": "Web (vérification alerte Amundi)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "Amundi stage Assistant Securities Lending Trading 116870",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "9",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Offre non indexée",
+      "Notes": "Seuls des postes SLCR en CDI (réf. 113193) apparaissent"
+    },
+    {
+      "Source": "Web (banque de requêtes)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "stage assistant trader mars 2027 Paris",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "10",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "",
+      "Notes": "Kepler Cheuvreux Assistant Sales Trader : début juillet 2026, non retenu ; reste hors sujet (trade marketing)"
+    },
+    {
+      "Source": "Web (banque de requêtes)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "stage structuration mars 2027 Paris",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "9",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Résultats hors sujet (loisirs)",
+      "Notes": "Requête à reformuler en anglais la prochaine fois"
+    },
+    {
+      "Source": "Web (banque de requêtes)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "stage gestion de portefeuille assistant gérant mars 2027",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "10",
+      "New_Listings": "1",
+      "Errors_or_Limitations": "",
+      "Notes": "Portzamparc Assistant Gérant Conseil (Marseille) retenu ; BNPP AM Assistant Gérant = J-4A55A3B9 connue ; Rothschild & Co Belgique (janvier 2027, hors France) non retenu"
+    },
+    {
+      "Source": "Web (vérification alerte Safran)",
+      "Access_Method": "WebSearch",
+      "Query_or_URL": "Safran stage assistant trader salle des marchés 2027",
+      "Terms_or_Restrictions": "Recherche publique, aucun login",
+      "Results_Seen": "10",
+      "New_Listings": "1",
+      "Errors_or_Limitations": "",
+      "Notes": "Page officielle safran-group.com, réf. 189017"
+    },
+    {
+      "Source": "casa-amundi-recrute.talent-soft.com",
+      "Access_Method": "WebFetch",
+      "Query_or_URL": "https://casa-amundi-recrute.talent-soft.com/offre-de-emploi/emploi-stage-assistant-securities-lending-trading-h-f_116870.aspx",
+      "Terms_or_Restrictions": "Page publique",
+      "Results_Seen": "0",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "ENOTFOUND (domaine non résolu depuis la session cloud)",
+      "Notes": "Offre non vérifiée"
+    },
+    {
+      "Source": "group.bnpparibas",
+      "Access_Method": "WebFetch",
+      "Query_or_URL": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-stage-assistant-gerant-conseil-h-f-marseille",
+      "Terms_or_Restrictions": "Page publique",
+      "Results_Seen": "0",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "ENOTFOUND (domaine non résolu depuis la session cloud)",
+      "Notes": "Offre non vérifiée"
+    },
+    {
+      "Source": "safran-group.com",
+      "Access_Method": "WebFetch",
+      "Query_or_URL": "https://www.safran-group.com/fr/offres/france/vanves/stage-assistant-trader-salle-marches-fh-189017",
+      "Terms_or_Restrictions": "Page publique",
+      "Results_Seen": "0",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "ENOTFOUND (domaine non résolu depuis la session cloud)",
+      "Notes": "Détails tirés des extraits du moteur de recherche"
+    }
+  ],
+  "report_markdown": "# Veille stages — 2026-10-29\n\n## A. Résumé exécutif\n- Vu aujourd'hui : 1 offre de l'API Ardian, 37 offres dans 4 e-mails (Indeed, Hellowork), environ 75 résultats sur 8 recherches web. **9 offres nouvelles** retenues et 1 offre connue réévaluée (Ardian). **Aucune n'a pu être vérifiée sur la page officielle** : les sites carrières (Amundi, BNP Paribas, Safran) ne sont pas joignables depuis la session cloud.\n- La meilleure : **Safran — Stage Assistant Trader Salle des Marchés** (Vanves, 76/100, Worth applying), puis **Sienna IM — Assistant Risk Manager** (73) et **BNP Paribas — Data Scientist ALMT** (67).\n- Action du jour : ouvrir l'offre Safran et vérifier le début (mars 2027 ?) ; finaliser, si ce n'est pas fait, la candidature Amundi Securities Lending Trading ouverte via Hellowork.\n- Cette veille n'est pas exhaustive : budget léger (8 requêtes) et sources limitées.\n\n## B. Nouvelles offres prioritaires (≥ 80)\nAucune aujourd'hui.\n\n## C. Autres offres pertinentes (50–79)\n### Publiées récemment (alertes du 2026-10-28)\n- **Safran — Stage - Assistant Trader Salle des Marchés H/F** · Vanves (92) · [https://www.safran-group.com/fr/offres/france/vanves/stage-assistant-trader-salle-marches-fh-189017] · publiée le Unknown · début Unknown · durée Unknown · date limite Unknown · **76 – Worth applying** · Trading / Trading Analytics · CV : version FR famille Trading.\n  Forces : outils d'analyse et de reporting des positions (Python/SQL/Power BI à SG), BAC+5 et anglais courant demandés. Écarts : pas d'expérience en couverture de change d'entreprise ; début inconnu ; détails tirés des extraits de recherche seulement (page non lue).\n  → Lire l'offre, vérifier le début, puis préparer le dossier.\n- **Sienna Investment Managers — Stage – Assistant Risk Manager (H/F)** · Paris · [https://fr.indeed.com/viewjob?jk=ff0bceee74eb5b3b] · publiée le Unknown (« Publié à l'instant » le 2026-10-28) · début Unknown · durée Unknown · date limite Unknown · **73 – Worth applying** · Market Risk / Risk Analytics · CV : version FR famille Risque de marché.\n  Forces : profil « Bac +4/5 école d'ingénieurs… spécialisation finance de marchés » ; projet VaR/ES, stress tests, backtesting. Écarts : missions et outils inconnus ; pas d'expérience professionnelle en risque.\n  → Trouver l'offre sur le site de Sienna IM.\n- **BNP Paribas — Stage - Data Scientist ALMT Digital Innovations & AI - H/F** · Paris · [https://fr.indeed.com/viewjob?jk=4dac6207970d970a] · publiée le Unknown · début Unknown · durée Unknown · date limite Unknown · **67 – Worth applying** · Capital Markets Data / Python (famille secondaire : data & IA en finance) · CV : version FR famille Data & IA.\n  Forces : prototype RAG (LangChain, embeddings, LLM open source), workshop IA, Python pro. Écarts : IA agentique non démontrée ; pas d'expérience ALM/trésorerie.\n  → Vérifier le début sur group.bnpparibas.\n- **Caisse d'Epargne Rhône Alpes — Stage TRESORIER (F/H)** · Lyon · [https://fr.indeed.com/viewjob?jk=7ede6b361508c9c9] · publiée le Unknown · début Unknown · durée Unknown · date limite Unknown · **67 – Worth applying** · Trading / Trading Analytics · CV : version FR famille Trading.\n  Forces : Master maths/banque/finance demandé ; cours de taux et dérivés. Écarts : hors Île-de-France ; pas d'expérience de trésorerie.\n  → Vérifier l'offre sur recrutement.bpce.fr.\n- **Amundi — Stage - Assistant Securities Lending Trading H/F** · lieu Unknown · [https://casa-amundi-recrute.talent-soft.com/offre-de-emploi/emploi-stage-assistant-securities-lending-trading-h-f_116870.aspx] · publiée le Unknown · début Unknown · durée Unknown · date limite Unknown · **65 – Worth applying** · Trading / Trading Analytics · CV : version FR famille Trading.\n  Hellowork indique qu'Ihab a été redirigé vers le site d'Amundi pour postuler le 2026-10-28. Rien n'a été vérifié (page inaccessible depuis le cloud).\n  → Vérifier si la candidature est finalisée (statut à mettre à jour par Ihab seul).\n- **Ostrum Asset Management — Stage - 6 mois - Stratégiste ESG F/H** · Paris · [https://fr.indeed.com/viewjob?jk=0ec872e8d3c416d1] · publiée le Unknown (« il y a 1 jour ») · début Unknown · 6 mois · date limite Unknown · **63 – Stretch opportunity** · Asset Management / Portfolio Analytics · CV : version FR famille Asset Management.\n  Forces : société de gestion, Paris, 6 mois. Écarts : stratégie ESG, profil inconnu.\n- **Sienna Investment Managers — Stagiaire Analyste Crédit Secteur Public (H/F)** · Paris · [https://fr.indeed.com/viewjob?jk=24044b6d14a53a89] · publiée le Unknown · début Unknown · durée Unknown · date limite Unknown · **62 – Stretch opportunity** · Private Equity / Private Debt (hypothèse) · CV : version FR famille PE / Private Debt.\n  Forces : gestion d'actifs cotés et privés ; cours de risque de crédit. Écarts : analyse crédit fondamentale, peu quantitative.\n\n### Offre connue réévaluée (texte de l'API officielle)\n- **Ardian — Investor Relations Syndication Stage - Mars 2027 | Paris (M/F)** · Paris · [https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Investor-Relations-Syndication-Stage---Mars-2027---Paris--M-F-_JR1002130] · réf. JR1002130 · publiée le Unknown · début mars 2027 · 6 mois · date limite Unknown · **65 – Worth applying** · Private Equity / Private Debt · CV : version FR famille PE.\n  Forces : dernière année d'école d'ingénieur acceptée, calendrier idéal, base de données et reporting au Comex (SG, LabData). Écarts : rôle commercial et de coordination, peu quantitatif ; « qualités commerciales » sans preuve dans les CV.\n  → Décider si ce rôle non quantitatif vaut une candidature.\n\n### Anciennes, découvertes aujourd'hui\n- **Portzamparc (BNP Paribas) — Stage Assistant Gérant Conseil H/F** · Marseille · [https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-stage-assistant-gerant-conseil-h-f-marseille] · publiée le Unknown · début Unknown · durée Unknown · date limite Unknown · **62 – Stretch opportunity** · Asset Management · CV : version FR famille Asset Management. Hors Île-de-France, orientation conseil.\n- **Natixis — Stage - 6 mois - Assistant Sales Forex F/H** · Paris · [https://fr.indeed.com/viewjob?jk=898a863de57a1b56] · publiée il y a 8 jours selon l'alerte · **début décembre 2026** · 6 mois · **63 → Low priority** (début incompatible avec le 1er mars 2027) · Sales / Investment Solutions. À ne poursuivre que si Natixis accepte un début en mars.\n\nScore = priorisation interne, pas une probabilité d'embauche.\n\n## D. Échéances dans les 7 jours\nAucune offre ouverte connue n'a d'échéance d'ici au 2026-11-05. À surveiller : 3 offres JPMorganChase (Global Investment Banking Analyst Program, Global Corporate Banking Mid-Cap et Large-Cap) ont une **date limite au 2026-11-06 (J+8)**. Elles sont couvertes par la collecte automatique, donc pas de recherche web aujourd'hui.\n\n## E. Offres déjà connues dont le statut a changé\nAucun changement constaté. Ardian JR1002130 est toujours publiée dans l'API officielle. ABC arbitrage (J-CFFFED8A) et AXA Banque Middle-Office collatéral (≈ J-6AEE01E7) réapparaissent dans les e-mails, sans changement.\n\n## F. Offres découvertes mais non vérifiées\nLes 9 nouvelles offres sont **non vérifiées** : 6 viennent des alertes Indeed (lien Indeed conservé), 1 d'un e-mail Hellowork (Amundi) et 2 de la recherche web (Safran, Portzamparc, pages officielles illisibles depuis le cloud).\nNon retenues :\n- Soufflet Négoce by InVivo « Assistant Trader Céréales & Développement Outils Data - IA H/F » (Paris) : cité par Hellowork sans lien et non recherché (budget). À regarder si le trading de matières premières intéresse Ihab.\n- GIE AXA « Internship - Credit Analyst - January 2027 » : début en janvier et famille secondaire.\n- 27 autres offres hors cible ou en doublon dans les alertes : actuariat et assurance (exclus), M&A, audit, marketing, back office, alternance.\n- Résultats web écartés : Kepler Cheuvreux Assistant Sales Trader (début juillet 2026), stages Crédit Mutuel Arkéa vus sur un agrégateur sans date (structuration placement privé et valorisation, Bretagne).\n\n## G. Sources inaccessibles / erreurs techniques\n- casa-amundi-recrute.talent-soft.com, group.bnpparibas et safran-group.com : ENOTFOUND (domaines non résolus depuis la session cloud). Aucune page officielle n'a pu être lue.\n- Indeed, LinkedIn, WTTJ, JobTeaser et APEC n'ont pas été ouverts (consigne).\n- Employeurs de rotation (CPR AM, Crédit Mutuel, Direct Assurance) : aucune offre 2027 indexée trouvée. La requête « stage structuration mars 2027 Paris » n'a ramené que des résultats hors sujet.\n\n## H. Actions recommandées (maximum 3)\n1. Ouvrir l'offre **Safran Assistant Trader** (réf. 189017) et vérifier le début ; si c'est mars 2027, préparer le dossier (ats-cv-optimizer).\n2. Vérifier que la candidature **Amundi Securities Lending Trading** est finalisée sur le site d'Amundi.\n3. Retrouver sur le site de Sienna IM l'offre **Assistant Risk Manager** pour confirmer le début et la durée.\n"
+}
