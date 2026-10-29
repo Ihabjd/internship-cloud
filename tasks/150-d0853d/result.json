@@ -1,0 +1,126 @@
+{
+  "listing": {
+    "Employer": "Société Générale",
+    "Job_Title": "Analyste quantitatif stage - IRB Non Retail - Vision prospective des évolutions de modèle",
+    "Job_Family": "Credit Risk",
+    "Location": "Unknown",
+    "Country": "France",
+    "Source": "Texte collé par Ihab (source déclarée : url, URL non fournie)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "26000KW0",
+    "Publication_Date": "2026-10-22",
+    "First_Discovered_Date": "2026-10-29",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "2027-03-15",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "68",
+    "Priority": "Worth applying",
+    "Eligibility_Status": "Unclear",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Profil académique exactement demandé (école d'ingénieur ENSEIRB-MATMECA + Master 2 Mathématiques appliquées, statistique, IREF) ; Python et SQL professionnels (Société Générale 2025, Inside Therapeutics 2026) ; outil Python/SQL/Streamlit conçu seul et mis en production (LabData), proche de la mission « enrichir un outil existant » ; régressions et ML ; cours M2 de risque de crédit (scoring) et de réglementation prudentielle (Bâle III) ; anglais C1 (TOEIC 970).",
+    "Essential_Gaps": "R : listé dans le CV sans preuve visible, alors que l'offre exige la « maîtrise de la programmation sous R, Python » ; aucune expérience de modélisation IRB (PD/LGD/EAD), seulement des cours en cours ; économétrie connue par les cours seulement.",
+    "Preferred_Gaps": "Risques climatiques et environnementaux (risques physiques, de transition, cadre réglementaire) : rien dans Candidate_Facts.",
+    "Fit_Explanation": "Bon match technique et académique (Python, bases de données, modèles statistiques, outil à améliorer), mais la famille risque de crédit / IRB est secondaire dans les cibles d'Ihab, et le calendrier (début 15/03/2027, 6 mois) dépasse le 31 août 2027 imposé par l'IREF. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Page officielle non retrouvée le 2026-10-29 (une recherche web, aucun résultat pour la réf. 26000KW0). Lieu non indiqué dans le texte collé. Offres SG proches déjà suivies, mais distinctes (autres références) : J-00E69C8B (IRB Non Retail - Optimisation du clustering, réf. 26000KVZ) et J-8C78E5E0 (IRB Retail, réf. 26000LEQ). Famille secondaire : à ne proposer que si l'offre est jugée exceptionnelle. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 16,
+        "evidence": "Missions : comprendre le processus de modélisation IRB, identifier puis implémenter des « shortcuts » dans un outil existant, l'améliorer (visualisation, indicateurs de performance, ergonomie), documenter, présenter. Côté Ihab : LabData (outil Python/SQL/Streamlit conçu seul, en production en 7 semaines, présenté au CODIR) et couche d'analyse (régressions, alertes d'anomalies). Pas d'expérience de modèles PD/IRB, seulement les cours M2 de risque de crédit (scoring) et Bâle III."
+      },
+      "tech": {
+        "points": 19,
+        "evidence": "Exigé : R et Python, manipulation de bases de données, modèles statistiques (économétrie, ML), Pack Office. Python et SQL : preuve professionnelle (SG, Inside Therapeutics) ; ML et régression : cours et Inside Therapeutics ; Excel : professionnel. R est listé sans preuve visible (point faible) ; économétrie : cours seulement."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "Demandé : « Étudiant en école d'ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique ». Ihab : diplôme d'ingénieur ENSEIRB-MATMECA (Informatique, Data & IA) + Master 2 IREF, mention Mathématiques appliquées, statistique, en dernière année. Le sujet devra être validé par les responsables du parcours FQA."
+      },
+      "career": {
+        "points": 6,
+        "evidence": "Risque de crédit / modèles IRB réglementaires = famille secondaire (5–7) dans les cibles du 2026-10-14. Pas une famille exclue : ce n'est ni un régulateur ni de l'actuariat."
+      },
+      "duration": {
+        "points": 5,
+        "evidence": "« Date de début 15/03/2027 » et « Durée du stage : 6 mois » : le stage finirait vers mi-septembre 2027, après la fin imposée par l'IREF (31 août 2027, pas d'extension). Il faudrait obtenir environ 5,5 mois (15/03 → 31/08) ou un début au 1er mars."
+      },
+      "location": {
+        "points": 8,
+        "evidence": "Lieu absent du texte (Unknown) ; employeur en France, Direction des risques. Langues : « Bon niveau d'anglais écrit » (Ihab : EN C1, TOEIC 970) ; offre en français (FR C2). Note réduite parce que le lieu n'est pas confirmé."
+      }
+    },
+    "Required_Skills": [
+      "Étudiant en école d'ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique",
+      "Maîtrise de la programmation sous R, Python",
+      "Manipulation des bases de données",
+      "Connaissances des modèles statistiques (économétrie, machine learning)",
+      "Logiciels bureautiques : Pack Office",
+      "Bon niveau d'anglais écrit"
+    ],
+    "Preferred_Skills": [
+      "Familiarité avec les concepts de risques climatiques et environnementaux (risques physiques, risques de transition, cadre réglementaire)",
+      "Autonomie, curiosité, proactivité, rigueur, esprit d'équipe"
+    ],
+    "Responsibilities": [
+      "Prise de connaissance du processus de modélisation IRB",
+      "Compréhension des modèles utilisés par les équipes et des étapes de production",
+      "Prise de connaissance de l'outil existant",
+      "Identification de shortcuts potentiels et hiérarchisation des solutions",
+      "Développement et implémentation des shortcuts dans l'outil existant pour en mesurer les impacts",
+      "Amélioration de l'outil",
+      "Application et test sur un périmètre spécifique",
+      "Ajustement de la documentation relative",
+      "Participation à des travaux ad hoc",
+      "Présentation des travaux à l'équipe"
+    ],
+    "Languages": [
+      "Anglais (bon niveau écrit)",
+      "Français (offre rédigée en français)"
+    ],
+    "Next_Action": "Retrouver l'offre réf. 26000KW0 sur careers.societegenerale.com (lieu, URL, date limite) et voir si un stage du 15/03 au 31/08/2027 est accepté avant de préparer le dossier ; famille secondaire, à comparer avec J-00E69C8B.",
+    "Recommended_CV_Version": "CV FR — version de la famille Credit Risk / Model Validation (mettre en avant Python/SQL, LabData, régressions, cours risque de crédit et Bâle III)"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {"field": "Employer", "value": "Société Générale", "quote": "Société Générale s’appuie sur des modèles internes pour l’estimation des paramètres de risque"},
+    {"field": "Job_Title", "value": "Analyste quantitatif stage - IRB Non Retail - Vision prospective des évolutions de modèle", "quote": "Analyste quantitatif stage - IRB Non Retail - Vision prospective des évolutions de modèle"},
+    {"field": "Requisition_ID", "value": "26000KW0", "quote": "Référence 26000KW0"},
+    {"field": "Internship_Start_Date", "value": "2027-03-15", "quote": "Date de début 15/03/2027"},
+    {"field": "Publication_Date", "value": "2026-10-22", "quote": "Date de publication 22/10/2026"},
+    {"field": "Duration_Months", "value": "6", "quote": "Durée du stage : 6 mois."},
+    {"field": "Team", "value": "Direction des risques, service RISQ/MDL/MOD, périmètre Non-Retail", "quote": "Au sein de la Direction des risques, le service RISQ/MDL/MOD a la charge de la modélisation et de l’évaluation des risques de la banque."},
+    {"field": "Academic_Requirement", "value": "École d'ingénieur ou Master Statistiques / Mathématiques appliquées / Informatique", "quote": "Étudiant en école d’ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique"},
+    {"field": "Required_Skills", "value": "R, Python", "quote": "Maîtrise de la programmation sous R, Python"},
+    {"field": "Required_Skills", "value": "Bases de données", "quote": "Manipulation des bases de données"},
+    {"field": "Required_Skills", "value": "Modèles statistiques", "quote": "Connaissances des modèles statistiques (économétrie, machine learning)"},
+    {"field": "Preferred_Skills", "value": "Risques climatiques et environnementaux", "quote": "Une familiarité avec les concepts de risques climatiques et environnementaux serait un plus"},
+    {"field": "Languages", "value": "Anglais écrit", "quote": "Bon niveau d’anglais écrit"},
+    {"field": "Remote_Work", "value": "Télétravail possible", "quote": "Télétravail possible selon le rythme de votre service"}
+  ],
+  "inferences": [
+    {"field": "Job_Family", "value": "Credit Risk", "reasoning": "Modélisation des paramètres PD, LGD, EAD (CCF) des modèles IRB réglementaires, donc risque de crédit (famille secondaire)."},
+    {"field": "Country", "value": "France", "reasoning": "Offre rédigée en français ; elle cite le régulateur BCE/ACPR et des avantages typiques d'un poste en France (titre de transport, Comité d'Entreprise). Ville non indiquée."},
+    {"field": "Internship_End_Date", "value": "Unknown (calcul : vers mi-septembre 2027)", "reasoning": "15/03/2027 + 6 mois donne une fin vers mi-septembre 2027. Ce n'est pas écrit dans l'offre, d'où Unknown dans listing."},
+    {"field": "Eligibility_Status", "value": "Unclear", "reasoning": "Le début (15/03/2027) tombe dans la fenêtre IREF, mais 6 mois dépassent le 31 août 2027. On ne sait pas si l'employeur accepte environ 5,5 mois : ce n'est pas un échec explicite."},
+    {"field": "Core_Requirements_Met", "value": "Partly", "reasoning": "Formation, Python, bases de données et ML sont couverts ; R n'a pas de preuve visible et l'économétrie n'a été vue qu'en cours."}
+  ],
+  "eligibility": {
+    "status": "Unclear",
+    "reasons": [
+      "Profil académique conforme : école d'ingénieur + Master Mathématiques appliquées, statistique, en dernière année.",
+      "Début le 15/03/2027 : compatible avec la fenêtre IREF (1er mars – 31 août 2027).",
+      "Durée de 6 mois à partir du 15/03/2027 : fin vers mi-septembre 2027, au-delà du 31 août (pas d'extension IREF). Il faut obtenir de l'employeur environ 5,5 mois ou un début au 1er mars.",
+      "Le sujet devra être validé par les responsables du parcours FQA."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Pas de doublon exact. Offres SG voisines déjà connues, avec d'autres références : J-00E69C8B (« Analyste quantitatif stage - IRB Non Retail - Optimisation du clustering », réf. 26000KVZ) et J-8C78E5E0 (IRB Retail, réf. 26000LEQ). Probablement la même équipe RISQ/MDL/MOD : coordonner les candidatures.",
+    "Calendrier : 6 mois depuis le 15/03/2027 dépassent le 31 août 2027 (règle IREF, pas d'extension) ; à clarifier avec l'employeur.",
+    "Page officielle non retrouvée (recherche web du 2026-10-29) : Verification_Status = Unverified ; lieu, URL et date limite inconnus.",
+    "Famille secondaire (risque de crédit / IRB) : la grille du skill ne la propose que si l'offre est exceptionnelle.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
