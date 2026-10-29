@@ -1,0 +1,124 @@
+{
+  "listing": {
+    "Employer": "Société Générale",
+    "Job_Title": "Analyste quantitatif stage - IRB Non Retail - Optimisation du clustering",
+    "Job_Family": "Credit Risk",
+    "Location": "Unknown",
+    "Country": "France",
+    "Source": "Offre collée par Ihab (source déclarée : url ; URL non fournie dans le texte)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "26000KVZ",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-29",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "Unknown",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "70",
+    "Priority": "Worth applying",
+    "Eligibility_Status": "Likely eligible",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Profil académique exactement demandé (école d'ingénieur Informatique, Data & IA + Master 2 Mathématiques appliquées, statistique) ; Python et SQL professionnels (Société Générale 2025, Inside Therapeutics 2026 : manipulation de bases de données, contrôles, documentation) ; régressions, ML et prototype de processus gaussien ; cours M2 de risque de crédit (scoring) et réglementation prudentielle Bâle III ; présentation de travaux à une direction (CODIR) ; anglais C1 (TOEIC 970).",
+    "Essential_Gaps": "R : listé sur le CV sans preuve visible (à ne pas mettre en avant sans confirmation d'Ihab) ; aucune expérience professionnelle en modélisation IRB (PD/LGD/EAD, risk differentiation / quantification) — uniquement des cours en cours ; pas de projet de clustering/segmentation documenté ; économétrie seulement via les cours et des régressions.",
+    "Preferred_Gaps": "Risques climatiques et environnementaux (risques physiques, de transition, cadre réglementaire) : rien dans Candidate_Facts.",
+    "Fit_Explanation": "Stage de modélisation risque de crédit (PD Non-Retail, segmentation en pools homogènes) : famille Secondaire des cibles d'Ihab (risque de crédit / modèles), d'où une note de carrière basse. Le profil technique et académique colle bien (Python, bases de données, statistiques/ML, double diplôme ingénieur + M2 maths appliquées), et Société Générale est un employeur d'anciens IREF. À proposer seulement si Ihab veut garder des options côté risque ; le début du stage n'est pas précisé (6 mois, compatibilité 1er mars – 31 août à confirmer). Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Page officielle non retrouvée le 2026-10-29 (recherche web sur la référence 26000KVZ sans résultat) ; lieu, date de début, date de publication et date limite absents du texte collé. Équipe : Direction des risques, RISQ/MDL/MOD. Offre proche mais distincte de J-8C78E5E0 (SG, IRB Retail, réf. 26000LEQ) et de J-7B66ECA8 (SG, Stress Test, réf. 26000KHA). Rappel : l'expérience SG d'Ihab (Casablanca, 2025) ne doit jamais être présentée comme « front office ». Score = priorisation interne, pas une probabilité d'embauche.",
+    "Score_Breakdown": {
+      "role": {
+        "points": 16,
+        "evidence": "Missions : compréhension du processus IRB, identification de méthodes alternatives de segmentation des pools PD, développement/implémentation et mesure d'impact, documentation, présentation. Ihab a développé seul une plateforme Python/SQL documentée et testée (Inside Therapeutics), fait des régressions et un prototype de processus gaussien, et présenté au CODIR ; mais aucune modélisation de risque de crédit hors cours (scoring, Bâle III en M2, en cours)."
+      },
+      "tech": {
+        "points": 18,
+        "evidence": "Exigé : « Maîtrise de la programmation sous R, Python », « Manipulation des bases de données », « Connaissances des modèles statistiques (économétrie, machine learning) ». Python et SQL/PostgreSQL : preuve professionnelle ; ML (scikit-learn, PyTorch) et régression : projets + cours ; R : listé sans preuve (faible) ; économétrie : cours uniquement."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "Demandé : « Étudiant en école d'ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique ». Ihab : ENSEIRB-MATMECA Informatique, Data & IA + Master 2 IREF mention Mathématiques appliquées, statistique (2026-2027). Stage de fin d'études sous convention ; date exacte de diplomation à confirmer."
+      },
+      "career": {
+        "points": 6,
+        "evidence": "Risque de crédit / modèles réglementaires IRB = famille Secondaire (5–7) dans les cibles du 2026-10-14 ; ni Cœur ni Passerelle (pas de risque de marché)."
+      },
+      "duration": {
+        "points": 7,
+        "evidence": "« Durée du stage : 6 mois. » ; date de début non précisée → compatibilité avec la fenêtre IREF 1er mars – 31 août 2027 inconnue (barème : inconnu ≈ 6–7)."
+      },
+      "location": {
+        "points": 9,
+        "evidence": "Lieu absent du texte collé (la Direction des risques SG est probablement en Île-de-France, mais non vérifié). Langues : offre en français, « Bon niveau d'anglais écrit » → FR C2 / EN C1 suffisent."
+      }
+    },
+    "Required_Skills": [
+      "Étudiant en école d'ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique",
+      "Maîtrise de la programmation sous R",
+      "Maîtrise de la programmation sous Python",
+      "Manipulation des bases de données",
+      "Connaissances des modèles statistiques (économétrie, machine learning)"
+    ],
+    "Preferred_Skills": [
+      "Logiciels bureautiques : Pack Office",
+      "Familiarité avec les risques climatiques et environnementaux (risques physiques, risques de transition, cadre réglementaire)",
+      "Bon niveau d'anglais écrit",
+      "Autonomie, curiosité, proactivité, rigueur, esprit d'équipe"
+    ],
+    "Responsibilities": [
+      "Prise de connaissance du processus de modélisation IRB",
+      "Compréhension des modèles utilisés par les équipes et des étapes de production",
+      "Identification de solutions alternatives (méthodes de segmentation / clustering des pools de PD)",
+      "Développement et implémentation des solutions pour en mesurer les impacts",
+      "Documentation relative",
+      "Participation à des travaux ad hoc",
+      "Présentation des travaux à l'équipe"
+    ],
+    "Languages": [
+      "Anglais (bon niveau écrit)",
+      "Français (déduit : offre rédigée en français)"
+    ],
+    "Next_Action": "Retrouver la page officielle (careers.societegenerale.com, réf. 26000KVZ) pour vérifier lieu, date de début et statut ; si Ihab veut garder une option côté risque de crédit, préparer un CV FR adapté (ats-cv-optimizer) et confirmer un démarrage au 1er mars 2027. Ne pas postuler à sa place.",
+    "Recommended_CV_Version": "CV FR, version famille risque (à adapter : Python/SQL, statistiques/ML, cours risque de crédit et Bâle III ; ne pas mettre R en avant sans confirmation)"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {"field": "Employer", "value": "Société Générale", "quote": "Analyste quantitatif stage - IRB Non Retail - Optimisation du clustering (Numéro de l'emploi : 26000KVZ) societe generale"},
+    {"field": "Job_Title", "value": "Analyste quantitatif stage - IRB Non Retail - Optimisation du clustering", "quote": "Analyste quantitatif stage - IRB Non Retail - Optimisation du clustering"},
+    {"field": "Requisition_ID", "value": "26000KVZ", "quote": "Numéro de l'emploi : 26000KVZ"},
+    {"field": "Duration_Months", "value": "6", "quote": "Durée du stage : 6 mois."},
+    {"field": "Team", "value": "Direction des risques, RISQ/MDL/MOD, périmètre Non-Retail", "quote": "Au sein de la Direction des risques, le service RISQ/MDL/MOD a la charge de la modélisation et de l’évaluation des risques de la banque."},
+    {"field": "Scope", "value": "Modélisation PD, LGD, EAD (via CCF) entreprises et institutionnels", "quote": "L’équipe a notamment en charge la modélisation des paramètres de PD, LGD, EAD (via CCF) sur le périmètre des entreprises et institutionnels en ligne avec la réglementation bâloise."},
+    {"field": "Academic", "value": "École d'ingénieur ou Master Statistiques / Mathématiques appliquées / Informatique", "quote": "Étudiant en école d’ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique"},
+    {"field": "Required_Skills", "value": "R, Python", "quote": "Maîtrise de la programmation sous R, Python"},
+    {"field": "Required_Skills", "value": "Bases de données", "quote": "Manipulation des bases de données"},
+    {"field": "Required_Skills", "value": "Économétrie, machine learning", "quote": "Connaissances des modèles statistiques (économétrie, machine learning)"},
+    {"field": "Preferred_Skills", "value": "Risques climatiques et environnementaux", "quote": "Une familiarité avec les concepts de risques climatiques et environnementaux serait un plus (risques physiques, risques de transition, cadre réglementaire)"},
+    {"field": "Languages", "value": "Anglais écrit", "quote": "Bon niveau d’anglais écrit"},
+    {"field": "Remote", "value": "Télétravail possible", "quote": "Télétravail possible selon le rythme de votre service"}
+  ],
+  "inferences": [
+    {"field": "Job_Family", "value": "Credit Risk", "reasoning": "Modélisation de la PD réglementaire IRB (segmentation en pools, calibration) sur le Non-Retail : c'est du risque de crédit, famille Secondaire des cibles d'Ihab."},
+    {"field": "Country", "value": "France", "reasoning": "Offre en français, mentions BCE/ACPR, comité d'entreprise et prise en charge de 60 % du titre de transport : poste en France. Ville non indiquée."},
+    {"field": "Location", "value": "Probablement Île-de-France (non vérifié)", "reasoning": "La Direction des risques de SG est habituellement en région parisienne (autres offres connues RISQ à La Défense), mais le texte ne le dit pas : laissé à Unknown dans listing."},
+    {"field": "Internship_Start_Date", "value": "Unknown", "reasoning": "Aucune date de début ; la référence 26000… correspond aux campagnes 2026-2027 de SG, ce qui ne suffit pas à fixer un début en mars 2027."},
+    {"field": "Eligibility_Status", "value": "Likely eligible", "reasoning": "Profil académique conforme et stage de 6 mois ; seule la date de début est inconnue, sans exigence contraire (pas de césure exigée, pas de diplôme déjà obtenu exigé)."},
+    {"field": "Languages", "value": "Français", "reasoning": "Offre entièrement rédigée en français, équipe à Paris/IDF probable ; le français n'est pas explicitement exigé."}
+  ],
+  "eligibility": {
+    "status": "Likely eligible",
+    "reasons": [
+      "Diplôme demandé (école d'ingénieur ou Master Statistiques / Mathématiques appliquées / Informatique) : conforme au double diplôme ENSEIRB-MATMECA + M2 IREF.",
+      "Durée de 6 mois compatible avec la fenêtre IREF du 1er mars au 31 août 2027 (pas d'extension possible), mais la date de début n'est pas indiquée : à confirmer avec l'employeur.",
+      "Aucune exigence d'année de césure, de diplôme déjà obtenu ni de nationalité dans le texte.",
+      "Famille risque de crédit = Secondaire (non exclue) : pas de plafonnement de priorité."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Pas un doublon, mais offre voisine de J-8C78E5E0 (Société Générale, Analyste Quantitatif Risque de crédit IRB Retail, réf. 26000LEQ) : même direction des risques, périmètre et référence différents. Aussi proche de J-7B66ECA8 (SG, Stress Test, réf. 26000KHA).",
+    "Page officielle non retrouvée par recherche web le 2026-10-29 : Verification_Status = Unverified ; URL, lieu, date de publication, date de début et date limite inconnus.",
+    "Famille Secondaire (risque de crédit / modèles IRB) : à ne proposer que si Ihab souhaite garder des options hors Cœur/Passerelle.",
+    "R est exigé (« Maîtrise ») alors qu'il n'est que listé sans preuve dans le CV : ne pas le présenter comme maîtrisé sans confirmation d'Ihab.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
