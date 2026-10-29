@@ -1,0 +1,125 @@
+{
+  "listing": {
+    "Employer": "Unknown",
+    "Job_Title": "Analyste quantitatif risque ESG",
+    "Job_Family": "Credit Risk",
+    "Location": "La Defense, Ile de France",
+    "Country": "France",
+    "Source": "Offre collée par Ihab (texte copié depuis une URL non transmise)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "26000KH4",
+    "Publication_Date": "2026-10-20",
+    "First_Discovered_Date": "2026-10-29",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "2027-03-15",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "67",
+    "Priority": "Worth applying",
+    "Eligibility_Status": "Unclear",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Formation exactement demandée (école d'ingénieur informatique/data & IA + Master 2 en mathématiques appliquées, statistique) ; Python et SQL professionnels (Société Générale, Inside Therapeutics) ; régressions et analyse statistique en contexte réel (Inside Therapeutics) ; cours M2 de risque de crédit (scoring), stress tests et réglementation prudentielle (Bâle III) ; anglais C1 (TOEIC 970).",
+    "Essential_Gaps": "R exigé (« Maîtrise de la programmation sous R, Python ») : R est listé dans les CV sans preuve visible ; aucune expérience professionnelle de modélisation de risque de crédit (IFRS9, IRB, stress tests) : connaissances académiques seulement.",
+    "Preferred_Gaps": "Familiarité avec les risques climatiques et environnementaux (risques physiques, risques de transition, cadre réglementaire) : absente des faits vérifiés.",
+    "Fit_Explanation": "Stage de modélisation au sein de la Direction des risques (pôle IFRS9 / stress tests / risques climatiques) : profil académique et outils (Python, bases de données, statistiques) bien alignés, mais famille secondaire (risque de crédit / modèles) pour les cibles d'Ihab, R à consolider et début au 15/03/2027 pour 6 mois incompatible tel quel avec le calendrier IREF (1er mars – 31 août 2027). Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Employeur non nommé dans le texte collé ; très probablement Société Générale (déduction : format de référence et code d'équipe RISQ/…, voir inferences). Page officielle non retrouvée par recherche web le 2026-10-29. Télétravail possible. Offre proche déjà connue : J-7B66ECA8 (Société Générale, « Analyse quantitatif - Stress Test (Stage) », La Défense, réf. 26000KHA) : référence différente, donc pas un doublon. Famille secondaire : à ne proposer que si l'offre est jugée intéressante (passerelle limitée vers les cibles cœur).",
+    "Score_Breakdown": {
+      "role": {
+        "points": 13,
+        "evidence": "Missions : intégration de variables climatiques dans les modèles ICAAP, stress tests, IFRS9 et bâlois, développement méthodologique, documentation, traitement de données. Ihab : régressions et analyse statistique (Inside Therapeutics), intégration de données et contrôles (SG), cours M2 risque de crédit / stress tests / Bâle III ; pas d'expérience de modélisation de risque ni de risque climatique."
+      },
+      "tech": {
+        "points": 18,
+        "evidence": "Exigé : R, Python, manipulation de bases de données, modèles statistiques (économétrie, machine learning), Pack Office. Python et SQL professionnels ; ML (scikit-learn, projet de régression), régression, séries temporelles en cours ; Excel/Power BI ; R listé sans preuve (écart)."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "« Ecole d'ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique » : ENSEIRB-MATMECA (Informatique, Data & IA) + M2 IREF mention Mathématiques appliquées, statistique, en dernière année ; stage de fin d'études sous convention."
+      },
+      "career": {
+        "points": 6,
+        "evidence": "Risque de crédit / modélisation (IFRS9, IRB, stress tests, climat) = famille Secondaire (5–7) ; banque, donc pas une famille exclue."
+      },
+      "duration": {
+        "points": 6,
+        "evidence": "« Date de début 15/03/2027 », « Durée du stage : 6 mois » : finirait mi-septembre, au-delà du 31 août 2027 imposé par l'IREF ; compatible seulement si l'employeur accepte un début au 1er mars ou une fin au 31 août."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "La Défense (Île-de-France) = pleine note ; offre en français, « Bon niveau d'anglais écrit » couvert par FR C2 / EN C1."
+      }
+    },
+    "Required_Skills": [
+      "Ecole d'ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique",
+      "Maîtrise de la programmation sous R, Python",
+      "Manipulation des bases de données",
+      "Connaissances des modèles statistiques (économétrie, machine learning)"
+    ],
+    "Preferred_Skills": [
+      "Logiciels bureautiques : Pack Office",
+      "Familiarité avec les concepts de risques climatiques et environnementaux (risques physiques, risques de transition, cadre réglementaire)",
+      "Bon niveau d'anglais écrit",
+      "Autonomie, curiosité, proactivité, rigueur, esprit d'équipe"
+    ],
+    "Responsibilities": [
+      "Identification et modélisation des drivers de risque climatique et environnementaux",
+      "Développement et amélioration de la méthodologie du groupe autour de la mesure des risques physiques et des risques de transition",
+      "Développement et amélioration des méthodologies pour l'intégration de ces risques dans les outils de modélisation (modèles de stress tests, modèles IRB, modèles forward looking)",
+      "Compréhension des modèles utilisés par les équipes et des étapes de production",
+      "Familiarisation avec les exigences réglementaires et les normes internes sur les critères climatiques et environnementaux",
+      "Développement méthodologique et rédaction de la documentation relative",
+      "Identification et traitement des données pertinentes",
+      "Participation à des travaux ad hoc"
+    ],
+    "Languages": [
+      "Français (langue de l'offre)",
+      "Anglais (bon niveau écrit)"
+    ],
+    "Next_Action": "Retrouver la page officielle (référence 26000KH4) pour confirmer l'employeur et l'URL ; avant de candidater, faire confirmer qu'un début au 1er mars 2027 avec fin au 31 août 2027 est possible ; décider si cette famille secondaire vaut une candidature.",
+    "Recommended_CV_Version": "CV FR – version Risques (risque de marché / crédit), à adapter : Python, SQL, régressions, cours risque de crédit et stress tests"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {"field": "Job_Title", "value": "Analyste quantitatif risque ESG", "quote": "Analyste quantitatif risque ESG"},
+    {"field": "Location", "value": "La Defense, Ile de France, France", "quote": "La Defense, Ile de France, France"},
+    {"field": "Remote", "value": "Télétravail possible", "quote": "Télétravail possible"},
+    {"field": "Requisition_ID", "value": "26000KH4", "quote": "Référence 26000KH4"},
+    {"field": "Internship_Start_Date", "value": "2027-03-15", "quote": "Date de début 15/03/2027"},
+    {"field": "Publication_Date", "value": "2026-10-20", "quote": "Date de publication 20/10/2026"},
+    {"field": "Duration_Months", "value": "6", "quote": "Durée du stage : 6 mois."},
+    {"field": "Team", "value": "Direction des risques, service RISQ/MDL/MOD, pôle ISE (IFRS9, stress tests, risques climatiques et environnementaux)", "quote": "Au sein de la Direction des risques, le service RISQ/MDL/MOD a la charge de la modélisation et de l’évaluation des risques de la banque. L’équipe se découpe en deux grands pôles : le pôle bâlois et le pôle ISE – au sein duquel se déroulera le stage."},
+    {"field": "Objective", "value": "Intégration des variables climatiques et environnementales dans les modèles ICAAP, stress tests, IFRS9, bâlois", "quote": "Les objectifs de ce stage consistent à l’élaboration et à l’enrichissement des méthodologies pour l’intégration des variables climatiques et environnementales dans les différents modèles utilisés par l’équipe (ICAAP, stress tests, IFRS9, bâlois)."},
+    {"field": "Academic_Requirement", "value": "École d'ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique", "quote": "Formation requise : Ecole d’ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique"},
+    {"field": "Required_Skills", "value": "R, Python", "quote": "Maîtrise de la programmation sous R, Python"},
+    {"field": "Required_Skills", "value": "Bases de données", "quote": "Manipulation des bases de données"},
+    {"field": "Required_Skills", "value": "Modèles statistiques", "quote": "Connaissances des modèles statistiques (économétrie, machine learning)"},
+    {"field": "Preferred_Skills", "value": "Risques climatiques et environnementaux", "quote": "Une familiarité avec les concepts de risques climatiques et environnementaux serait un plus (risques physiques, risques de transition, cadre réglementaire)"},
+    {"field": "Languages", "value": "Anglais écrit", "quote": "Bon niveau d’anglais écrit"}
+  ],
+  "inferences": [
+    {"field": "Employer", "value": "Société Générale (probable, non vérifié)", "reasoning": "Le texte ne nomme pas l'employeur. Indices : référence au format « 26000XXX » identique aux offres Société Générale déjà connues (26000KHA, 26000LEQ, 26000KVZ), codes d'équipe « RISQ/… » de la Direction des risques, lieu La Défense, page au gabarit « Vos missions au quotidien / Et si c'était vous ? ». Laissé à Unknown dans listing faute de mention explicite."},
+    {"field": "Job_Family", "value": "Credit Risk", "reasoning": "Modélisation des risques de la banque (IFRS9, IRB/bâlois, stress tests, ICAAP) avec intégration du risque climatique : relève du risque de crédit / modélisation, famille Secondaire ; banque et non assureur ou régulateur, donc pas exclue."},
+    {"field": "Internship_End_Date", "value": "Mi-septembre 2027 si 6 mois à partir du 15/03/2027 (non indiqué)", "reasoning": "Aucune date de fin dans le texte ; 6 mois à partir du 15 mars dépassent le 31 août 2027 imposé par l'IREF. Laissé à Unknown dans listing."},
+    {"field": "Eligibility_Status", "value": "Unclear", "reasoning": "Profil académique conforme, mais début au 15/03 pour 6 mois incompatible avec le stage IREF 1er mars – 31 août 2027 sans extension ; la flexibilité de l'employeur n'est pas indiquée, ce n'est donc pas un échec explicite."},
+    {"field": "Possible_Related_Offer", "value": "J-7B66ECA8 (Société Générale, stage Stress Test, réf. 26000KHA)", "reasoning": "Même lieu, thème proche (stress tests, Direction des risques), référence voisine : probablement la même direction, mais référence différente donc offre distincte."}
+  ],
+  "eligibility": {
+    "status": "Unclear",
+    "reasons": [
+      "Formation demandée (« Ecole d’ingénieur ou Master en Statistiques / Mathématiques appliquées / Informatique ») : conforme (ENSEIRB-MATMECA + M2 IREF).",
+      "Début indiqué le 15/03/2027 pour 6 mois : dépasse le 31 août 2027 (règle IREF : 1er mars – 31 août, pas d'extension). À faire confirmer : début au 1er mars ou fin au 31 août.",
+      "Stage de fin d'études sous convention : compatible (aucune condition de diplôme obtenu ni de nationalité dans le texte)."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Employeur absent du texte collé : probablement Société Générale (déduction), Employer laissé à Unknown.",
+    "Page officielle non retrouvée par recherche web le 2026-10-29 : Verification_Status = Unverified, Job_URL = Unknown (le texte vient d'une URL qui n'a pas été transmise).",
+    "Pas de doublon détecté : l'offre proche J-7B66ECA8 (Société Générale, « Analyse quantitatif - Stress Test (Stage) », réf. 26000KHA) porte une autre référence.",
+    "Calendrier : début 15/03/2027 + 6 mois incompatible tel quel avec l'IREF (fin au 31 août 2027 au plus tard).",
+    "Famille secondaire (risque de crédit / modélisation) : selon les cibles d'Ihab, à proposer seulement si l'offre est jugée exceptionnelle.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
