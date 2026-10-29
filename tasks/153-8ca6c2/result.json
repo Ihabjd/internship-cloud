@@ -1,0 +1,412 @@
+{
+ "language": "FR",
+ "keyword_map": [
+  {
+   "keyword": "Python",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_2 (LabData Python/SQL/Streamlit en production), exp_sg_1 (Python, SQL)",
+   "location": "profile, experience, skills",
+   "action": "Garder en tête des compétences et dans le profil"
+  },
+  {
+   "keyword": "R",
+   "importance": "E",
+   "support": 3,
+   "evidence": "R listé dans les compétences (skills_programming), sans projet ni expérience documentés",
+   "location": "skills",
+   "action": "Remonter R en 2e position de la ligne Programmation ; ne pas écrire « maîtrise » ; projet new:2 sous R pour en apporter la preuve"
+  },
+  {
+   "keyword": "Manipulation des bases de données",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_sg_1 (6 sources de données, Python, SQL), exp_insidetx_2 (plateforme Python/SQL), compétence SQL (PostgreSQL)",
+   "location": "experience, skills",
+   "action": "Faire apparaître « base SQL » dans la puce LabData"
+  },
+  {
+   "keyword": "Modèles statistiques",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_3 (corrélations, régressions), exp_insidetx_4 (processus gaussien), skills_quant (régression, séries temporelles)",
+   "location": "profile, experience, skills",
+   "action": "Écrire « analyse statistique », « modèle statistique » et « modélisation statistique »"
+  },
+  {
+   "keyword": "Économétrie",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Régression et séries temporelles (skills_quant), régressions (exp_insidetx_3) ; le mot « économétrie » n'apparaît dans aucun fait",
+   "location": "skills",
+   "action": "Ne pas écrire « économétrie » : mettre en avant régression et séries temporelles"
+  },
+  {
+   "keyword": "Machine learning",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Cours ENSEIRB IA (ML, deep learning), scikit-learn, proj_realestate (modèles de régression)",
+   "location": "skills, education, projects",
+   "action": "Garder dans skills_quant et en tête des cours ENSEIRB"
+  },
+  {
+   "keyword": "Étudiant en école d'ingénieur / Master Mathématiques appliquées, statistique",
+   "importance": "E",
+   "support": 1,
+   "evidence": "edu_enseirb (ingénieur Informatique data & IA), edu_m2 (Mathématiques appliquées, statistique)",
+   "location": "education, profile",
+   "action": "Formation en 2e section, juste après le profil"
+  },
+  {
+   "keyword": "Risque de crédit / scoring (différenciation du risque)",
+   "importance": "D",
+   "support": 2,
+   "evidence": "Cours M2 IREF : risque de crédit (scoring), en cours",
+   "location": "education, skills, headline",
+   "action": "Placer en tête des cours M2 et de la ligne Finance & risques"
+  },
+  {
+   "keyword": "Réglementation bâloise (Bâle III)",
+   "importance": "D",
+   "support": 2,
+   "evidence": "Cours M2 IREF : réglementation prudentielle (Bâle III) ; skills_finance Bâle III/FRTB",
+   "location": "education, skills, profile",
+   "action": "Remonter en 2e position des cours M2"
+  },
+  {
+   "keyword": "Stress testing",
+   "importance": "C",
+   "support": 2,
+   "evidence": "Cours M2 (stress tests), proj_options (stress tests et backtesting)",
+   "location": "skills, education",
+   "action": "Garder dans skills_finance"
+  },
+  {
+   "keyword": "Documentation",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_1 (piste d'audit, documentation), proj_realestate (méthodologie documentée)",
+   "location": "experience, projects",
+   "action": "Garder dans la puce fusionnée LabData / traitement des échantillons"
+  },
+  {
+   "keyword": "Présentation des travaux",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_insidetx_4 (présenté LabData au CODIR, workshop IA interne)",
+   "location": "experience",
+   "action": "Garder CODIR dans la puce LabData et le workshop IA dans la puce d'analyse statistique"
+  },
+  {
+   "keyword": "Étapes de production / suivi des modèles",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_insidetx_2 (plateforme en production en 7 semaines), exp_insidetx_1 (validation indépendante, réconciliation, 4 123 tests)",
+   "location": "experience, profile",
+   "action": "Mettre « en production » et « validation indépendante » en avant"
+  },
+  {
+   "keyword": "Robustesse / variabilité des estimateurs",
+   "importance": "D",
+   "support": 3,
+   "evidence": "exp_insidetx_3 (bruit de mesure / variabilité du procédé), exp_insidetx_4 (incertitude)",
+   "location": "experience",
+   "action": "Garder les termes du fait, sans parler d'estimateurs de PD"
+  },
+  {
+   "keyword": "Segmentation / clustering des pools de PD",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait : ni clustering ni segmentation dans les CV maîtres",
+   "location": "gaps",
+   "action": "Ne pas ajouter ; projet new:1 à réaliser avant la candidature"
+  },
+  {
+   "keyword": "IRB, PD, LGD, EAD (CCF)",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait (seuls risque de crédit/scoring et Bâle III en cours)",
+   "location": "gaps",
+   "action": "Ne pas ajouter ; réviser l'approche IRB avant l'entretien"
+  },
+  {
+   "keyword": "IFRS 9",
+   "importance": "C",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "gaps",
+   "action": "Ne pas ajouter"
+  },
+  {
+   "keyword": "Risques climatiques et environnementaux",
+   "importance": "D",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "gaps",
+   "action": "Ne pas ajouter ; lecture du guide BCE avant l'entretien"
+  },
+  {
+   "keyword": "Pack Office",
+   "importance": "C",
+   "support": 3,
+   "evidence": "Excel, VBA et Power BI listés ; Power BI utilisé chez SG (exp_sg_2)",
+   "location": "skills",
+   "action": "Garder Excel et VBA ; ne pas écrire « Pack Office » complet (Word, PowerPoint non documentés)"
+  },
+  {
+   "keyword": "Anglais écrit",
+   "importance": "D",
+   "support": 1,
+   "evidence": "skills_languages : anglais courant (C1 – TOEIC 970/990)",
+   "location": "skills",
+   "action": "Garder tel quel"
+  },
+  {
+   "keyword": "Autonomie, proactivité, rigueur",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_insidetx_2 (conçu seul, sans cahier des charges), exp_insidetx_3 (pris l'initiative), exp_insidetx_1 (4 123 tests, réconciliation)",
+   "location": "experience",
+   "action": "Garder « seul », « sans cahier des charges », « pris l'initiative »"
+  },
+  {
+   "keyword": "Monte Carlo",
+   "importance": "C",
+   "support": 2,
+   "evidence": "Cours M2 computational finance (Monte Carlo)",
+   "location": "skills",
+   "action": "Garder dans skills_quant, après les modèles statistiques"
+  }
+ ],
+ "section_order": [
+  "profile",
+  "education",
+  "experience",
+  "projects",
+  "skills"
+ ],
+ "bullet_order": [
+  {
+   "block_id": "exp_insidetx",
+   "bullet_ids": [
+    "exp_insidetx_3",
+    "exp_insidetx_2"
+   ]
+  },
+  {
+   "block_id": "exp_sg",
+   "bullet_ids": [
+    "exp_sg_1"
+   ]
+  }
+ ],
+ "removed_bullets": [
+  "exp_sg_2",
+  "exp_insidetx_4",
+  "exp_insidetx_1"
+ ],
+ "rewrites": [
+  {
+   "bullet_id": "exp_insidetx_3",
+   "text": "Pris l'initiative d'une analyse statistique (corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies) pour la validation des machines et l'optimisation des paramètres ; prototypé un modèle par processus gaussien (plan d'expériences, active learning par l'incertitude) ; animé un workshop IA interne.",
+   "reason": "Fusion de exp_insidetx_3 et exp_insidetx_4 (gain d'une ligne) : modélisation statistique en tête, cœur de l'offre ; le processus gaussien reste un prototype ; présentation au CODIR déplacée dans la puce LabData",
+   "keywords": [
+    "modèles statistiques",
+    "régression",
+    "machine learning",
+    "proactivité"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_2",
+   "text": "Conçu seul LabData, sans cahier des charges : base SQL et plateforme Python/Streamlit en production en 7 semaines (~2 h gagnées par expérience pour 6 scientifiques), présentée au CODIR ; automatisé le traitement de ~500 échantillons/mois avec validation indépendante (réconciliation, concordance totale, piste d'audit, documentation) et 4 123 tests (couverture 91 %).",
+   "reason": "Fusion de exp_insidetx_2 et exp_insidetx_1 (gain d'une ligne) : tous les chiffres conservés (7 semaines, ~2 h, 6 scientifiques, ~500 échantillons/mois, 4 123 tests, 91 %) ; bases de données, production, documentation et présentation des travaux, attendus par l'offre",
+   "keywords": [
+    "bases de données",
+    "Python",
+    "autonomie",
+    "production",
+    "documentation",
+    "présentation des travaux"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_1",
+   "text": "Intégré 6 sources de données (Python, SQL) en flux automatisés pour les outils de P&L ; remplacé des contrôles manuels par 25+ contrôles automatisés de qualité des données et de conformité, suivis sous Power BI (Finance, Risques, Trading).",
+   "reason": "Fusion des deux puces SG : mêmes faits et mêmes chiffres (6 sources, plus de 25 contrôles, Power BI) ; manipulation de données Python/SQL et qualité des données en banque ; aucun « front office »",
+   "keywords": [
+    "Python",
+    "SQL",
+    "bases de données",
+    "qualité des données",
+    "conformité",
+    "Power BI"
+   ]
+  }
+ ],
+ "headline": "Stage de fin d'études (6 mois) – Analyste quantitatif, modélisation du risque de crédit – dès mars 2027",
+ "profile": "Élève ingénieur ENSEIRB-MATMECA, Informatique (data & IA), **top 3 % de la promotion**, en **double diplôme** avec le **Master 2 IREF – Finance quantitative et actuariat** (cours : risque de crédit, Bâle III). Modélisation statistique et data (Python, SQL) en entreprise.",
+ "gaps": [
+  "Segmentation / clustering des pools de PD : aucune expérience ni projet (projet new:1 proposé)",
+  "Modélisation IRB (PD, LGD, EAD via CCF) : aucun fait ; seuls les cours de risque de crédit (scoring) et de Bâle III, en cours",
+  "Pratique de R : listé en compétence mais sans projet ni expérience documentés (projet new:2 proposé), alors que l'offre exige la maîtrise",
+  "Économétrie : le terme n'apparaît dans aucun fait (régression et séries temporelles seulement)",
+  "IFRS 9 : aucun fait",
+  "Risques climatiques et environnementaux (physiques, de transition, cadre réglementaire) : aucun fait",
+  "Pack Office : Word et PowerPoint non documentés (seuls Excel, VBA et Power BI)"
+ ],
+ "claims_to_defend": [
+  "Top 3 % de la promotion ENSEIRB-MATMECA : quel semestre ou quelle année, quelle taille de promotion",
+  "4 123 tests et 91 % de couverture : type de tests, outil de mesure de la couverture",
+  "LabData en production en 7 semaines et ~2 h gagnées par expérience : méthode de mesure du gain",
+  "Traitement de ~500 échantillons/mois : lien exact avec LabData (même outil ou chaîne distincte)",
+  "Modèle par processus gaussien : prototype seulement, choix du noyau, lien avec l'incertitude et l'active learning",
+  "Régressions et analyse de la variabilité chez Inside Therapeutics : quels modèles, quelles hypothèses, comment validés",
+  "Société Générale (2 mois, été 2025) : entité exacte, desks concernés, nature des outils de P&L, exemples de contrôles de conformité",
+  "R en compétence : niveau réel et usages, puisque l'offre exige la maîtrise",
+  "Cours de risque de crédit (scoring) et Bâle III : en cours au M2, ne pas les présenter comme une expérience",
+  "Projet de prédiction de prix immobiliers : cadre, données, modèles comparés et métriques"
+ ],
+ "field_rewrites": [
+  {
+   "block_id": "edu_m2",
+   "field": "extra",
+   "text": "risque de crédit (scoring), réglementation prudentielle (Bâle III), risque de marché (VaR, Expected Shortfall, backtesting, stress tests), computational finance (Monte Carlo), calcul stochastique, fixed income & produits dérivés.",
+   "reason": "Risque de crédit et Bâle III en premier, au cœur du poste IRB ; produits structurés, gestion de portefeuille et actuariat retirés (peu utiles ici)",
+   "keywords": [
+    "risque de crédit",
+    "scoring",
+    "Bâle III",
+    "stress tests"
+   ]
+  },
+  {
+   "block_id": "edu_enseirb",
+   "field": "extra",
+   "text": "IA (ML, deep learning), algorithmique numérique, C/C++/Python (POO), finance de marché.",
+   "reason": "Machine learning en premier, exigé par l'offre",
+   "keywords": [
+    "machine learning",
+    "Python"
+   ]
+  },
+  {
+   "block_id": "proj_realestate",
+   "field": "desc",
+   "text": "Préparation des données, EDA, modèles statistiques de régression ; méthodologie documentée et reproductible.",
+   "reason": "Vocabulaire de l'offre (modèles statistiques, documentation) ; mêmes faits",
+   "keywords": [
+    "modèles statistiques",
+    "régression",
+    "documentation"
+   ]
+  },
+  {
+   "block_id": "skills_programming",
+   "field": "content",
+   "text": "Python (pandas, NumPy, scikit-learn, PyTorch, Streamlit), R, SQL (PostgreSQL), C/C++, VBA. Outils : Git, Linux, Excel, Power BI, Claude Code.",
+   "reason": "Python, R et SQL en premier comme dans l'offre ; Java et TypeScript retirés et « développement assisté par IA » raccourci en « Claude Code » pour la place",
+   "keywords": [
+    "Python",
+    "R",
+    "SQL",
+    "bases de données",
+    "Excel"
+   ]
+  },
+  {
+   "block_id": "skills_quant",
+   "field": "content",
+   "text": "régression, séries temporelles, machine learning, Monte Carlo, calcul stochastique.",
+   "reason": "Modèles statistiques et machine learning en tête",
+   "keywords": [
+    "modèles statistiques",
+    "machine learning"
+   ]
+  },
+  {
+   "block_id": "skills_finance",
+   "field": "content",
+   "text": "risque de crédit (scoring), Bâle III/FRTB, VaR/Expected Shortfall, stress tests, backtesting, produits dérivés, pricing d'options (Black–Scholes, Greeks).",
+   "reason": "Risque de crédit et réglementation bâloise en premier ; delta-hedging, Solvabilité II, fixed income et P&L retirés pour la place (P&L reste dans la puce SG, fixed income dans les cours du M2)",
+   "keywords": [
+    "risque de crédit",
+    "scoring",
+    "Bâle III",
+    "stress tests"
+   ]
+  }
+ ],
+ "projects": [
+  "new:1",
+  "proj_realestate"
+ ],
+ "new_projects": [
+  {
+   "title": "Segmentation des pools de PD – Python, scikit-learn",
+   "desc": "Score de crédit puis pools de risque homogènes (k-means, arbre, binning) ; homogénéité et stabilité comparées.",
+   "tools": [
+    "Python",
+    "pandas",
+    "scikit-learn",
+    "Git"
+   ],
+   "why": "Reproduit la mission du stage : à partir d'un score (différenciation du risque), regrouper les contreparties en pools homogènes (quantification) et comparer des méthodes de segmentation alternatives sur l'homogénéité, la monotonie des taux de défaut et la stabilité dans le temps.",
+   "steps": [
+    "Choisir un jeu public de défauts de crédit (ex. Give Me Some Credit ou Lending Club sur Kaggle), le nettoyer et le découper en périodes",
+    "Construire un score par régression logistique et mesurer sa discrimination (AUC, Gini)",
+    "Segmenter le score en pools par trois méthodes : quantiles, arbre de décision supervisé, k-means sur le score",
+    "Comparer les pools : taux de défaut monotones, hétérogénéité entre pools (test du chi-deux), homogénéité intra-pool, stabilité (PSI) d'une période à l'autre",
+    "Documenter la méthode et les résultats dans un notebook et un README, avec les limites (données retail, pas de périmètre Non Retail)"
+   ],
+   "effort_hours": 25
+  },
+  {
+   "title": "Scoring crédit et calibration de PD – R",
+   "desc": "Régression logistique sous R, discrimination (AUC, Gini), calibration des PD par classe et backtesting.",
+   "tools": [
+    "R",
+    "tidyverse",
+    "glm",
+    "pROC"
+   ],
+   "why": "L'offre exige la maîtrise de R et des modèles statistiques (économétrie) : ce projet apporte une preuve concrète sous R, sur l'étape de quantification du risque (PD par classe et backtesting).",
+   "steps": [
+    "Charger un jeu public de défauts de crédit sous R et préparer les variables (valeurs manquantes, discrétisation)",
+    "Estimer une régression logistique (glm) et interpréter les coefficients",
+    "Mesurer la discrimination (AUC, Gini avec pROC) sur un échantillon de test",
+    "Regrouper le score en classes et calibrer une PD par classe, puis la backtester (test binomial) sur une période ultérieure",
+    "Rédiger un rapport R Markdown documentant la démarche"
+   ],
+   "effort_hours": 15
+  }
+ ],
+ "assessment": {
+  "verdict": "Formation en 2e position : l'offre est de la modélisation quantitative (modèles statistiques, segmentation des pools de PD). Profil crédible pour un stage d'analyste quantitatif en modélisation (ingénieur data/IA + M2 Mathématiques appliquées, statistique, Python/SQL en production), mais sans aucune expérience en risque de crédit, IRB ni clustering, et R n'est pas prouvé : chances réalistes moyennes. Ce qui fera la différence : le projet de segmentation des pools de PD terminé et une bonne maîtrise du vocabulaire IRB en entretien. Note : le risque de crédit est une cible secondaire pour toi.",
+  "strengths": [
+   "Formation qui correspond exactement à l'exigence : école d'ingénieur (Informatique data & IA) + Master Mathématiques appliquées, statistique, avec cours de risque de crédit (scoring) et Bâle III",
+   "Python et SQL pratiqués en entreprise : LabData en production en 7 semaines, 6 sources de données intégrées chez Société Générale",
+   "Modélisation statistique réelle : corrélations, régressions, analyse de variabilité, prototype par processus gaussien",
+   "Rigueur et documentation : validation indépendante des calculs, réconciliation, piste d'audit, 4 123 tests",
+   "Autonomie et présentation des travaux : LabData conçu seul sans cahier des charges, présenté au CODIR",
+   "Anglais C1 (TOEIC 970/990) pour la documentation écrite"
+  ],
+  "improvements": [
+   "Aucune pratique documentée du clustering ni de la segmentation, alors que c'est le sujet du stage",
+   "R seulement listé : l'offre exige la maîtrise",
+   "Méconnaissance probable du cadre IRB (PD, LGD, EAD/CCF, marge de prudence, PD long terme, exigences de l'EBA sur l'homogénéité des grades) et de la différence avec IFRS 9",
+   "Pas d'économétrie au sens strict dans les faits (régression logistique, tests statistiques à réviser)",
+   "Aucune connaissance démontrée des risques climatiques (risques physiques, de transition)"
+  ],
+  "recommendations": [
+   "Réaliser en priorité le projet new:1 (segmentation des pools de PD) avant de postuler, puis new:2 sous R si le temps le permet",
+   "Réviser : approche IRB fondation et avancée, construction d'un modèle de PD (différenciation puis quantification), tests de discrimination (AUC, Gini), d'homogénéité et d'hétérogénéité (chi-deux), stabilité (PSI), backtesting binomial",
+   "Lire les orientations de l'EBA sur l'estimation des PD (EBA/GL/2017/16) et le guide BCE sur les risques climatiques et environnementaux",
+   "En entretien, présenter LabData et les contrôles SG comme une preuve de rigueur sur la donnée et la mise en production, sans parler de modèles de risque",
+   "Préparer un exemple concret de régression faite chez Inside Therapeutics (variables, hypothèses, validation)",
+   "Revérifier la mise en page après compilation : la ligne CLUBEE et les centres d'intérêt sont gardés, mais ce sont les premiers éléments à retirer si la page déborde encore"
+  ]
+ },
+ "reply": "C'est fait : j'ai regagné environ 2 à 3 lignes sans perdre aucun chiffre, en gardant les projets proposés, la ligne CLUBEE et les centres d'intérêt. 1) Inside Therapeutics passe de 4 à 2 puces : exp_insidetx_3 absorbe exp_insidetx_4 (analyse statistique + prototype par processus gaussien + workshop IA) ; exp_insidetx_2 absorbe exp_insidetx_1 (LabData, base SQL, 7 semaines, ~2 h pour 6 scientifiques, présentation au CODIR + ~500 échantillons/mois, validation indépendante, concordance totale, piste d'audit, documentation, 4 123 tests, 91 %). exp_insidetx_1 et exp_insidetx_4 passent dans removed_bullets. 2) Profil raccourci (« Modélisation statistique et data (Python, SQL) en entreprise »). 3) Lignes de compétences raccourcies : « développement assisté par IA (Claude Code) » devient « Claude Code » ; delta-hedging retiré de la ligne Finance & risques (peu utile pour un poste IRB). Le processus gaussien reste un « prototype », SG sans « front office ». Point à vérifier de ton côté : le traitement des ~500 échantillons/mois et LabData sont-ils le même outil ? La puce les juxtapose avec deux verbes distincts pour ne pas l'affirmer ; si c'est LabData, je peux encore raccourcir. Question toujours ouverte : as-tu déjà utilisé R dans un cours ou un projet (lequel, pour quoi faire) ? L'offre en exige la maîtrise.",
+ "new_facts": []
+}
