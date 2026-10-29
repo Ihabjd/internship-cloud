@@ -1,0 +1,323 @@
+{
+  "language": "FR",
+  "keyword_map": [
+    {
+      "keyword": "Assistant trader / salle des marchés",
+      "importance": "E",
+      "support": 3,
+      "evidence": "exp_sg : « Data Analyst – Finance de marché », analyse de données pour plusieurs desks de marché (jamais front office) ; proj_rl : market making en équipe de 6",
+      "location": "headline, profil, exp_sg",
+      "action": "Reprendre « salle des marchés » dans l'accroche ; présenter SG comme support data aux desks, sans parler de front office"
+    },
+    {
+      "keyword": "Outils d'analyse et de reporting des positions",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_sg_2 : reportings et dashboards Power BI pour Finance, Risques et Trading ; exp_insidetx_2 : LabData, plateforme Python/SQL/Streamlit en production",
+      "location": "profil, exp_sg_2, exp_insidetx_2",
+      "action": "Reformuler LabData et les dashboards SG en « outils d'analyse et de reporting » (sans écrire « positions », non prouvé)"
+    },
+    {
+      "keyword": "Couverture de change (FX hedging) en trésorerie d'entreprise",
+      "importance": "E",
+      "support": 4,
+      "evidence": "Aucun fait : ni change, ni trésorerie d'entreprise ; seuls delta-hedging d'options (proj_options) et cours de produits dérivés (M2)",
+      "location": "—",
+      "action": "Lacune : non ajouté au CV ; comblée par le projet proposé new:1"
+    },
+    {
+      "keyword": "Couverture / produits dérivés",
+      "importance": "D",
+      "support": 2,
+      "evidence": "proj_options : Black–Scholes, Greeks, delta-hedging, P&L explain ; M2 : fixed income & produits dérivés (cours en cours)",
+      "location": "proj_options, skills_finance, edu_m2",
+      "action": "Mettre « couverture (delta-hedging) » et « produits dérivés » en tête des compétences finance"
+    },
+    {
+      "keyword": "P&L",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_1 : flux automatisés et contrôlés alimentant les outils de P&L ; proj_options : P&L explain",
+      "location": "exp_sg_1, proj_options",
+      "action": "Garder « outils de P&L des desks » en tête de l'expérience SG"
+    },
+    {
+      "keyword": "Python",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_1 (Python, SQL) ; exp_insidetx_2 (Python/SQL/Streamlit)",
+      "location": "exp_sg_1, exp_insidetx_2, skills_programming",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "SQL",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_1 ; exp_insidetx_2",
+      "location": "exp_sg_1, exp_insidetx_2, skills_programming",
+      "action": "Conserver, SQL juste après Python dans les compétences"
+    },
+    {
+      "keyword": "Power BI / dashboards",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_2 : dashboards Power BI ; certification Microsoft Power BI",
+      "location": "exp_sg_2, skills_programming",
+      "action": "Conserver ; mettre Excel et Power BI en tête des outils"
+    },
+    {
+      "keyword": "Excel / VBA",
+      "importance": "D",
+      "support": 3,
+      "evidence": "Excel et VBA listés dans les compétences, sans expérience décrite (exigence supposée, l'offre n'étant pas disponible)",
+      "location": "skills_programming",
+      "action": "Remonter VBA et Excel dans la ligne de compétences, sans fait nouveau"
+    },
+    {
+      "keyword": "Contrôles, conformité, réconciliation",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg_2 : plus de 25 contrôles automatisés de qualité et de conformité ; exp_insidetx_1 : réconciliation, piste d'audit",
+      "location": "exp_sg_2, exp_insidetx_1",
+      "action": "Mettre en avant (attendu supposé d'un poste de trésorerie : fiabilité des positions)"
+    },
+    {
+      "keyword": "Bac+5",
+      "importance": "E",
+      "support": 1,
+      "evidence": "Master 2 IREF + diplôme d'ingénieur ENSEIRB-MATMECA (en cours, 2026 – 2027)",
+      "location": "profil, education",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "Anglais courant",
+      "importance": "E",
+      "support": 1,
+      "evidence": "skills_languages : anglais courant (C1 – TOEIC 970/990)",
+      "location": "skills_languages",
+      "action": "Conserver"
+    },
+    {
+      "keyword": "Première expérience",
+      "importance": "E",
+      "support": 1,
+      "evidence": "Stages Société Générale (août – sept. 2025) et Inside Therapeutics (juin – sept. 2026)",
+      "location": "experience",
+      "action": "Placer l'expérience avant la formation"
+    },
+    {
+      "keyword": "Bloomberg / Reuters",
+      "importance": "C",
+      "support": 4,
+      "evidence": "Aucun fait (outil supposé d'une salle des marchés, non lu dans l'offre)",
+      "location": "—",
+      "action": "Lacune : non ajouté ; voir BMC si un terminal est accessible à l'université"
+    }
+  ],
+  "section_order": [
+    "profile",
+    "experience",
+    "education",
+    "projects",
+    "skills"
+  ],
+  "bullet_order": [
+    {
+      "block_id": "exp_sg",
+      "bullet_ids": [
+        "exp_sg_1",
+        "exp_sg_2"
+      ]
+    },
+    {
+      "block_id": "exp_insidetx",
+      "bullet_ids": [
+        "exp_insidetx_2",
+        "exp_insidetx_1",
+        "exp_insidetx_3"
+      ]
+    }
+  ],
+  "removed_bullets": [
+    "exp_insidetx_4"
+  ],
+  "rewrites": [
+    {
+      "bullet_id": "exp_sg_1",
+      "text": "Intégré 6 sources (Python, SQL) en flux automatisés et contrôlés alimentant les outils de P&L des desks.",
+      "reason": "Rattache le P&L aux desks de marché (fait du sous-titre), vocabulaire salle des marchés",
+      "keywords": [
+        "P&L",
+        "Python",
+        "SQL",
+        "desks"
+      ]
+    },
+    {
+      "bullet_id": "exp_sg_2",
+      "text": "Automatisé plus de 25 contrôles de qualité des données et de conformité, jusque-là manuels, suivis en reportings et dashboards Power BI pour les équipes Trading, Risques et Finance.",
+      "reason": "Trading en premier ; même fait, formulation plus courte",
+      "keywords": [
+        "reporting",
+        "dashboards",
+        "Power BI",
+        "Trading",
+        "conformité"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_2",
+      "text": "Conçu et développé seul LabData, outil d'analyse et de reporting Python/SQL/Streamlit en production en 7 semaines, sans cahier des charges : ~2 h de travail manuel gagnées par expérience (6 scientifiques).",
+      "reason": "Reprend « outils d'analyse et de reporting » de l'offre ; mêmes chiffres",
+      "keywords": [
+        "outils d'analyse",
+        "reporting",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_1",
+      "text": "Automatisé le traitement de ~500 échantillons/mois avec contrôle indépendant des calculs : réconciliation (concordance totale), piste d'audit, documentation ; 4 123 tests (couverture 91 %).",
+      "reason": "Met l'accent sur contrôle et réconciliation, utiles pour fiabiliser des positions",
+      "keywords": [
+        "contrôle",
+        "réconciliation",
+        "piste d'audit"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_3",
+      "text": "Ajouté de ma propre initiative une couche d'analyse (corrélations, régressions, alertes d'anomalies) pour la validation des machines ; présenté LabData au CODIR et animé un workshop IA interne.",
+      "reason": "Fusion avec exp_insidetx_4 (retirée) : garde l'initiative, le CODIR et le workshop, retire le prototype GP peu utile ici",
+      "keywords": [
+        "analyse",
+        "communication direction"
+      ]
+    }
+  ],
+  "field_rewrites": [
+    {
+      "block_id": "proj_options",
+      "field": "desc",
+      "text": "Couverture (delta-hedging) et P&L explain d'options Black–Scholes, Greeks ; VaR/ES, stress tests, backtesting.",
+      "reason": "La couverture en tête, FRTB et Solvabilité II retirés (hors sujet pour une trésorerie)",
+      "keywords": [
+        "couverture",
+        "P&L",
+        "produits dérivés"
+      ]
+    },
+    {
+      "block_id": "skills_finance",
+      "field": "content",
+      "text": "produits dérivés, couverture (delta-hedging), pricing d'options (Black–Scholes, Greeks), P&L, VaR/Expected Shortfall, stress tests, backtesting, fixed income, Bâle III.",
+      "reason": "Dérivés et couverture en premier ; réglementation assurantielle retirée",
+      "keywords": [
+        "produits dérivés",
+        "couverture",
+        "P&L"
+      ]
+    },
+    {
+      "block_id": "skills_programming",
+      "field": "content",
+      "text": "Python (pandas, NumPy, Streamlit, scikit-learn, PyTorch), SQL (PostgreSQL), VBA, C/C++, R. Outils : Excel, Power BI, Git, Linux, développement assisté par IA (Claude Code).",
+      "reason": "Outils de reporting d'une salle des marchés (Excel, VBA, Power BI) remontés ; Java et TypeScript retirés",
+      "keywords": [
+        "Python",
+        "SQL",
+        "VBA",
+        "Excel",
+        "Power BI"
+      ]
+    },
+    {
+      "block_id": "edu_m2",
+      "field": "extra",
+      "text": "fixed income & produits dérivés, risque de marché (VaR, Expected Shortfall, stress tests, backtesting), produits structurés, gestion de portefeuille, finance mathématique (calcul stochastique), computational finance (Monte Carlo), Bâle III.",
+      "reason": "Cours de marché et de dérivés en premier ; crédit et actuariat retirés",
+      "keywords": [
+        "produits dérivés",
+        "fixed income",
+        "risque de marché"
+      ]
+    },
+    {
+      "block_id": "edu_enseirb",
+      "field": "extra",
+      "text": "finance de marché, C/C++/Python (POO), IA (ML, deep learning), algorithmique numérique",
+      "reason": "Finance de marché en premier",
+      "keywords": [
+        "finance de marché"
+      ]
+    }
+  ],
+  "projects": [
+    "new:1",
+    "proj_options"
+  ],
+  "new_projects": [
+    {
+      "title": "Couverture de change d'une trésorerie d'entreprise – Python, pandas, Streamlit",
+      "desc": "Couverture EUR/USD de flux en dollars par forwards et options ; P&L de couverture et reporting des positions.",
+      "tools": [
+        "Python",
+        "pandas",
+        "NumPy",
+        "Streamlit",
+        "Excel"
+      ],
+      "why": "Le poste porte sur la couverture de change d'un industriel exportateur payé en dollars (lacune essentielle du tracker) et sur des outils d'analyse et de reporting des positions : le projet couvre les deux avec des outils qu'Ihab maîtrise déjà.",
+      "steps": [
+        "Télécharger les cours de référence EUR/USD de la BCE et des taux €STR / SOFR publics, et définir un échéancier fictif de recettes en USD sur 24 mois",
+        "Pricer des forwards (parité des taux d'intérêt) et des options de change (Garman–Kohlhagen), avec leurs Greeks",
+        "Comparer plusieurs politiques de couverture (sans couverture, forwards à ratio fixe, options, couverture en tunnel) sur données historiques : P&L de couverture, taux garanti, sensibilité au cours",
+        "Construire un tableau de bord Streamlit (et un export Excel) des positions couvertes, du taux de couverture par échéance et de la MtM",
+        "Documenter la méthode et les limites (pas de coûts de transaction réels, échéancier fictif) dans un README"
+      ],
+      "effort_hours": 30
+    }
+  ],
+  "headline": "Stage de fin d'études (6 mois) – Assistant trader en salle des marchés – dès mars 2027",
+  "profile": "Élève ingénieur à l'ENSEIRB-MATMECA (Informatique, data & IA, **top 3 % de la promotion**), **double diplôme** avec le **Master 2 IREF – Finance quantitative et actuariat**. Expérience data en finance de marché (Société Générale : flux de P&L, contrôles, Power BI) et outils d'analyse et de reporting Python/SQL.",
+  "gaps": [
+    "Couverture de change (FX hedging) et trésorerie d'entreprise : aucun fait ; projet proposé new:1 à réaliser avant de postuler",
+    "Expérience front office ou de trading : aucune (SG = support data aux desks, jamais front office)",
+    "Bloomberg / Reuters : aucun fait (exigence supposée, l'offre n'ayant pas pu être lue)",
+    "Début et durée du stage inconnus : vérifier la compatibilité avec la période du 1er mars au 31 août 2027"
+  ],
+  "claims_to_defend": [
+    "Société Générale : stage de 2 mois, entité exacte, desks concernés, ce qu'était concrètement un « outil de P&L », exemples des plus de 25 contrôles de conformité",
+    "LabData : ~2 h gagnées par expérience pour 6 scientifiques (méthode de mesure), mise en production en 7 semaines, développé seul",
+    "4 123 tests et couverture de 91 % (type de tests, outil de mesure)",
+    "Top 3 % de la promotion ENSEIRB-MATMECA (période, taille de la promotion)",
+    "Projet options : delta-hedging et P&L explain, savoir l'expliquer et le transposer à une couverture de change",
+    "Projet de couverture de change (une fois réalisé) : forwards, Garman–Kohlhagen, choix de la politique de couverture"
+  ],
+  "assessment": {
+    "verdict": "Adéquation moyenne : le socle (Bac+5 en finance quantitative, Python/SQL/Power BI, stage data auprès de desks de marché à SG, anglais C1) colle au volet outils et reporting, mais rien ne prouve une connaissance de la couverture de change ni de la trésorerie d'entreprise, cœur probable du poste. La différence se fera sur un projet de couverture FX réalisé avant de postuler et sur la capacité à parler de la politique de couverture d'un industriel exportateur. Ordre retenu : expérience avant formation, car le poste est opérationnel (trading et reporting) plutôt que de modélisation pure.",
+    "strengths": [
+      "Outils d'analyse et de reporting prouvés : dashboards Power BI pour Finance, Risques et Trading (SG), LabData en production (Inside Therapeutics)",
+      "Contact réel avec un environnement de marché : flux de données alimentant les outils de P&L des desks SG",
+      "Fiabilité et contrôle : plus de 25 contrôles automatisés, réconciliation et piste d'audit",
+      "Bases en dérivés : projet options (delta-hedging, Greeks, P&L explain) et cours de M2 en produits dérivés",
+      "Bac+5 en double diplôme et anglais courant (TOEIC 970/990)"
+    ],
+    "improvements": [
+      "Aucune connaissance démontrée du change : forwards, swaps de change, options de change, points de terme, parité des taux",
+      "Trésorerie d'entreprise : politique de couverture, exposition transactionnelle, comptabilité de couverture (IFRS 9), rôle d'une salle des marchés chez un industriel",
+      "Pas d'expérience front office ni de Bloomberg/Reuters",
+      "Offre non lue en entier : missions, outils et dates réels inconnus"
+    ],
+    "recommendations": [
+      "Réaliser en priorité le projet new:1 (couverture EUR/USD) et savoir défendre chaque choix",
+      "Récupérer le texte complet de l'offre (page Safran) pour confirmer missions, outils, début et durée, puis relancer l'adaptation",
+      "Réviser les produits de change et la comptabilité de couverture, et lire le document d'enregistrement universel de Safran (section risque de change et politique de couverture)",
+      "En entretien, présenter SG comme un rôle data au service des desks, et LabData comme la preuve de savoir livrer un outil de reporting utilisé au quotidien",
+      "Si un terminal est accessible à l'université, passer la Bloomberg Market Concepts"
+    ]
+  },
+  "reply": "J'ai adapté le CV au poste d'assistant trader en salle des marchés chez Safran à partir du résumé du tracker, car la page de l'offre n'était pas accessible depuis la session. Changements : expérience avant formation (poste opérationnel) ; accroche et profil centrés salle des marchés, P&L, outils d'analyse et de reporting ; SG en tête avec Trading en premier ; LabData présenté comme outil d'analyse et de reporting ; puces Inside Therapeutics 3 et 4 fusionnées (prototype GP retiré) ; dérivés, couverture, Excel/VBA et Power BI remontés dans les compétences ; FRTB, Solvabilité II, Java et TypeScript retirés. Je propose un projet de couverture de change EUR/USD (new:1), placé avant le projet options, car c'est la lacune principale. Question : peux-tu coller le texte complet de l'offre (missions, outils, début et durée) pour que j'affine les mots-clés ?",
+  "new_facts": []
+}
