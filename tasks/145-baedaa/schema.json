@@ -1,0 +1,448 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "run": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "run_type": {
+          "type": "string",
+          "enum": [
+            "daily",
+            "weekly",
+            "on_demand",
+            "paste"
+          ]
+        },
+        "started_at": {
+          "type": "string"
+        },
+        "finished_at": {
+          "type": "string"
+        },
+        "queries_run": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources_reached": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources_inaccessible": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "run_type",
+        "started_at",
+        "finished_at",
+        "queries_run",
+        "sources_reached",
+        "sources_inaccessible"
+      ]
+    },
+    "listings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "Employer": {
+            "type": "string"
+          },
+          "Job_Title": {
+            "type": "string"
+          },
+          "Job_Family": {
+            "type": "string",
+            "enum": [
+              "Quant Research / Quant Analyst",
+              "Quant Developer",
+              "Market Risk / Risk Analytics",
+              "Model Validation",
+              "Derivatives Pricing / Structuring",
+              "Trading / Trading Analytics",
+              "Capital Markets Data / Python",
+              "Asset Management / Portfolio Analytics",
+              "Sales / Investment Solutions",
+              "Private Equity / Private Debt",
+              "Credit Risk",
+              "Actuarial",
+              "Other"
+            ]
+          },
+          "Location": {
+            "type": "string"
+          },
+          "Country": {
+            "type": "string"
+          },
+          "Source": {
+            "type": "string"
+          },
+          "Job_URL": {
+            "type": "string"
+          },
+          "Requisition_ID": {
+            "type": "string"
+          },
+          "Publication_Date": {
+            "type": "string"
+          },
+          "First_Discovered_Date": {
+            "type": "string"
+          },
+          "Last_Verified_Date": {
+            "type": "string"
+          },
+          "Application_Deadline": {
+            "type": "string"
+          },
+          "Internship_Start_Date": {
+            "type": "string"
+          },
+          "Internship_End_Date": {
+            "type": "string"
+          },
+          "Duration_Months": {
+            "type": "string"
+          },
+          "Match_Score": {
+            "type": "string"
+          },
+          "Priority": {
+            "type": "string",
+            "enum": [
+              "High priority",
+              "Worth applying",
+              "Stretch opportunity",
+              "Low priority",
+              ""
+            ]
+          },
+          "Eligibility_Status": {
+            "type": "string",
+            "enum": [
+              "Eligible",
+              "Likely eligible",
+              "Unclear",
+              "Not eligible"
+            ]
+          },
+          "Core_Requirements_Met": {
+            "type": "string",
+            "enum": [
+              "Yes",
+              "Partly",
+              "No",
+              "Unknown"
+            ]
+          },
+          "Main_Strengths": {
+            "type": "string"
+          },
+          "Essential_Gaps": {
+            "type": "string"
+          },
+          "Preferred_Gaps": {
+            "type": "string"
+          },
+          "Fit_Explanation": {
+            "type": "string"
+          },
+          "Verification_Status": {
+            "type": "string",
+            "enum": [
+              "Verified (official page)",
+              "Verified active",
+              "Unverified",
+              "Expired",
+              "Inaccessible",
+              "Withdrawn"
+            ]
+          },
+          "Notes": {
+            "type": "string"
+          },
+          "Score_Breakdown": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "role": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "points": {
+                    "type": "number"
+                  },
+                  "evidence": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "points",
+                  "evidence"
+                ]
+              },
+              "tech": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "points": {
+                    "type": "number"
+                  },
+                  "evidence": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "points",
+                  "evidence"
+                ]
+              },
+              "academic": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "points": {
+                    "type": "number"
+                  },
+                  "evidence": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "points",
+                  "evidence"
+                ]
+              },
+              "career": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "points": {
+                    "type": "number"
+                  },
+                  "evidence": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "points",
+                  "evidence"
+                ]
+              },
+              "duration": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "points": {
+                    "type": "number"
+                  },
+                  "evidence": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "points",
+                  "evidence"
+                ]
+              },
+              "location": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "points": {
+                    "type": "number"
+                  },
+                  "evidence": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "points",
+                  "evidence"
+                ]
+              }
+            },
+            "required": [
+              "role",
+              "tech",
+              "academic",
+              "career",
+              "duration",
+              "location"
+            ]
+          },
+          "Required_Skills": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "Preferred_Skills": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "Responsibilities": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "Languages": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "Next_Action": {
+            "type": "string"
+          },
+          "Recommended_CV_Version": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Employer",
+          "Job_Title",
+          "Job_Family",
+          "Location",
+          "Country",
+          "Source",
+          "Job_URL",
+          "Requisition_ID",
+          "Publication_Date",
+          "First_Discovered_Date",
+          "Last_Verified_Date",
+          "Application_Deadline",
+          "Internship_Start_Date",
+          "Internship_End_Date",
+          "Duration_Months",
+          "Match_Score",
+          "Priority",
+          "Eligibility_Status",
+          "Core_Requirements_Met",
+          "Main_Strengths",
+          "Essential_Gaps",
+          "Preferred_Gaps",
+          "Fit_Explanation",
+          "Verification_Status",
+          "Notes",
+          "Score_Breakdown",
+          "Required_Skills",
+          "Preferred_Skills",
+          "Responsibilities",
+          "Languages",
+          "Next_Action",
+          "Recommended_CV_Version"
+        ]
+      }
+    },
+    "status_changes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "job_id": {
+            "type": "string"
+          },
+          "job_url": {
+            "type": "string"
+          },
+          "field": {
+            "type": "string"
+          },
+          "old": {
+            "type": "string"
+          },
+          "new": {
+            "type": "string"
+          },
+          "evidence_url": {
+            "type": "string"
+          },
+          "checked_at": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "job_id",
+          "job_url",
+          "field",
+          "old",
+          "new",
+          "evidence_url",
+          "checked_at"
+        ]
+      }
+    },
+    "search_log": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "Source": {
+            "type": "string"
+          },
+          "Access_Method": {
+            "type": "string"
+          },
+          "Query_or_URL": {
+            "type": "string"
+          },
+          "Terms_or_Restrictions": {
+            "type": "string"
+          },
+          "Results_Seen": {
+            "type": "string"
+          },
+          "New_Listings": {
+            "type": "string"
+          },
+          "Errors_or_Limitations": {
+            "type": "string"
+          },
+          "Notes": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Source",
+          "Access_Method",
+          "Query_or_URL",
+          "Terms_or_Restrictions",
+          "Results_Seen",
+          "New_Listings",
+          "Errors_or_Limitations",
+          "Notes"
+        ]
+      }
+    },
+    "report_markdown": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "run",
+    "listings",
+    "status_changes",
+    "search_log",
+    "report_markdown"
+  ],
+  "title": "scout_output",
+  "description": "Sortie d'une veille (contrat du skill internship-job-scout, mode app : Claude n'écrit aucun fichier)."
+}
