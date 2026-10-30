@@ -1,0 +1,180 @@
+{
+  "listing": {
+    "Employer": "CNP Assurances",
+    "Job_Title": "Stage Analyste Risques 2027",
+    "Job_Family": "Actuarial",
+    "Location": "Issy-les-Moulineaux",
+    "Country": "France",
+    "Source": "Offre transmise par Ihab (texte collé dans l'app)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "Unknown",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-10-30",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "Unknown",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "4-6",
+    "Match_Score": "64",
+    "Priority": "Low priority",
+    "Eligibility_Status": "Likely eligible",
+    "Core_Requirements_Met": "Partly",
+    "Main_Strengths": "Master 2 IREF Finance quantitative et actuariat (profil « étudiant(e) en actuariat » Bac+5 demandé) ; cours de réglementation prudentielle et d'actuariat ; projet VaR/ES (FRTB, Solvabilité II), stress tests ; Python/SQL professionnels (Société Générale, Inside Therapeutics) pour le développement d'outils quantitatifs ; FR C2, EN C1 (TOEIC 970) ; Île-de-France.",
+    "Essential_Gaps": "Aucune expérience pratique de Solvabilité 2 (ratio de couverture, formule standard, Piliers 1 et 2, consolidation) : uniquement cours et mention dans un projet ; analyse financière / réglementation prudentielle seulement académique.",
+    "Preferred_Gaps": "Aucun écart sur le « plus » (premier contact avec les marchés financiers et la macroéconomie) : stage Data Analyst – Finance de marché chez Société Générale et cours M2.",
+    "Fit_Explanation": "Poste de risques assurance / Solvabilité II (Direction des Risques Groupe, département Capital & Solvabilité, pôle Consolidation) : famille « actuariat (y compris risques assurance / Solvabilité II, ALM assurance) » exclue des cibles d'Ihab depuis le 2026-10-14, donc priorité plafonnée à Low priority malgré une adéquation académique correcte. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Doublon probable de J-E0459057 (même employeur, même intitulé, même ville). Début « à partir de février, mars ou avril 2027 », durée 4 à 6 mois : un début au 1er mars 2027 pour 6 mois semble possible, à confirmer. Candidature par e-mail aux deux contacts indiqués dans l'offre (pas de lien officiel dans le texte). Page officielle non consultée (pas de recherche web : famille exclue, texte suffisant).",
+    "Score_Breakdown": {
+      "role": {
+        "points": 14,
+        "evidence": "Missions : construction et estimation du ratio de couverture Groupe Solvabilité 2, développement d'outils quantitatifs (risques marché, liquidité, ALM), mesures de risque et sensibilités de marché et de souscription, consolidation des filiales. Recoupe le projet VaR/ES/stress tests (mention Solvabilité II) et les outils Python/SQL d'Ihab, mais le cœur du poste (S2 Piliers 1-2, consolidation, souscription) n'est couvert par aucune expérience."
+      },
+      "tech": {
+        "points": 17,
+        "evidence": "Exigences : analyse financière et réglementation prudentielle, anglais. Ihab : cours M2 de réglementation prudentielle (Bâle III) et d'actuariat, projet VaR/ES (FRTB, Solvabilité II), Python/SQL professionnels. Solvabilité 2 seulement académique (à défendre)."
+      },
+      "academic": {
+        "points": 14,
+        "evidence": "« Niveau BAC +4 /BAC +5 Grande Ecole d'Ingénieur/Université/Actuariat » et « étudiant(e) en actuariat » : Ihab est en M2 IREF Finance quantitative et actuariat (Université de Bordeaux) + ingénieur ENSEIRB-MATMECA, dernière année, stage de fin d'études sous convention."
+      },
+      "career": {
+        "points": 0,
+        "evidence": "Risques assurance / Solvabilité II chez un assureur : famille « Exclu » (actuariat, y compris risques assurance / Solvabilité II, ALM assurance) des cibles du 2026-10-14. Ce n'est pas la gestion d'actifs d'un assureur."
+      },
+      "duration": {
+        "points": 9,
+        "evidence": "« stage de 4 à 6 mois à partir de février, mars ou avril 2027 » : début en mars possible, 6 mois compatibles avec la fenêtre IREF 1er mars – 31 août 2027 ; date exacte de début non fixée."
+      },
+      "location": {
+        "points": 10,
+        "evidence": "« Lieu : Issy Les Moulineaux » (Île-de-France, pleine note) ; « Anglais » demandé, offre en français : FR C2 / EN C1."
+      }
+    },
+    "Required_Skills": [
+      "Rigueur et organisation",
+      "Capacité à travailler en équipe",
+      "Analyse financière et réglementation prudentielle",
+      "Anglais",
+      "Formation actuariat (Bac+4/Bac+5 Grande École d'ingénieur / Université / Actuariat)"
+    ],
+    "Preferred_Skills": [
+      "Premier contact avec les marchés financiers et la macroéconomie"
+    ],
+    "Responsibilities": [
+      "Construction du ratio de couverture Groupe en norme Solvabilité 2 : analyse de mouvements, rapprochements multinormes, échanges avec les filiales, calculs en formule standard",
+      "Réalisation d'estimations du ratio de couverture",
+      "Développement d'outils quantitatifs Groupe et/ou Filiales en lien avec le suivi des risques marché, liquidité, ALM ; production des mesures de risques et des sensibilités de marché et de souscription",
+      "Résultats S2 du pilier 1 et pilier 2 Filiales : montée en compétences sur Solvabilité 2 et coordination de l'intégration des contributions des filiales en consolidation",
+      "Suivi et coordination de l'intégration des filiales suite à des projets de développement du Groupe (ex. acquisitions)",
+      "Analyse et restitution de l'impact des évolutions économiques, stratégiques et règlementaires",
+      "Veille sur les sujets d'actualités prudentielles"
+    ],
+    "Languages": [
+      "Français",
+      "Anglais"
+    ],
+    "Next_Action": "Aucune action recommandée : doublon de J-E0459057 et famille exclue (Solvabilité II). Si Ihab veut tout de même postuler, confirmer un début au 1er mars 2027 pour 6 mois.",
+    "Recommended_CV_Version": "Unknown (aucune version par famille pour l'actuariat, famille exclue ; à défaut, version FR Risque de marché / Risk Analytics)"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {
+      "field": "Employer",
+      "value": "CNP Assurances",
+      "quote": "CNP Assurances est le 2ème assureur de personnes en France"
+    },
+    {
+      "field": "Job_Title",
+      "value": "Stage Analyste Risques 2027",
+      "quote": "Stage Analyste Risques 2027"
+    },
+    {
+      "field": "Équipe",
+      "value": "Direction des Risques Groupe, département Capital & Solvabilité, service Consolidation",
+      "quote": "Direction des Risques Groupe\nDépartement Capital & Solvabilité\nService Consolidation"
+    },
+    {
+      "field": "Location",
+      "value": "Issy-les-Moulineaux",
+      "quote": "Lieu : Issy Les Moulineaux"
+    },
+    {
+      "field": "Duration_Months",
+      "value": "4-6",
+      "quote": "Durée : stage de 4 à 6 mois à partir de février, mars ou avril 2027"
+    },
+    {
+      "field": "Internship_Start_Date",
+      "value": "février, mars ou avril 2027",
+      "quote": "à partir de février, mars ou avril 2027"
+    },
+    {
+      "field": "Profil académique",
+      "value": "Bac+4/Bac+5, Grande École d'ingénieur / Université / Actuariat, étudiant(e) en actuariat",
+      "quote": "Niveau BAC +4 /BAC +5 Grande Ecole d’Ingénieur/Université/Actuariat"
+    },
+    {
+      "field": "Profil recherché",
+      "value": "étudiant(e) en actuariat",
+      "quote": "nous recherchons un(e) étudiant(e) en actuariat"
+    },
+    {
+      "field": "Required_Skills",
+      "value": "Analyse financière et réglementation prudentielle ; anglais",
+      "quote": "- Analyse financière et réglementation prudentielle\n- Anglais"
+    },
+    {
+      "field": "Preferred_Skills",
+      "value": "Premier contact avec les marchés financiers et la macroéconomie",
+      "quote": "Un premier contact avec les marchés financiers et la macroéconomie serait un plus"
+    },
+    {
+      "field": "Responsibilities",
+      "value": "Ratio de couverture Groupe Solvabilité 2",
+      "quote": "Construction du ratio de couverture Groupe en norme Solvabilité 2"
+    },
+    {
+      "field": "Mode de candidature",
+      "value": "Envoi du dossier par e-mail à deux contacts nommés",
+      "quote": "Merci d’adresser votre dossier de candidature à :"
+    }
+  ],
+  "inferences": [
+    {
+      "field": "Job_Family",
+      "value": "Actuarial",
+      "reasoning": "Poste dans le département Capital & Solvabilité d'un assureur, centré sur le ratio de couverture Solvabilité 2, les Piliers 1-2 et la consolidation, avec un profil « étudiant(e) en actuariat » : c'est la famille risques assurance / Solvabilité II, rangée dans l'actuariat (exclue)."
+    },
+    {
+      "field": "Eligibility_Status",
+      "value": "Likely eligible",
+      "reasoning": "Le texte autorise un début en mars 2027 et une durée jusqu'à 6 mois, compatible avec la fenêtre IREF (1er mars – 31 août 2027) ; le jour exact de début n'est pas précisé."
+    },
+    {
+      "field": "Duplicate",
+      "value": "J-E0459057",
+      "reasoning": "Même employeur (CNP Assurances), même intitulé (« Stage Analyste Risques 2027 ») et même ville (Issy-les-Moulineaux) que l'offre déjà connue J-E0459057 ; aucune référence ne les distingue."
+    },
+    {
+      "field": "Core_Requirements_Met",
+      "value": "Partly",
+      "reasoning": "Formation actuariat Bac+5 et anglais couverts ; analyse financière et réglementation prudentielle seulement académiques (cours M2, mention Solvabilité II dans un projet)."
+    }
+  ],
+  "eligibility": {
+    "status": "Likely eligible",
+    "reasons": [
+      "Début possible en mars 2027 (« à partir de février, mars ou avril 2027 ») et durée de 4 à 6 mois : un stage du 1er mars au 31 août 2027 semble possible, à confirmer avec l'employeur.",
+      "Niveau Bac+4/Bac+5 en actuariat demandé : M2 IREF Finance quantitative et actuariat en cours, stage de fin d'études sous convention.",
+      "Aucune exigence de nationalité, d'année de césure ou de diplôme déjà obtenu dans le texte."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Doublon : cette offre correspond à J-E0459057 (CNP Assurances, « Stage Analyste Risques 2027 », Issy-les-Moulineaux) déjà dans le tracker.",
+    "Famille exclue (actuariat, y compris risques assurance / Solvabilité II) selon les cibles du 2026-10-14 : priorité plafonnée à Low priority quel que soit le score.",
+    "Aucune URL officielle dans le texte transmis (source indiquée « url » mais aucun lien fourni) ; page officielle non consultée, statut Unverified.",
+    "Date de publication, date limite et référence absentes du texte : Unknown."
+  ]
+}
