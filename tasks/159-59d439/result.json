@@ -1,0 +1,47 @@
+{
+  "language": "FR",
+  "cover_letter": {
+    "subject": "Candidature – Stage Analyste Risques 2027 – Consolidation (Direction des Risques Groupe, Capital & Solvabilité), 6 mois à partir du 1er mars 2027",
+    "salutation": "Madame, Monsieur,",
+    "paragraphs": [
+      "Étudiant en Master 2 IREF – Finance quantitative et actuariat à l'Université de Bordeaux, en double diplôme avec le cycle ingénieur Informatique, Data & IA de l'ENSEIRB-MATMECA (Bordeaux INP), je vous adresse ma candidature pour le stage Analyste Risques au sein du service Consolidation du département Capital & Solvabilité. Je suis disponible pour un stage de fin d'études de 6 mois, du 1er mars au 31 août 2027. Construire et expliquer le ratio de couverture Solvabilité 2 d'un groupe présent en Europe et en Amérique latine, au plus près de la communication financière, correspond précisément au métier vers lequel je souhaite m'orienter.",
+      "Mon parcours m'a d'abord appris la rigueur des chiffres que l'on doit pouvoir justifier. Chez Inside Therapeutics (juin – septembre 2026), j'ai automatisé le traitement d'environ 500 échantillons par mois avec une validation indépendante des calculs : réconciliation, piste d'audit et documentation, appuyées par 4 123 tests automatisés. J'y ai aussi conçu seul la plateforme LabData (Python, SQL, Streamlit), mise en production en 7 semaines, puis présentée au comité de direction. Chez Société Générale à Casablanca (août – septembre 2025), en tant que Data Analyst – Finance de marché, j'ai intégré 6 sources de données en flux contrôlés alimentant les outils de P&L et mis en place plus de 25 contrôles automatisés de qualité des données et de conformité, suivis dans des reportings Power BI destinés aux équipes Finance, Risques et Trading : un premier contact concret avec les marchés financiers. Ces expériences me préparent aux rapprochements multinormes, à l'intégration des contributions des filiales et au développement d'outils quantitatifs que vous décrivez.",
+      "Sur le plan prudentiel, je suis cette année les cours du M2 en réglementation prudentielle, risque de marché (VaR, Expected Shortfall, backtesting, stress tests), fixed income et produits dérivés, gestion de portefeuille et actuariat. Pour me confronter directement à votre périmètre, j'ai mené un projet de calcul du ratio de couverture Solvabilité 2 en formule standard (Python, Excel) : SCR marché, ratio de couverture, sensibilités et analyse de mouvement, à partir de SFCR publics. Ce projet m'a rendu particulièrement attentif à l'analyse de mouvement et aux sensibilités de marché, au cœur de vos travaux d'estimation du ratio.",
+      "Habitué au travail en équipe (projet de market making en équipe de six, organisation d'événements au sein de l'association CLUBEE) et à l'échange avec des interlocuteurs variés, je travaille aussi bien en français qu'en anglais (TOEIC 970/990). Je serais heureux de vous exposer plus en détail ma motivation lors d'un entretien."
+    ],
+    "closing": "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88"
+  },
+  "linkedin_connection": "Bonjour, étudiant en M2 Finance quantitative et actuariat (Bordeaux) et à l'ENSEIRB-MATMECA, je suis très intéressé par le stage Analyste Risques – Consolidation de CNP. Au plaisir d'échanger !",
+  "recruiter_message": "Bonjour,\nÉtudiant en M2 IREF – Finance quantitative et actuariat (Université de Bordeaux, double diplôme ENSEIRB-MATMECA), je candidate au stage Analyste Risques 2027 – Consolidation, de 6 mois à partir du 1er mars 2027.\nChez Société Générale, j'ai mis en place plus de 25 contrôles automatisés de qualité des données alimentant les outils de P&L ; chez Inside Therapeutics, j'ai industrialisé des calculs avec réconciliation et piste d'audit.\nJ'ai par ailleurs mené un projet de calcul du ratio de couverture Solvabilité 2 en formule standard sur des SFCR publics.\nSeriez-vous disponible pour un bref échange sur le poste ?\nBien cordialement,\nIhab Jaouad",
+  "application_email": {
+    "subject": "Candidature – Stage Analyste Risques 2027 – Consolidation – Ihab Jaouad (mars – août 2027)",
+    "body": "Madame, Monsieur,\n\nJe vous adresse ma candidature pour le stage Analyste Risques 2027 au sein du service Consolidation (département Capital & Solvabilité, Direction des Risques Groupe).\n\nÉtudiant en Master 2 IREF – Finance quantitative et actuariat à l'Université de Bordeaux, en double diplôme avec l'ENSEIRB-MATMECA (cycle ingénieur Informatique, Data & IA), je recherche un stage de fin d'études de 6 mois, du 1er mars au 31 août 2027.\n\nMes stages chez Société Générale (Data Analyst – Finance de marché : 6 sources de données intégrées en flux contrôlés vers les outils de P&L, plus de 25 contrôles automatisés) et chez Inside Therapeutics (validation indépendante des calculs, réconciliation, piste d'audit) m'ont appris à produire des chiffres fiables et justifiables. J'ai également mené un projet de calcul du ratio de couverture Solvabilité 2 en formule standard (SCR marché, sensibilités, analyse de mouvement) à partir de SFCR publics, en complément de mes cours de réglementation prudentielle, de risque de marché et d'actuariat.\n\nVous trouverez ci-joint mon CV et ma lettre de motivation. Je reste à votre disposition pour un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nIhab Jaouad\nihab.jaouad5@gmail.com\n+33 6 25 58 61 88\nhttps://www.linkedin.com/in/ihab-jaouad-848664171/"
+  },
+  "facts_used": [
+    "Master 2 IREF – Finance quantitative et actuariat, Université de Bordeaux, double diplôme avec l'ENSEIRB-MATMECA, 2026 – 2027, en cours",
+    "Diplôme d'ingénieur Informatique, Data & IA, ENSEIRB-MATMECA (Bordeaux INP), 2024 – 2027, en cours",
+    "Disponibilité : stage de 6 mois du 1er mars au 31 août 2027 (stage de fin d'études)",
+    "Cours M2 suivis (en cours) : réglementation prudentielle, risque de marché (VaR, Expected Shortfall, backtesting, stress tests), fixed income et produits dérivés, gestion de portefeuille, actuariat",
+    "Inside Therapeutics, juin – sept. 2026 : traitement automatisé d'environ 500 échantillons/mois avec validation indépendante des calculs (réconciliation, piste d'audit, documentation), 4 123 tests",
+    "Inside Therapeutics : LabData conçu et développé seul (Python, SQL, Streamlit), en production en 7 semaines, présenté au CODIR",
+    "Société Générale, Casablanca, août – sept. 2025, intitulé FR « Data Analyst – Finance de marché » : 6 sources de données intégrées (Python, SQL) en flux automatisés et contrôlés alimentant les outils de P&L",
+    "Société Générale : plus de 25 contrôles automatisés de qualité des données et de conformité, reportings Power BI pour les équipes Finance, Risques et Trading",
+    "Projet de market making par apprentissage par renforcement mené en équipe de 6",
+    "CLUBEE (2024 – 2026) : Event Manager, organisation d'événements en équipe",
+    "Anglais courant C1, TOEIC 970/990 ; Français C2",
+    "Projet proposé pour cette offre : Ratio de couverture Solvabilité 2 en formule standard (Python, Excel) – SCR marché, ratio de couverture S2, sensibilités, analyse de mouvement, sur SFCR publics",
+    "Contact : ihab.jaouad5@gmail.com, +33 6 25 58 61 88, LinkedIn https://www.linkedin.com/in/ihab-jaouad-848664171/"
+  ],
+  "warnings": [
+    "Le projet « Ratio de couverture Solvabilité 2 en formule standard » est cité dans la lettre, le message au recruteur et l'e-mail comme mené par Ihab : il doit être réellement réalisé (et marqué réalisé dans l'app) avant tout envoi ; sinon, retirer ces passages.",
+    "Lieu : Issy-les-Moulineaux, alors que la scolarité 2026-2027 est à Bordeaux. Confirmer la disponibilité en Île-de-France pour toute la durée du stage (1er mars – 31 août 2027) avant d'envoyer.",
+    "L'offre indique 4 à 6 mois à partir de février, mars ou avril 2027 : la période proposée (1er mars – 31 août 2027) est compatible, mais vérifier que l'école et le master autorisent ce calendrier sous convention.",
+    "L'offre cible un(e) « étudiant(e) en actuariat » : le M2 IREF couvre l'actuariat, mais Ihab doit pouvoir expliquer en entretien ce que contiennent ses cours d'actuariat et de réglementation prudentielle (suivis en ce moment, jamais présentés comme une maîtrise).",
+    "Chiffres à défendre en entretien : 4 123 tests (nature des tests), mise en production de LabData en 7 semaines, plus de 25 contrôles chez Société Générale (exemples de contrôles de conformité, entité exacte, ce qu'était un « outil de P&L »).",
+    "Market making en équipe de 6 : préparer la contribution individuelle ; ne jamais la présenter comme un travail personnel.",
+    "Date du TOEIC 970/990 à confirmer (certaines entreprises exigent un score de moins de 2 ans).",
+    "Le souhait « macroéconomie » de l'offre n'est couvert par aucun fait : il n'est pas mentionné dans les documents.",
+    "Destinataires indiqués dans l'offre (données non vérifiées) : Xuan Nguyen (thi-xuan.nguyen@cnp.fr) et Cyrine Gharbi (cyrine.gharbi@cnp.fr). La formule « Madame, Monsieur » est conservée faute de savoir comment s'adresser à chacune de ces personnes ; vérifier l'adresse avant tout envoi. Rien n'a été envoyé.",
+    "Demande de connexion LinkedIn : rédigée sans destinataire nommé ; vérifier qu'elle fait moins de 200 caractères après toute modification."
+  ]
+}
