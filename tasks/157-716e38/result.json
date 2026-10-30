@@ -1,0 +1,432 @@
+{
+  "language": "FR",
+  "keyword_map": [
+    {
+      "keyword": "Solvabilité II (Solvabilité 2)",
+      "importance": "E",
+      "support": 2,
+      "evidence": "proj_options : VaR/ES (FRTB, Solvabilité II) ; skills_finance",
+      "location": "Projet options, compétences Finance & risques",
+      "action": "Mis en tête du projet et de la ligne Finance & risques ; connaissance académique et projet, pas professionnelle"
+    },
+    {
+      "keyword": "Réglementation prudentielle",
+      "importance": "E",
+      "support": 2,
+      "evidence": "edu_m2 : cours « réglementation prudentielle (Bâle III) », en cours",
+      "location": "Formation M2 (cours en tête), compétences (Bâle III/FRTB, Solvabilité II)",
+      "action": "Cours remonté en tête des cours du M2, en gras"
+    },
+    {
+      "keyword": "Actuariat (étudiant en actuariat)",
+      "importance": "E",
+      "support": 2,
+      "evidence": "edu_m2 : Master 2 IREF – Finance quantitative et actuariat ; cours « actuariat »",
+      "location": "Formation (1re section après le profil), profil, accroche",
+      "action": "Formation placée avant l'expérience ; « actuariat » en tête des cours"
+    },
+    {
+      "keyword": "Rigueur et organisation",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_insidetx_1 : validation indépendante des calculs, réconciliation (concordance totale), piste d'audit, 4 123 tests ; exp_sg_2 : plus de 25 contrôles automatisés",
+      "location": "Profil, puces Inside Therapeutics et Société Générale",
+      "action": "Montré par les preuves (contrôles, rapprochements), pas par l'adjectif seul"
+    },
+    {
+      "keyword": "Travail en équipe",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_sg_2 : reportings pour les équipes Finance, Risques et Trading ; exp_insidetx_2 : outil utilisé par 6 scientifiques ; exp_clubee : équipe de 5 ; proj_rl : équipe de 6",
+      "location": "Expériences SG et Inside Therapeutics, ligne CLUBEE",
+      "action": "Conserver la ligne CLUBEE si la page le permet"
+    },
+    {
+      "keyword": "Anglais",
+      "importance": "E",
+      "support": 1,
+      "evidence": "skills_languages : anglais courant (C1 – TOEIC 970/990)",
+      "location": "Compétences – Langues",
+      "action": "Inchangé ; date du TOEIC à confirmer"
+    },
+    {
+      "keyword": "Analyse financière",
+      "importance": "E",
+      "support": 3,
+      "evidence": "exp_sg_1 : flux alimentant les outils de P&L ; proj_options : P&L explain ; cours M2 gestion de portefeuille, fixed income ; cours de finance d'entreprise déclarés par Ihab le 2026-10-16 (intitulés à préciser)",
+      "location": "Expérience SG, projet options",
+      "action": "Pas d'affirmation « analyse financière » sur le CV ; question posée à Ihab sur les cours de finance d'entreprise"
+    },
+    {
+      "keyword": "Rapprochements (multinormes)",
+      "importance": "E",
+      "support": 3,
+      "evidence": "exp_insidetx_1 : réconciliation (concordance totale) ; rien sur des normes comptables (S2, IFRS, sociales)",
+      "location": "Puce Inside Therapeutics 1",
+      "action": "« réconciliation » reformulé en « rapprochements » (synonyme exact) ; « multinormes » non ajouté → gaps"
+    },
+    {
+      "keyword": "Outils quantitatifs",
+      "importance": "E",
+      "support": 1,
+      "evidence": "exp_insidetx_2 : LabData, Python/ SQL/ Streamlit, en production ; exp_insidetx_3 : couche d'analyse (corrélations, régressions)",
+      "location": "Profil, puces Inside Therapeutics",
+      "action": "Vocabulaire « outil » repris pour LabData et dans le profil"
+    },
+    {
+      "keyword": "Mesures de risques",
+      "importance": "E",
+      "support": 2,
+      "evidence": "proj_options : VaR/ES, stress tests, backtesting ; cours M2 risque de marché",
+      "location": "Projet options, compétences, cours M2",
+      "action": "Mis en tête du projet ; titre du projet réorienté vers les risques"
+    },
+    {
+      "keyword": "Sensibilités de marché",
+      "importance": "E",
+      "support": 2,
+      "evidence": "proj_options : Greeks (sensibilités du prix d'une option)",
+      "location": "Titre du projet options, compétences (« sensibilités (Greeks) »)",
+      "action": "Reformulé « sensibilités » ; sensibilités du bilan d'un assureur = lacune, couverte par le projet proposé"
+    },
+    {
+      "keyword": "Risques de marché",
+      "importance": "E",
+      "support": 2,
+      "evidence": "cours M2 risque de marché ; proj_options",
+      "location": "Formation, projet options",
+      "action": "Mis en avant"
+    },
+    {
+      "keyword": "Ratio de couverture / SCR",
+      "importance": "E",
+      "support": 4,
+      "evidence": "—",
+      "location": "—",
+      "action": "gap : projet proposé new:1 (SCR marché en formule standard et ratio de couverture sur SFCR publics)"
+    },
+    {
+      "keyword": "Formule standard",
+      "importance": "E",
+      "support": 4,
+      "evidence": "—",
+      "location": "—",
+      "action": "gap : projet proposé new:1"
+    },
+    {
+      "keyword": "Pilier 1 / Pilier 2 (ORSA)",
+      "importance": "E",
+      "support": 4,
+      "evidence": "—",
+      "location": "—",
+      "action": "gap : à réviser avant l'entretien (QRT, ORSA, SFCR)"
+    },
+    {
+      "keyword": "Consolidation (intégration des filiales)",
+      "importance": "E",
+      "support": 4,
+      "evidence": "Adjacent seulement : exp_sg_1 intégration de 6 sources de données en flux contrôlés (données, pas consolidation prudentielle)",
+      "location": "—",
+      "action": "gap : mot non ajouté au CV ; l'intégration de flux peut servir d'exemple oral"
+    },
+    {
+      "keyword": "Analyse de mouvements",
+      "importance": "E",
+      "support": 4,
+      "evidence": "—",
+      "location": "—",
+      "action": "gap : projet proposé new:1 (analyse de mouvement du ratio entre deux exercices)"
+    },
+    {
+      "keyword": "Risque de souscription",
+      "importance": "E",
+      "support": 4,
+      "evidence": "—",
+      "location": "—",
+      "action": "gap : à réviser (modules vie / non-vie de la formule standard)"
+    },
+    {
+      "keyword": "ALM / risque de liquidité",
+      "importance": "E",
+      "support": 4,
+      "evidence": "Aucun cours d'ALM listé (seulement « actuariat » et « fixed income »)",
+      "location": "—",
+      "action": "gap : à confirmer avec Ihab si le M2 couvre l'ALM"
+    },
+    {
+      "keyword": "Marchés financiers (premier contact)",
+      "importance": "D",
+      "support": 1,
+      "evidence": "exp_sg : Data Analyst – Finance de marché, Société Générale, données pour plusieurs desks de marché",
+      "location": "Expérience Société Générale",
+      "action": "Conservé ; jamais « front office »"
+    },
+    {
+      "keyword": "Macroéconomie",
+      "importance": "D",
+      "support": 4,
+      "evidence": "—",
+      "location": "—",
+      "action": "gap : suivre taux, spreads, inflation et leur effet sur le ratio de couverture (veille)"
+    },
+    {
+      "keyword": "Veille prudentielle",
+      "importance": "C",
+      "support": 4,
+      "evidence": "—",
+      "location": "—",
+      "action": "gap : suivre la revue de Solvabilité II, publications ACPR / EIOPA"
+    },
+    {
+      "keyword": "Restitution (analyser et restituer)",
+      "importance": "C",
+      "support": 1,
+      "evidence": "exp_sg_2 : reportings et dashboards Power BI ; exp_insidetx_4 : LabData présenté au CODIR",
+      "location": "Puces SG et Inside Therapeutics 3",
+      "action": "« restitués » repris dans la puce SG ; présentation au CODIR fusionnée dans la puce 3"
+    },
+    {
+      "keyword": "Excel / VBA (attendu implicite)",
+      "importance": "C",
+      "support": 3,
+      "evidence": "skills_programming : Excel, VBA listés ; Excel avec preuve professionnelle faible (SG), VBA sans preuve visible",
+      "location": "Compétences – Programmation",
+      "action": "Excel remonté en tête des outils ; VBA non mis en avant (preuve faible)"
+    },
+    {
+      "keyword": "Bâle III",
+      "importance": "C",
+      "support": 2,
+      "evidence": "cours M2 réglementation prudentielle (Bâle III)",
+      "location": "Formation, compétences",
+      "action": "Inchangé"
+    }
+  ],
+  "section_order": [
+    "profile",
+    "education",
+    "experience",
+    "projects",
+    "skills"
+  ],
+  "bullet_order": [
+    {
+      "block_id": "exp_insidetx",
+      "bullet_ids": [
+        "exp_insidetx_1",
+        "exp_insidetx_2",
+        "exp_insidetx_3"
+      ]
+    },
+    {
+      "block_id": "exp_sg",
+      "bullet_ids": [
+        "exp_sg_2",
+        "exp_sg_1"
+      ]
+    }
+  ],
+  "removed_bullets": [
+    "exp_insidetx_4"
+  ],
+  "rewrites": [
+    {
+      "bullet_id": "exp_insidetx_1",
+      "text": "Automatisé le traitement de ~500 échantillons/mois avec validation indépendante des calculs : rapprochements (concordance totale), piste d'audit, documentation ; 4 123 tests (couverture 91 %).",
+      "reason": "Rigueur et fiabilité des chiffres en tête ; « réconciliation » → « rapprochements », vocabulaire de l'offre. Mêmes faits, mêmes nombres.",
+      "keywords": [
+        "rapprochements",
+        "rigueur",
+        "validation des calculs"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_2",
+      "text": "Conçu et développé seul, sans cahier des charges, l'outil LabData (Python/ SQL/ Streamlit), en production en 7 semaines : ~2 h de travail manuel gagnées par expérience pour 6 scientifiques.",
+      "reason": "Fait écho au « développement d'outils » de l'offre ; condensé, mêmes chiffres.",
+      "keywords": [
+        "outils",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "bullet_id": "exp_insidetx_3",
+      "text": "Ajouté de ma propre initiative une couche d'analyse (corrélations, régressions, bruit de mesure, alertes d'anomalies) pour la validation des machines ; présenté LabData au CODIR.",
+      "reason": "Fusion avec exp_insidetx_4 (retirée) : on garde la présentation au CODIR (restitution à la direction) ; le prototype de processus gaussien et le workshop IA sont peu utiles pour ce poste.",
+      "keywords": [
+        "analyse",
+        "restitution"
+      ]
+    },
+    {
+      "bullet_id": "exp_sg_2",
+      "text": "Automatisé plus de 25 contrôles de qualité des données et de conformité (auparavant manuels), restitués en reportings Power BI aux équipes Finance, Risques et Trading.",
+      "reason": "Contrôles et restitution aux équipes Risques mis en avant, vocabulaire « restituer » de l'offre ; plus court.",
+      "keywords": [
+        "contrôles",
+        "conformité",
+        "restitution",
+        "Risques"
+      ]
+    }
+  ],
+  "headline": "Stage de fin d'études (6 mois) – Analyste risques, Solvabilité II, actuariat – dès mars 2027",
+  "profile": "Élève ingénieur ENSEIRB-MATMECA (data & IA, top 3 % de la promotion), en double diplôme avec le M2 IREF – Finance quantitative et actuariat. Rigueur des chiffres : rapprochements, contrôles automatisés et outils quantitatifs (Python, SQL), de la finance de marché à la production.",
+  "field_rewrites": [
+    {
+      "block_id": "edu_m2",
+      "field": "extra",
+      "text": "**actuariat**, **réglementation prudentielle** (Bâle III), risque de marché (VaR, Expected Shortfall, stress tests, backtesting), risque de crédit (scoring), fixed income & produits dérivés, gestion de portefeuille, computational finance (Monte Carlo).",
+      "reason": "Cours les plus proches d'un poste prudentiel en assurance en tête ; finance mathématique et produits structurés retirés pour la place.",
+      "keywords": [
+        "actuariat",
+        "réglementation prudentielle",
+        "risque de marché"
+      ]
+    },
+    {
+      "block_id": "proj_options",
+      "field": "title",
+      "text": "Risques et sensibilités d'options – Python, Streamlit",
+      "reason": "Titre orienté mesures de risques et sensibilités, technologies réelles conservées.",
+      "keywords": [
+        "sensibilités",
+        "risques"
+      ]
+    },
+    {
+      "block_id": "proj_options",
+      "field": "desc",
+      "text": "VaR/ES (Solvabilité II, FRTB), stress tests, backtesting ; Greeks, Black–Scholes, delta-hedging, P&L explain.",
+      "reason": "Mesures de risques et Solvabilité II en premier ; mêmes éléments.",
+      "keywords": [
+        "Solvabilité II",
+        "VaR",
+        "stress tests"
+      ]
+    },
+    {
+      "block_id": "skills_finance",
+      "field": "content",
+      "text": "Solvabilité II, Bâle III/FRTB, VaR/Expected Shortfall, stress tests, backtesting, sensibilités (Greeks), Black–Scholes, delta-hedging, P&L, produits dérivés, fixed income.",
+      "reason": "Réglementation prudentielle et mesures de risques en tête ; « pricing d'options » condensé.",
+      "keywords": [
+        "Solvabilité II",
+        "réglementation prudentielle",
+        "sensibilités"
+      ]
+    },
+    {
+      "block_id": "skills_programming",
+      "field": "content",
+      "text": "Python (pandas, NumPy, scikit-learn, Streamlit), SQL (PostgreSQL), R, VBA, C/C++. Outils : Excel, Power BI, Git, Linux, développement assisté par IA (Claude Code).",
+      "reason": "Outils usuels d'une équipe de consolidation (Excel, SQL) en premier ; PyTorch, Java et TypeScript retirés (peu pertinents ici).",
+      "keywords": [
+        "Excel",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "block_id": "skills_quant",
+      "field": "content",
+      "text": "régression, séries temporelles, Monte Carlo, calcul stochastique, machine learning.",
+      "reason": "Méthodes statistiques appliquées en premier.",
+      "keywords": [
+        "régression"
+      ]
+    }
+  ],
+  "projects": [
+    "new:1",
+    "proj_options"
+  ],
+  "new_projects": [
+    {
+      "title": "Ratio de couverture Solvabilité II en formule standard – Python, Excel",
+      "desc": "SCR marché (taux, actions, spread) en formule standard, ratio de couverture et sensibilités, sur SFCR publics.",
+      "tools": [
+        "Python",
+        "pandas",
+        "Excel"
+      ],
+      "why": "Couvre le cœur des missions : construction et estimation du ratio de couverture S2, calculs en formule standard, mesures de risques et sensibilités de marché, analyse de mouvements entre deux exercices.",
+      "steps": [
+        "Lire les SFCR publics de deux exercices d'un assureur vie (S.02.01, S.23.01, S.25.01) et en extraire fonds propres éligibles et SCR par module.",
+        "Coder les sous-modules taux, actions et spread de la formule standard sur un portefeuille simplifié tiré des données publiques, avec les chocs et corrélations des actes délégués.",
+        "Agréger en SCR marché puis en BSCR avec la matrice de corrélation réglementaire, et calculer le ratio de couverture.",
+        "Produire les sensibilités du ratio (taux ±50 pb, actions −25 %, spreads) et les comparer à celles publiées dans le SFCR.",
+        "Construire une analyse de mouvement du ratio entre les deux exercices (marché, souscription, capital) dans un classeur Excel de restitution.",
+        "Documenter hypothèses, limites et sources dans un README ; garder le code privé ou public selon le choix d'Ihab."
+      ],
+      "effort_hours": 35
+    },
+    {
+      "title": "Veille prudentielle et analyse comparée de SFCR d'assureurs – Excel",
+      "desc": "Comparaison des ratios S2 publiés par trois assureurs vie et de leurs sensibilités aux taux et aux actions.",
+      "tools": [
+        "Excel",
+        "Python"
+      ],
+      "why": "Répond aux missions « analyser et restituer l'impact des évolutions économiques et réglementaires » et « veille prudentielle », et au souhait de macroéconomie.",
+      "steps": [
+        "Choisir trois assureurs vie français et télécharger leurs SFCR publics des deux derniers exercices.",
+        "Construire un tableau comparatif : ratio de couverture, composition du SCR, fonds propres par tier, sensibilités publiées.",
+        "Relier les variations du ratio aux évolutions de taux et de marchés actions sur la période (données publiques BCE / Banque de France).",
+        "Résumer la revue de Solvabilité II (EIOPA, Commission) et ses effets attendus en une note de deux pages.",
+        "Préparer une restitution de trois slides réutilisable en entretien."
+      ],
+      "effort_hours": 15
+    }
+  ],
+  "gaps": [
+    "Ratio de couverture S2, SCR et formule standard : aucune expérience ni cours explicite (projet proposé new:1).",
+    "Piliers 1, 2 et 3 de Solvabilité II (QRT, ORSA, SFCR) : non couverts.",
+    "Consolidation prudentielle Groupe, intégration des filiales, rapprochements multinormes (S2, IFRS 17, normes sociales) : non couverts.",
+    "Analyse de mouvements du ratio : non couverte (projet proposé new:1).",
+    "Risque de souscription (vie, non-vie, santé) : non couvert.",
+    "ALM et risque de liquidité d'un assureur : non couverts (aucun cours d'ALM listé).",
+    "Macroéconomie (souhaité) : aucune preuve.",
+    "Veille prudentielle : aucune preuve (projet proposé new:2).",
+    "Analyse financière d'un assureur : seulement indirecte (P&L, cours) ; cours de finance d'entreprise à préciser."
+  ],
+  "claims_to_defend": [
+    "Solvabilité II dans le projet d'options : ce qui est calculé (VaR à 99,5 % sur 1 an ?), et la différence avec le SCR en formule standard.",
+    "« Sensibilités (Greeks) » : savoir passer des sensibilités d'une option aux sensibilités du ratio de couverture d'un assureur (taux, actions, spread).",
+    "Rapprochements (concordance totale), 4 123 tests et 91 % de couverture chez Inside Therapeutics : nature des tests, outil de mesure.",
+    "LabData en production en 7 semaines, ~2 h gagnées par expérience : méthode de mesure du gain.",
+    "Société Générale : entité exacte, desks concernés, ce qu'était un « outil de P&L », exemples de contrôles de conformité ; jamais « front office ».",
+    "Top 3 % de la promotion ENSEIRB : période et taille de la promotion.",
+    "Cours du M2 IREF (actuariat, réglementation prudentielle) : en cours, connaissances académiques.",
+    "Motivation pour un poste prudentiel en assurance, alors que tes cibles sont les marchés et la gestion d'actifs.",
+    "Projets proposés (new:1, new:2), une fois réalisés : hypothèses, simplifications, sources SFCR."
+  ],
+  "assessment": {
+    "verdict": "Adéquation moyenne. Le M2 IREF « actuariat » correspond au profil demandé (étudiant en actuariat, Bac+5) et ta rigueur sur les chiffres (rapprochements, contrôles, tests) est un vrai atout pour une équipe de consolidation, mais tu n'as aucune pratique de Solvabilité II (SCR, formule standard, piliers) : face à des candidats d'écoles d'actuariat, ce qui fera la différence est le projet new:1 et un entretien où tu parles S2 avec précision. Attention : l'actuariat et les risques assurance / Solvabilité II sont dans tes familles exclues depuis le 2026-10-14 ; vérifie que tu veux bien postuler. Ordre : formation avant expérience, car l'offre recrute explicitement un étudiant en actuariat et le modèle S2 est au cœur du poste.",
+    "strengths": [
+      "Formation ciblée : M2 IREF Finance quantitative et actuariat, avec réglementation prudentielle et risque de marché.",
+      "Rigueur prouvée : validation indépendante des calculs, rapprochements en concordance totale, piste d'audit, 4 123 tests (Inside Therapeutics).",
+      "Contrôles et restitution : plus de 25 contrôles automatisés, reportings Power BI pour les équipes Finance, Risques et Trading (SG).",
+      "Premier contact avec les marchés financiers (SG, Finance de marché), souhaité par l'offre.",
+      "Capacité à construire seul un outil en production (LabData), utile pour les « outils quantitatifs Groupe ».",
+      "Anglais C1 (TOEIC 970/990)."
+    ],
+    "improvements": [
+      "Solvabilité II concrète : bilan prudentiel, SCR, formule standard, matrices de corrélation, MCR, fonds propres éligibles, ratio de couverture.",
+      "Piliers 2 et 3 : ORSA, QRT, SFCR, communication financière d'un assureur.",
+      "Risques assurance : souscription vie, ALM, liquidité, taux garantis, participation aux bénéfices.",
+      "Consolidation : périmètre, méthodes, passage entre normes (S2, IFRS 17, sociales).",
+      "Connaissance de CNP Assurances (groupe La Banque Postale, activité au Brésil, ratio publié) et actualité macro (taux, spreads)."
+    ],
+    "recommendations": [
+      "Réaliser d'abord new:1 (≈35 h) : c'est la preuve qui manque le plus ; new:2 (≈15 h) en complément pour la veille et l'entretien.",
+      "Lire le dernier SFCR de CNP Assurances (ratio, sensibilités publiées, analyse de mouvement) avant l'entretien.",
+      "Préparer une explication de deux minutes du passage VaR 99,5 % à 1 an → SCR → ratio de couverture.",
+      "Mettre en avant à l'oral les rapprochements et les contrôles (Inside Therapeutics, SG) comme preuves de rigueur.",
+      "Confirmer la disponibilité à Issy-les-Moulineaux du 1er mars au 31 août 2027 (compatible avec 4 à 6 mois à partir de mars)."
+    ]
+  },
+  "reply": "J'ai adapté le CV FR à l'offre CNP Assurances (Analyste Risques – Consolidation, Solvabilité II). Changements : accroche et profil réorientés risques / Solvabilité II / actuariat ; formation placée avant l'expérience ; cours du M2 réordonnés (actuariat et réglementation prudentielle en tête) ; « réconciliation » → « rapprochements » ; puce SG orientée contrôles et restitution aux équipes Risques ; puce GP / workshop retirée et présentation au CODIR fusionnée dans la puce 3 ; projet options réorienté mesures de risques et sensibilités ; compétences réordonnées (Solvabilité II et Excel en tête, PyTorch/Java/TypeScript retirés). Je propose le projet « Ratio de couverture Solvabilité II en formule standard » (affiché) et une veille comparée de SFCR (non affichée, pour l'entretien). Point d'attention : l'actuariat et les risques Solvabilité II font partie de tes familles exclues (décision du 2026-10-14) ; veux-tu vraiment postuler à cette offre ? Et une question : ton M2 IREF ou tes cours de finance d'entreprise couvrent-ils explicitement Solvabilité II, l'ALM ou l'analyse financière (intitulés exacts) ? Si oui, je pourrai les citer.",
+  "new_facts": []
+}
