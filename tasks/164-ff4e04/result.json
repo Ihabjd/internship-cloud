@@ -1,0 +1,123 @@
+{
+  "listing": {
+    "Employer": "BNP Paribas Personal Finance",
+    "Job_Title": "Stagiaire Data Scientist – Modélisation des risques de crédit (H/F)",
+    "Job_Family": "Credit Risk",
+    "Location": "Mérignac (Bordeaux), Gironde",
+    "Country": "France",
+    "Source": "Offre transmise par Ihab (texte collé)",
+    "Job_URL": "Unknown",
+    "Requisition_ID": "!S_PFBXCORP27_0006",
+    "Publication_Date": "Unknown",
+    "First_Discovered_Date": "2026-11-03",
+    "Last_Verified_Date": "Unknown",
+    "Application_Deadline": "Unknown",
+    "Internship_Start_Date": "2027-03",
+    "Internship_End_Date": "Unknown",
+    "Duration_Months": "6",
+    "Match_Score": "75",
+    "Priority": "Worth applying",
+    "Eligibility_Status": "Likely eligible",
+    "Core_Requirements_Met": "Yes",
+    "Main_Strengths": "Double cursus Bac+5 en cours (ingénieur Informatique, Data & IA ENSEIRB-MATMECA + M2 IREF mathématiques appliquées, statistique) ; Python professionnel (Société Générale, Inside Therapeutics) ; ML (scikit-learn, cours IA/ML), régressions et analyse de données en stage ; cours de risque de crédit (scoring) au M2 ; Excel ; anglais C1 (TOEIC 970) ; scolarité à Bordeaux, proche de Mérignac.",
+    "Essential_Gaps": "Aucun écart essentiel sur les exigences listées. Point faible : pas d'expérience professionnelle en modélisation du risque de crédit (scoring seulement en cours de M2, en cours).",
+    "Preferred_Gaps": "Pas de pratique démontrée des métriques de scoring crédit (AUC/Gini, stabilité, équité) ni de revue de littérature de recherche ; Pack Office au-delà d'Excel non attesté dans les CV.",
+    "Fit_Explanation": "Stage de recherche en data science appliquée au credit scoring : bon alignement technique (Python, ML, modélisation, analyse de grands jeux de données) et calendrier compatible (6 mois à partir de mars 2027). Mais famille Secondaire (risque de crédit / data & IA en finance), hors des cibles cœur marchés et gestion d'actifs, et hors Île-de-France. Score = priorisation interne, pas une probabilité d'embauche.",
+    "Verification_Status": "Unverified",
+    "Notes": "Page officielle non retrouvée le 2026-11-03 (une recherche web sur group.bnpparibas, sans résultat correspondant). Entité : Direction des Risques, Centre de Scoring (CS). Gratification indiquée : entre 1250 € et 2100 € brut mensuel (Bac+5). Télé-stage possible sous réserve d'accord du tuteur. Tests en ligne éliminatoires en pré-sélection, puis 1 à 2 entretiens. Famille Secondaire : à garder seulement si Ihab juge l'offre intéressante (proximité Bordeaux).",
+    "Score_Breakdown": {
+      "role": {
+        "points": 16,
+        "evidence": "Missions : revue de littérature, conception et test de modèles de credit scoring, exploration de grands ensembles de données, évaluation par métriques standard, restitution. Ihab : analyses de données, régressions et prototype de processus gaussien chez Inside Therapeutics, projet Real Estate Price Prediction (scikit-learn), cours de scoring crédit au M2 ; pas d'expérience de modélisation du risque de crédit."
+      },
+      "tech": {
+        "points": 21,
+        "evidence": "Exigés : Python, modélisation de données, Machine Learning, Pack Office. Python professionnel (SG, Inside Therapeutics), scikit-learn/PyTorch listés, cours ML/deep learning ENSEIRB, régressions en stage, Excel/Power BI ; Pack Office complet non attesté."
+      },
+      "academic": {
+        "points": 15,
+        "evidence": "« BAC+5 reconnu RNCP … école d'ingénieur, master universitaire … spécialisation en Data Science ou Statistiques » : diplôme d'ingénieur Informatique, Data & IA + M2 Mathématiques appliquées, statistique, en cours en 2026-2027."
+      },
+      "career": {
+        "points": 6,
+        "evidence": "Risque de crédit / data & IA en finance = famille Secondaire (5–7)."
+      },
+      "duration": {
+        "points": 9,
+        "evidence": "« 6 mois à temps plein à partir de Mars 2027 » : compatible avec le stage IREF du 1er mars au 31 août 2027 ; jour de début exact non précisé."
+      },
+      "location": {
+        "points": 8,
+        "evidence": "Mérignac (Bordeaux), hors Île-de-France : malus −2 ; « Anglais … courant » exigé vs EN C1, FR C2.."
+      }
+    },
+    "Required_Skills": [
+      "Diplôme BAC+5 reconnu RNCP en préparation (école de commerce, école d'ingénieur, master universitaire ou équivalent), spécialisation Data Science ou Statistiques",
+      "Pack Office",
+      "Python",
+      "Modélisation de données",
+      "Machine Learning",
+      "Anglais courant"
+    ],
+    "Preferred_Skills": [
+      "Esprit d'analyse",
+      "Curiosité",
+      "Capacité à communiquer",
+      "Rigueur",
+      "Force de proposition",
+      "Forte capacité d'adaptation"
+    ],
+    "Responsibilities": [
+      "Recherche et analyse : revues de littérature et évaluation des méthodologies existantes de scoring de crédit et de modélisation des risques",
+      "Développement de modèles : explorer, concevoir et tester des modèles basés sur les données pour le sujet de recherche assigné",
+      "Exploration des données : analyse de grands ensembles de données pour identifier tendances, variables et schémas liés au risque de crédit",
+      "Évaluation et validation : mesurer la performance des méthodologies développées avec des métriques standard",
+      "Rapport : documenter les résultats et présenter des recommandations à l'équipe"
+    ],
+    "Languages": [
+      "Anglais courant",
+      "Français (offre rédigée en français)"
+    ],
+    "Next_Action": "Décider si cette offre Secondaire (Bordeaux) vaut une candidature ; si oui, retrouver la page officielle sur group.bnpparibas (réf. !S_PFBXCORP27_0006) pour vérifier qu'elle est active et la date limite, puis préparer le CV et les tests en ligne éliminatoires.",
+    "Recommended_CV_Version": "CV FR – version Risques / Data (credit risk, data science), à adapter avec ats-cv-optimizer"
+  },
+  "language_of_posting": "FR",
+  "verified_facts": [
+    {"field": "Requisition_ID", "value": "!S_PFBXCORP27_0006", "quote": "Ref #\n!S_PFBXCORP27_0006"},
+    {"field": "Country", "value": "France", "quote": "Pays\nFrance"},
+    {"field": "Location", "value": "Mérignac, Gironde", "quote": "Le poste sera basé à Bordeaux sur le site de Mérignac"},
+    {"field": "Contract", "value": "Stage", "quote": "Type de contrat\nStage"},
+    {"field": "Employer", "value": "BNP Paribas Personal Finance", "quote": "Au sein de BNP Paribas Personal Finance, filiale à 100 % du groupe BNP Paribas"},
+    {"field": "Team", "value": "Direction des Risques, Centre de Scoring", "quote": "Au sein de la Direction des Risques, le Centre de Scoring (CS) a pour mission de construire et de maintenir des modèles de Machine Learning"},
+    {"field": "Job_Title", "value": "Stagiaire Data Scientist – Modélisation des risques de crédit (H/F)", "quote": "ÊTES-VOUS NOTRE PROCHAIN STAGIAIRE DATA SCIENTIST – MODELISATION DES RISQUES DE CREDIT (H/F) ?"},
+    {"field": "Duration_Months / Internship_Start_Date", "value": "6 mois, à partir de mars 2027", "quote": "Ce stage est à pourvoir pour une durée de 6 mois à temps plein à partir de Mars 2027."},
+    {"field": "Gratification", "value": "1250 € à 2100 € brut mensuel (BAC+5)", "quote": "entre 1250 € et 2100 € dans le cadre d'un BAC+5"},
+    {"field": "Academic requirement", "value": "BAC+5 RNCP, spécialisation Data Science ou Statistiques", "quote": "Vous préparez un diplôme BAC+5 reconnu RNCP en école de commerce, école d'ingénieur, master universitaire ou équivalent, avec une spécialisation en Data Science ou Statistiques."},
+    {"field": "Required_Skills", "value": "Pack Office, Python, modélisation de données, Machine Learning", "quote": "Vous maîtrisez le Pack Office et le langage Python.\n Vous avez des connaissances en modélisation de données et en Machine Learning."},
+    {"field": "Languages", "value": "Anglais courant", "quote": "Votre niveau Anglais est courant."},
+    {"field": "Selection process", "value": "Tests en ligne éliminatoires, puis 1 à 2 entretiens", "quote": "*Ces tests sont éliminatoires"},
+    {"field": "Remote work", "value": "Télé-stage possible sous réserve d'accord tuteur", "quote": "La possibilité de télé-stage selon l'environnement et sous réserve d'accord tuteur"}
+  ],
+  "inferences": [
+    {"field": "Job_Family", "value": "Credit Risk", "reasoning": "Modèles de credit scoring pour le crédit à la consommation au sein de la Direction des Risques : risque de crédit / data en finance, famille Secondaire des cibles d'Ihab."},
+    {"field": "Internship_End_Date", "value": "Unknown (fin août 2027 si début le 1er mars)", "reasoning": "Le jour exact du début n'est pas indiqué ; 6 mois à partir du 1er mars mèneraient au 31 août 2027, conforme à la règle IREF, mais ce n'est pas écrit."},
+    {"field": "Eligibility_Status", "value": "Likely eligible", "reasoning": "Début en mars 2027 et 6 mois compatibles avec le stage IREF (1er mars – 31 août 2027, sans extension) ; Bac+5 en préparation avec spécialisation data/statistiques ; jour de début à confirmer."},
+    {"field": "Core_Requirements_Met", "value": "Yes", "reasoning": "Python, ML et modélisation de données attestés par les CV (stages et projets) ; anglais C1 ; Pack Office partiellement attesté (Excel)."}
+  ],
+  "eligibility": {
+    "status": "Likely eligible",
+    "reasons": [
+      "Stage de 6 mois à partir de mars 2027 : compatible avec la fenêtre IREF du 1er mars au 31 août 2027 si le début est fixé au 1er mars (jour non précisé).",
+      "Diplôme BAC+5 en préparation (ingénieur Informatique, Data & IA + M2 mathématiques appliquées, statistique) : correspond à « spécialisation en Data Science ou Statistiques ».",
+      "Aucune exigence de nationalité ni de diplôme déjà obtenu dans le texte."
+    ]
+  },
+  "is_internship_offer": true,
+  "warnings": [
+    "Famille Secondaire (risque de crédit / data & IA en finance) : selon les cibles d'Ihab, à proposer seulement si l'offre est jugée exceptionnelle.",
+    "Page officielle non retrouvée le 2026-11-03 : Job_URL, date de publication et date limite inconnues ; statut Unverified.",
+    "Pas de doublon détecté parmi les offres connues (J-89D30187 Arval/BNP Paribas, risque de crédit retail, est une autre offre : autre entité, Rueil-Malmaison, réf. différente).",
+    "Tests en ligne éliminatoires en pré-sélection : prévoir un créneau calme pour les passer.",
+    "Score = priorisation interne, pas une probabilité d'embauche."
+  ]
+}
