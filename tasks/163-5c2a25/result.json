@@ -1,0 +1,1054 @@
+{
+  "run": {
+    "run_type": "daily",
+    "started_at": "2026-11-03T15:55:00+01:00",
+    "finished_at": "2026-11-03T16:15:00+01:00",
+    "queries_run": [
+      "Interselection Adviser stage 2027",
+      "JLT Invest stage 2027 Paris",
+      "Keyrus stage 2027 finance de marché quantitatif",
+      "stage structuration mars 2027 Paris",
+      "stage assistant gérant mars 2027 société de gestion Paris",
+      "Edmond de Rothschild stage 2027 gestion quantitative",
+      "VEGA Investment Solutions stage Analyste Quantitatif Multi Actifs Privés",
+      "Natixis stage 6 mois Assistant Syndication Obligataire recrutement.bpce.fr",
+      "off-cycle internship 2027 Paris structuring trading intern March 2027"
+    ],
+    "sources_reached": [
+      "WebSearch (résultats publics)",
+      "Alertes e-mail Indeed/LinkedIn (texte fourni par l'app)",
+      "Offres des sites officiels (texte fourni par l'app)"
+    ],
+    "sources_inaccessible": [
+      "careers.bankofamerica.com (ENOTFOUND depuis la session cloud)"
+    ]
+  },
+  "listings": [
+    {
+      "Location": "London, Paris, Hong Kong, Tokyo",
+      "Country": "France / Royaume-Uni / Hong Kong / Japon",
+      "Requisition_ID": "7297657002",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Gaps": "Pas d'expérience en prédiction de marché ou en event studies ; dates et durée non indiquées ; bureau d'affectation non précisé (4 villes).",
+      "Notes": "Offre déjà connue (J-4486CCAA, Discovered), aucun changement constaté. Salaire affiché en USD (120 000–180 000 $/an, prorata) : base US, non transposable à Paris.",
+      "Required_Skills": [
+        "Programmation (C++, Java, C#, MATLAB, R, Python ou Perl)",
+        "Compétences analytiques et quantitatives",
+        "Intérêt pour les marchés financiers et le trading systématique",
+        "Communication claire"
+      ],
+      "Preferred_Skills": [
+        "Modélisation de données avancée",
+        "Apprentissage statistique"
+      ],
+      "Responsibilities": [
+        "Prétraiter de très gros jeux de données pour l'estimation de modèles et les event studies",
+        "Identifier des variables et relations utiles à la modélisation prédictive des marchés"
+      ],
+      "Languages": [
+        "Anglais"
+      ],
+      "Employer": "Point72",
+      "Job_Title": "Quantitative Researcher - Intern",
+      "Job_Family": "Quant Research / Quant Analyst",
+      "Source": "Site carrières officiel (API Greenhouse, collecte de l'app)",
+      "Job_URL": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Yes",
+      "Main_Strengths": "Prétraitement de gros jeux de données et recherche de variables prédictives proches de LabData (Python/SQL, contrôles, régressions) et des cours ML/deep learning ; Python et C++ cités dans les langages acceptés ; intérêt marchés et trading systématique démontré par le projet de market making par RL (C++20/Python).",
+      "Essential_Gaps": "Aucun écart essentiel explicite dans le texte fourni.",
+      "Fit_Explanation": "Rôle de recherche quantitative cœur de cible, exigences générales (MS en discipline quantitative, Python/C++) remplies ; incertitudes sur le début (mars 2027 ?) et la ville. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Verified active",
+      "Score_Breakdown": {
+        "role": {
+          "points": 20,
+          "evidence": "Prétraitement (validation, nettoyage, normalisation, réduction de dimension) de gros jeux de données et identification de variables prédictives : proche des pipelines et analyses de LabData et des projets ML ; pas d'expérience de prédiction de marché."
+        },
+        "tech": {
+          "points": 21,
+          "evidence": "Exigé : programmation dans l'un de C++, Java, C#, MATLAB, R, Python, Perl → Python et C++20 vérifiés ; compétences analytiques fortes (finance mathématique, statistique)."
+        },
+        "academic": {
+          "points": 13,
+          "evidence": "« Undergraduate, MS, or PhD candidates in … quantitative discipline » : M2 IREF + ingénieur ENSEIRB en cours ; convention de stage non mentionnée."
+        },
+        "career": {
+          "points": 15,
+          "evidence": "Famille cœur A/B : quant research en fonds (rôle technique) = 15."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Début et durée non indiqués → inconnu."
+        },
+        "location": {
+          "points": 9,
+          "evidence": "Paris parmi 4 sites, ville d'affectation non précisée ; anglais requis implicitement (C1)."
+        }
+      },
+      "Next_Action": "Vérifier sur la page si un début en mars 2027 à Paris est possible, puis préparer le dossier (ats-cv-optimizer).",
+      "Recommended_CV_Version": "Quant Research / Quant Analyst (EN)",
+      "Match_Score": "84",
+      "Priority": "High priority"
+    },
+    {
+      "Location": "Paris",
+      "Country": "France",
+      "Requisition_ID": "10080498-WD",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "2026-12",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "Missions et compétences non fournies dans le texte (extrait tronqué).",
+      "Notes": "Offre déjà connue (J-0B17FEAF, Discovered), aucun changement constaté. Famille déduite de l'intitulé (« Risk Solutions Group », Global Markets) : à confirmer à la lecture complète de l'offre.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [
+        "Unknown"
+      ],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "MUFG",
+      "Job_Title": "6-month Internship – Risk Solutions Group EU (RSG), Global Markets – Dec 2026/Jan 2027",
+      "Job_Family": "Derivatives Pricing / Structuring",
+      "Source": "Site carrières officiel (API Workday, collecte de l'app)",
+      "Job_URL": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Paris/XMLNAME-6-month-Internship---Risk-Solutions-Group-EU--RSG---Global-Markets---Dec-2026-Jan-2027_10080498-WD",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Équipe Global Markets d'une banque active en dette, actions, dérivés et produits structurés ; projet pricing/Greeks/VaR-ES et cours dérivés et produits structurés du M2.",
+      "Essential_Gaps": "Début décembre 2026 / janvier 2027 incompatible avec le calendrier IREF (1er mars – 31 août 2027) sauf accord de l'employeur.",
+      "Fit_Explanation": "Famille marchés pertinente mais début en décembre/janvier ; le texte fourni ne décrit pas les missions. Famille déduite de l'intitulé. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Verified active",
+      "Score_Breakdown": {
+        "role": {
+          "points": 14,
+          "evidence": "Texte fourni limité à la présentation de MUFG (dette, actions, dérivés, produits structurés) : missions inconnues."
+        },
+        "tech": {
+          "points": 12,
+          "evidence": "Aucune exigence technique dans le texte fourni ; base dérivés/pricing vérifiée (projet Black–Scholes, Greeks)."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Exigences académiques non fournies ; début en décembre/janvier pendant les cours du M2."
+        },
+        "career": {
+          "points": 13,
+          "evidence": "Famille cœur A (marchés), famille déduite de l'intitulé."
+        },
+        "duration": {
+          "points": 3,
+          "evidence": "Intitulé : « Dec 2026/Jan 2027 », 6 mois → début incompatible sauf report au 1er mars."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Lire l'offre complète ; ne candidater que si un début au 1er mars 2027 est envisageable (à demander).",
+      "Recommended_CV_Version": "Structuring / Derivatives (EN)",
+      "Match_Score": "62",
+      "Priority": "Stretch opportunity"
+    },
+    {
+      "Location": "Paris",
+      "Country": "France",
+      "Requisition_ID": "10080532-WD",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "2027-01",
+      "Internship_End_Date": "2027-06",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "Exigences de compétences non fournies dans le texte (extrait tronqué).",
+      "Notes": "Offre déjà connue (J-7E2ECF12, Discovered), aucun changement constaté. Le texte dit aussi « starting as soon as possible ».",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [
+        "Travailler au sein du Credit Sales Group (Institutional Investor Sales group) à Paris"
+      ],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "MUFG",
+      "Job_Title": "6 month Internship - Fixed Income Credit Sales: Jan - June 2027",
+      "Job_Family": "Sales / Investment Solutions",
+      "Source": "Site carrières officiel (API Workday, collecte de l'app)",
+      "Job_URL": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Paris/XMLNAME-6-month-Internship---Fixed-Income-Credit-Sales--Jan---June-2027_10080532-WD",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Credit Sales au sein de l'Institutional Investor Sales group ; cours fixed income et produits dérivés du M2 ; ouverture aux rôles sales.",
+      "Essential_Gaps": "Période janvier–juin 2027 décalée du calendrier IREF (mars–août) ; recrutement au fil de l'eau (« rolling basis »).",
+      "Fit_Explanation": "Rôle sales crédit en banque de marché (cœur, préférence technique moindre), mais dates incompatibles sans accord de l'employeur. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Verified active",
+      "Score_Breakdown": {
+        "role": {
+          "points": 15,
+          "evidence": "Credit Sales Group (ICG) : stratégie Sales & Trading avec les équipes produits ; missions détaillées absentes."
+        },
+        "tech": {
+          "points": 10,
+          "evidence": "Aucune exigence technique fournie ; connaissances fixed income en cours (M2)."
+        },
+        "academic": {
+          "points": 11,
+          "evidence": "Exigences académiques non fournies."
+        },
+        "career": {
+          "points": 13,
+          "evidence": "Famille cœur A, sales = 13."
+        },
+        "duration": {
+          "points": 2,
+          "evidence": "Janvier – juin 2027 : début et fin incompatibles avec 1er mars – 31 août."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Faible priorité tant que les dates ne sont pas compatibles ; éventuellement demander si un décalage mars–août est possible.",
+      "Recommended_CV_Version": "Sales & Solutions (EN)",
+      "Match_Score": "61",
+      "Priority": "Stretch opportunity"
+    },
+    {
+      "Location": "Paris",
+      "Country": "France",
+      "Requisition_ID": "10080029-WD",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "2027-01",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "Missions et compétences non fournies (extrait tronqué) ; rôle d'origination plutôt que technique.",
+      "Notes": "Offre déjà connue (J-F359D383, Discovered), aucun changement constaté.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [
+        "Unknown"
+      ],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "MUFG",
+      "Job_Title": "6 month internship - Debt Capital Markets Bonds & Loans - January 2027",
+      "Job_Family": "Other",
+      "Source": "Site carrières officiel (API Workday, collecte de l'app)",
+      "Job_URL": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Paris/XMLNAME-6-month-internship---Debt-Capital-Markets-Bonds---Loans---January-2027_10080029-WD",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Marchés de capitaux de dette (obligations et prêts) dans une entité active sur les marchés européens ; cours fixed income.",
+      "Essential_Gaps": "Début janvier 2027 incompatible avec le calendrier IREF sauf accord de l'employeur.",
+      "Fit_Explanation": "DCM (marché primaire), adjacent aux familles cœur mais peu technique ; début en janvier. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Verified active",
+      "Score_Breakdown": {
+        "role": {
+          "points": 10,
+          "evidence": "DCM Bonds & Loans : origination/exécution d'émissions, éloigné des projets quant d'Ihab ; missions non détaillées."
+        },
+        "tech": {
+          "points": 8,
+          "evidence": "Aucune exigence technique fournie."
+        },
+        "academic": {
+          "points": 11,
+          "evidence": "Exigences académiques non fournies."
+        },
+        "career": {
+          "points": 9,
+          "evidence": "Marché primaire de dette : hors familles cœur listées, proche des marchés de capitaux."
+        },
+        "duration": {
+          "points": 3,
+          "evidence": "Janvier 2027, 6 mois → incompatible sauf report."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Pas d'action, sauf si Ihab vise le DCM : demander alors un début au 1er mars.",
+      "Recommended_CV_Version": "Sales & Solutions (EN)",
+      "Match_Score": "51",
+      "Priority": "Stretch opportunity"
+    },
+    {
+      "Location": "Paris Richelieu",
+      "Country": "France",
+      "Requisition_ID": "REQ-10121759",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Gaps": "Exigences non fournies dans l'extrait.",
+      "Notes": "Offre déjà connue (J-0BF4110F, Discovered), aucun changement constaté.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [
+        "Préparation de rendez-vous, recherche d'informations et pitchs clients",
+        "Mise à jour des dossiers KYC",
+        "Interface avec les équipes support",
+        "Support à la prospection commerciale",
+        "Reporting sur les activités et revenus du département"
+      ],
+      "Languages": [
+        "Français"
+      ],
+      "Employer": "ING",
+      "Job_Title": "Stagiaire Corporate Sector Coverage H/F/X",
+      "Job_Family": "Other",
+      "Source": "Site carrières officiel (API Workday, collecte de l'app)",
+      "Job_URL": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Paris-Richelieu/Stagiaire-Corporate-Sector-Coverage_REQ-10121759-2",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Recherche d'information et reporting d'activité/revenus : rigueur et reporting démontrés chez Société Générale (Power BI) et Inside Therapeutics.",
+      "Essential_Gaps": "Rôle de coverage corporate (pitchs, KYC, prospection) hors familles cibles.",
+      "Fit_Explanation": "Banque de financement, relation client corporate : hors cible (ni marchés, ni gestion). score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Verified active",
+      "Score_Breakdown": {
+        "role": {
+          "points": 6,
+          "evidence": "Préparation de rendez-vous, pitchs clients, KYC, support à la prospection, reporting : peu lié aux projets quant."
+        },
+        "tech": {
+          "points": 6,
+          "evidence": "Aucune exigence technique ; reporting seulement."
+        },
+        "academic": {
+          "points": 11,
+          "evidence": "Stage étudiant ; niveau requis non précisé dans l'extrait."
+        },
+        "career": {
+          "points": 3,
+          "evidence": "Coverage corporate : hors familles cibles."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Dates et durée non précisées."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris ; texte en français."
+        }
+      },
+      "Next_Action": "Aucune action (hors cible).",
+      "Recommended_CV_Version": "Aucune (hors cible)",
+      "Match_Score": "42",
+      "Priority": "Low priority"
+    },
+    {
+      "Location": "Paris Richelieu",
+      "Country": "France",
+      "Requisition_ID": "REQ-10123015",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "2027-01",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "VBA (atout) non mentionné dans les faits vérifiés.",
+      "Notes": "Offre déjà connue (J-469080F9, Discovered), aucun changement constaté.",
+      "Required_Skills": [
+        "Excel avancé (formules complexes, tableaux croisés dynamiques)",
+        "Esprit analytique et de synthèse",
+        "Rigueur",
+        "Anglais et français écrits et oraux"
+      ],
+      "Preferred_Skills": [
+        "VBA"
+      ],
+      "Responsibilities": [
+        "Origination : présentations commerciales et modèles financiers",
+        "Exécution : analyse crédit, négociation de documentation juridique, structuration de financements",
+        "Suivi d'un portefeuille de clients avec le Portfolio Manager"
+      ],
+      "Languages": [
+        "Anglais",
+        "Français"
+      ],
+      "Employer": "ING",
+      "Job_Title": "Stagiaire Corporate Lending - Origination & Execution / Credit Analyst",
+      "Job_Family": "Credit Risk",
+      "Source": "Site carrières officiel (API Workday, collecte de l'app)",
+      "Job_URL": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Paris-Richelieu/Stagiaire-Corporate-Lending---Origination---Execution---Credit-Analyst_REQ-10123015-1",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Partly",
+      "Main_Strengths": "Bac+4/5 avec spécialisation finance (M2 IREF) ; anglais/français ; esprit analytique ; appétence pour le risque (cours risque de crédit).",
+      "Essential_Gaps": "Début janvier 2027 incompatible avec le calendrier IREF ; modèles financiers corporate et documentation juridique de financement non couverts.",
+      "Fit_Explanation": "Analyse crédit / financement corporate : famille secondaire, début en janvier. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Verified active",
+      "Score_Breakdown": {
+        "role": {
+          "points": 8,
+          "evidence": "Origination (pitchs, modèles financiers) et exécution (analyse crédit, documentation juridique, structuration de financements) : éloigné des projets quant."
+        },
+        "tech": {
+          "points": 9,
+          "evidence": "Excel avancé (formules complexes, TCD), VBA en plus : Excel non listé explicitement dans les faits, VBA absent."
+        },
+        "academic": {
+          "points": 13,
+          "evidence": "« Bac +4/5 université, école de commerce ou d'ingénieurs, spécialisation Banque ou Finance » : rempli."
+        },
+        "career": {
+          "points": 5,
+          "evidence": "Crédit / financement corporate : famille secondaire."
+        },
+        "duration": {
+          "points": 3,
+          "evidence": "« kick-off in January 2027 for a duration of 6 months » → incompatible sauf report."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris ; anglais et français requis (C1 / C2)."
+        }
+      },
+      "Next_Action": "Aucune action (secondaire, début janvier).",
+      "Recommended_CV_Version": "Risk (FR)",
+      "Match_Score": "48",
+      "Priority": "Low priority"
+    },
+    {
+      "Location": "Champs-sur-Marne (77)",
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Gaps": "Dates, durée et exigences détaillées inconnues ; gratification affichée à partir de 690 €/mois.",
+      "Notes": "Vu dans les alertes Indeed 16, 20, 22, 24 et 26 (même lien). Gratification : « À partir de 690 € par mois » (Indeed).",
+      "Required_Skills": [
+        "Unknown"
+      ],
+      "Preferred_Skills": [],
+      "Responsibilities": [
+        "Concevoir et implémenter des techniques de collecte et de structuration de données financières",
+        "Utiliser des méthodes avancées (Machine Learning…)"
+      ],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "A CHORD Group",
+      "Job_Title": "STAGE EN FINANCE QUANTITATIVE F/H",
+      "Job_Family": "Quant Research / Quant Analyst",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=118b2934f4d9275d",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Collecte et structuration de données financières, machine learning : proche de LabData (Python/SQL) et des cours ML ; Île-de-France.",
+      "Essential_Gaps": "L'extrait vise un « stagiaire ingénieur R&D en finance quantitative M1 » : niveau M1 alors qu'Ihab est en dernière année (M2).",
+      "Fit_Explanation": "Sujet quant/R&D pertinent mais ciblé M1 ; à vérifier sur la page officielle. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 19,
+          "evidence": "Extraits : problématiques réelles de finance quantitative ; collecte et structuration de données financières ; méthodes avancées (Machine Learning…)."
+        },
+        "tech": {
+          "points": 18,
+          "evidence": "Machine learning et données financières cités ; Python/ML vérifiés ; liste complète des exigences inconnue."
+        },
+        "academic": {
+          "points": 7,
+          "evidence": "Offre ciblant un M1 : adéquation au stage de fin d'études M2 incertaine."
+        },
+        "career": {
+          "points": 13,
+          "evidence": "Recherche quantitative (cœur), employeur hors banque/gestion."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Dates inconnues."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Champs-sur-Marne (77), Île-de-France."
+        }
+      },
+      "Next_Action": "Chercher l'offre sur le site d'A CHORD Group et vérifier si un stage de fin d'études M2 mars–août est accepté.",
+      "Recommended_CV_Version": "Quant Research / Quant Analyst (FR)",
+      "Match_Score": "73",
+      "Priority": "Worth applying"
+    },
+    {
+      "Location": "Paris (75)",
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "Pas d'expérience en actifs privés ni en appels d'offres.",
+      "Notes": "Vu dans les alertes Indeed 16, 19 et 20 (même lien). Une requête web n'a pas trouvé la page officielle.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [
+        "Mise en place et création de nouveaux fonds d'actifs privés et de fonds semi-liquides / evergreen",
+        "Participer aux réponses aux appels d'offres"
+      ],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "VEGA Investment Solutions",
+      "Job_Title": "Stage - 6 mois – Analyste Quantitatif - Multi Actifs Privés F/H",
+      "Job_Family": "Asset Management / Portfolio Analytics",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=ed7f61a575e124fc",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Analyse quantitative en gestion d'actifs (cœur B), actifs privés ; cours gestion de portefeuille ; Python/SQL professionnels.",
+      "Essential_Gaps": "Exigences et date de début inconnues (seul l'extrait de l'alerte est disponible).",
+      "Fit_Explanation": "Analyste quantitatif en société de gestion (Natixis IM) sur des fonds d'actifs privés : bonne cible, faits à vérifier. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 16,
+          "evidence": "Extraits : création de fonds d'actifs privés et semi-liquides/evergreen ; réponses aux appels d'offres : analyse et support produit plus que modélisation."
+        },
+        "tech": {
+          "points": 14,
+          "evidence": "Exigences techniques inconnues ; intitulé « analyste quantitatif »."
+        },
+        "academic": {
+          "points": 12,
+          "evidence": "Stage 6 mois, niveau requis inconnu."
+        },
+        "career": {
+          "points": 15,
+          "evidence": "Cœur B : analyse quantitative en gestion d'actifs / private assets."
+        },
+        "duration": {
+          "points": 7,
+          "evidence": "6 mois, début inconnu."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Trouver l'offre sur le site carrières Natixis IM / BPCE, vérifier début mars 2027, puis préparer le dossier.",
+      "Recommended_CV_Version": "Asset Management / Portfolio Analytics (FR)",
+      "Match_Score": "74",
+      "Priority": "Worth applying"
+    },
+    {
+      "Location": "Paris (75)",
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "Unknown",
+      "Notes": "Vu dans l'alerte Indeed 15. Famille déduite de l'intitulé (SECM), non confirmée par le texte.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "Natixis CIB",
+      "Job_Title": "Stage - 6 mois - SECM Solutions - F/H",
+      "Job_Family": "Derivatives Pricing / Structuring",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=507e5a359f9825c7",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Banque de marché (cœur A) ; projet pricing d'options/Greeks et cours produits structurés.",
+      "Essential_Gaps": "Missions, exigences et début inconnus (l'extrait ne décrit que la gratification).",
+      "Fit_Explanation": "Équipe « SECM Solutions » d'une banque de marché : famille déduite de l'intitulé, à vérifier sur l'offre officielle. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 13,
+          "evidence": "Missions inconnues ; intitulé « SECM Solutions » (marchés de capitaux actions)."
+        },
+        "tech": {
+          "points": 12,
+          "evidence": "Exigences inconnues."
+        },
+        "academic": {
+          "points": 12,
+          "evidence": "Stage 6 mois, niveau requis inconnu."
+        },
+        "career": {
+          "points": 14,
+          "evidence": "Cœur A (structuration / solutions marchés), famille déduite de l'intitulé."
+        },
+        "duration": {
+          "points": 7,
+          "evidence": "6 mois, début inconnu."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Trouver l'offre sur recrutement.bpce.fr, lire les missions et la date de début.",
+      "Recommended_CV_Version": "Structuring / Derivatives (FR)",
+      "Match_Score": "68",
+      "Priority": "Worth applying"
+    },
+    {
+      "Location": "Paris (75)",
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "Unknown",
+      "Notes": "Vu dans les alertes Indeed 23 et 25 (« il y a 8–9 jours ») ; aucun lien fourni pour cette offre dans les alertes. Une requête web n'a pas trouvé la page officielle.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "Natixis",
+      "Job_Title": "Stage - 6 mois - Assistant Syndication Obligataire F/H",
+      "Job_Family": "Other",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "Unknown",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Marchés obligataires d'une banque de marché ; cours fixed income.",
+      "Essential_Gaps": "Missions, exigences et début inconnus ; rôle de marché primaire peu technique.",
+      "Fit_Explanation": "Syndication obligataire (DCM), adjacente aux familles cœur ; aucune URL dans l'alerte. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 11,
+          "evidence": "Syndication obligataire : missions non décrites dans l'extrait."
+        },
+        "tech": {
+          "points": 10,
+          "evidence": "Exigences inconnues."
+        },
+        "academic": {
+          "points": 12,
+          "evidence": "Stage 6 mois, niveau requis inconnu."
+        },
+        "career": {
+          "points": 10,
+          "evidence": "Marché primaire obligataire : adjacent au cœur A."
+        },
+        "duration": {
+          "points": 7,
+          "evidence": "6 mois, début inconnu."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Chercher l'offre sur recrutement.bpce.fr pour obtenir l'URL officielle et la date de début.",
+      "Recommended_CV_Version": "Sales & Solutions (FR)",
+      "Match_Score": "60",
+      "Priority": "Stretch opportunity"
+    },
+    {
+      "Location": "La Défense (92)",
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Gaps": "Unknown",
+      "Notes": "Vu dans les alertes Indeed 15 et 16. Aussi vu : https://fr.indeed.com/viewjob?jk=989bb516cb980ab4 (même intitulé, identifiant différent, peut-être une autre annonce). Rappel : le stage SG d'Ihab n'est pas du front office.",
+      "Required_Skills": [
+        "Excel, Access",
+        "Python, VBA, SQL"
+      ],
+      "Preferred_Skills": [],
+      "Responsibilities": [
+        "Analyse des risques sur opérations de marché"
+      ],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "Société Générale",
+      "Job_Title": "Analyste risques sur opérations de marché",
+      "Job_Family": "Market Risk / Risk Analytics",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=c6c8bb92edbe4d58",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Partly",
+      "Main_Strengths": "Python, SQL vérifiés ; cours risque de marché (VaR, ES, backtesting) ; expérience données marchés chez Société Générale (Casablanca, 2025).",
+      "Essential_Gaps": "Type de contrat inconnu : l'intitulé ne mentionne pas « stage » ; Access et VBA non mentionnés dans les faits vérifiés.",
+      "Fit_Explanation": "Risque sur opérations de marché (passerelle) avec outils Python/SQL : bonne adéquation technique si c'est bien un stage. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 17,
+          "evidence": "Analyse des risques sur opérations de marché ; extrait : exploration de l'IA pour simplifier le quotidien de l'équipe."
+        },
+        "tech": {
+          "points": 20,
+          "evidence": "Extrait : bases de données (Excel, Access) et langages (Python, VBA, SQL…) → Python et SQL vérifiés, VBA/Access non."
+        },
+        "academic": {
+          "points": 9,
+          "evidence": "Type de contrat et niveau requis inconnus."
+        },
+        "career": {
+          "points": 11,
+          "evidence": "Passerelle : risque de marché en banque."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Dates inconnues."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "La Défense, Île-de-France."
+        }
+      },
+      "Next_Action": "Vérifier sur careers.societegenerale.com qu'il s'agit d'un stage compatible mars–août 2027.",
+      "Recommended_CV_Version": "Market Risk (FR)",
+      "Match_Score": "73",
+      "Priority": "Worth applying"
+    },
+    {
+      "Location": "Courbevoie (92)",
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Gaps": "Pas de connaissance des marchés de l'électricité dans les faits vérifiés.",
+      "Notes": "Vu dans les alertes Indeed 19 et 21. L'extrait demande d'indiquer les dates de stage avec CV + lettre.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "TotalEnergies",
+      "Job_Title": "STAGE Short Term Power Middle Office Analyst H/F",
+      "Job_Family": "Trading / Trading Analytics",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=faec9171e5af376f",
+      "Eligibility_Status": "Likely eligible",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Middle office d'une activité de trading d'électricité court terme ; contrôles et flux de données vers les outils de P&L (Société Générale) ; Python/SQL.",
+      "Essential_Gaps": "Missions, exigences et dates inconnues.",
+      "Fit_Explanation": "Middle office trading énergie : passerelle (contrôle des activités de marché), hors banque. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 13,
+          "evidence": "Middle office de trading électricité court terme : missions non détaillées."
+        },
+        "tech": {
+          "points": 12,
+          "evidence": "Exigences inconnues."
+        },
+        "academic": {
+          "points": 12,
+          "evidence": "Stage, niveau requis inconnu."
+        },
+        "career": {
+          "points": 10,
+          "evidence": "Passerelle : contrôle / valorisation d'activités de marché."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Dates inconnues (à indiquer par le candidat)."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Courbevoie, Île-de-France."
+        }
+      },
+      "Next_Action": "Chercher l'offre sur le site carrières TotalEnergies et vérifier les dates.",
+      "Recommended_CV_Version": "Market Risk (FR)",
+      "Match_Score": "63",
+      "Priority": "Stretch opportunity"
+    },
+    {
+      "Location": "Paris (75)",
+      "Country": "France",
+      "Requisition_ID": "Unknown",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "6",
+      "Preferred_Gaps": "Pas d'expérience en investissement non coté.",
+      "Notes": "Vu dans les alertes Indeed 15, 19 et 23. Aussi vu : https://fr.indeed.com/viewjob?jk=9596dec8619036aa (publié par Crédit Mutuel Arkéa). Plafond Low priority : début incompatible sans flexibilité indiquée.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "Arkéa Capital (Crédit Mutuel Arkéa)",
+      "Job_Title": "STAGE Analyste Venture Capital à impact H/F",
+      "Job_Family": "Private Equity / Private Debt",
+      "Source": "Alerte e-mail Indeed",
+      "Job_URL": "https://fr.indeed.com/viewjob?jk=7c8d7747fd37aa10",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Private equity (cœur B).",
+      "Essential_Gaps": "Disponibilité demandée : 6 mois à partir de janvier, ou à partir de juillet/septembre : aucune option mars–août.",
+      "Fit_Explanation": "Famille cœur mais calendrier incompatible : priorité plafonnée à Low priority. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 12,
+          "evidence": "Analyse venture capital à impact (PME/ETI) : missions non détaillées."
+        },
+        "tech": {
+          "points": 9,
+          "evidence": "Exigences inconnues."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Extrait : « césure ou stage de fin d'étude »."
+        },
+        "career": {
+          "points": 13,
+          "evidence": "Cœur B : private equity (rôle non quantitatif)."
+        },
+        "duration": {
+          "points": 2,
+          "evidence": "« 6 mois (à partir de janvier, ou à partir de juillet/septembre) » : incompatible."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Aucune action sauf si Arkéa accepte un début au 1er mars.",
+      "Recommended_CV_Version": "Private Equity / Private Debt (FR)",
+      "Match_Score": "56",
+      "Priority": "Low priority"
+    },
+    {
+      "Location": "Paris",
+      "Country": "France",
+      "Requisition_ID": "14724",
+      "Publication_Date": "Unknown",
+      "First_Discovered_Date": "2026-11-03",
+      "Last_Verified_Date": "2026-11-03",
+      "Application_Deadline": "Unknown",
+      "Internship_Start_Date": "Unknown",
+      "Internship_End_Date": "Unknown",
+      "Duration_Months": "Unknown",
+      "Preferred_Gaps": "Unknown",
+      "Notes": "Intitulé repris du slug de l'URL (page inaccessible depuis la session : hôte non résolu). Requisition_ID = identifiant de l'URL.",
+      "Required_Skills": [],
+      "Preferred_Skills": [],
+      "Responsibilities": [],
+      "Languages": [
+        "Unknown"
+      ],
+      "Employer": "Bank of America",
+      "Job_Title": "Global Markets Sales and Trading 2027 Off-Cycle Analyst - Paris",
+      "Job_Family": "Trading / Trading Analytics",
+      "Source": "Recherche web (résultat sur careers.bankofamerica.com, page non accessible)",
+      "Job_URL": "https://careers.bankofamerica.com/en-us/students/job-detail/14724/global-markets-sales-and-trading-2027-off-cycle-analyst-paris-paris-france",
+      "Eligibility_Status": "Unclear",
+      "Core_Requirements_Met": "Unknown",
+      "Main_Strengths": "Sales, trading et structuration en banque de marché (cœur A) ; projets pricing/Greeks et market making.",
+      "Essential_Gaps": "Page non lue : dates, éligibilité et exigences non vérifiées. Le résumé de recherche évoque une fin d'études entre septembre 2027 et juillet 2028 (non vérifié).",
+      "Fit_Explanation": "Programme off-cycle marchés à Paris, cible cœur ; toutes les données restent à vérifier sur la page officielle. score = priorisation interne, pas une probabilité d'embauche.",
+      "Verification_Status": "Unverified",
+      "Score_Breakdown": {
+        "role": {
+          "points": 15,
+          "evidence": "Sales & trading / structuration d'après le résultat de recherche ; missions non lues."
+        },
+        "tech": {
+          "points": 14,
+          "evidence": "Exigences non lues."
+        },
+        "academic": {
+          "points": 10,
+          "evidence": "Fenêtre de diplomation sept. 2027 – juil. 2028 citée par le résumé de recherche, non vérifiée."
+        },
+        "career": {
+          "points": 14,
+          "evidence": "Cœur A : sales / trading / structuration."
+        },
+        "duration": {
+          "points": 6,
+          "evidence": "Dates inconnues."
+        },
+        "location": {
+          "points": 10,
+          "evidence": "Paris."
+        }
+      },
+      "Next_Action": "Ouvrir la page officielle (Ihab) : vérifier dates, fenêtre de diplomation et date limite.",
+      "Recommended_CV_Version": "Trading / Sales & Trading (EN)",
+      "Match_Score": "69",
+      "Priority": "Worth applying"
+    }
+  ],
+  "status_changes": [],
+  "search_log": [
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (rotation employeur)",
+      "Query_or_URL": "Interselection Adviser stage 2027",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈16 résultats, aucun lié à l'employeur",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Aucun résultat pertinent",
+      "Notes": "Employeur de rotation (cabinet orienté actuariat) : aucune offre trouvée."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (rotation employeur)",
+      "Query_or_URL": "JLT Invest stage 2027 Paris",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈18 résultats, aucun lié à l'employeur",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Aucun résultat pertinent",
+      "Notes": "Employeur de rotation : aucune offre trouvée."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (rotation employeur)",
+      "Query_or_URL": "Keyrus stage 2027 finance de marché quantitatif",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈18 résultats (actualités boursières)",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Aucune offre de stage dans les résultats",
+      "Notes": "Employeur de rotation (conseil data/EPM) : aucune offre trouvée."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (banque de requêtes)",
+      "Query_or_URL": "stage structuration mars 2027 Paris",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈20 résultats hors sujet",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Résultats hors finance",
+      "Notes": "Requête à reformuler (ajouter « finance » / « produits structurés »)."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (banque de requêtes)",
+      "Query_or_URL": "stage assistant gérant mars 2027 société de gestion Paris",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈17 résultats d'agrégateurs",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Agrégateurs sans date fiable",
+      "Notes": "« Stagiaire - Assistant Gérant Allocataire H/F » vu sur agefiph sans employeur ni date : non retenu."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (employeur prioritaire)",
+      "Query_or_URL": "Edmond de Rothschild stage 2027 gestion quantitative",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈17 résultats (actualités)",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Aucune offre Paris en gestion quantitative",
+      "Notes": "Une offre EdR Europe à Luxembourg (portfolio management) vue dans les résultats, non retenue (hors France)."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (page officielle d'une offre d'alerte)",
+      "Query_or_URL": "VEGA Investment Solutions stage Analyste Quantitatif Multi Actifs Privés",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈16 résultats JobTeaser (non ouverts)",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Page officielle non trouvée",
+      "Notes": "Offre gardée en Unverified avec le lien de l'alerte."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (page officielle d'une offre d'alerte)",
+      "Query_or_URL": "Natixis stage 6 mois Assistant Syndication Obligataire recrutement.bpce.fr",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈18 résultats (JobTeaser, Wizbii, iAgora ; non ouverts)",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Page officielle non trouvée",
+      "Notes": "Offre gardée en Unverified sans URL."
+    },
+    {
+      "Source": "WebSearch",
+      "Access_Method": "Requête web (banque de requêtes)",
+      "Query_or_URL": "off-cycle internship 2027 Paris structuring trading intern March 2027",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "≈15 résultats",
+      "New_Listings": "1",
+      "Errors_or_Limitations": "—",
+      "Notes": "Bank of America Paris off-cycle retenue (Unverified). Barclays « Sales, Trading and Structuring Off Cycle 2027 Paris » vue : employeur couvert par la collecte de l'app, non ajoutée."
+    },
+    {
+      "Source": "careers.bankofamerica.com",
+      "Access_Method": "WebFetch (via agent)",
+      "Query_or_URL": "https://careers.bankofamerica.com/en-us/students/job-detail/14724/global-markets-sales-and-trading-2027-off-cycle-analyst-paris-paris-france",
+      "Terms_or_Restrictions": "Recherche publique ; pas d'ouverture de LinkedIn/Indeed/WTTJ/JobTeaser/APEC",
+      "Results_Seen": "0",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "getaddrinfo ENOTFOUND : hôte non accessible depuis la session cloud",
+      "Notes": "Pas de nouvel essai."
+    },
+    {
+      "Source": "Alertes e-mail Indeed et LinkedIn (lues par l'app)",
+      "Access_Method": "Analyse du texte fourni dans le prompt",
+      "Query_or_URL": "Alertes 15 à 26",
+      "Terms_or_Restrictions": "Aucune ouverture d'Indeed ni de LinkedIn",
+      "Results_Seen": "≈130 lignes d'alerte (≈60 offres distinctes)",
+      "New_Listings": "7",
+      "Errors_or_Limitations": "Liens Indeed non ouverts (règle)",
+      "Notes": "7 offres retenues (Unverified) ; doublons et hors cible comptés dans le rapport."
+    },
+    {
+      "Source": "Sites carrières officiels (collecte de l'app)",
+      "Access_Method": "Texte fourni par l'app (API Workday / Greenhouse)",
+      "Query_or_URL": "6 offres MUFG, ING, Point72",
+      "Terms_or_Restrictions": "Pas de recherche web pour ces offres",
+      "Results_Seen": "6",
+      "New_Listings": "0",
+      "Errors_or_Limitations": "Extraits tronqués pour MUFG",
+      "Notes": "Toutes déjà connues (Discovered) ; évaluées, aucun changement."
+    }
+  ],
+  "report_markdown": "# Veille stages — 2026-11-03\n\n## A. Résumé exécutif\n- Vu aujourd'hui : 6 offres collectées par l'app sur les sites officiels (toutes déjà connues), environ 60 offres distinctes dans les alertes e-mail (Indeed, LinkedIn) et 9 requêtes web + 1 page tentée. **8 nouvelles offres** ajoutées, **aucune vérifiée sur une page officielle** (7 issues des alertes, 1 de la recherche web).\n- Meilleure offre : **Point72 — Quantitative Researcher - Intern** (84, High priority ; déjà connue, toujours active). Meilleure nouvelle offre : **A CHORD Group — Stage en finance quantitative** (73, à vérifier : l'annonce vise un M1).\n- Action du jour : trouver les pages officielles de VEGA IS (analyste quantitatif multi actifs privés) et de Société Générale (analyste risques sur opérations de marché).\n- La recherche n'est pas exhaustive : sources limitées aux résultats publics et aux alertes reçues. *Score = priorisation interne, pas une probabilité d'embauche.*\n\n## B. Nouvelles offres prioritaires (≥ 80)\nAucune nouvelle offre ≥ 80. Pour rappel, l'offre déjà connue **Point72 — Quantitative Researcher - Intern** a été réévaluée à **84 – High priority** (aucun changement de statut) :\n- **Point72 — Quantitative Researcher - Intern** · London, Paris, Hong Kong, Tokyo · https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002 · publiée : Unknown · début : Unknown · durée : Unknown · date limite : Unknown · **84 – High priority** · Quant Research / Quant Analyst · CV : Quant Research (EN)\n  - Forces : prétraitement de grands jeux de données, variables prédictives, Python/C++ acceptés ; projet market making RL.\n  - Écarts : ville et dates non précisées ; pas d'expérience de prédiction de marché.\n  - → Vérifier la possibilité d'un début en mars 2027 à Paris, puis préparer le dossier.\n\n## C. Autres offres pertinentes (50–79)\n### Publiées récemment (alertes des 29 octobre – 2 novembre, non vérifiées)\n- **A CHORD Group — STAGE EN FINANCE QUANTITATIVE F/H** · Champs-sur-Marne (77) · https://fr.indeed.com/viewjob?jk=118b2934f4d9275d · publiée : Unknown · début : Unknown · durée : Unknown · date limite : Unknown · **73 – Worth applying** · Quant Research · CV : Quant Research (FR)\n  - Forces : données financières et machine learning, proche de LabData. Écarts : l'annonce vise un « stagiaire ingénieur R&D … M1 ».\n  - → Trouver l'offre officielle et vérifier qu'un stage de fin d'études M2 mars–août est accepté.\n- **VEGA Investment Solutions — Stage - 6 mois – Analyste Quantitatif - Multi Actifs Privés F/H** · Paris · https://fr.indeed.com/viewjob?jk=ed7f61a575e124fc · publiée : Unknown · début : Unknown · 6 mois · date limite : Unknown · **74 – Worth applying** · Asset Management / Portfolio Analytics · CV : Asset Management (FR)\n  - Forces : analyse quantitative en gestion d'actifs (cœur). Écarts : exigences et début inconnus ; pas d'expérience en actifs privés.\n  - → Trouver l'offre sur le site Natixis IM / BPCE (non trouvée par une requête aujourd'hui).\n- **Société Générale — Analyste risques sur opérations de marché** · La Défense · https://fr.indeed.com/viewjob?jk=c6c8bb92edbe4d58 · publiée : Unknown · début : Unknown · durée : Unknown · date limite : Unknown · **73 – Worth applying** · Market Risk · CV : Market Risk (FR)\n  - Forces : Python/SQL demandés, cours de risque de marché. Écarts : type de contrat non indiqué (pas « stage » dans l'intitulé), VBA/Access non vérifiés.\n  - → Vérifier sur careers.societegenerale.com qu'il s'agit d'un stage compatible.\n- **Natixis CIB — Stage - 6 mois - SECM Solutions - F/H** · Paris · https://fr.indeed.com/viewjob?jk=507e5a359f9825c7 · publiée : Unknown · début : Unknown · 6 mois · date limite : Unknown · **68 – Worth applying** · Derivatives Pricing / Structuring (famille déduite de l'intitulé) · CV : Structuring (FR)\n  - Forces : banque de marché, projet pricing d'options. Écarts : missions inconnues.\n  - → Lire l'offre sur recrutement.bpce.fr.\n- **TotalEnergies — STAGE Short Term Power Middle Office Analyst H/F** · Courbevoie · https://fr.indeed.com/viewjob?jk=faec9171e5af376f · publiée : Unknown · dates : Unknown · **63 – Stretch opportunity** · Trading / Trading Analytics · CV : Market Risk (FR)\n  - Forces : contrôles et flux P&L (SG). Écarts : marchés de l'électricité non couverts ; missions inconnues.\n  - → Chercher l'offre officielle.\n- **Natixis — Stage - 6 mois - Assistant Syndication Obligataire F/H** · Paris · URL : Unknown (aucun lien dans les alertes) · publiée : Unknown (« il y a 8–9 jours » selon Indeed) · 6 mois · **60 – Stretch opportunity** · Other (DCM) · CV : Sales & Solutions (FR)\n  - Forces : marchés obligataires. Écarts : rôle de marché primaire peu technique ; missions inconnues.\n  - → Chercher l'offre sur recrutement.bpce.fr (non trouvée par une requête aujourd'hui).\n\n### Anciennes ou déjà connues, réévaluées aujourd'hui (sites officiels, Verified active, aucun changement)\n- **MUFG — 6-month Internship – Risk Solutions Group EU (RSG), Global Markets – Dec 2026/Jan 2027** · Paris · réf. 10080498-WD · **62 – Stretch opportunity** · début déc. 2026 / janv. 2027 : incompatible sauf report au 1er mars.\n- **MUFG — 6 month Internship - Fixed Income Credit Sales: Jan - June 2027** · Paris · réf. 10080532-WD · **61 – Stretch opportunity** · janvier–juin : dates incompatibles.\n- **MUFG — 6 month internship - Debt Capital Markets Bonds & Loans - January 2027** · Paris · réf. 10080029-WD · **51 – Stretch opportunity** · janvier, DCM.\n- Hors cible (Low priority) : **ING — Stagiaire Corporate Sector Coverage H/F/X** (42) ; **ING — Stagiaire Corporate Lending - Origination & Execution / Credit Analyst** (48, janvier 2027).\n\n## D. Échéances dans les 7 jours\n- **JPMorganChase** — Global Investment Banking Analyst Program Off-Cycle Paris (J-56FD8C0F), Global Corporate Banking Mid-Cap (J-492A0E60) et Large-Cap (J-C39F6A35) : date limite **2026-11-06** (données du tracker ; employeur couvert par la collecte de l'app, non re-vérifié sur le web). Familles hors cœur (banque d'affaires / corporate banking).\n- Aucune autre échéance connue dans les 7 jours.\n\n## E. Offres déjà connues dont le statut a changé\nAucun changement constaté. Les 6 offres collectées par l'app (MUFG ×3, ING ×2, Point72) sont déjà connues et toujours actives.\n\n## F. Offres découvertes mais non vérifiées\n- Les 7 offres issues des alertes ci-dessus (Unverified, liens Indeed non ouverts), plus :\n- **Bank of America — Global Markets Sales and Trading 2027 Off-Cycle Analyst - Paris** · https://careers.bankofamerica.com/en-us/students/job-detail/14724/global-markets-sales-and-trading-2027-off-cycle-analyst-paris-paris-france · **69 – Worth applying (provisoire)** · page inaccessible depuis la session ; le résumé de recherche évoque une fin d'études entre septembre 2027 et juillet 2028 (non vérifié). → À ouvrir par Ihab.\n- **Arkéa Capital — STAGE Analyste Venture Capital à impact H/F** · Paris · https://fr.indeed.com/viewjob?jk=7c8d7747fd37aa10 · 56 plafonné **Low priority** : disponibilité demandée à partir de janvier ou de juillet/septembre.\n- Vu mais non ajouté : Barclays « Sales, Trading and Structuring Off Cycle Internship Programme 2027 Paris » (employeur couvert par la collecte de l'app) ; « Stagiaire - Assistant Gérant Allocataire H/F » sur un agrégateur, sans employeur ni date.\n- Alertes : environ 60 offres distinctes ; 7 retenues ; 4 doublons d'offres connues (Natixis Assistant Sales Forex, Caisse d'Epargne Rhône Alpes Trésorier, Sienna Assistant Risk Manager, AXA Banque middle office collatéral) ; le reste hors cible (≈45 : actuariat et assurance AXA, régulateur AMF, biologie, marketing, contrôle de gestion, business developer, offres hors France, « club d'investissement » Replayrecords). L'alerte LinkedIn 18 (Anvers, Kiel) est adressée à un autre destinataire (« Mathis Dimitri ») : à signaler à Ihab.\n\n## G. Sources inaccessibles / erreurs techniques\n- careers.bankofamerica.com : hôte non résolu depuis la session cloud (ENOTFOUND), pas de nouvel essai.\n- Indeed, LinkedIn, JobTeaser, Wizbii : non ouverts (règle d'accès) ; seuls les extraits des alertes ont été utilisés.\n- Employeurs de rotation (Interselection Adviser Actuariat, JLT Invest, Keyrus) : aucune offre trouvée ; la requête Keyrus ne renvoie que des actualités financières.\n\n## H. Actions recommandées (maximum 3)\n1. Point72 : vérifier si un début en mars 2027 à Paris est possible, puis préparer le dossier (ats-cv-optimizer).\n2. Trouver les pages officielles de VEGA IS (Analyste Quantitatif Multi Actifs Privés) et Société Générale (Analyste risques sur opérations de marché) ; si ce sont des stages mars–août, les passer en « To review ».\n3. Ouvrir la page Bank of America Global Markets Off-Cycle Paris pour vérifier dates, éligibilité et date limite.\n"
+}
