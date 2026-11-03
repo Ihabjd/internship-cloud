@@ -1,0 +1,364 @@
+{
+ "language": "FR",
+ "keyword_map": [
+  {
+   "keyword": "Interest Rate Derivatives / dérivés de taux",
+   "importance": "E",
+   "support": 3,
+   "evidence": "edu_m2 : cours « fixed income & produits dérivés » (en cours) ; aucun swap de taux pricé à ce jour",
+   "location": "Formation (M2, cours en tête), Compétences finance (« produits dérivés, fixed income »), nouveau projet new:1",
+   "action": "Mettre « fixed income & produits dérivés » en tête ; combler par new:1 (IRS) avant de postuler"
+  },
+  {
+   "keyword": "pricing de dérivés",
+   "importance": "E",
+   "support": 2,
+   "evidence": "proj_options : Black–Scholes, Greeks ; edu_m2 : finance mathématique, computational finance (Monte Carlo)",
+   "location": "Projets (proj_options), Compétences finance, Profil (« pricing et couverture d'options »)",
+   "action": "Écrire « pricing d'options » (pas « de dérivés » en général) dans le profil, le projet et les compétences"
+  },
+  {
+   "keyword": "hedging strategies / stratégies de couverture",
+   "importance": "E",
+   "support": 2,
+   "evidence": "proj_options : delta-hedging et P&L explain",
+   "location": "Projets (proj_options), Compétences finance, Profil",
+   "action": "Écrire « stratégie de couverture (delta-hedging) »"
+  },
+  {
+   "keyword": "structuring / structuration",
+   "importance": "E",
+   "support": 3,
+   "evidence": "edu_m2 : cours « produits structurés » (en cours), aucune pratique",
+   "location": "Formation (M2)",
+   "action": "Mettre « produits structurés » en 2e position des cours ; ne pas revendiquer de pratique"
+  },
+  {
+   "keyword": "XVA / CVA",
+   "importance": "E",
+   "support": 4,
+   "evidence": "—",
+   "location": "—",
+   "action": "Écart : non ajouté au CV ; à combler par new:1 (CVA par Monte Carlo) ; base théorique : Monte Carlo (M2)"
+  },
+  {
+   "keyword": "booking / trade execution / post-trade",
+   "importance": "D",
+   "support": 4,
+   "evidence": "—",
+   "location": "—",
+   "action": "Écart : non ajouté ; préparer le cycle de vie d'un trade (booking, confirmation, settlement) pour l'entretien"
+  },
+  {
+   "keyword": "client pitch material / présentation de trade ideas",
+   "importance": "E",
+   "support": 3,
+   "evidence": "exp_insidetx_4 : présenté LabData au CODIR, workshop IA animé ; exp_sg_2 : reportings et dashboards Power BI",
+   "location": "Expérience (exp_insidetx_4 en tête du bloc), nouveau projet new:2",
+   "action": "Mettre la présentation au CODIR en avant ; combler le pitch client par new:2"
+  },
+  {
+   "keyword": "market monitoring",
+   "importance": "D",
+   "support": 3,
+   "evidence": "exp_sg : analyse de données pour plusieurs desks de marché ; skills_certifications : Citi MQA – Quantitative Market Analysis",
+   "location": "Expérience SG (sous-titre du maître), Certifications",
+   "action": "Pas de reformulation forcée ; préparer un point marché taux (BCE, €STR, courbe) pour l'entretien"
+  },
+  {
+   "keyword": "analytical and problem-solving skills",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_3 : corrélations, régressions, alertes d'anomalies ; exp_insidetx_2 : LabData sans cahier des charges",
+   "location": "Expérience Inside Therapeutics",
+   "action": "Garder LabData « sans cahier des charges » en tête du bloc"
+  },
+  {
+   "keyword": "attention to detail and accuracy / exactitude",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_1 : validation indépendante des calculs, réconciliation (concordance totale), 4 123 tests ; exp_sg_2 : plus de 25 contrôles automatisés",
+   "location": "Expérience (exp_insidetx_1, exp_sg_2)",
+   "action": "Écrire « exactitude des calculs » et « fiabilisé »"
+  },
+  {
+   "keyword": "strong interest in financial markets / Global Markets",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_sg : Data Analyst – Finance de marché, outils de P&L, équipes Trading ; M2 IREF ; certification AMF (en cours)",
+   "location": "Profil, Expérience SG, Certifications",
+   "action": "« finance de marché » dans le profil ; AMF laissée « en cours »"
+  },
+  {
+   "keyword": "communication & interpersonal skills",
+   "importance": "E",
+   "support": 1,
+   "evidence": "exp_insidetx_4 : CODIR, workshop IA ; exp_clubee : équipe de 5, plus de 10 événements ; skills_languages : anglais C1 (TOEIC 970)",
+   "location": "Expérience, Langues",
+   "action": "exp_insidetx_4 réécrite pour commencer par la communication"
+  },
+  {
+   "keyword": "improve workflow / tâches opérationnelles",
+   "importance": "D",
+   "support": 1,
+   "evidence": "exp_sg_2 : contrôles manuels remplacés par plus de 25 contrôles automatisés ; exp_insidetx_2 : ~2 h gagnées par expérience",
+   "location": "Expérience (exp_sg_2, exp_insidetx_2)",
+   "action": "Reprendre le mot « workflow » dans deux puces"
+  },
+  {
+   "keyword": "Excel / VBA",
+   "importance": "C",
+   "support": 3,
+   "evidence": "skills_programming : Excel, VBA listés, sans usage précis documenté dans les expériences",
+   "location": "Compétences programmation (avancés)",
+   "action": "Remonter VBA et Excel dans la ligne de compétences ; ne pas revendiquer de pricer Excel/VBA ; préparer un exemple d'usage"
+  },
+  {
+   "keyword": "Monte Carlo / calcul stochastique",
+   "importance": "C",
+   "support": 2,
+   "evidence": "edu_m2 : computational finance (Monte Carlo), finance mathématique (calcul stochastique) ; skills_quant",
+   "location": "Formation, Méthodes quantitatives",
+   "action": "Conserver (base de l'exposition XVA)"
+  },
+  {
+   "keyword": "corporate finance / project finance / infrastructure",
+   "importance": "C",
+   "support": 4,
+   "evidence": "—",
+   "location": "—",
+   "action": "Écart : non ajouté ; new:2 porte sur un financement de projet ; réviser LBO / acquisition finance et couverture de taux associée"
+  },
+  {
+   "keyword": "end-of-studies internship (stage de fin d'études)",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Candidate_Facts : stage de fin d'études sous convention, 1er mars – 31 août 2027",
+   "location": "Accroche",
+   "action": "Écrire la disponibilité réelle ; l'offre démarre en déc. 2026/janv. 2027 : écart de dates à traiter avant de postuler"
+  }
+ ],
+ "section_order": [
+  "profile",
+  "education",
+  "experience",
+  "projects",
+  "skills"
+ ],
+ "bullet_order": [
+  {
+   "block_id": "exp_insidetx",
+   "bullet_ids": [
+    "exp_insidetx_2",
+    "exp_insidetx_1",
+    "exp_insidetx_4"
+   ]
+  },
+  {
+   "block_id": "exp_sg",
+   "bullet_ids": [
+    "exp_sg_1",
+    "exp_sg_2"
+   ]
+  }
+ ],
+ "removed_bullets": [
+  "exp_insidetx_3"
+ ],
+ "rewrites": [
+  {
+   "bullet_id": "exp_insidetx_2",
+   "text": "Conçu seul, de bout en bout et sans cahier des charges, LabData : plateforme Python/SQL/Streamlit en production en 7 semaines ; workflow allégé de ~2 h par expérience pour 6 scientifiques.",
+   "reason": "Mêmes faits et chiffres ; « workflow » repris de l'offre ; l'autonomie sans cahier des charges illustre le problem-solving.",
+   "keywords": [
+    "workflow",
+    "problem-solving"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_1",
+   "text": "Automatisé le traitement de ~500 échantillons/mois avec exactitude : validation indépendante des calculs, réconciliation (concordance totale), piste d'audit ; 4 123 tests (couverture 91 %).",
+   "reason": "« attention to detail and accuracy » exigé : l'exactitude passe en tête ; « documentation » retiré et formulation resserrée pour gagner de la place, chiffres inchangés.",
+   "keywords": [
+    "accuracy",
+    "attention to detail"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_4",
+   "text": "Présenté LabData au CODIR, lancé et animé un workshop IA interne ; prototypé un modèle par processus gaussien sur plan d'expériences (active learning par incertitude).",
+   "reason": "La communication et la présentation (pitch, trade ideas) passent avant le prototype ; le modèle reste un prototype.",
+   "keywords": [
+    "communication",
+    "presentation"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_1",
+   "text": "Intégré 6 sources de données (Python, SQL) en flux automatisés et contrôlés pour les outils de P&L.",
+   "reason": "Raccourci, mêmes faits ; le lien avec le P&L des marchés reste en tête du bloc SG.",
+   "keywords": [
+    "P&L",
+    "Global Markets"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_2",
+   "text": "Fiabilisé le workflow : plus de 25 contrôles automatisés (qualité des données, conformité) au lieu de contrôles manuels ; reportings et dashboards Power BI pour Finance, Risques et Trading.",
+   "reason": "Reprend « improve workflow » et « accuracy » ; mêmes chiffres et équipes, jamais « front office » ; raccourci (la version précédente n'était pas plus courte que le maître).",
+   "keywords": [
+    "workflow",
+    "accuracy",
+    "Trading"
+   ]
+  }
+ ],
+ "field_rewrites": [
+  {
+   "block_id": "proj_options",
+   "field": "desc",
+   "text": "Pricing Black–Scholes, Greeks, stratégie de couverture (delta-hedging), P&L explain ; VaR/ES, stress tests.",
+   "reason": "L'offre porte sur pricing et hedging : ces mots en tête ; FRTB/Solvabilité II et backtesting retirés (hors sujet, place).",
+   "keywords": [
+    "pricing",
+    "hedging strategies"
+   ]
+  },
+  {
+   "block_id": "skills_finance",
+   "field": "content",
+   "text": "produits dérivés, fixed income, pricing d'options (Black–Scholes, Greeks), couverture (delta-hedging), P&L, VaR/Expected Shortfall, stress tests, Bâle III/FRTB.",
+   "reason": "Dérivés et fixed income en premier (dérivés de taux) ; Solvabilité II (assurance) et backtesting retirés.",
+   "keywords": [
+    "derivatives",
+    "fixed income",
+    "pricing",
+    "hedging"
+   ]
+  },
+  {
+   "block_id": "skills_programming",
+   "field": "content",
+   "text": "Python (pandas, NumPy, scikit-learn, PyTorch, Streamlit), SQL (PostgreSQL), VBA, C/C++, R. Outils : Excel, Power BI, Git, Linux, développement assisté par IA (Claude Code).",
+   "reason": "Excel, VBA et Power BI remontés (outils de pricing et de supports clients) ; Java et TypeScript retirés (faible pertinence, autorisé).",
+   "keywords": [
+    "Excel",
+    "VBA",
+    "Power BI"
+   ]
+  },
+  {
+   "block_id": "edu_m2",
+   "field": "extra",
+   "text": "fixed income & produits dérivés, produits structurés, finance mathématique (calcul stochastique), computational finance (Monte Carlo), risque de marché (VaR, Expected Shortfall, stress tests), risque de crédit (scoring), réglementation prudentielle (Bâle III).",
+   "reason": "Cours de taux, dérivés et structurés en tête (structuring and pricing of derivative solutions) ; risque de crédit gardé (base de la CVA) ; gestion de portefeuille, actuariat et backtesting retirés pour la place.",
+   "keywords": [
+    "fixed income",
+    "derivatives",
+    "structuring",
+    "Monte Carlo"
+   ]
+  },
+  {
+   "block_id": "edu_enseirb",
+   "field": "extra",
+   "text": "finance de marché, algorithmique numérique, C/C++/Python (POO), IA (ML, deep learning).",
+   "reason": "Finance de marché en premier (strong interest in financial markets).",
+   "keywords": [
+    "financial markets"
+   ]
+  }
+ ],
+ "projects": [
+  "new:1",
+  "proj_options",
+  "new:2"
+ ],
+ "new_projects": [
+  {
+   "title": "Pricing et couverture de swaps de taux avec CVA – Python, QuantLib",
+   "desc": "Courbe €STR bootstrappée, pricing d'IRS, DV01 et couverture ; exposition Monte Carlo (Hull–White) et CVA.",
+   "tools": [
+    "Python",
+    "QuantLib",
+    "NumPy",
+    "pandas"
+   ],
+   "why": "Le cœur du poste est le « booking and pricing of interest rate derivatives » et « of XVA » : ce projet couvre les deux écarts essentiels (IRS, XVA) et donne un sujet concret à défendre devant les product specialists RSG.",
+   "steps": [
+    "Récupérer des taux publics (€STR et taux de swap de la BCE / Banque de France) et bootstrapper une courbe d'actualisation avec QuantLib",
+    "Pricer un swap payeur fixe/variable vanille, calculer sa valeur, son taux par et son DV01 ; vérifier par une valorisation à la main en Python",
+    "Construire une couverture du DV01 avec des swaps de maturités standard et expliquer le P&L sur un choc de courbe",
+    "Simuler les taux avec un modèle Hull–White calibré simplement, calculer l'exposition (EE, PFE) du swap par Monte Carlo",
+    "Calculer une CVA unilatérale avec une probabilité de défaut tirée d'un spread hypothétique documenté ; rédiger un README sur les limites (pas de collatéral, pas de wrong-way risk)"
+   ],
+   "effort_hours": 35
+  },
+  {
+   "title": "Pitch de couverture de taux pour un financement de projet – Excel, Python",
+   "desc": "Pitch client : risque de taux d'un financement de projet, comparaison swap/cap/collar et recommandation.",
+   "tools": [
+    "Excel",
+    "Python",
+    "PowerPoint"
+   ],
+   "why": "L'offre exige une « strong ability to build clear, compelling, and visually engaging client pitch material » et des « presentations on specific trade ideas » pour des clients corporate et de project finance : c'est le seul moyen de montrer ce savoir-faire avant l'entretien.",
+   "steps": [
+    "Choisir un cas fictif mais réaliste (prêt à taux variable Euribor d'un projet d'infrastructure) et décrire l'exposition au risque de taux",
+    "Pricer un swap, un cap et un collar sur la même courbe publique (réutiliser new:1 ou un pricer Black simplifié)",
+    "Comparer les profils de coût de financement sous plusieurs scénarios de taux dans un tableur Excel",
+    "Rédiger un pitch de 6 à 8 slides : contexte client, analyse, solutions, recommandation, risques et points d'attention",
+    "Faire relire le pitch (enseignant du M2 ou camarade) et l'améliorer"
+   ],
+   "effort_hours": 20
+  }
+ ],
+ "headline": "Stage de fin d'études de 6 mois (dès mars 2027) – Pricing, structuration et couverture de dérivés",
+ "profile": "Élève ingénieur ENSEIRB-MATMECA (Informatique, data & IA), top 3 % de la promotion, en double diplôme avec le Master 2 IREF – Finance quantitative. Pricing et couverture d'options (projet), cours de fixed income et produits structurés ; rigueur et analyse en finance de marché.",
+ "gaps": [
+  "XVA / CVA (essentiel) : aucune pratique ; à combler par new:1",
+  "Pricing et booking de dérivés de taux (IRS, caps, swaptions) : cours seulement, aucune pratique ; new:1",
+  "Booking, exécution de trades et post-trade : aucune expérience",
+  "Supports de pitch client et trade ideas : aucune expérience client ; new:2",
+  "Corporate finance, project finance, financements d'infrastructure et d'acquisition : absents",
+  "Éligibilité : l'offre démarre en déc. 2026 / janv. 2027 alors que le stage d'Ihab est prévu du 1er mars au 31 août 2027"
+ ],
+ "claims_to_defend": [
+  "Top 3 % de la promotion ENSEIRB-MATMECA (quelle période, quelle taille de promotion)",
+  "Pricing et couverture d'options (proj_options) : dérivation de Black–Scholes, Greeks, P&L explain d'un portefeuille delta-hedgé",
+  "Cours « fixed income & produits dérivés » et « produits structurés » en cours : être prêt à pricer un swap et expliquer un cap/floor",
+  "Société Générale : stage de 2 mois, entité exacte, desks concernés, ce qu'était un « outil de P&L », exemples de contrôles",
+  "4 123 tests et 91 % de couverture : type de tests et outil de mesure",
+  "~2 h gagnées par expérience pour 6 scientifiques : méthode de mesure",
+  "Présentation au CODIR : contenu, durée, décisions prises",
+  "Certification AMF : en cours (date prévue)",
+  "Les deux nouveaux projets (IRS + CVA, pitch de couverture) : chaque hypothèse et limite"
+ ],
+ "assessment": {
+  "verdict": "Profil crédible pour un stage RSG sur le fond (bases solides en dérivés, rigueur prouvée, expérience marchés à la SG), mais deux obstacles majeurs : aucune pratique des dérivés de taux ni des XVA, et surtout un démarrage demandé en décembre 2026 / janvier 2027 alors qu'Ihab n'est disponible qu'à partir du 1er mars 2027. Sans accord de MUFG sur les dates, la candidature a peu de chances ; si les dates sont négociables, les projets IRS/CVA et pitch feront la différence. Ordre des sections : Formation avant Expérience, car pricing et structuration de dérivés sont au cœur du poste.",
+  "strengths": [
+   "Formation très alignée : M2 IREF (fixed income & produits dérivés, produits structurés, calcul stochastique, Monte Carlo, risque de crédit)",
+   "Projet de pricing et couverture d'options terminé (Black–Scholes, Greeks, delta-hedging, P&L explain)",
+   "Rigueur et exactitude démontrées : réconciliation en concordance totale, 4 123 tests, plus de 25 contrôles automatisés à la SG",
+   "Contact avec les marchés : stage Data Analyst – Finance de marché à la SG, outils de P&L, équipes Trading",
+   "Communication : présentation au CODIR, workshop IA, anglais C1 (TOEIC 970)"
+  ],
+  "improvements": [
+   "Dates incompatibles avec l'offre (déc. 2026/janv. 2027 contre mars 2027) : à clarifier avant tout",
+   "Aucune connaissance pratique des swaps de taux, caps/floors, swaptions ni des XVA (CVA, DVA, FVA)",
+   "Aucune expérience de pitch client ni de corporate finance / project finance",
+   "Ne connaît pas encore le cycle de vie d'un trade (booking, confirmation, post-trade)",
+   "Profil plus data/quant que client-facing : il faudra convaincre sur le savoir-être commercial",
+   "Le CV reste lisible en 30 s, mais le recruteur verra d'abord les dates (« dès mars 2027 ») : sans réponse sur ce point, le reste ne sera pas lu"
+  ],
+  "recommendations": [
+   "Vérifier d'abord si MUFG accepte un démarrage en mars 2027 (via le portail ou un événement école, sans démarchage automatisé) ; sinon, ne pas consacrer d'effort à cette offre",
+   "Réaliser en priorité new:1 (IRS + CVA) : c'est l'écart essentiel le plus visible",
+   "Réaliser new:2 (pitch de couverture) pour montrer la capacité à produire un support client",
+   "Réviser : courbes €STR/Euribor, pricing d'un swap, DV01, caps/floors (Black/Bachelier), XVA, hedging d'un financement d'acquisition ou de projet",
+   "Préparer une trade idea taux de 2 minutes sur le marché actuel (politique de la BCE, pente de la courbe)"
+  ]
+ },
+ "new_facts": [],
+ "reply": "Relecture « recruteur MUFG en 30 secondes » refaite (adéquation, fiabilité, qualité), page unique conservée : toutes les réécritures sont plus courtes que le maître.\nAméliorations :\n- Profil : « pricing et couverture de dérivés » devenait trop large (ton projet porte sur des options, les taux ne sont vus qu'en cours) ; remplacé par « pricing et couverture d'options (projet), cours de fixed income et produits structurés ». Plus court de 4 caractères.\n- Puce SG contrôles (exp_sg_2) : elle avait exactement la longueur du maître ; raccourcie de 7 %, mêmes faits.\n- Puce Inside Therapeutics traitement (exp_insidetx_1) : formulation « validation indépendante et exactitude des calculs » maladroite et presque aussi longue que le maître ; réécrite (« avec exactitude : validation indépendante des calculs… »), 5 % plus courte.\n- Puces LabData et CODIR/workshop : resserrées (5 à 8 % plus courtes), sans perte de chiffre.\n- Carte des mots-clés : Excel/VBA passé en support 3 (compétence listée, sans usage documenté) ; la CVA n'est plus rattachée au cours de scoring crédit, qui ne la couvre pas.\nInchangé : ordre Formation avant Expérience (pricing/structuration au cœur du poste), projets new:1 (IRS + CVA), proj_options, new:2 (pitch de couverture), retrait de la couche d'analyse.\nQuestion toujours ouverte, et décisive : peux-tu commencer en décembre 2026 ou janvier 2027 (calendrier du M2, convention) ? Sinon, cette offre est hors dates et je te conseille de ne pas y investir les 55 h des deux projets."
+}
