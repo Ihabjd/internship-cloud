@@ -1,0 +1,444 @@
+{
+ "language": "FR",
+ "keyword_map": [
+  {
+   "keyword": "Python",
+   "importance": "E",
+   "support": 1,
+   "evidence": "LabData, plateforme Python/SQL/Streamlit en production (Inside Therapeutics) ; 6 sources intégrées en Python/SQL (Société Générale)",
+   "location": "Profil, expérience Inside Therapeutics et SG, compétences",
+   "action": "Garder en tête de la ligne Programmation et dans le profil"
+  },
+  {
+   "keyword": "Machine Learning",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Cours ENSEIRB « IA (ML, deep learning) » ; compétences « machine learning », scikit-learn, PyTorch ; prototype par processus gaussien avec active learning (Inside Therapeutics, prototype)",
+   "location": "Profil (« prototype ML »), puce exp_insidetx_4, projet immobilier, ligne Méthodes quantitatives (en 1er), cours ENSEIRB (en 1er)",
+   "action": "Écrire « prototype ML » / « modèle ML par processus gaussien », jamais « déployé »"
+  },
+  {
+   "keyword": "Modélisation de données",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Régressions, corrélations, alertes d'anomalies et prototype GP chez Inside Therapeutics ; base SQL de LabData",
+   "location": "Profil, puces exp_insidetx_3 et exp_insidetx_4",
+   "action": "Employer « modélisation » dans le profil et la puce d'analyse"
+  },
+  {
+   "keyword": "Data Scientist / data science",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Poste « Quantitative Data Analyst & Automation » : exploration, régressions, prototype ML ; filière Informatique (data & IA) ; aucun poste intitulé « data scientist »",
+   "location": "Accroche (poste visé), profil (« Expérience data »)",
+   "action": "Viser le poste dans l'accroche ; ne pas écrire « expérience en data science » ; garder l'intitulé exact du maître"
+  },
+  {
+   "keyword": "Risque de crédit",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Cours M2 IREF « risque de crédit (scoring) » (en cours)",
+   "location": "Profil, cours M2 (en 1er)",
+   "action": "Mettre le cours en tête du M2 ; écrire « cours », jamais « expérience »"
+  },
+  {
+   "keyword": "Scoring de crédit / credit scoring",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Cours M2 IREF « risque de crédit (scoring) » ; aucune pratique professionnelle ni projet",
+   "location": "Profil, cours M2, nouveau projet new:1",
+   "action": "Combler par le projet proposé new:1 avant de postuler"
+  },
+  {
+   "keyword": "Modélisation des risques",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Cours M2 : risque de marché (VaR, ES, backtesting, stress tests), risque de crédit, Bâle III ; projet options (VaR/ES, backtesting)",
+   "location": "Cours M2, ligne Finance & risques",
+   "action": "Placer Bâle III et les méthodes de risque en tête de ligne"
+  },
+  {
+   "keyword": "Statistiques",
+   "importance": "E",
+   "support": 2,
+   "evidence": "M2 mention « Mathématiques appliquées, statistique » ; régressions, séries temporelles",
+   "location": "Formation M2 (sous-titre du maître), ligne Méthodes quantitatives",
+   "action": "Laisser le sous-titre du maître ; formation placée avant l'expérience"
+  },
+  {
+   "keyword": "Bac+5 en préparation, spécialisation Data Science ou Statistiques",
+   "importance": "E",
+   "support": 2,
+   "evidence": "Diplôme d'ingénieur Informatique (data & IA) 2024–2027 et M2 Mathématiques appliquées, statistique 2026–2027",
+   "location": "Formation",
+   "action": "Formation en 2e section"
+  },
+  {
+   "keyword": "Exploration des données",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies (Inside Therapeutics) ; EDA du projet immobilier",
+   "location": "Puce exp_insidetx_3, profil, projet immobilier",
+   "action": "Reprendre le terme exact de l'offre"
+  },
+  {
+   "keyword": "Grands ensembles de données",
+   "importance": "E",
+   "support": 3,
+   "evidence": "~500 échantillons/mois, 6 sources de données intégrées (SG) ; volumes non chiffrés comme « grands »",
+   "location": "Puces exp_insidetx_1, exp_sg_1",
+   "action": "Ne pas écrire « big data » ni « grands volumes » ; garder les chiffres réels"
+  },
+  {
+   "keyword": "Tendances, variables, schémas",
+   "importance": "D",
+   "support": 1,
+   "evidence": "Corrélations, régressions, alertes d'anomalies (Inside Therapeutics)",
+   "location": "Puce exp_insidetx_3",
+   "action": "Garder les mots de l'analyse réelle"
+  },
+  {
+   "keyword": "Évaluation et validation (métriques standard)",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Validation indépendante des calculs, réconciliation, 4 123 tests (couverture 91 %) ; backtesting en cours M2 ; pas de métrique de classification (AUC, Gini) dans les faits",
+   "location": "Puce exp_insidetx_1, profil (« validation »), nouveau projet new:1",
+   "action": "Mettre « validation » dans le profil ; AUC/Gini seulement via le projet new:1 une fois réalisé"
+  },
+  {
+   "keyword": "Documenter et présenter des recommandations",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Documentation et piste d'audit ; LabData présenté au CODIR ; workshop IA animé",
+   "location": "Puces exp_insidetx_1 et exp_insidetx_4",
+   "action": "Garder CODIR et documentation visibles"
+  },
+  {
+   "keyword": "Revue de littérature / évaluation de méthodologies",
+   "importance": "E",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "Absent du CV",
+   "action": "Lacune : à travailler via la revue de littérature du projet new:1 ; pas sur le CV"
+  },
+  {
+   "keyword": "Pack Office",
+   "importance": "E",
+   "support": 3,
+   "evidence": "Excel, VBA, Power BI dans les compétences ; Word et PowerPoint non listés",
+   "location": "Ligne Programmation (Excel en tête des outils)",
+   "action": "Écrire Excel, jamais « Pack Office » tant que ce n'est pas confirmé"
+  },
+  {
+   "keyword": "Anglais courant",
+   "importance": "E",
+   "support": 1,
+   "evidence": "Anglais courant (C1 – TOEIC 970/990)",
+   "location": "Ligne Langues",
+   "action": "Inchangé"
+  },
+  {
+   "keyword": "SQL",
+   "importance": "C",
+   "support": 1,
+   "evidence": "LabData (SQL) ; flux Python/SQL chez SG",
+   "location": "Expériences, compétences",
+   "action": "Inchangé"
+  },
+  {
+   "keyword": "Régression",
+   "importance": "C",
+   "support": 1,
+   "evidence": "Régressions chez Inside Therapeutics ; projet immobilier",
+   "location": "Puce exp_insidetx_3, ligne Méthodes quantitatives, projet immobilier",
+   "action": "Inchangé"
+  },
+  {
+   "keyword": "Bâle III (réglementation prudentielle)",
+   "importance": "C",
+   "support": 2,
+   "evidence": "Cours M2 « réglementation prudentielle (Bâle III) »",
+   "location": "Cours M2, ligne Finance & risques (en 1er)",
+   "action": "Mettre en avant : les modèles de scoring PF servent aussi au cadre prudentiel"
+  },
+  {
+   "keyword": "Esprit d'analyse",
+   "importance": "D",
+   "support": 1,
+   "evidence": "Couche d'analyse ajoutée (Inside Therapeutics)",
+   "location": "Puce exp_insidetx_3",
+   "action": "Montrer par les faits"
+  },
+  {
+   "keyword": "Rigueur",
+   "importance": "D",
+   "support": 1,
+   "evidence": "Validation indépendante, concordance totale, 4 123 tests, 25+ contrôles automatisés",
+   "location": "Puces exp_insidetx_1, exp_sg_2",
+   "action": "Montrer par les faits"
+  },
+  {
+   "keyword": "Force de proposition",
+   "importance": "D",
+   "support": 1,
+   "evidence": "« Pris l'initiative » de la couche d'analyse ; LabData sans cahier des charges ; workshop IA lancé",
+   "location": "Puces exp_insidetx_2, exp_insidetx_3, exp_insidetx_4",
+   "action": "Garder « Pris l'initiative » et « sans cahier des charges »"
+  },
+  {
+   "keyword": "Capacité à communiquer",
+   "importance": "D",
+   "support": 1,
+   "evidence": "Présentation au CODIR, workshop IA, dashboards pour Finance, Risques, Trading",
+   "location": "Puces exp_insidetx_4, exp_sg_2",
+   "action": "Montrer par les faits"
+  },
+  {
+   "keyword": "Curiosité",
+   "importance": "D",
+   "support": 2,
+   "evidence": "Prototype GP avec active learning, projets RAG et RL",
+   "location": "Puce exp_insidetx_4",
+   "action": "Montrer par les faits"
+  },
+  {
+   "keyword": "Capacité d'adaptation",
+   "importance": "D",
+   "support": 3,
+   "evidence": "Data en finance de marché (SG) puis en deeptech (Inside Therapeutics)",
+   "location": "Expériences",
+   "action": "À illustrer en entretien"
+  },
+  {
+   "keyword": "Stabilité, précision, équité des modèles",
+   "importance": "C",
+   "support": 4,
+   "evidence": "Aucun fait",
+   "location": "Absent du CV (sauf via new:1 une fois réalisé)",
+   "action": "Lacune, couverte par le projet new:1"
+  }
+ ],
+ "section_order": [
+  "profile",
+  "education",
+  "experience",
+  "projects",
+  "skills"
+ ],
+ "bullet_order": [
+  {
+   "block_id": "exp_insidetx",
+   "bullet_ids": [
+    "exp_insidetx_3",
+    "exp_insidetx_4",
+    "exp_insidetx_2",
+    "exp_insidetx_1"
+   ]
+  },
+  {
+   "block_id": "exp_sg",
+   "bullet_ids": [
+    "exp_sg_2",
+    "exp_sg_1"
+   ]
+  }
+ ],
+ "removed_bullets": [],
+ "rewrites": [
+  {
+   "bullet_id": "exp_insidetx_3",
+   "text": "Pris l'initiative d'explorer et modéliser les données (corrélations, régressions, bruit de mesure / variabilité du procédé, alertes d'anomalies), appui à la validation et à l'optimisation des machines.",
+   "reason": "Reprend « exploration des données » et « modélisation » de l'offre ; relu : revient à « appui à la validation », fidèle au maître ; 201 car. contre 209 (la version précédente « pour valider les machines » surévaluait le rôle).",
+   "keywords": [
+    "exploration des données",
+    "modélisation",
+    "régression",
+    "force de proposition"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_4",
+   "text": "Prototypé un modèle ML par processus gaussien sur plan d'expériences (active learning guidé par l'incertitude) ; présenté LabData au CODIR ; lancé et animé un workshop IA interne.",
+   "reason": "Fait apparaître « ML » (exigé) ; reste un prototype, jamais « déployé » (179 vs 183 car.).",
+   "keywords": [
+    "Machine Learning",
+    "développement de modèles",
+    "capacité à communiquer"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_2",
+   "text": "Conçu et développé seul LabData, sans cahier des charges : plateforme de données Python/SQL/Streamlit en production en 7 semaines, faisant gagner ~2 h de travail manuel par expérience à 6 scientifiques.",
+   "reason": "« plateforme de données » pour la modélisation de données ; mêmes chiffres (202 vs 209 car.).",
+   "keywords": [
+    "Python",
+    "SQL",
+    "modélisation de données",
+    "force de proposition"
+   ]
+  },
+  {
+   "bullet_id": "exp_insidetx_1",
+   "text": "Automatisé le traitement de ~500 échantillons/mois, avec validation indépendante des calculs : réconciliation (concordance totale), piste d'audit, documentation ; 4 123 tests (couverture 91 %).",
+   "reason": "Met en avant validation et documentation (missions « évaluation et validation » et « rapport ») ; mêmes chiffres (193 vs 195 car.).",
+   "keywords": [
+    "validation",
+    "documentation",
+    "rigueur"
+   ]
+  },
+  {
+   "bullet_id": "exp_sg_2",
+   "text": "Remplacé des contrôles manuels par plus de 25 contrôles automatisés de qualité des données et de conformité, suivis via reportings et dashboards Power BI pour les équipes Risques, Finance et Trading.",
+   "reason": "Équipe Risques en premier (poste à la Direction des Risques) ; mêmes faits (199 vs 203 car.).",
+   "keywords": [
+    "risques",
+    "qualité des données",
+    "rigueur"
+   ]
+  }
+ ],
+ "headline": "Stage de fin d'études – Data Scientist, modélisation du risque de crédit – 6 mois dès mars 2027",
+ "profile": "Élève ingénieur ENSEIRB-MATMECA en informatique (data & IA), top 3 % de la promotion, en double diplôme avec le Master 2 IREF – Finance quantitative et actuariat (cours de risque de crédit, scoring). Expérience data : exploration, modélisation (régressions, prototype ML), validation (Python, SQL).",
+ "gaps": [
+  "Scoring de crédit appliqué : aucun projet ni expérience, seulement le cours M2 « risque de crédit (scoring) » (en cours) — à combler par le projet new:1",
+  "Métriques standard de classification (AUC, Gini, KS, matrice de confusion) : absentes des faits",
+  "Régression logistique / grille de score (WoE, IV) : absentes des faits",
+  "Stabilité (PSI) et équité des modèles : absentes des faits",
+  "Revue de littérature et évaluation de méthodologies : aucun fait",
+  "Pack Office complet : seuls Excel (et VBA) sont listés ; Word et PowerPoint à confirmer",
+  "Gradient boosting (XGBoost, LightGBM) : non listé dans les compétences",
+  "« Grands ensembles de données » : aucun volume de ce type documenté"
+ ],
+ "claims_to_defend": [
+  "Top 3 % de la promotion ENSEIRB-MATMECA (quel semestre ou quelle année, taille de la promotion)",
+  "Cours M2 « risque de crédit (scoring) » : contenu réel vu à ce jour (le M2 est en cours), méthodes connues (régression logistique, PD, Bâle III / IRB)",
+  "« Modèle ML par processus gaussien » : prototype, choix du noyau, active learning, pourquoi un GP plutôt qu'un autre modèle",
+  "« Expérience data : exploration, modélisation, validation » (profil) : savoir illustrer chaque mot par un exemple précis d'Inside Therapeutics ou de SG",
+  "Régressions et alertes d'anomalies : méthodes utilisées, validation, résultats",
+  "4 123 tests et couverture de 91 % : type de tests, outil de mesure",
+  "~2 h gagnées par expérience pour 6 scientifiques : méthode de mesure",
+  "LabData conçu seul et en production en 7 semaines : architecture, base SQL",
+  "Société Générale : entité exacte, stage de 2 mois, nature des contrôles de conformité, lien avec les équipes Risques (jamais « front office »)",
+  "Projet new:1 (une fois réalisé) : choix des variables, métriques, stabilité, équité, conclusions"
+ ],
+ "field_rewrites": [
+  {
+   "block_id": "edu_m2",
+   "field": "extra",
+   "text": "risque de crédit (scoring), réglementation prudentielle (Bâle III), risque de marché (VaR, Expected Shortfall, backtesting, stress tests), actuariat, computational finance (Monte Carlo), finance mathématique (calcul stochastique), gestion de portefeuille, fixed income & produits dérivés.",
+   "reason": "Le cours de scoring de crédit, cœur de l'offre, passe en premier ; « produits structurés », hors sujet, est retiré pour gagner de la place.",
+   "keywords": [
+    "risque de crédit",
+    "scoring",
+    "Bâle III",
+    "modélisation des risques"
+   ]
+  },
+  {
+   "block_id": "edu_enseirb",
+   "field": "extra",
+   "text": "IA (ML, deep learning), algorithmique numérique, C/C++/Python (POO), finance de marché.",
+   "reason": "Machine learning en premier (exigé par l'offre).",
+   "keywords": [
+    "Machine Learning",
+    "Python"
+   ]
+  },
+  {
+   "block_id": "skills_quant",
+   "field": "content",
+   "text": "machine learning, régression, séries temporelles, Monte Carlo, calcul stochastique.",
+   "reason": "Ordre selon l'offre : ML et statistiques d'abord.",
+   "keywords": [
+    "Machine Learning",
+    "statistiques",
+    "régression"
+   ]
+  },
+  {
+   "block_id": "skills_programming",
+   "field": "content",
+   "text": "Python (pandas, NumPy, scikit-learn, PyTorch, Streamlit), SQL (PostgreSQL), R, C/C++, VBA. Outils : Excel, Power BI, Git, Linux, développement assisté par IA (Claude Code).",
+   "reason": "Python et SQL d'abord, Excel en tête des outils (Pack Office demandé) ; Java et TypeScript retirés (peu étayés, place).",
+   "keywords": [
+    "Python",
+    "SQL",
+    "Excel"
+   ]
+  },
+  {
+   "block_id": "skills_finance",
+   "field": "content",
+   "text": "Bâle III/FRTB, Solvabilité II, VaR/Expected Shortfall, backtesting, stress tests, produits dérivés, fixed income, pricing d'options (Black–Scholes, Greeks), delta-hedging, P&L.",
+   "reason": "Réglementation et risques d'abord, pricing d'options en fin de ligne (hors sujet ici).",
+   "keywords": [
+    "Bâle III",
+    "modélisation des risques"
+   ]
+  },
+  {
+   "block_id": "proj_realestate",
+   "field": "desc",
+   "text": "EDA, nettoyage et transformation des données, régression (ML) ; méthodologie documentée, reproductible.",
+   "reason": "EDA et ML d'abord, vocabulaire de l'offre (exploration, machine learning, documentation).",
+   "keywords": [
+    "exploration des données",
+    "Machine Learning",
+    "documentation"
+   ]
+  }
+ ],
+ "projects": [
+  "new:1",
+  "proj_realestate"
+ ],
+ "new_projects": [
+  {
+   "title": "Scoring de crédit : régression logistique vs boosting – Python, scikit-learn",
+   "desc": "Scoring de crédit sur données publiques : régression logistique vs boosting ; AUC, Gini, stabilité, équité.",
+   "tools": [
+    "Python",
+    "pandas",
+    "scikit-learn",
+    "Jupyter",
+    "jeu de données public (UCI Statlog German Credit ou Default of Credit Card Clients)"
+   ],
+   "why": "Couvre les cinq missions de l'offre (revue de littérature, développement et test de modèles, exploration des données, évaluation avec métriques standard, rapport) et ses objectifs « précision, stabilité, équité » du credit scoring ; c'est la principale lacune d'Ihab (aucune pratique du scoring hors cours).",
+   "steps": [
+    "Lire 3 à 5 références sur le credit scoring (grille de score, WoE/IV, comparaison régression logistique vs gradient boosting) et en faire une synthèse d'une page",
+    "Télécharger un jeu public UCI (German Credit ou Default of Credit Card Clients), faire l'EDA : taux de défaut, valeurs manquantes, tendances par variable",
+    "Construire les variables (discrétisation, WoE/IV) et entraîner une régression logistique puis un HistGradientBoostingClassifier de scikit-learn avec validation croisée",
+    "Évaluer avec AUC, Gini, KS, courbe de calibration ; mesurer la stabilité (PSI entre échantillons) et un indicateur d'équité simple par groupe (âge, sexe si disponible)",
+    "Rédiger un rapport de 2 pages (méthode, résultats, limites, recommandation de modèle) et un notebook reproductible"
+   ],
+   "effort_hours": 25
+  }
+ ],
+ "assessment": {
+  "verdict": "Bonne adéquation sur le profil (Bac+5 data & IA + M2 statistique avec cours de scoring, Python, ML, modélisation, communication), et le poste est à Mérignac, près de la scolarité d'Ihab à Bordeaux. Ce qui fera la différence : prouver une vraie pratique du scoring (projet new:1 réalisé, métriques AUC/Gini maîtrisées) et réussir les tests en ligne éliminatoires. Formation placée avant l'expérience : poste de recherche en modélisation, où le M2 (statistique, scoring) est la preuve la plus directe.",
+  "strengths": [
+   "Double formation exactement dans le profil demandé : ingénieur informatique (data & IA) + M2 Mathématiques appliquées, statistique, avec un cours de risque de crédit (scoring)",
+   "Expérience concrète d'exploration des données et de modélisation (régressions, corrélations, alertes d'anomalies, prototype GP) chez Inside Therapeutics",
+   "Rigueur de validation démontrée : validation indépendante des calculs, 4 123 tests, 25+ contrôles automatisés chez SG",
+   "Communication et force de proposition : LabData conçu seul, présenté au CODIR, workshop IA lancé",
+   "Exposition aux équipes Risques (SG) et anglais C1 (TOEIC 970)"
+  ],
+  "improvements": [
+   "Aucune pratique du credit scoring hors cours : ni modèle de PD, ni grille de score, ni métriques AUC/Gini/KS",
+   "Pas d'expérience de revue de littérature ou de recherche méthodologique formalisée",
+   "Connaissances métier du crédit à la consommation (cycle de vie du crédit, octroi, recouvrement, IFRS 9 / Bâle III IRB) à acquérir",
+   "Équité et stabilité des modèles (PSI, biais) non couvertes",
+   "Poste hors des familles visées en priorité (marchés de capitaux, investissement) : préparer une motivation cohérente"
+  ],
+  "recommendations": [
+   "Réaliser en priorité le projet new:1 (scoring sur données publiques, régression logistique vs boosting, AUC/Gini, PSI, équité) avant de postuler",
+   "Réviser la régression logistique, WoE/IV, AUC/Gini/KS, calibration, PSI, validation croisée, gestion du déséquilibre de classes",
+   "Lire 2 ou 3 articles récents de credit scoring par ML (interprétabilité, équité) pour pouvoir en parler en entretien",
+   "Préparer les tests en ligne BNP Paribas (raisonnement numérique et logique)",
+   "En entretien, relier l'analyse et la validation chez Inside Therapeutics à la démarche de modélisation et de validation d'un score"
+  ]
+ },
+ "new_facts": [],
+ "reply": "Relecture faite comme un recruteur du Centre de Scoring en 30 secondes (adéquation, fiabilité, qualité). La page reste pleine : aucune réécriture n'est plus longue que le texte du maître (vérifié au caractère près). Améliorations : 1) Profil : « Expérience en data science » remplacé par « Expérience data : exploration, modélisation (régressions, prototype ML), validation » — tu n'as pas eu de poste de data scientist, et le recruteur voit désormais ML dès le profil, mot-clé exigé ; « cours de risque de crédit, scoring » reprend l'intitulé réel du cours. 2) Puce analyse Inside Therapeutics : « pour valider les machines » surévaluait ton rôle ; je reviens à « appui à la validation et à l'optimisation des machines », plus fidèle au maître, tout en gardant « exploration et modélisation des données ». 3) Carte des mots-clés et points à défendre mis à jour en conséquence. Le reste (formation avant l'expérience, projet de scoring new:1 puis prédiction immobilière, puces SG, compétences) est inchangé : c'est cohérent avec l'offre et fidèle aux faits. Mes questions restent ouvertes : 1) Maîtrises-tu Word et PowerPoint (l'offre demande le Pack Office, je n'ai mis qu'Excel) ? 2) Qu'as-tu déjà vu dans le cours « risque de crédit (scoring) » du M2 (régression logistique, PD, IRB) ? 3) Le CV affiche Paris : veux-tu indiquer Bordeaux pour ce poste à Mérignac ?"
+}
