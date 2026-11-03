@@ -1,0 +1,46 @@
+{
+  "language": "EN",
+  "cover_letter": {
+    "subject": "Application – 6-month Internship, Risk Solutions Group EU (RSG), Global Markets – Ref. 10080498-WD",
+    "salutation": "Dear Hiring Manager,",
+    "paragraphs": [
+      "I am writing to apply for the 6-month internship in the Risk Solutions Group EU (RSG) at MUFG Bank (Europe) N.V. in Paris. I am currently completing an MSc in Applied Mathematics & Statistics – Quantitative Finance & Actuarial Science at Université de Bordeaux, in a double degree with the ENSEIRB-MATMECA engineering programme (Computer Science, Data & AI), and I am looking for my end-of-studies internship. Please note that my availability differs from the advertised start: I am available for a 6-month internship from 1 March to 31 August 2027.",
+      "The RSG's focus on interest rate hedging for corporate, infrastructure and project finance clients matches the work I have chosen to pursue. In an Interest Rate Swap Pricing, Hedging & CVA project (Python, QuantLib), I bootstrapped a EUR swap curve, priced an IRS hedging a corporate loan using DV01, and simulated exposure to compute CVA. I also prepared a client-style hedging pitch for a project finance loan (Excel, Python), assessing its interest rate risk and comparing a swap, a cap and a collar before making a recommendation. My coursework covers fixed income and derivatives, structured products, stochastic calculus and Monte Carlo methods, and a separate project on option pricing, Greeks, delta-hedging and P&L explain.",
+      "My internships have trained the accuracy that booking, pricing and post-trade work require. As a Data Analyst Intern – Capital Markets at Société Générale in Casablanca, I integrated 6 data sources into automated, controlled pipelines feeding P&L tools and built more than 25 automated data-quality and compliance checks, with Power BI reporting for the Finance, Risk and Trading teams. As a Quantitative Data Analysis & Automation Intern at Inside Therapeutics, I designed and built LabData on my own, a Python/PostgreSQL/Streamlit platform put into production in 7 weeks, with independent validation of calculations, reconciliation, an audit trail and 4,123 tests.",
+      "I also enjoy explaining technical work to non-specialists: I presented LabData to the executive committee, ran an internal AI workshop, and spent over a year as a volunteer mathematics and algorithmics tutor. I am fluent in English (TOEIC 970/990) and French, and my AMF certification is in progress. I would welcome the opportunity to discuss how I could contribute to the RSG team."
+    ],
+    "closing": "Yours faithfully,\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88"
+  },
+  "linkedin_connection": "Hello, I am an MSc Quantitative Finance student (Bordeaux) applying to MUFG's RSG internship in Paris. I am interested in interest rate hedging and would be glad to connect. Ihab",
+  "recruiter_message": "Hello,\nI have applied for the 6-month Risk Solutions Group EU (RSG) internship in Paris (ref. 10080498-WD).\nI am completing an MSc in Quantitative Finance at Université de Bordeaux, in a double degree with ENSEIRB-MATMECA.\nI recently built an IRS pricing, hedging and CVA project in Python/QuantLib, and a swap/cap/collar hedging pitch for a project finance loan.\nAt Société Générale, I automated data flows and more than 25 controls feeding P&L tools.\nI am available from 1 March to 31 August 2027 and would be glad to discuss whether this timing could work.\nBest regards, Ihab Jaouad",
+  "application_email": {
+    "subject": "Application – 6-month Internship RSG EU, Global Markets (Ref. 10080498-WD) – Ihab Jaouad",
+    "body": "Dear Hiring Manager,\n\nPlease find attached my CV and cover letter for the 6-month internship in the Risk Solutions Group EU (RSG), Global Markets, in Paris (ref. 10080498-WD).\n\nI am completing an MSc in Applied Mathematics & Statistics – Quantitative Finance & Actuarial Science at Université de Bordeaux, in a double degree with ENSEIRB-MATMECA, and I am looking for my end-of-studies internship. My recent work includes an Interest Rate Swap Pricing, Hedging & CVA project (Python, QuantLib) and a hedging pitch comparing a swap, a cap and a collar for a project finance loan. As a Data Analyst Intern – Capital Markets at Société Générale, I built automated, controlled data flows and more than 25 automated checks feeding P&L tools.\n\nI am available for a 6-month internship from 1 March to 31 August 2027, which is later than the advertised December 2026/January 2027 start; I would be grateful to know whether this timing could be considered.\n\nThank you for your time and consideration.\n\nYours faithfully,\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88"
+  },
+  "facts_used": [
+    "MSc Applied Mathematics & Statistics – Quantitative Finance & Actuarial Science, Université de Bordeaux, double diplôme avec ENSEIRB-MATMECA (2026-2027, en cours)",
+    "Diplôme d'ingénieur Informatique, Data & IA, ENSEIRB-MATMECA (2024-2027, en cours)",
+    "Stage de fin d'études de 6 mois, disponible du 1er mars au 31 août 2027",
+    "Projet proposé (à réaliser avant envoi) : Interest Rate Swap Pricing, Hedging & CVA – Python, QuantLib : courbe EUR bootstrappée, IRS couvrant un prêt corporate (DV01), exposition simulée et CVA",
+    "Projet proposé (à réaliser avant envoi) : Pitch de couverture de taux pour un financement de projet – Excel, Python : comparaison swap/cap/collar et recommandation",
+    "Cours M2 : fixed income et produits dérivés, produits structurés, calcul stochastique, Monte Carlo (coursework)",
+    "Projet 5.1 : Black–Scholes, Greeks, delta-hedging, P&L explain",
+    "Société Générale, Casablanca, Data Analyst Intern – Capital Markets (août-sept. 2025) : 6 sources de données intégrées en flux automatisés et contrôlés alimentant les outils de P&L ; plus de 25 contrôles automatisés ; Power BI pour Finance, Risques et Trading",
+    "Inside Therapeutics, Quantitative Data Analysis & Automation Intern (juin-sept. 2026) : LabData conçu seul, Python/PostgreSQL/Streamlit, en production en 7 semaines ; validation indépendante des calculs, réconciliation, piste d'audit, 4 123 tests",
+    "Présentation de LabData au CODIR ; workshop IA interne",
+    "Bénévolat : tuteur en mathématiques et algorithmique, Casablanca, oct. 2022 – janv. 2024",
+    "Anglais C1, TOEIC 970/990 ; français C2",
+    "Certification AMF en cours",
+    "E-mail ihab.jaouad5@gmail.com, téléphone +33 6 25 58 61 88"
+  ],
+  "warnings": [
+    "Décalage de calendrier : l'offre vise un début en décembre 2026/janvier 2027, alors qu'Ihab n'est disponible qu'à partir du 1er mars 2027. La lettre, l'e-mail et le message le disent clairement ; vérifier auprès de MUFG si un début en mars est envisageable avant d'investir davantage.",
+    "Les deux projets de taux (IRS/CVA avec QuantLib et pitch swap/cap/collar) doivent être réellement réalisés et marqués comme tels dans l'app avant tout envoi ; sinon, retirer les phrases qui les citent.",
+    "Le projet IRS existe en deux libellés (FR « Pricing et couverture de swaps de taux avec CVA » avec courbe €STR et Hull–White ; EN « Interest Rate Swap Pricing, Hedging & CVA »). La lettre reprend la version EN (courbe EUR) : vérifier la cohérence avec le CV envoyé.",
+    "Être prêt à défendre : 4 123 tests (type, outil de couverture), « en production en 7 semaines », le périmètre de Société Générale (entité exacte, desks, ce qu'était un outil de P&L) et le contenu de P&L explain dans le projet 5.1.",
+    "Présence à Paris : la scolarité 2026-2027 est à Bordeaux ; confirmer la disponibilité à Paris dès mars 2027.",
+    "Destinataire inconnu (Unknown) : formule « Dear Hiring Manager » et « Yours faithfully » ; si un nom est connu, passer à « Dear Mr/Ms … » et « Yours sincerely ».",
+    "Date de test du TOEIC à confirmer (certaines entreprises exigent un score de moins de 2 ans).",
+    "Message LinkedIn et message recruteur : à envoyer manuellement par Ihab, uniquement à une personne réellement identifiée ; rien n'a été envoyé."
+  ]
+}
