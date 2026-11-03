@@ -1,0 +1,52 @@
+{
+  "language": "FR",
+  "cover_letter": {
+    "subject": "Candidature – Stagiaire Data Scientist – Modélisation des risques de crédit (H/F) – Réf. !S_PFBXCORP27_0006 – stage de 6 mois à partir de mars 2027",
+    "salutation": "Madame, Monsieur,",
+    "paragraphs": [
+      "Étudiant en double diplôme à Bordeaux, en Master 2 IREF – Finance quantitative et actuariat (Université de Bordeaux) et en cycle ingénieur Informatique, Data & IA à l'ENSEIRB-MATMECA (Bordeaux INP), je vous propose ma candidature au stage de Data Scientist – Modélisation des risques de crédit au sein du Centre de Scoring de BNP Paribas Personal Finance, à Mérignac. Je recherche un stage de fin d'études de 6 mois, du 1er mars au 31 août 2027. L'objectif du stage, améliorer la précision, la stabilité et l'équité des modèles de credit scoring par la recherche méthodologique, correspond précisément à ce que je souhaite approfondir.",
+      "Cet intérêt s'appuie sur ma formation et sur un projet personnel. En M2, je suis des cours de risque de crédit (scoring), de risque de marché, de réglementation prudentielle (Bâle III) et de calcul stochastique ; à l'ENSEIRB-MATMECA, j'ai suivi des cours d'IA (machine learning, deep learning) et de programmation en Python. J'ai mené un projet de scoring de crédit sur données publiques, en Python avec scikit-learn, comparant une régression logistique et des modèles de boosting et les évaluant selon l'AUC, le Gini, la stabilité et l'équité : une démarche proche des missions d'évaluation et de validation que vous décrivez.",
+      "En stage chez Inside Therapeutics (Quantitative Data Analyst & Automation, juin à septembre 2026), j'ai conçu et développé seul LabData, une plateforme Python / SQL / Streamlit mise en production en 7 semaines, qui fait gagner environ 2 h de travail manuel par expérience à 6 scientifiques. J'y ai ajouté, de ma propre initiative, une couche d'analyse (corrélations, régressions, distinction entre bruit de mesure et variabilité du procédé, alertes d'anomalies), et j'ai fiabilisé les calculs par une validation indépendante, une piste d'audit et une documentation. J'ai également présenté la plateforme au comité de direction et animé un workshop IA interne. Auparavant, chez Société Générale à Casablanca (Data Analyst – Finance de marché, août à septembre 2025), j'ai intégré 6 sources de données en flux automatisés et mis en place plus de 25 contrôles automatisés de qualité des données, suivis dans des tableaux de bord Power BI. Ces expériences m'ont appris la rigueur, la documentation des résultats et leur restitution à des interlocuteurs variés.",
+      "Mon anglais est courant (C1, TOEIC 970/990) et j'utilise Excel et Power BI, sur lequel j'ai obtenu la certification Microsoft Power BI. Je serais heureux de vous exposer plus en détail ma démarche lors d'un entretien et reste à votre disposition pour toute information complémentaire."
+    ],
+    "closing": "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nIhab Jaouad\nihab.jaouad5@gmail.com · +33 6 25 58 61 88"
+  },
+  "linkedin_connection": "Bonjour, étudiant en M2 Finance quantitative (Bordeaux) et ingénieur Data & IA, je candidate au stage Data Scientist risque de crédit du Centre de Scoring. Ravi d'échanger ! Ihab",
+  "recruiter_message": "Bonjour,\nJe viens de postuler au stage Data Scientist – Modélisation des risques de crédit (réf. !S_PFBXCORP27_0006) à Mérignac, de mars à août 2027.\nJe suis en double diplôme M2 IREF (Université de Bordeaux) et ingénieur Informatique, Data & IA (ENSEIRB-MATMECA).\nJ'ai mené un projet de scoring de crédit (régression logistique vs boosting ; AUC, Gini, stabilité, équité) et développé seul une plateforme Python / SQL en production chez Inside Therapeutics.\nJe serais ravi d'échanger sur les sujets de recherche du Centre de Scoring.\nBien cordialement,\nIhab Jaouad",
+  "application_email": {
+    "subject": "Candidature – Stagiaire Data Scientist – Modélisation des risques de crédit – Réf. !S_PFBXCORP27_0006 – Ihab Jaouad",
+    "body": "Madame, Monsieur,\n\nJe vous adresse ma candidature au stage de Data Scientist – Modélisation des risques de crédit (réf. !S_PFBXCORP27_0006) au sein du Centre de Scoring de BNP Paribas Personal Finance, à Mérignac, pour un stage de fin d'études de 6 mois du 1er mars au 31 août 2027.\n\nÉtudiant en double diplôme, Master 2 IREF – Finance quantitative et actuariat (Université de Bordeaux) et ingénieur Informatique, Data & IA (ENSEIRB-MATMECA), je suis des cours de risque de crédit (scoring) et de machine learning. J'ai mené un projet de scoring de crédit sur données publiques comparant régression logistique et boosting (AUC, Gini, stabilité, équité). En stage chez Inside Therapeutics, j'ai conçu et développé seul une plateforme Python / SQL / Streamlit mise en production en 7 semaines, avec une couche d'analyse statistique (régressions, alertes d'anomalies) et une validation indépendante des calculs.\n\nVous trouverez ci-joints mon CV et ma lettre de motivation. Je reste à votre disposition pour un entretien.\n\nBien cordialement,\n\nIhab Jaouad\nihab.jaouad5@gmail.com\n+33 6 25 58 61 88\nhttps://www.linkedin.com/in/ihab-jaouad-848664171/"
+  },
+  "facts_used": [
+    "Identité et contact : Ihab Jaouad, ihab.jaouad5@gmail.com, +33 6 25 58 61 88, LinkedIn https://www.linkedin.com/in/ihab-jaouad-848664171/",
+    "Master 2 IREF – Finance quantitative et actuariat, Université de Bordeaux, double diplôme avec l'ENSEIRB-MATMECA, 2026-2027, en cours",
+    "Diplôme d'ingénieur – Informatique, Data & IA, ENSEIRB-MATMECA (Bordeaux INP), 2024-2027, en cours",
+    "Cours M2 IREF (en cours) : risque de crédit (scoring), risque de marché, réglementation prudentielle (Bâle III), finance mathématique (calcul stochastique)",
+    "Cours ENSEIRB : IA (ML, deep learning), C/C++/Python (POO)",
+    "Disponibilité : stage de fin d'études de 6 mois, du 1er mars au 31 août 2027",
+    "Projet du CV pour cette offre : Scoring de crédit sur données publiques, régression logistique vs boosting, Python, scikit-learn ; AUC, Gini, stabilité, équité (sans chiffre de résultat)",
+    "Inside Therapeutics, Bordeaux, juin 2026 → sept. 2026, intitulé FR « Quantitative Data Analyst & Automation »",
+    "LabData conçu et développé seul, Python / SQL / Streamlit, en production en 7 semaines, environ 2 h de travail manuel gagnées par expérience pour 6 scientifiques",
+    "Couche d'analyse de sa propre initiative : corrélations, régressions, bruit de mesure contre variabilité du procédé, alertes d'anomalies",
+    "Validation indépendante des calculs, piste d'audit, documentation",
+    "Présentation de LabData au CODIR ; lancement et animation d'un workshop IA interne",
+    "Société Générale, Casablanca, août 2025 → sept. 2025, intitulé FR « Data Analyst – Finance de marché »",
+    "Intégration de 6 sources de données (Python, SQL) en flux automatisés ; plus de 25 contrôles automatisés de qualité des données ; reportings et dashboards Power BI",
+    "Compétences listées : Python (scikit-learn), SQL, Power BI, Excel",
+    "Certification Microsoft Power BI (obtenue)",
+    "Anglais courant C1, TOEIC 970/990"
+  ],
+  "warnings": [
+    "Projet « Scoring de crédit : régression logistique vs boosting » : il est cité dans la lettre, le message et l'e-mail comme déjà mené. Il doit être réellement réalisé (et marqué réalisé dans l'app) avant tout envoi ; à défaut, retirer ces passages. Aucun chiffre de résultat n'a été écrit : n'en ajouter que s'ils sont mesurés.",
+    "Localisation : le poste est à Mérignac (Bordeaux), cohérent avec la scolarité 2026-2027 à Bordeaux, alors que le CV affiche « Paris ». Vérifier que la localisation du CV envoyé ne crée pas de confusion.",
+    "« Pack Office » est exigé : seul Excel (avec Power BI) figure dans les faits ; Word et PowerPoint ne sont pas mentionnés. La lettre cite seulement Excel et Power BI (certification Microsoft Power BI, intitulé exact à défendre).",
+    "Les cours du M2 sont en cours : la lettre écrit « je suis des cours », jamais « maîtrise ». Être prêt à en parler en entretien.",
+    "Chiffres à défendre : « en production en 7 semaines », « environ 2 h par expérience pour 6 scientifiques » (méthode de mesure du gain), « plus de 25 contrôles » et « 6 sources » chez Société Générale.",
+    "Diplôme « reconnu RNCP » exigé : vérifier l'enregistrement RNCP du Master IREF et/ou du diplôme d'ingénieur ENSEIRB-MATMECA (non indiqué dans les faits).",
+    "TOEIC 970/990 : date du test À CONFIRMER.",
+    "Intitulés de stage repris des maîtres FR ; intitulés officiels des conventions À CONFIRMER.",
+    "Destinataire inconnu : formule « Madame, Monsieur » ; personnaliser si le nom du recruteur ou du tuteur est connu. URL de l'offre : Unknown.",
+    "Le processus prévoit des tests en ligne éliminatoires : prévoir de les passer dans de bonnes conditions.",
+    "Message LinkedIn et message au recruteur : ne les envoyer qu'à une personne réellement liée au Centre de Scoring ; rien n'a été envoyé."
+  ]
+}
